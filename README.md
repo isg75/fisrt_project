@@ -60,18 +60,29 @@ uv pip install -r requirements.txt
 
 # Dataset 
 ...
+For this project, we used "Top 1500 games on steam by revenue 09-09-2024" dataset which can be find on this link: https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024?resource=download
+
+As this dataset lack some information that we were looking for, we also used ...
 
 ## Main dataset issues
 
-- ...
-- ...
+- Missing information in the main dataset
+- Finding other sources to complete the datase
 - ...
 
 ## Solutions for the dataset issues
+- Using Steam API to add the required information to the dataset.
+
+# Hypothesises:
+- Is there a correlation between the release time and revenue?
+- Examining the correlation between genre and revenue
+- Games with high reviewScores and positive reviewScore generate higher revenue.
+- Genres with highest revenue
+- Do more expensive games have higher rating?
+
+# Conclussions and findings:
 ...
 
-# Conclussions
-...
 
 # Next steps
 ...
