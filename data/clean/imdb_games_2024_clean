@@ -1,0 +1,14 @@
+,name,year,certificate,action,adventure,comedy,crime,family,fantasy,mystery,sci-fi,thriller
+0,Wolverine,2024,M,True,True,False,False,False,False,False,False,False
+1,Half-Life: Through the City,2024,Not Rated,True,True,False,False,False,False,False,True,False
+2,Saint Paulia,2024,,True,True,False,False,False,False,False,True,False
+3,Silver Surfer the video game,2024,,True,False,False,False,False,False,False,False,False
+4,Punisher the video game,2024,,True,False,False,False,False,False,False,False,False
+5,Deathmatch Classic: Refragged,2024,M,True,False,False,False,False,False,False,False,False
+6,Project: Dark,2024,,True,False,False,False,False,False,False,False,False
+7,Batman and Robin the video game,2024,,True,False,False,False,False,False,False,False,False
+8,PixelWave Island,2024,,False,True,False,False,False,False,False,False,False
+9,Memory Trees: Forget Me Not,2024,,False,False,False,False,False,True,False,False,False
+10,The Game of Earth,2024,Not Rated,False,False,False,False,False,True,False,False,False
+11,Cycle of Souls,2024,,False,False,False,False,False,False,False,True,False
+12,Project Excision,2024,,False,False,False,False,False,False,False,True,False
