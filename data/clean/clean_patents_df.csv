@@ -1,18 +1,18 @@
 country_code,area,year,series,value
-1,"Total, all countries or areas",2010,Grants of patents (number),"914,200"
-1,"Total, all countries or areas",2019,Grants of patents (number),"1,506,900"
-1,"Total, all countries or areas",2020,Grants of patents (number),"1,596,500"
-1,"Total, all countries or areas",2021,Grants of patents (number),"1,756,500"
+1,World,2010,Grants of patents (number),"914,200"
+1,World,2019,Grants of patents (number),"1,506,900"
+1,World,2020,Grants of patents (number),"1,596,500"
+1,World,2021,Grants of patents (number),"1,756,500"
 2,Africa,2005,Grants of patents (number),"4,200"
 2,Africa,2010,Grants of patents (number),"9,000"
 2,Africa,2019,Grants of patents (number),"10,600"
 2,Africa,2020,Grants of patents (number),"7,400"
 2,Africa,2021,Grants of patents (number),"10,800"
-419,Latin America & the Caribbean,2005,Grants of patents (number),"14,200"
-419,Latin America & the Caribbean,2010,Grants of patents (number),"17,200"
-419,Latin America & the Caribbean,2019,Grants of patents (number),"26,900"
-419,Latin America & the Caribbean,2020,Grants of patents (number),"36,100"
-419,Latin America & the Caribbean,2021,Grants of patents (number),"45,900"
+419,Latin America and the Caribbean,2005,Grants of patents (number),"14,200"
+419,Latin America and the Caribbean,2010,Grants of patents (number),"17,200"
+419,Latin America and the Caribbean,2019,Grants of patents (number),"26,900"
+419,Latin America and the Caribbean,2020,Grants of patents (number),"36,100"
+419,Latin America and the Caribbean,2021,Grants of patents (number),"45,900"
 142,Asia,2005,Grants of patents (number),"288,600"
 142,Asia,2010,Grants of patents (number),"469,500"
 142,Asia,2019,Grants of patents (number),"834,900"
@@ -220,10 +220,10 @@ country_code,area,year,series,value
 64,Bhutan,2019,Patents in force (number),1
 64,Bhutan,2020,Patents in force (number),1
 64,Bhutan,2021,Patents in force (number),1
-68,Bolivia (Plurin. State of),1985,Resident patent filings (per million population),1
-68,Bolivia (Plurin. State of),1995,Resident patent filings (per million population),2
-68,Bolivia (Plurin. State of),1985,Grants of patents (number),62
-68,Bolivia (Plurin. State of),1995,Grants of patents (number),47
+68,Bolivia,1985,Resident patent filings (per million population),1
+68,Bolivia,1995,Resident patent filings (per million population),2
+68,Bolivia,1985,Grants of patents (number),62
+68,Bolivia,1995,Grants of patents (number),47
 70,Bosnia and Herzegovina,2005,Resident patent filings (per million population),18
 70,Bosnia and Herzegovina,2010,Resident patent filings (per million population),15
 70,Bosnia and Herzegovina,2019,Resident patent filings (per million population),14
@@ -262,15 +262,15 @@ country_code,area,year,series,value
 76,Brazil,2019,Patents in force (number),"39,538"
 76,Brazil,2020,Patents in force (number),"57,942"
 76,Brazil,2021,Patents in force (number),"75,529"
-96,Brunei Darussalam,1995,Grants of patents (number),42
-96,Brunei Darussalam,2005,Grants of patents (number),26
-96,Brunei Darussalam,2010,Grants of patents (number),40
-96,Brunei Darussalam,2019,Grants of patents (number),50
-96,Brunei Darussalam,2020,Grants of patents (number),27
-96,Brunei Darussalam,2021,Grants of patents (number),31
-96,Brunei Darussalam,2019,Patents in force (number),540
-96,Brunei Darussalam,2020,Patents in force (number),652
-96,Brunei Darussalam,2021,Patents in force (number),"1,521"
+96,Brunei,1995,Grants of patents (number),42
+96,Brunei,2005,Grants of patents (number),26
+96,Brunei,2010,Grants of patents (number),40
+96,Brunei,2019,Grants of patents (number),50
+96,Brunei,2020,Grants of patents (number),27
+96,Brunei,2021,Grants of patents (number),31
+96,Brunei,2019,Patents in force (number),540
+96,Brunei,2020,Patents in force (number),652
+96,Brunei,2021,Patents in force (number),"1,521"
 100,Bulgaria,1995,Resident patent filings (per million population),44
 100,Bulgaria,2005,Resident patent filings (per million population),36
 100,Bulgaria,2010,Resident patent filings (per million population),34
@@ -356,35 +356,35 @@ country_code,area,year,series,value
 156,China,2019,Patents in force (number),"2,670,784"
 156,China,2020,Patents in force (number),"3,057,844"
 156,China,2021,Patents in force (number),"3,596,901"
-344,"China, Hong Kong SAR",1985,Resident patent filings (per million population),3
-344,"China, Hong Kong SAR",1995,Resident patent filings (per million population),4
-344,"China, Hong Kong SAR",2005,Resident patent filings (per million population),23
-344,"China, Hong Kong SAR",2010,Resident patent filings (per million population),19
-344,"China, Hong Kong SAR",2019,Resident patent filings (per million population),46
-344,"China, Hong Kong SAR",2020,Resident patent filings (per million population),57
-344,"China, Hong Kong SAR",2021,Resident patent filings (per million population),54
-344,"China, Hong Kong SAR",1985,Grants of patents (number),"1,030"
-344,"China, Hong Kong SAR",1995,Grants of patents (number),"1,960"
-344,"China, Hong Kong SAR",2005,Grants of patents (number),"6,518"
-344,"China, Hong Kong SAR",2010,Grants of patents (number),"5,353"
-344,"China, Hong Kong SAR",2019,Grants of patents (number),"6,780"
-344,"China, Hong Kong SAR",2020,Grants of patents (number),"7,658"
-344,"China, Hong Kong SAR",2021,Grants of patents (number),"14,662"
-344,"China, Hong Kong SAR",2010,Patents in force (number),"33,225"
-344,"China, Hong Kong SAR",2019,Patents in force (number),"51,949"
-344,"China, Hong Kong SAR",2020,Patents in force (number),"53,726"
-344,"China, Hong Kong SAR",2021,Patents in force (number),"61,446"
-446,"China, Macao SAR",1995,Grants of patents (number),2
-446,"China, Macao SAR",2005,Grants of patents (number),5
-446,"China, Macao SAR",2010,Grants of patents (number),156
-446,"China, Macao SAR",2019,Grants of patents (number),20
-446,"China, Macao SAR",2020,Grants of patents (number),18
-446,"China, Macao SAR",2021,Grants of patents (number),15
-446,"China, Macao SAR",2005,Patents in force (number),12
-446,"China, Macao SAR",2010,Patents in force (number),377
-446,"China, Macao SAR",2019,Patents in force (number),366
-446,"China, Macao SAR",2020,Patents in force (number),353
-446,"China, Macao SAR",2021,Patents in force (number),348
+344,Hong Kong,1985,Resident patent filings (per million population),3
+344,Hong Kong,1995,Resident patent filings (per million population),4
+344,Hong Kong,2005,Resident patent filings (per million population),23
+344,Hong Kong,2010,Resident patent filings (per million population),19
+344,Hong Kong,2019,Resident patent filings (per million population),46
+344,Hong Kong,2020,Resident patent filings (per million population),57
+344,Hong Kong,2021,Resident patent filings (per million population),54
+344,Hong Kong,1985,Grants of patents (number),"1,030"
+344,Hong Kong,1995,Grants of patents (number),"1,960"
+344,Hong Kong,2005,Grants of patents (number),"6,518"
+344,Hong Kong,2010,Grants of patents (number),"5,353"
+344,Hong Kong,2019,Grants of patents (number),"6,780"
+344,Hong Kong,2020,Grants of patents (number),"7,658"
+344,Hong Kong,2021,Grants of patents (number),"14,662"
+344,Hong Kong,2010,Patents in force (number),"33,225"
+344,Hong Kong,2019,Patents in force (number),"51,949"
+344,Hong Kong,2020,Patents in force (number),"53,726"
+344,Hong Kong,2021,Patents in force (number),"61,446"
+446,Macao,1995,Grants of patents (number),2
+446,Macao,2005,Grants of patents (number),5
+446,Macao,2010,Grants of patents (number),156
+446,Macao,2019,Grants of patents (number),20
+446,Macao,2020,Grants of patents (number),18
+446,Macao,2021,Grants of patents (number),15
+446,Macao,2005,Patents in force (number),12
+446,Macao,2010,Patents in force (number),377
+446,Macao,2019,Patents in force (number),366
+446,Macao,2020,Patents in force (number),353
+446,Macao,2021,Patents in force (number),348
 170,Colombia,1985,Resident patent filings (per million population),2
 170,Colombia,1995,Resident patent filings (per million population),4
 170,Colombia,2005,Resident patent filings (per million population),2
@@ -424,9 +424,9 @@ country_code,area,year,series,value
 188,Costa Rica,2019,Patents in force (number),"1,068"
 188,Costa Rica,2020,Patents in force (number),"1,175"
 188,Costa Rica,2021,Patents in force (number),"1,188"
-384,Côte dIvoire,2019,Resident patent filings (per million population),1
-384,Côte dIvoire,2020,Resident patent filings (per million population),1
-384,Côte dIvoire,2021,Resident patent filings (per million population),2
+384,Ivory Coast,2019,Resident patent filings (per million population),1
+384,Ivory Coast,2020,Resident patent filings (per million population),1
+384,Ivory Coast,2021,Resident patent filings (per million population),2
 191,Croatia,1995,Resident patent filings (per million population),57
 191,Croatia,2005,Resident patent filings (per million population),84
 191,Croatia,2010,Resident patent filings (per million population),64
@@ -489,20 +489,20 @@ country_code,area,year,series,value
 203,Czechia,2019,Patents in force (number),"48,391"
 203,Czechia,2020,Patents in force (number),"50,193"
 203,Czechia,2021,Patents in force (number),"51,153"
-408,Dem. People's Rep. Korea,2005,Resident patent filings (per million population),245
-408,Dem. People's Rep. Korea,2010,Resident patent filings (per million population),327
-408,Dem. People's Rep. Korea,2019,Resident patent filings (per million population),287
-408,Dem. People's Rep. Korea,2020,Resident patent filings (per million population),269
-408,Dem. People's Rep. Korea,2005,Grants of patents (number),"3,583"
-408,Dem. People's Rep. Korea,2010,Grants of patents (number),"6,290"
-408,Dem. People's Rep. Korea,2019,Grants of patents (number),"4,712"
-408,Dem. People's Rep. Korea,2020,Grants of patents (number),"4,227"
-180,Dem. Rep. of the Congo,2019,Resident patent filings (per million population),1
-180,Dem. Rep. of the Congo,2020,Resident patent filings (per million population),1
-180,Dem. Rep. of the Congo,2019,Grants of patents (number),63
-180,Dem. Rep. of the Congo,2020,Grants of patents (number),27
-180,Dem. Rep. of the Congo,2019,Patents in force (number),28
-180,Dem. Rep. of the Congo,2020,Patents in force (number),15
+408,North Korea,2005,Resident patent filings (per million population),245
+408,North Korea,2010,Resident patent filings (per million population),327
+408,North Korea,2019,Resident patent filings (per million population),287
+408,North Korea,2020,Resident patent filings (per million population),269
+408,North Korea,2005,Grants of patents (number),"3,583"
+408,North Korea,2010,Grants of patents (number),"6,290"
+408,North Korea,2019,Grants of patents (number),"4,712"
+408,North Korea,2020,Grants of patents (number),"4,227"
+180,Democratic Republic of the Congo,2019,Resident patent filings (per million population),1
+180,Democratic Republic of the Congo,2020,Resident patent filings (per million population),1
+180,Democratic Republic of the Congo,2019,Grants of patents (number),63
+180,Democratic Republic of the Congo,2020,Grants of patents (number),27
+180,Democratic Republic of the Congo,2019,Patents in force (number),28
+180,Democratic Republic of the Congo,2020,Patents in force (number),15
 208,Denmark,1985,Resident patent filings (per million population),167
 208,Denmark,1995,Resident patent filings (per million population),236
 208,Denmark,2005,Resident patent filings (per million population),523
@@ -794,23 +794,23 @@ country_code,area,year,series,value
 360,Indonesia,2020,Grants of patents (number),"7,981"
 360,Indonesia,2021,Grants of patents (number),"6,850"
 360,Indonesia,2020,Patents in force (number),"59,394"
-364,Iran (Islamic Republic of),1985,Resident patent filings (per million population),4
-364,Iran (Islamic Republic of),1995,Resident patent filings (per million population),5
-364,Iran (Islamic Republic of),2005,Resident patent filings (per million population),58
-364,Iran (Islamic Republic of),2010,Resident patent filings (per million population),151
-364,Iran (Islamic Republic of),2019,Resident patent filings (per million population),140
-364,Iran (Islamic Republic of),2020,Resident patent filings (per million population),136
-364,Iran (Islamic Republic of),2021,Resident patent filings (per million population),120
-364,Iran (Islamic Republic of),1985,Grants of patents (number),339
-364,Iran (Islamic Republic of),1995,Grants of patents (number),166
-364,Iran (Islamic Republic of),2005,Grants of patents (number),"2,890"
-364,Iran (Islamic Republic of),2010,Grants of patents (number),"5,372"
-364,Iran (Islamic Republic of),2019,Grants of patents (number),"2,769"
-364,Iran (Islamic Republic of),2020,Grants of patents (number),"3,660"
-364,Iran (Islamic Republic of),2021,Grants of patents (number),"3,013"
-364,Iran (Islamic Republic of),2019,Patents in force (number),"53,565"
-364,Iran (Islamic Republic of),2020,Patents in force (number),"38,642"
-364,Iran (Islamic Republic of),2021,Patents in force (number),"35,955"
+364,Iran,1985,Resident patent filings (per million population),4
+364,Iran,1995,Resident patent filings (per million population),5
+364,Iran,2005,Resident patent filings (per million population),58
+364,Iran,2010,Resident patent filings (per million population),151
+364,Iran,2019,Resident patent filings (per million population),140
+364,Iran,2020,Resident patent filings (per million population),136
+364,Iran,2021,Resident patent filings (per million population),120
+364,Iran,1985,Grants of patents (number),339
+364,Iran,1995,Grants of patents (number),166
+364,Iran,2005,Grants of patents (number),"2,890"
+364,Iran,2010,Grants of patents (number),"5,372"
+364,Iran,2019,Grants of patents (number),"2,769"
+364,Iran,2020,Grants of patents (number),"3,660"
+364,Iran,2021,Grants of patents (number),"3,013"
+364,Iran,2019,Patents in force (number),"53,565"
+364,Iran,2020,Patents in force (number),"38,642"
+364,Iran,2021,Patents in force (number),"35,955"
 368,Iraq,1985,Resident patent filings (per million population),19
 368,Iraq,1995,Resident patent filings (per million population),4
 368,Iraq,2019,Resident patent filings (per million population),19
@@ -954,9 +954,9 @@ country_code,area,year,series,value
 417,Kyrgyzstan,2019,Patents in force (number),223
 417,Kyrgyzstan,2020,Patents in force (number),194
 417,Kyrgyzstan,2021,Patents in force (number),173
-418,Lao People's Dem. Rep.,2005,Resident patent filings (per million population),1
-418,Lao People's Dem. Rep.,2020,Grants of patents (number),14
-418,Lao People's Dem. Rep.,2020,Patents in force (number),574
+418,Laos,2005,Resident patent filings (per million population),1
+418,Laos,2020,Grants of patents (number),14
+418,Laos,2020,Patents in force (number),574
 428,Latvia,1995,Resident patent filings (per million population),85
 428,Latvia,2005,Resident patent filings (per million population),53
 428,Latvia,2010,Resident patent filings (per million population),101
@@ -1148,25 +1148,25 @@ country_code,area,year,series,value
 524,Nepal,1985,Grants of patents (number),1
 524,Nepal,1995,Grants of patents (number),1
 524,Nepal,2005,Grants of patents (number),3
-528,Netherlands (Kingdom of the),1985,Resident patent filings (per million population),134
-528,Netherlands (Kingdom of the),1995,Resident patent filings (per million population),137
-528,Netherlands (Kingdom of the),2005,Resident patent filings (per million population),614
-528,Netherlands (Kingdom of the),2010,Resident patent filings (per million population),511
-528,Netherlands (Kingdom of the),2019,Resident patent filings (per million population),529
-528,Netherlands (Kingdom of the),2020,Resident patent filings (per million population),492
-528,Netherlands (Kingdom of the),2021,Resident patent filings (per million population),493
-528,Netherlands (Kingdom of the),1985,Grants of patents (number),"2,145"
-528,Netherlands (Kingdom of the),1995,Grants of patents (number),673
-528,Netherlands (Kingdom of the),2005,Grants of patents (number),"2,373"
-528,Netherlands (Kingdom of the),2010,Grants of patents (number),"1,947"
-528,Netherlands (Kingdom of the),2019,Grants of patents (number),"1,936"
-528,Netherlands (Kingdom of the),2020,Grants of patents (number),"1,911"
-528,Netherlands (Kingdom of the),2021,Grants of patents (number),"2,264"
-528,Netherlands (Kingdom of the),2005,Patents in force (number),"135,215"
-528,Netherlands (Kingdom of the),2010,Patents in force (number),"135,127"
-528,Netherlands (Kingdom of the),2019,Patents in force (number),"205,675"
-528,Netherlands (Kingdom of the),2020,Patents in force (number),"212,855"
-528,Netherlands (Kingdom of the),2021,Patents in force (number),"212,866"
+528,Netherlands,1985,Resident patent filings (per million population),134
+528,Netherlands,1995,Resident patent filings (per million population),137
+528,Netherlands,2005,Resident patent filings (per million population),614
+528,Netherlands,2010,Resident patent filings (per million population),511
+528,Netherlands,2019,Resident patent filings (per million population),529
+528,Netherlands,2020,Resident patent filings (per million population),492
+528,Netherlands,2021,Resident patent filings (per million population),493
+528,Netherlands,1985,Grants of patents (number),"2,145"
+528,Netherlands,1995,Grants of patents (number),673
+528,Netherlands,2005,Grants of patents (number),"2,373"
+528,Netherlands,2010,Grants of patents (number),"1,947"
+528,Netherlands,2019,Grants of patents (number),"1,936"
+528,Netherlands,2020,Grants of patents (number),"1,911"
+528,Netherlands,2021,Grants of patents (number),"2,264"
+528,Netherlands,2005,Patents in force (number),"135,215"
+528,Netherlands,2010,Patents in force (number),"135,127"
+528,Netherlands,2019,Patents in force (number),"205,675"
+528,Netherlands,2020,Patents in force (number),"212,855"
+528,Netherlands,2021,Patents in force (number),"212,866"
 554,New Zealand,1985,Resident patent filings (per million population),310
 554,New Zealand,1995,Resident patent filings (per million population),350
 554,New Zealand,2005,Resident patent filings (per million population),458
@@ -1354,42 +1354,42 @@ country_code,area,year,series,value
 634,Qatar,2021,Grants of patents (number),83
 634,Qatar,2020,Patents in force (number),205
 634,Qatar,2021,Patents in force (number),83
-410,Republic of Korea,1985,Resident patent filings (per million population),66
-410,Republic of Korea,1995,Resident patent filings (per million population),"1,314"
-410,Republic of Korea,2005,Resident patent filings (per million population),"2,536"
-410,Republic of Korea,2010,Resident patent filings (per million population),"2,660"
-410,Republic of Korea,2019,Resident patent filings (per million population),"3,315"
-410,Republic of Korea,2020,Resident patent filings (per million population),"3,482"
-410,Republic of Korea,2021,Resident patent filings (per million population),"3,599"
-410,Republic of Korea,1985,Grants of patents (number),"2,268"
-410,Republic of Korea,1995,Grants of patents (number),"12,512"
-410,Republic of Korea,2005,Grants of patents (number),"73,512"
-410,Republic of Korea,2010,Grants of patents (number),"68,843"
-410,Republic of Korea,2019,Grants of patents (number),"125,661"
-410,Republic of Korea,2020,Grants of patents (number),"134,766"
-410,Republic of Korea,2021,Grants of patents (number),"145,882"
-410,Republic of Korea,2005,Patents in force (number),"420,906"
-410,Republic of Korea,2010,Patents in force (number),"640,412"
-410,Republic of Korea,2019,Patents in force (number),"1,048,079"
-410,Republic of Korea,2020,Patents in force (number),"1,096,721"
-410,Republic of Korea,2021,Patents in force (number),"1,153,320"
-498,Republic of Moldova,1995,Resident patent filings (per million population),92
-498,Republic of Moldova,2005,Resident patent filings (per million population),131
-498,Republic of Moldova,2010,Resident patent filings (per million population),52
-498,Republic of Moldova,2019,Resident patent filings (per million population),32
-498,Republic of Moldova,2020,Resident patent filings (per million population),32
-498,Republic of Moldova,2021,Resident patent filings (per million population),25
-498,Republic of Moldova,1995,Grants of patents (number),227
-498,Republic of Moldova,2005,Grants of patents (number),269
-498,Republic of Moldova,2010,Grants of patents (number),132
-498,Republic of Moldova,2019,Grants of patents (number),57
-498,Republic of Moldova,2020,Grants of patents (number),44
-498,Republic of Moldova,2021,Grants of patents (number),69
-498,Republic of Moldova,2005,Patents in force (number),"1,108"
-498,Republic of Moldova,2010,Patents in force (number),"1,018"
-498,Republic of Moldova,2019,Patents in force (number),317
-498,Republic of Moldova,2020,Patents in force (number),289
-498,Republic of Moldova,2021,Patents in force (number),293
+410,South Korea,1985,Resident patent filings (per million population),66
+410,South Korea,1995,Resident patent filings (per million population),"1,314"
+410,South Korea,2005,Resident patent filings (per million population),"2,536"
+410,South Korea,2010,Resident patent filings (per million population),"2,660"
+410,South Korea,2019,Resident patent filings (per million population),"3,315"
+410,South Korea,2020,Resident patent filings (per million population),"3,482"
+410,South Korea,2021,Resident patent filings (per million population),"3,599"
+410,South Korea,1985,Grants of patents (number),"2,268"
+410,South Korea,1995,Grants of patents (number),"12,512"
+410,South Korea,2005,Grants of patents (number),"73,512"
+410,South Korea,2010,Grants of patents (number),"68,843"
+410,South Korea,2019,Grants of patents (number),"125,661"
+410,South Korea,2020,Grants of patents (number),"134,766"
+410,South Korea,2021,Grants of patents (number),"145,882"
+410,South Korea,2005,Patents in force (number),"420,906"
+410,South Korea,2010,Patents in force (number),"640,412"
+410,South Korea,2019,Patents in force (number),"1,048,079"
+410,South Korea,2020,Patents in force (number),"1,096,721"
+410,South Korea,2021,Patents in force (number),"1,153,320"
+498,Moldova,1995,Resident patent filings (per million population),92
+498,Moldova,2005,Resident patent filings (per million population),131
+498,Moldova,2010,Resident patent filings (per million population),52
+498,Moldova,2019,Resident patent filings (per million population),32
+498,Moldova,2020,Resident patent filings (per million population),32
+498,Moldova,2021,Resident patent filings (per million population),25
+498,Moldova,1995,Grants of patents (number),227
+498,Moldova,2005,Grants of patents (number),269
+498,Moldova,2010,Grants of patents (number),132
+498,Moldova,2019,Grants of patents (number),57
+498,Moldova,2020,Grants of patents (number),44
+498,Moldova,2021,Grants of patents (number),69
+498,Moldova,2005,Patents in force (number),"1,108"
+498,Moldova,2010,Patents in force (number),"1,018"
+498,Moldova,2019,Patents in force (number),317
+498,Moldova,2020,Patents in force (number),289
+498,Moldova,2021,Patents in force (number),293
 642,Romania,1985,Resident patent filings (per million population),185
 642,Romania,1995,Resident patent filings (per million population),80
 642,Romania,2005,Resident patent filings (per million population),43
@@ -1409,33 +1409,33 @@ country_code,area,year,series,value
 642,Romania,2019,Patents in force (number),"24,809"
 642,Romania,2020,Patents in force (number),"27,475"
 642,Romania,2021,Patents in force (number),"27,264"
-643,Russian Federation,1995,Resident patent filings (per million population),118
-643,Russian Federation,2005,Resident patent filings (per million population),166
-643,Russian Federation,2010,Resident patent filings (per million population),203
-643,Russian Federation,2019,Resident patent filings (per million population),165
-643,Russian Federation,2020,Resident patent filings (per million population),168
-643,Russian Federation,2021,Resident patent filings (per million population),139
-643,Russian Federation,1995,Grants of patents (number),"25,633"
-643,Russian Federation,2005,Grants of patents (number),"23,390"
-643,Russian Federation,2010,Grants of patents (number),"30,322"
-643,Russian Federation,2019,Grants of patents (number),"34,008"
-643,Russian Federation,2020,Grants of patents (number),"28,788"
-643,Russian Federation,2021,Grants of patents (number),"23,662"
-643,Russian Federation,2005,Patents in force (number),"123,089"
-643,Russian Federation,2010,Patents in force (number),"181,904"
-643,Russian Federation,2019,Patents in force (number),"263,688"
-643,Russian Federation,2020,Patents in force (number),"266,189"
-643,Russian Federation,2021,Patents in force (number),"264,587"
+643,Russia,1995,Resident patent filings (per million population),118
+643,Russia,2005,Resident patent filings (per million population),166
+643,Russia,2010,Resident patent filings (per million population),203
+643,Russia,2019,Resident patent filings (per million population),165
+643,Russia,2020,Resident patent filings (per million population),168
+643,Russia,2021,Resident patent filings (per million population),139
+643,Russia,1995,Grants of patents (number),"25,633"
+643,Russia,2005,Grants of patents (number),"23,390"
+643,Russia,2010,Grants of patents (number),"30,322"
+643,Russia,2019,Grants of patents (number),"34,008"
+643,Russia,2020,Grants of patents (number),"28,788"
+643,Russia,2021,Grants of patents (number),"23,662"
+643,Russia,2005,Patents in force (number),"123,089"
+643,Russia,2010,Patents in force (number),"181,904"
+643,Russia,2019,Patents in force (number),"263,688"
+643,Russia,2020,Patents in force (number),"266,189"
+643,Russia,2021,Patents in force (number),"264,587"
 646,Rwanda,2021,Resident patent filings (per million population),1
 646,Rwanda,1985,Grants of patents (number),1
 646,Rwanda,2005,Grants of patents (number),3
 646,Rwanda,2019,Grants of patents (number),75
 646,Rwanda,2021,Grants of patents (number),13
-670,Saint Vincent & Grenadines,2019,Grants of patents (number),2
-670,Saint Vincent & Grenadines,2020,Grants of patents (number),19
-670,Saint Vincent & Grenadines,2019,Patents in force (number),19
-670,Saint Vincent & Grenadines,2020,Patents in force (number),19
-670,Saint Vincent & Grenadines,2021,Patents in force (number),20
+670,Saint Vincent and the Grenadines,2019,Grants of patents (number),2
+670,Saint Vincent and the Grenadines,2020,Grants of patents (number),19
+670,Saint Vincent and the Grenadines,2019,Patents in force (number),19
+670,Saint Vincent and the Grenadines,2020,Patents in force (number),19
+670,Saint Vincent and the Grenadines,2021,Patents in force (number),20
 882,Samoa,1985,Grants of patents (number),4
 882,Samoa,1995,Grants of patents (number),2
 882,Samoa,2019,Grants of patents (number),3
@@ -1630,15 +1630,15 @@ country_code,area,year,series,value
 756,Switzerland,2019,Patents in force (number),"246,124"
 756,Switzerland,2020,Patents in force (number),"250,143"
 756,Switzerland,2021,Patents in force (number),"264,909"
-760,Syrian Arab Republic,1995,Resident patent filings (per million population),9
-760,Syrian Arab Republic,2005,Resident patent filings (per million population),6
-760,Syrian Arab Republic,2019,Resident patent filings (per million population),7
-760,Syrian Arab Republic,2020,Resident patent filings (per million population),4
-760,Syrian Arab Republic,1995,Grants of patents (number),71
-760,Syrian Arab Republic,2005,Grants of patents (number),72
-760,Syrian Arab Republic,2019,Grants of patents (number),58
-760,Syrian Arab Republic,2020,Patents in force (number),65
-760,Syrian Arab Republic,2021,Patents in force (number),125
+760,Syria,1995,Resident patent filings (per million population),9
+760,Syria,2005,Resident patent filings (per million population),6
+760,Syria,2019,Resident patent filings (per million population),7
+760,Syria,2020,Resident patent filings (per million population),4
+760,Syria,1995,Grants of patents (number),71
+760,Syria,2005,Grants of patents (number),72
+760,Syria,2019,Grants of patents (number),58
+760,Syria,2020,Patents in force (number),65
+760,Syria,2021,Patents in force (number),125
 762,Tajikistan,1995,Resident patent filings (per million population),6
 762,Tajikistan,2005,Resident patent filings (per million population),4
 762,Tajikistan,2010,Resident patent filings (per million population),1
@@ -1684,23 +1684,23 @@ country_code,area,year,series,value
 788,Tunisia,2005,Grants of patents (number),338
 788,Tunisia,2010,Grants of patents (number),620
 788,Tunisia,2019,Grants of patents (number),328
-792,Türkiye,1985,Resident patent filings (per million population),3
-792,Türkiye,1995,Resident patent filings (per million population),3
-792,Türkiye,2005,Resident patent filings (per million population),15
-792,Türkiye,2010,Resident patent filings (per million population),48
-792,Türkiye,2019,Resident patent filings (per million population),100
-792,Türkiye,2020,Resident patent filings (per million population),101
-792,Türkiye,2021,Resident patent filings (per million population),106
-792,Türkiye,1985,Grants of patents (number),385
-792,Türkiye,1995,Grants of patents (number),763
-792,Türkiye,2005,Grants of patents (number),823
-792,Türkiye,2019,Grants of patents (number),"1,941"
-792,Türkiye,2020,Grants of patents (number),"2,063"
-792,Türkiye,2021,Grants of patents (number),"3,387"
-792,Türkiye,2010,Patents in force (number),"24,969"
-792,Türkiye,2019,Patents in force (number),"81,685"
-792,Türkiye,2020,Patents in force (number),"88,753"
-792,Türkiye,2021,Patents in force (number),"82,425"
+792,Turkey,1985,Resident patent filings (per million population),3
+792,Turkey,1995,Resident patent filings (per million population),3
+792,Turkey,2005,Resident patent filings (per million population),15
+792,Turkey,2010,Resident patent filings (per million population),48
+792,Turkey,2019,Resident patent filings (per million population),100
+792,Turkey,2020,Resident patent filings (per million population),101
+792,Turkey,2021,Resident patent filings (per million population),106
+792,Turkey,1985,Grants of patents (number),385
+792,Turkey,1995,Grants of patents (number),763
+792,Turkey,2005,Grants of patents (number),823
+792,Turkey,2019,Grants of patents (number),"1,941"
+792,Turkey,2020,Grants of patents (number),"2,063"
+792,Turkey,2021,Grants of patents (number),"3,387"
+792,Turkey,2010,Patents in force (number),"24,969"
+792,Turkey,2019,Patents in force (number),"81,685"
+792,Turkey,2020,Patents in force (number),"88,753"
+792,Turkey,2021,Patents in force (number),"82,425"
 798,Tuvalu,2019,Grants of patents (number),10
 798,Tuvalu,2020,Grants of patents (number),10
 798,Tuvalu,2019,Patents in force (number),17
@@ -1754,12 +1754,12 @@ country_code,area,year,series,value
 826,United Kingdom,2019,Patents in force (number),"641,887"
 826,United Kingdom,2020,Patents in force (number),"682,245"
 826,United Kingdom,2021,Patents in force (number),"690,131"
-834,United Rep. of Tanzania,1985,Grants of patents (number),30
-834,United Rep. of Tanzania,2005,Grants of patents (number),3
-834,United Rep. of Tanzania,2010,Grants of patents (number),1
-834,United Rep. of Tanzania,2019,Grants of patents (number),19
-834,United Rep. of Tanzania,2020,Grants of patents (number),7
-834,United Rep. of Tanzania,2021,Grants of patents (number),13
+834,Tanzania,1985,Grants of patents (number),30
+834,Tanzania,2005,Grants of patents (number),3
+834,Tanzania,2010,Grants of patents (number),1
+834,Tanzania,2019,Grants of patents (number),19
+834,Tanzania,2020,Grants of patents (number),7
+834,Tanzania,2021,Grants of patents (number),13
 840,United States of America,1985,Resident patent filings (per million population),268
 840,United States of America,1995,Resident patent filings (per million population),466
 840,United States of America,2005,Resident patent filings (per million population),703
@@ -1804,13 +1804,13 @@ country_code,area,year,series,value
 860,Uzbekistan,2019,Patents in force (number),"1,161"
 860,Uzbekistan,2020,Patents in force (number),"1,159"
 860,Uzbekistan,2021,Patents in force (number),"1,217"
-862,Venezuela (Boliv. Rep. of),1985,Resident patent filings (per million population),13
-862,Venezuela (Boliv. Rep. of),2005,Resident patent filings (per million population),5
-862,Venezuela (Boliv. Rep. of),2010,Resident patent filings (per million population),3
-862,Venezuela (Boliv. Rep. of),1985,Grants of patents (number),351
-862,Venezuela (Boliv. Rep. of),2019,Grants of patents (number),81
-862,Venezuela (Boliv. Rep. of),2020,Grants of patents (number),58
-862,Venezuela (Boliv. Rep. of),2021,Patents in force (number),212
+862,Venezuela,1985,Resident patent filings (per million population),13
+862,Venezuela,2005,Resident patent filings (per million population),5
+862,Venezuela,2010,Resident patent filings (per million population),3
+862,Venezuela,1985,Grants of patents (number),351
+862,Venezuela,2019,Grants of patents (number),81
+862,Venezuela,2020,Grants of patents (number),58
+862,Venezuela,2021,Patents in force (number),212
 704,Viet Nam,2005,Resident patent filings (per million population),2
 704,Viet Nam,2010,Resident patent filings (per million population),4
 704,Viet Nam,2019,Resident patent filings (per million population),8
