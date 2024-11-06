@@ -1,0 +1,843 @@
+region,area,year,series,value,gdp
+1,World,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,47760300000000
+1,World,2005,Researchers per million inhabitants (FTE),907.2,47760300000000
+1,World,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,66514200000000
+1,World,2010,Researchers per million inhabitants (FTE),1022.1,66514200000000
+1,World,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,75359700000000
+1,World,2015,Researchers per million inhabitants (FTE),1160.0,75359700000000
+1,World,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,85577700000000
+1,World,2020,Researchers per million inhabitants (FTE),1341.8,85577700000000
+202,Sub-Saharan Africa,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,827932000000
+202,Sub-Saharan Africa,2005,Researchers per million inhabitants (FTE),70.7,827932000000
+202,Sub-Saharan Africa,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,1448110000000
+202,Sub-Saharan Africa,2010,Researchers per million inhabitants (FTE),81.1,1448110000000
+202,Sub-Saharan Africa,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,1668660000000
+202,Sub-Saharan Africa,2015,Researchers per million inhabitants (FTE),93.9,1668660000000
+202,Sub-Saharan Africa,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,1716220000000
+202,Sub-Saharan Africa,2020,Researchers per million inhabitants (FTE),97.9,1716220000000
+419,Latin America and the Caribbean,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,2901840000000
+419,Latin America and the Caribbean,2005,Researchers per million inhabitants (FTE),357.4,2901840000000
+419,Latin America and the Caribbean,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,5395520000000
+419,Latin America and the Caribbean,2010,Researchers per million inhabitants (FTE),430.3,5395520000000
+419,Latin America and the Caribbean,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,5418290000000
+419,Latin America and the Caribbean,2015,Researchers per million inhabitants (FTE),526.8,5418290000000
+419,Latin America and the Caribbean,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,4804920000000
+419,Latin America and the Caribbean,2020,Researchers per million inhabitants (FTE),613.5,4804920000000
+8,Albania,2008,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,12881352894
+8,Albania,2008,Researchers per million inhabitants (FTE),155.5,12881352894
+12,Algeria,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,107047000000
+12,Algeria,2005,Researchers per million inhabitants (FTE),168.7,107047000000
+12,Algeria,2017,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,189881000000
+12,Algeria,2017,Researchers per million inhabitants (FTE),819.3,189881000000
+16,American Samoa,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,500000000
+16,American Samoa,2005,Researchers per million inhabitants (FTE),100.7,500000000
+16,American Samoa,2006,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,493000000
+24,Angola,2011,Researchers per million inhabitants (FTE),47.5,111790000000
+24,Angola,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,52761617226
+24,Angola,2016,Researchers per million inhabitants (FTE),18.8,52761617226
+32,Argentina,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,198737000000
+32,Argentina,2005,Researchers per million inhabitants (FTE),819.4,198737000000
+32,Argentina,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,423627000000
+32,Argentina,2010,Researchers per million inhabitants (FTE),1123.8,423627000000
+32,Argentina,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,594749000000
+32,Argentina,2015,Researchers per million inhabitants (FTE),1230.5,594749000000
+32,Argentina,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,385741000000
+32,Argentina,2020,Researchers per million inhabitants (FTE),1236.9,385741000000
+51,Armenia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,4900469511
+51,Armenia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,9260285756
+51,Armenia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,10553337518
+51,Armenia,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,13878908629
+36,Australia,2004,Researchers per million inhabitants (FTE),4084.2,614660000000
+36,Australia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,1148890000000
+36,Australia,2010,Researchers per million inhabitants (FTE),4532.4,1148890000000
+36,Australia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,1351770000000
+36,Australia,2019,Gross domestic expenditure on R&D: as a percentage of GDP,1.8,1394670000000
+40,Austria,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,316092000000
+40,Austria,2005,Researchers per million inhabitants (FTE),3449.3,316092000000
+40,Austria,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.7,392275000000
+40,Austria,2010,Researchers per million inhabitants (FTE),4349.7,392275000000
+40,Austria,2015,Gross domestic expenditure on R&D: as a percentage of GDP,3.0,381971000000
+40,Austria,2015,Researchers per million inhabitants (FTE),5019.4,381971000000
+40,Austria,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.2,435049000000
+40,Austria,2020,Researchers per million inhabitants (FTE),5751.3,435049000000
+31,Azerbaijan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,13245421881
+31,Azerbaijan,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,52909294792
+31,Azerbaijan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,53076235355
+31,Azerbaijan,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,54825411765
+31,Azerbaijan,2021,Researchers per million inhabitants (FTE),1741.1,54825411765
+48,Bahrain,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,33387712766
+48,Bahrain,2014,Researchers per million inhabitants (FTE),369.0,33387712766
+112,Belarus,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,30210091837
+112,Belarus,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,57231904543
+112,Belarus,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,56454889147
+112,Belarus,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,69673747132
+112,Belarus,2021,Researchers per million inhabitants (FTE),1417.7,69673747132
+56,Belgium,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.8,385715000000
+56,Belgium,2005,Researchers per million inhabitants (FTE),3142.7,385715000000
+56,Belgium,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,481421000000
+56,Belgium,2010,Researchers per million inhabitants (FTE),3732.8,481421000000
+56,Belgium,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,462336000000
+56,Belgium,2015,Researchers per million inhabitants (FTE),4711.0,462336000000
+56,Belgium,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.5,526022000000
+56,Belgium,2020,Researchers per million inhabitants (FTE),5750.1,526022000000
+60,Bermuda,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6634526000
+60,Bermuda,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6654541000
+60,Bermuda,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6887147000
+68,Bolivia,2002,Researchers per million inhabitants (FTE),119.0,7905485146
+68,Bolivia,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,17339992194
+68,Bolivia,2009,Researchers per million inhabitants (FTE),143.9,17339992194
+68,Bolivia,2010,Researchers per million inhabitants (FTE),163.8,19649723722
+70,Bosnia and Herzegovina,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,11222796337
+70,Bosnia and Herzegovina,2005,Researchers per million inhabitants (FTE),67.1,11222796337
+70,Bosnia and Herzegovina,2007,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,15778734264
+70,Bosnia and Herzegovina,2007,Researchers per million inhabitants (FTE),198.0,15778734264
+70,Bosnia and Herzegovina,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,17613949091
+70,Bosnia and Herzegovina,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,16404348871
+70,Bosnia and Herzegovina,2015,Researchers per million inhabitants (FTE),365.2,16404348871
+70,Bosnia and Herzegovina,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,23672712242
+70,Bosnia and Herzegovina,2021,Researchers per million inhabitants (FTE),447.2,23672712242
+72,Botswana,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,9918907108
+72,Botswana,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,14271738933
+72,Botswana,2013,Researchers per million inhabitants (FTE),185.2,14271738933
+76,Brazil,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,891634000000
+76,Brazil,2005,Researchers per million inhabitants (FTE),509.0,891634000000
+76,Brazil,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,2208840000000
+76,Brazil,2010,Researchers per million inhabitants (FTE),686.1,2208840000000
+76,Brazil,2014,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,2456040000000
+76,Brazil,2014,Researchers per million inhabitants (FTE),887.7,2456040000000
+76,Brazil,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,1802210000000
+76,Brazil,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,1476110000000
+96,Brunei,2004,Researchers per million inhabitants (FTE),283.5,7872202803
+96,Brunei,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,13566937674
+100,Bulgaria,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,29868657858
+100,Bulgaria,2005,Researchers per million inhabitants (FTE),1307.8,29868657858
+100,Bulgaria,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,50760929303
+100,Bulgaria,2010,Researchers per million inhabitants (FTE),1478.7,50760929303
+100,Bulgaria,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,50811995689
+100,Bulgaria,2015,Researchers per million inhabitants (FTE),1977.3,50811995689
+100,Bulgaria,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,70368758395
+100,Bulgaria,2020,Researchers per million inhabitants (FTE),2402.1,70368758395
+854,Burkina Faso,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6146353173
+854,Burkina Faso,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,9450696873
+854,Burkina Faso,2010,Researchers per million inhabitants (FTE),47.6,10109619741
+854,Burkina Faso,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,13943016077
+854,Burkina Faso,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,19643166854
+108,Burundi,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,2032135192
+108,Burundi,2012,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,2333341334
+108,Burundi,2012,Researchers per million inhabitants (FTE),20.9,2333341334
+108,Burundi,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,2667182200
+108,Burundi,2018,Researchers per million inhabitants (FTE),23.4,2667182200
+132,Cabo Verde,2002,Researchers per million inhabitants (FTE),135.5,620507387
+132,Cabo Verde,2011,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,2046817987
+132,Cabo Verde,2011,Researchers per million inhabitants (FTE),50.1,2046817987
+132,Cabo Verde,2014,Researchers per million inhabitants (FTE),123.5,2041930125
+116,Cambodia,2002,Researchers per million inhabitants (FTE),17.6,4284028483
+116,Cambodia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,18049954289
+116,Cambodia,2015,Researchers per million inhabitants (FTE),30.4,18049954289
+124,Canada,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.0,1173110000000
+124,Canada,2005,Researchers per million inhabitants (FTE),4250.1,1173110000000
+124,Canada,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.8,1617340000000
+124,Canada,2010,Researchers per million inhabitants (FTE),4646.3,1617340000000
+124,Canada,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,1556510000000
+124,Canada,2015,Researchers per million inhabitants (FTE),4523.3,1556510000000
+124,Canada,2018,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,1725330000000
+124,Canada,2018,Researchers per million inhabitants (FTE),4516.3,1725330000000
+124,Canada,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,1655680000000
+148,Chad,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,10097778098
+148,Chad,2016,Researchers per million inhabitants (FTE),57.9,10097778098
+152,Chile,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,217051000000
+152,Chile,2010,Researchers per million inhabitants (FTE),318.8,217051000000
+152,Chile,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,242450000000
+152,Chile,2015,Researchers per million inhabitants (FTE),455.0,242450000000
+152,Chile,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,278285000000
+152,Chile,2019,Researchers per million inhabitants (FTE),510.3,278285000000
+156,China,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,2285960000000
+156,China,2005,Researchers per million inhabitants (FTE),840.6,2285960000000
+156,China,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,6087190000000
+156,China,2010,Researchers per million inhabitants (FTE),884.6,6087190000000
+156,China,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,11061600000000
+156,China,2015,Researchers per million inhabitants (FTE),1150.8,11061600000000
+156,China,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,14687700000000
+156,China,2020,Researchers per million inhabitants (FTE),1584.9,14687700000000
+344,Hong Kong,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,181569000000
+344,Hong Kong,2005,Researchers per million inhabitants (FTE),2662.5,181569000000
+344,Hong Kong,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,228639000000
+344,Hong Kong,2010,Researchers per million inhabitants (FTE),3114.6,228639000000
+344,Hong Kong,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,309386000000
+344,Hong Kong,2015,Researchers per million inhabitants (FTE),3565.1,309386000000
+344,Hong Kong,2021,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,368954000000
+344,Hong Kong,2021,Researchers per million inhabitants (FTE),4553.4,368954000000
+446,Macao,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,12160056122
+446,Macao,2005,Researchers per million inhabitants (FTE),616.1,12160056122
+446,Macao,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,28241798492
+446,Macao,2010,Researchers per million inhabitants (FTE),649.8,28241798492
+446,Macao,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,45048190598
+446,Macao,2015,Researchers per million inhabitants (FTE),1276.9,45048190598
+446,Macao,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,30969334705
+446,Macao,2021,Researchers per million inhabitants (FTE),4283.1,30969334705
+170,Colombia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,145601000000
+170,Colombia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,286499000000
+170,Colombia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,293492000000
+170,Colombia,2015,Researchers per million inhabitants (FTE),69.5,293492000000
+170,Colombia,2017,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,311867000000
+170,Colombia,2017,Researchers per million inhabitants (FTE),88.0,311867000000
+170,Colombia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,270348000000
+188,Costa Rica,2005,Researchers per million inhabitants (FTE),122.9,20040642477
+188,Costa Rica,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,37658614804
+188,Costa Rica,2010,Researchers per million inhabitants (FTE),381.9,37658614804
+188,Costa Rica,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,56441920821
+188,Costa Rica,2015,Researchers per million inhabitants (FTE),495.3,56441920821
+188,Costa Rica,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,62420164992
+188,Costa Rica,2018,Researchers per million inhabitants (FTE),345.0,62420164992
+384,Ivory Coast,2005,Researchers per million inhabitants (FTE),69.1,24036918703
+384,Ivory Coast,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,48407761037
+191,Croatia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,45025679590
+191,Croatia,2005,Researchers per million inhabitants (FTE),1308.1,45025679590
+191,Croatia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,58836405999
+191,Croatia,2010,Researchers per million inhabitants (FTE),1641.3,58836405999
+191,Croatia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,51011170112
+191,Croatia,2015,Researchers per million inhabitants (FTE),1504.2,51011170112
+191,Croatia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,58221300898
+191,Croatia,2020,Researchers per million inhabitants (FTE),2219.8,58221300898
+192,Cuba,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,42643836100
+192,Cuba,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,59562962963
+192,Cuba,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,87132800000
+192,Cuba,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,107352000000
+196,Cyprus,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,18433411267
+196,Cyprus,2005,Researchers per million inhabitants (FTE),916.7,18433411267
+196,Cyprus,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,25799940416
+196,Cyprus,2010,Researchers per million inhabitants (FTE),1077.7,25799940416
+196,Cyprus,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,19909269064
+196,Cyprus,2015,Researchers per million inhabitants (FTE),1009.1,19909269064
+196,Cyprus,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,25227189745
+196,Cyprus,2020,Researchers per million inhabitants (FTE),1690.8,25227189745
+203,Czechia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,137143000000
+203,Czechia,2005,Researchers per million inhabitants (FTE),2356.1,137143000000
+203,Czechia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,209070000000
+203,Czechia,2010,Researchers per million inhabitants (FTE),2774.0,209070000000
+203,Czechia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,188033000000
+203,Czechia,2015,Researchers per million inhabitants (FTE),3592.1,188033000000
+203,Czechia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.0,245975000000
+203,Czechia,2020,Researchers per million inhabitants (FTE),4127.9,245975000000
+180,Democratic Republic of the Congo,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,11964484466
+180,Democratic Republic of the Congo,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,6650001680
+180,Democratic Republic of the Congo,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,18648372553
+180,Democratic Republic of the Congo,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,9723299915
+180,Democratic Republic of the Congo,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,37917706497
+180,Democratic Republic of the Congo,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,12434793868
+180,Democratic Republic of the Congo,2015,Researchers per million inhabitants (FTE),10.6,37917706497
+180,Democratic Republic of the Congo,2015,Researchers per million inhabitants (FTE),10.6,12434793868
+208,Denmark,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,264467000000
+208,Denmark,2005,Researchers per million inhabitants (FTE),5197.4,264467000000
+208,Denmark,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.9,321995000000
+208,Denmark,2010,Researchers per million inhabitants (FTE),6739.2,321995000000
+208,Denmark,2015,Gross domestic expenditure on R&D: as a percentage of GDP,3.1,302673000000
+208,Denmark,2015,Researchers per million inhabitants (FTE),7528.3,302673000000
+208,Denmark,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.0,354763000000
+208,Denmark,2020,Researchers per million inhabitants (FTE),7691.9,354763000000
+218,Ecuador,2003,Researchers per million inhabitants (FTE),48.2,30965208000
+218,Ecuador,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,68151329000
+218,Ecuador,2010,Researchers per million inhabitants (FTE),140.6,68151329000
+218,Ecuador,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,102718000000
+218,Ecuador,2014,Researchers per million inhabitants (FTE),399.5,102718000000
+818,Egypt,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,89600665557
+818,Egypt,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,218984000000
+818,Egypt,2010,Researchers per million inhabitants (FTE),492.4,218984000000
+818,Egypt,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,329367000000
+818,Egypt,2015,Researchers per million inhabitants (FTE),672.9,329367000000
+818,Egypt,2021,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,424672000000
+818,Egypt,2021,Researchers per million inhabitants (FTE),854.3,424672000000
+222,El Salvador,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,18447920000
+222,El Salvador,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,23438240000
+222,El Salvador,2015,Researchers per million inhabitants (FTE),63.2,23438240000
+222,El Salvador,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,26881140000
+222,El Salvador,2019,Researchers per million inhabitants (FTE),73.0,26881140000
+222,El Salvador,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,24921190000
+233,Estonia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,14106790200
+233,Estonia,2005,Researchers per million inhabitants (FTE),2457.1,14106790200
+233,Estonia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,19523477326
+233,Estonia,2010,Researchers per million inhabitants (FTE),3060.6,19523477326
+233,Estonia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,22890762090
+233,Estonia,2015,Researchers per million inhabitants (FTE),3183.2,22890762090
+233,Estonia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.8,31330419851
+233,Estonia,2020,Researchers per million inhabitants (FTE),3846.1,31330419851
+748,Eswatini,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,4063245671
+748,Eswatini,2015,Researchers per million inhabitants (FTE),142.3,4063245671
+231,Ethiopia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,12401139454
+231,Ethiopia,2005,Researchers per million inhabitants (FTE),21.1,12401139454
+231,Ethiopia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,29933790334
+231,Ethiopia,2010,Researchers per million inhabitants (FTE),42.2,29933790334
+231,Ethiopia,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,47648276605
+231,Ethiopia,2013,Researchers per million inhabitants (FTE),44.7,47648276605
+231,Ethiopia,2017,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,81770886826
+231,Ethiopia,2017,Researchers per million inhabitants (FTE),90.5,81770886826
+234,Faroe Islands,2003,Researchers per million inhabitants (FTE),1813.1,1501941581
+246,Finland,2005,Gross domestic expenditure on R&D: as a percentage of GDP,3.3,204885000000
+246,Finland,2005,Researchers per million inhabitants (FTE),7526.6,204885000000
+246,Finland,2010,Gross domestic expenditure on R&D: as a percentage of GDP,3.7,249424000000
+246,Finland,2010,Researchers per million inhabitants (FTE),7720.2,249424000000
+246,Finland,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.9,234534000000
+246,Finland,2015,Researchers per million inhabitants (FTE),6844.5,234534000000
+246,Finland,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.9,271886000000
+246,Finland,2020,Researchers per million inhabitants (FTE),7527.4,271886000000
+250,France,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,2196950000000
+250,France,2005,Researchers per million inhabitants (FTE),3313.3,2196950000000
+250,France,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.2,2645190000000
+250,France,2010,Researchers per million inhabitants (FTE),3873.0,2645190000000
+250,France,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.2,2439190000000
+250,France,2015,Researchers per million inhabitants (FTE),4336.0,2439190000000
+250,France,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.3,2647420000000
+250,France,2020,Researchers per million inhabitants (FTE),4926.2,2647420000000
+266,Gabon,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,12113699068
+270,Gambia,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,1450142509
+270,Gambia,2009,Researchers per million inhabitants (FTE),102.9,1450142509
+270,Gambia,2011,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,1409693597
+270,Gambia,2011,Researchers per million inhabitants (FTE),31.7,1409693597
+270,Gambia,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,1670671328
+270,Gambia,2018,Researchers per million inhabitants (FTE),52.9,1670671328
+268,Georgia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6410912050
+268,Georgia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,15223796149
+268,Georgia,2015,Researchers per million inhabitants (FTE),1280.5,15223796149
+268,Georgia,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,18853115589
+268,Georgia,2021,Researchers per million inhabitants (FTE),1623.7,18853115589
+276,Germany,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.4,2846860000000
+276,Germany,2005,Researchers per million inhabitants (FTE),3335.0,2846860000000
+276,Germany,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.7,3399670000000
+276,Germany,2010,Researchers per million inhabitants (FTE),4058.0,3399670000000
+276,Germany,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.9,3357590000000
+276,Germany,2015,Researchers per million inhabitants (FTE),4743.8,3357590000000
+276,Germany,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.1,3887730000000
+276,Germany,2020,Researchers per million inhabitants (FTE),5393.1,3887730000000
+288,Ghana,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,32197655567
+288,Ghana,2010,Researchers per million inhabitants (FTE),38.0,32197655567
+288,Ghana,2015,Researchers per million inhabitants (FTE),89.1,49406010054
+300,Greece,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,247875000000
+300,Greece,2005,Researchers per million inhabitants (FTE),1745.5,247875000000
+300,Greece,2007,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,318903000000
+300,Greece,2007,Researchers per million inhabitants (FTE),1889.7,318903000000
+300,Greece,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,297125000000
+300,Greece,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,195684000000
+300,Greece,2015,Researchers per million inhabitants (FTE),3256.0,195684000000
+300,Greece,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,188480000000
+300,Greece,2020,Researchers per million inhabitants (FTE),4010.3,188480000000
+304,Greenland,2004,Researchers per million inhabitants (FTE),701.7,1822499769
+316,Guam,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,4213000000
+316,Guam,2005,Researchers per million inhabitants (FTE),303.0,4213000000
+320,Guatemala,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,26783389294
+320,Guatemala,2005,Researchers per million inhabitants (FTE),29.6,26783389294
+320,Guatemala,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,40676578423
+320,Guatemala,2010,Researchers per million inhabitants (FTE),24.8,40676578423
+320,Guatemala,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,62186064719
+320,Guatemala,2015,Researchers per million inhabitants (FTE),22.2,62186064719
+320,Guatemala,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,86053083476
+320,Guatemala,2021,Researchers per million inhabitants (FTE),13.9,86053083476
+340,Honduras,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,20979791685
+340,Honduras,2015,Researchers per million inhabitants (FTE),22.4,20979791685
+340,Honduras,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,24882225742
+340,Honduras,2019,Researchers per million inhabitants (FTE),189.9,24882225742
+348,Hungary,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,113211000000
+348,Hungary,2005,Researchers per million inhabitants (FTE),1574.3,113211000000
+348,Hungary,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,132175000000
+348,Hungary,2010,Researchers per million inhabitants (FTE),2149.8,132175000000
+348,Hungary,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,125174000000
+348,Hungary,2015,Researchers per million inhabitants (FTE),2589.1,125174000000
+348,Hungary,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,157289000000
+348,Hungary,2020,Researchers per million inhabitants (FTE),4357.9,157289000000
+352,Iceland,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.7,16852963067
+352,Iceland,2005,Researchers per million inhabitants (FTE),7305.3,16852963067
+352,Iceland,2009,Gross domestic expenditure on R&D: as a percentage of GDP,2.6,13154414219
+352,Iceland,2009,Researchers per million inhabitants (FTE),7926.0,13154414219
+352,Iceland,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.2,17517210519
+352,Iceland,2015,Researchers per million inhabitants (FTE),5887.9,17517210519
+352,Iceland,2018,Gross domestic expenditure on R&D: as a percentage of GDP,2.0,26260850582
+352,Iceland,2018,Researchers per million inhabitants (FTE),6088.3,26260850582
+352,Iceland,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.5,21629953194
+356,India,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,820384000000
+356,India,2005,Researchers per million inhabitants (FTE),134.9,820384000000
+356,India,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,1675620000000
+356,India,2010,Researchers per million inhabitants (FTE),156.2,1675620000000
+356,India,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,2103590000000
+356,India,2015,Researchers per million inhabitants (FTE),216.0,2103590000000
+356,India,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,2702930000000
+356,India,2018,Researchers per million inhabitants (FTE),252.7,2702930000000
+360,Indonesia,2001,Researchers per million inhabitants (FTE),199.2,160447000000
+360,Indonesia,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,539580000000
+360,Indonesia,2009,Researchers per million inhabitants (FTE),89.5,539580000000
+360,Indonesia,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,912524000000
+360,Indonesia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,1059050000000
+360,Indonesia,2020,Researchers per million inhabitants (FTE),395.7,1059050000000
+364,Iran,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,226452000000
+364,Iran,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,486808000000
+364,Iran,2010,Researchers per million inhabitants (FTE),743.1,486808000000
+364,Iran,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,408213000000
+364,Iran,2015,Researchers per million inhabitants (FTE),825.3,408213000000
+364,Iran,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,283650000000
+364,Iran,2019,Researchers per million inhabitants (FTE),1659.5,283650000000
+368,Iraq,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,138517000000
+368,Iraq,2010,Researchers per million inhabitants (FTE),432.0,138517000000
+368,Iraq,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,166774000000
+368,Iraq,2015,Researchers per million inhabitants (FTE),65.8,166774000000
+368,Iraq,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,209692000000
+368,Iraq,2021,Researchers per million inhabitants (FTE),169.9,209692000000
+372,Ireland,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,211877000000
+372,Ireland,2005,Researchers per million inhabitants (FTE),2798.0,211877000000
+372,Ireland,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,221914000000
+372,Ireland,2010,Researchers per million inhabitants (FTE),3112.6,221914000000
+372,Ireland,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,292364000000
+372,Ireland,2015,Researchers per million inhabitants (FTE),5270.7,292364000000
+372,Ireland,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,428609000000
+372,Ireland,2020,Researchers per million inhabitants (FTE),4769.1,428609000000
+376,Israel,2005,Gross domestic expenditure on R&D: as a percentage of GDP,3.9,147084000000
+376,Israel,2010,Gross domestic expenditure on R&D: as a percentage of GDP,3.9,238364000000
+376,Israel,2015,Gross domestic expenditure on R&D: as a percentage of GDP,4.2,303414000000
+376,Israel,2020,Gross domestic expenditure on R&D: as a percentage of GDP,5.4,413268000000
+380,Italy,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,1858220000000
+380,Italy,2005,Researchers per million inhabitants (FTE),1415.4,1858220000000
+380,Italy,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,2136100000000
+380,Italy,2010,Researchers per million inhabitants (FTE),1743.3,2136100000000
+380,Italy,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,1836640000000
+380,Italy,2015,Researchers per million inhabitants (FTE),2077.9,1836640000000
+380,Italy,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,1897460000000
+380,Italy,2020,Researchers per million inhabitants (FTE),2671.8,1897460000000
+392,Japan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,3.1,4831470000000
+392,Japan,2005,Researchers per million inhabitants (FTE),5303.9,4831470000000
+392,Japan,2010,Gross domestic expenditure on R&D: as a percentage of GDP,3.1,5759070000000
+392,Japan,2010,Researchers per million inhabitants (FTE),5103.6,5759070000000
+392,Japan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,3.2,4444930000000
+392,Japan,2015,Researchers per million inhabitants (FTE),5173.0,4444930000000
+392,Japan,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.3,5055590000000
+392,Japan,2020,Researchers per million inhabitants (FTE),5454.7,5055590000000
+400,Jordan,2008,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,22658715989
+400,Jordan,2015,Researchers per million inhabitants (FTE),252.4,38587017887
+400,Jordan,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,39892551127
+400,Jordan,2016,Researchers per million inhabitants (FTE),592.4,39892551127
+400,Jordan,2017,Researchers per million inhabitants (FTE),596.0,41608435915
+398,Kazakhstan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,57123671734
+398,Kazakhstan,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,148047000000
+398,Kazakhstan,2010,Researchers per million inhabitants (FTE),370.5,148047000000
+398,Kazakhstan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,184388000000
+398,Kazakhstan,2015,Researchers per million inhabitants (FTE),777.1,184388000000
+398,Kazakhstan,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,197112000000
+398,Kazakhstan,2021,Researchers per million inhabitants (FTE),629.9,197112000000
+404,Kenya,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,45405615064
+404,Kenya,2010,Researchers per million inhabitants (FTE),221.4,45405615064
+414,Kuwait,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,80798630137
+414,Kuwait,2005,Researchers per million inhabitants (FTE),169.1,80798630137
+414,Kuwait,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,115416000000
+414,Kuwait,2010,Researchers per million inhabitants (FTE),136.0,115416000000
+414,Kuwait,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,114586000000
+414,Kuwait,2015,Researchers per million inhabitants (FTE),395.8,114586000000
+414,Kuwait,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,107513000000
+414,Kuwait,2020,Researchers per million inhabitants (FTE),173.5,107513000000
+418,Laos,2002,Researchers per million inhabitants (FTE),15.8,1758176653
+428,Latvia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,17003459863
+428,Latvia,2005,Researchers per million inhabitants (FTE),1457.4,17003459863
+428,Latvia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,23956163077
+428,Latvia,2010,Researchers per million inhabitants (FTE),1838.7,23956163077
+428,Latvia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,27263090547
+428,Latvia,2015,Researchers per million inhabitants (FTE),1808.6,27263090547
+428,Latvia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,34390910339
+428,Latvia,2020,Researchers per million inhabitants (FTE),2158.8,34390910339
+426,Lesotho,2004,Researchers per million inhabitants (FTE),10.0,1511236656
+426,Lesotho,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,1740894965
+426,Lesotho,2009,Researchers per million inhabitants (FTE),23.0,1740894965
+426,Lesotho,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,2359686725
+426,Lesotho,2015,Researchers per million inhabitants (FTE),24.1,2359686725
+440,Lithuania,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,26097677572
+440,Lithuania,2005,Researchers per million inhabitants (FTE),2283.6,26097677572
+440,Lithuania,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,37128694028
+440,Lithuania,2010,Researchers per million inhabitants (FTE),2752.7,37128694028
+440,Lithuania,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,41435533340
+440,Lithuania,2015,Researchers per million inhabitants (FTE),2785.6,41435533340
+440,Lithuania,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,56964942999
+440,Lithuania,2020,Researchers per million inhabitants (FTE),3728.5,56964942999
+442,Luxembourg,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,37672280120
+442,Luxembourg,2005,Researchers per million inhabitants (FTE),4864.1,37672280120
+442,Luxembourg,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,56213985987
+442,Luxembourg,2010,Researchers per million inhabitants (FTE),5145.0,56213985987
+442,Luxembourg,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,60071584216
+442,Luxembourg,2015,Researchers per million inhabitants (FTE),4604.9,60071584216
+442,Luxembourg,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,73699366700
+442,Luxembourg,2020,Researchers per million inhabitants (FTE),4920.3,73699366700
+450,Madagascar,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,5859269753
+450,Madagascar,2005,Researchers per million inhabitants (FTE),47.9,5859269753
+450,Madagascar,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,9982711338
+450,Madagascar,2010,Researchers per million inhabitants (FTE),52.0,9982711338
+450,Madagascar,2011,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,11551819618
+450,Madagascar,2011,Researchers per million inhabitants (FTE),50.9,11551819618
+450,Madagascar,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,12522957399
+450,Madagascar,2017,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,13176313594
+450,Madagascar,2017,Researchers per million inhabitants (FTE),30.6,13176313594
+450,Madagascar,2018,Researchers per million inhabitants (FTE),34.0,13760033282
+454,Malawi,2010,Researchers per million inhabitants (FTE),50.4,10128323011
+458,Malaysia,2004,Researchers per million inhabitants (FTE),502.9,124749000000
+458,Malaysia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,255018000000
+458,Malaysia,2010,Researchers per million inhabitants (FTE),1462.5,255018000000
+458,Malaysia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,301355000000
+458,Malaysia,2015,Researchers per million inhabitants (FTE),2308.0,301355000000
+458,Malaysia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,337456000000
+458,Malaysia,2020,Researchers per million inhabitants (FTE),740.8,337456000000
+466,Mali,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,10689168016
+466,Mali,2010,Researchers per million inhabitants (FTE),29.4,10689168016
+466,Mali,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,13104764378
+466,Mali,2015,Researchers per million inhabitants (FTE),30.8,13104764378
+466,Mali,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,19309463508
+466,Mali,2021,Researchers per million inhabitants (FTE),30.3,19309463508
+470,Malta,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,6416184236
+470,Malta,2005,Researchers per million inhabitants (FTE),1183.7,6416184236
+470,Malta,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,9035824366
+470,Malta,2010,Researchers per million inhabitants (FTE),1417.0,9035824366
+470,Malta,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,11091483660
+470,Malta,2015,Researchers per million inhabitants (FTE),1891.3,11091483660
+470,Malta,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,15249999048
+470,Malta,2020,Researchers per million inhabitants (FTE),2296.5,15249999048
+478,Mauritania,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,7473550557
+480,Mauritius,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,6576108447
+480,Mauritius,2012,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,11668696397
+480,Mauritius,2012,Researchers per million inhabitants (FTE),181.8,11668696397
+480,Mauritius,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,11484348766
+480,Mauritius,2021,Researchers per million inhabitants (FTE),568.0,11484348766
+484,Mexico,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,917572000000
+484,Mexico,2005,Researchers per million inhabitants (FTE),414.3,917572000000
+484,Mexico,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,1105420000000
+484,Mexico,2010,Researchers per million inhabitants (FTE),337.4,1105420000000
+484,Mexico,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,1213290000000
+484,Mexico,2015,Researchers per million inhabitants (FTE),281.3,1213290000000
+484,Mexico,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,1120830000000
+484,Mexico,2020,Researchers per million inhabitants (FTE),348.8,1120830000000
+492,Monaco,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,4204652899
+492,Monaco,2005,Researchers per million inhabitants (FTE),295.5,4204652899
+496,Mongolia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,2523471601
+496,Mongolia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,7189481999
+496,Mongolia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,11619892591
+496,Mongolia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,13312981429
+496,Mongolia,2020,Researchers per million inhabitants (FTE),331.0,13312981429
+499,Montenegro,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,2257174481
+499,Montenegro,2007,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,3680711744
+499,Montenegro,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,4054730078
+499,Montenegro,2015,Researchers per million inhabitants (FTE),834.6,4054730078
+499,Montenegro,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,5542054181
+499,Montenegro,2019,Researchers per million inhabitants (FTE),746.8,5542054181
+504,Morocco,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,100865000000
+504,Morocco,2010,Researchers per million inhabitants (FTE),719.8,100865000000
+504,Morocco,2014,Researchers per million inhabitants (FTE),1024.4,119131000000
+504,Morocco,2016,Researchers per million inhabitants (FTE),1073.5,111573000000
+508,Mozambique,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,11411894724
+508,Mozambique,2010,Researchers per million inhabitants (FTE),38.8,11411894724
+508,Mozambique,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,16208985770
+508,Mozambique,2015,Researchers per million inhabitants (FTE),43.0,16208985770
+104,Myanmar,2002,Researchers per million inhabitants (FTE),17.5,6777632512
+104,Myanmar,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,66345291160
+104,Myanmar,2021,Researchers per million inhabitants (FTE),18.6,66345291160
+516,Namibia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,11431412421
+516,Namibia,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,12435430970
+516,Namibia,2014,Researchers per million inhabitants (FTE),149.5,12435430970
+524,Nepal,2002,Researchers per million inhabitants (FTE),60.7,6050875807
+524,Nepal,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,16002656434
+528,Netherlands,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.8,685348000000
+528,Netherlands,2005,Researchers per million inhabitants (FTE),2923.8,685348000000
+528,Netherlands,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,847381000000
+528,Netherlands,2010,Researchers per million inhabitants (FTE),3219.0,847381000000
+528,Netherlands,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,765573000000
+528,Netherlands,2015,Researchers per million inhabitants (FTE),4928.9,765573000000
+528,Netherlands,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.3,909793000000
+528,Netherlands,2020,Researchers per million inhabitants (FTE),5911.7,909793000000
+554,New Zealand,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,114720000000
+554,New Zealand,2005,Researchers per million inhabitants (FTE),3140.2,114720000000
+554,New Zealand,2009,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,121374000000
+554,New Zealand,2009,Researchers per million inhabitants (FTE),3724.0,121374000000
+554,New Zealand,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,178104000000
+554,New Zealand,2015,Researchers per million inhabitants (FTE),5417.7,178104000000
+554,New Zealand,2019,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,212847000000
+554,New Zealand,2019,Researchers per million inhabitants (FTE),5854.0,212847000000
+558,Nicaragua,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,12756706583
+562,Niger,2005,Researchers per million inhabitants (FTE),7.4,4383315965
+562,Niger,2013,Researchers per million inhabitants (FTE),26.5,10224897438
+566,Nigeria,2007,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,278261000000
+566,Nigeria,2007,Researchers per million inhabitants (FTE),38.8,278261000000
+807,North Macedonia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,6258602873
+807,North Macedonia,2005,Researchers per million inhabitants (FTE),540.2,6258602873
+807,North Macedonia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,9407170321
+807,North Macedonia,2010,Researchers per million inhabitants (FTE),532.1,9407170321
+807,North Macedonia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,10064519963
+807,North Macedonia,2015,Researchers per million inhabitants (FTE),858.5,10064519963
+807,North Macedonia,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,14000283827
+807,North Macedonia,2021,Researchers per million inhabitants (FTE),752.8,14000283827
+578,Norway,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,309979000000
+578,Norway,2005,Researchers per million inhabitants (FTE),4576.6,309979000000
+578,Norway,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,431052000000
+578,Norway,2010,Researchers per million inhabitants (FTE),5413.8,431052000000
+578,Norway,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,388160000000
+578,Norway,2015,Researchers per million inhabitants (FTE),5891.0,388160000000
+578,Norway,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.3,367633000000
+578,Norway,2020,Researchers per million inhabitants (FTE),6698.8,367633000000
+512,Oman,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,78710793238
+512,Oman,2015,Researchers per million inhabitants (FTE),212.5,78710793238
+512,Oman,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,88191977373
+512,Oman,2021,Researchers per million inhabitants (FTE),284.4,88191977373
+586,Pakistan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,145209000000
+586,Pakistan,2005,Researchers per million inhabitants (FTE),79.2,145209000000
+586,Pakistan,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,187338000000
+586,Pakistan,2009,Researchers per million inhabitants (FTE),157.3,187338000000
+586,Pakistan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,299964000000
+586,Pakistan,2015,Researchers per million inhabitants (FTE),278.9,299964000000
+586,Pakistan,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,348517000000
+586,Pakistan,2021,Researchers per million inhabitants (FTE),422.8,348517000000
+591,Panama,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,16374393900
+591,Panama,2005,Researchers per million inhabitants (FTE),103.3,16374393900
+591,Panama,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,27116635600
+591,Panama,2009,Researchers per million inhabitants (FTE),110.1,27116635600
+591,Panama,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,29440287600
+591,Panama,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,45599900000
+591,Panama,2013,Researchers per million inhabitants (FTE),39.1,45599900000
+591,Panama,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,54091800000
+591,Panama,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,67406738100
+598,Papua New Guinea,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,20758876953
+598,Papua New Guinea,2016,Researchers per million inhabitants (FTE),35.5,20758876953
+600,Paraguay,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,10737500188
+600,Paraguay,2005,Researchers per million inhabitants (FTE),72.0,10737500188
+600,Paraguay,2008,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,24615267664
+600,Paraguay,2008,Researchers per million inhabitants (FTE),76.6,24615267664
+600,Paraguay,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,36211447840
+600,Paraguay,2015,Researchers per million inhabitants (FTE),182.7,36211447840
+600,Paraguay,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,35432178068
+600,Paraguay,2020,Researchers per million inhabitants (FTE),129.8,35432178068
+604,Peru,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,189803000000
+604,Peru,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,201410000000
+608,Philippines,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,107420000000
+608,Philippines,2005,Researchers per million inhabitants (FTE),79.9,107420000000
+608,Philippines,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,175975000000
+608,Philippines,2009,Researchers per million inhabitants (FTE),81.2,175975000000
+608,Philippines,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,306446000000
+608,Philippines,2015,Researchers per million inhabitants (FTE),105.7,306446000000
+608,Philippines,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,346842000000
+608,Philippines,2018,Researchers per million inhabitants (FTE),173.6,346842000000
+616,Poland,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,306146000000
+616,Poland,2005,Researchers per million inhabitants (FTE),1620.1,306146000000
+616,Poland,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,475697000000
+616,Poland,2010,Researchers per million inhabitants (FTE),1683.1,475697000000
+616,Poland,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,477111000000
+616,Poland,2015,Researchers per million inhabitants (FTE),2171.6,477111000000
+616,Poland,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,599443000000
+616,Poland,2020,Researchers per million inhabitants (FTE),3288.2,599443000000
+620,Portugal,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,197254000000
+620,Portugal,2005,Researchers per million inhabitants (FTE),2010.4,197254000000
+620,Portugal,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,238113000000
+620,Portugal,2010,Researchers per million inhabitants (FTE),3918.8,238113000000
+620,Portugal,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,199394000000
+620,Portugal,2015,Researchers per million inhabitants (FTE),3729.8,199394000000
+620,Portugal,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,229032000000
+620,Portugal,2020,Researchers per million inhabitants (FTE),5214.8,229032000000
+630,Puerto Rico,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,96385600000
+630,Puerto Rico,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,103376000000
+630,Puerto Rico,2015,Researchers per million inhabitants (FTE),348.4,103376000000
+634,Qatar,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,161740000000
+634,Qatar,2015,Researchers per million inhabitants (FTE),584.0,161740000000
+634,Qatar,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,179732000000
+634,Qatar,2021,Researchers per million inhabitants (FTE),902.6,179732000000
+410,South Korea,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.5,934901000000
+410,South Korea,2005,Researchers per million inhabitants (FTE),3692.2,934901000000
+410,South Korea,2010,Gross domestic expenditure on R&D: as a percentage of GDP,3.3,1143670000000
+410,South Korea,2010,Researchers per million inhabitants (FTE),5330.8,1143670000000
+410,South Korea,2015,Gross domestic expenditure on R&D: as a percentage of GDP,4.0,1466040000000
+410,South Korea,2015,Researchers per million inhabitants (FTE),7013.5,1466040000000
+410,South Korea,2020,Gross domestic expenditure on R&D: as a percentage of GDP,4.8,1644310000000
+410,South Korea,2020,Researchers per million inhabitants (FTE),8713.6,1644310000000
+498,Moldova,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,2988342907
+498,Moldova,2005,Researchers per million inhabitants (FTE),719.5,2988342907
+498,Moldova,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,6974982370
+498,Moldova,2010,Researchers per million inhabitants (FTE),760.9,6974982370
+498,Moldova,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,7797667197
+498,Moldova,2015,Researchers per million inhabitants (FTE),953.4,7797667197
+498,Moldova,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,13691869264
+498,Moldova,2021,Researchers per million inhabitants (FTE),788.1,13691869264
+642,Romania,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,98454380120
+642,Romania,2005,Researchers per million inhabitants (FTE),1071.9,98454380120
+642,Romania,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,170029000000
+642,Romania,2010,Researchers per million inhabitants (FTE),966.2,170029000000
+642,Romania,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,177884000000
+642,Romania,2015,Researchers per million inhabitants (FTE),876.2,177884000000
+642,Romania,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,251363000000
+642,Romania,2020,Researchers per million inhabitants (FTE),952.9,251363000000
+643,Russia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,764016000000
+643,Russia,2005,Researchers per million inhabitants (FTE),3233.6,764016000000
+643,Russia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,1524920000000
+643,Russia,2010,Researchers per million inhabitants (FTE),3081.1,1524920000000
+643,Russia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,1363480000000
+643,Russia,2015,Researchers per million inhabitants (FTE),3098.1,1363480000000
+643,Russia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,1493080000000
+643,Russia,2020,Researchers per million inhabitants (FTE),2721.7,1493080000000
+646,Rwanda,2009,Researchers per million inhabitants (FTE),12.6,5674476707
+646,Rwanda,2013,Researchers per million inhabitants (FTE),15.5,7819963627
+646,Rwanda,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,10349299856
+646,Rwanda,2019,Researchers per million inhabitants (FTE),58.8,10349299856
+682,Saudi Arabia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,328460000000
+682,Saudi Arabia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,528207000000
+682,Saudi Arabia,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,753865000000
+682,Saudi Arabia,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,874156000000
+682,Saudi Arabia,2021,Researchers per million inhabitants (FTE),700.6,874156000000
+686,Senegal,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,16121315909
+686,Senegal,2010,Researchers per million inhabitants (FTE),369.1,16121315909
+686,Senegal,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,17774766696
+686,Senegal,2015,Researchers per million inhabitants (FTE),564.3,17774766696
+688,Serbia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,27683225959
+688,Serbia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,41819468692
+688,Serbia,2010,Researchers per million inhabitants (FTE),1514.8,41819468692
+688,Serbia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,39655949731
+688,Serbia,2015,Researchers per million inhabitants (FTE),2071.2,39655949731
+688,Serbia,2021,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,63101042898
+688,Serbia,2021,Researchers per million inhabitants (FTE),2230.9,63101042898
+690,Seychelles,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,977899381
+690,Seychelles,2005,Researchers per million inhabitants (FTE),146.6,977899381
+690,Seychelles,2016,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,1568513348
+702,Singapore,2005,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,127808000000
+702,Singapore,2005,Researchers per million inhabitants (FTE),5576.9,127808000000
+702,Singapore,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,239808000000
+702,Singapore,2010,Researchers per million inhabitants (FTE),6241.9,239808000000
+702,Singapore,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.2,307999000000
+702,Singapore,2015,Researchers per million inhabitants (FTE),7006.6,307999000000
+702,Singapore,2019,Gross domestic expenditure on R&D: as a percentage of GDP,1.9,376902000000
+702,Singapore,2019,Researchers per million inhabitants (FTE),7286.9,376902000000
+705,Slovenia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,36206395971
+705,Slovenia,2005,Researchers per million inhabitants (FTE),2633.1,36206395971
+705,Slovenia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,48208240226
+705,Slovenia,2010,Researchers per million inhabitants (FTE),3769.8,48208240226
+705,Slovenia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,2.2,43107506024
+705,Slovenia,2015,Researchers per million inhabitants (FTE),3814.2,43107506024
+705,Slovenia,2020,Gross domestic expenditure on R&D: as a percentage of GDP,2.1,53734526854
+705,Slovenia,2020,Researchers per million inhabitants (FTE),4932.3,53734526854
+710,South Africa,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,288867000000
+710,South Africa,2005,Researchers per million inhabitants (FTE),361.4,288867000000
+710,South Africa,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,417364000000
+710,South Africa,2010,Researchers per million inhabitants (FTE),365.5,417364000000
+710,South Africa,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,346710000000
+710,South Africa,2015,Researchers per million inhabitants (FTE),472.3,346710000000
+710,South Africa,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,389330000000
+710,South Africa,2019,Researchers per million inhabitants (FTE),484.3,389330000000
+724,Spain,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.1,1153720000000
+724,Spain,2005,Researchers per million inhabitants (FTE),2492.6,1153720000000
+724,Spain,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,1422110000000
+724,Spain,2010,Researchers per million inhabitants (FTE),2869.2,1422110000000
+724,Spain,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.2,1196160000000
+724,Spain,2015,Researchers per million inhabitants (FTE),2623.4,1196160000000
+724,Spain,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.4,1278130000000
+724,Spain,2020,Researchers per million inhabitants (FTE),3109.2,1278130000000
+144,Sri Lanka,2004,Researchers per million inhabitants (FTE),138.2,20662525941
+144,Sri Lanka,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,58636161082
+144,Sri Lanka,2010,Researchers per million inhabitants (FTE),105.6,58636161082
+144,Sri Lanka,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,85140955389
+144,Sri Lanka,2015,Researchers per million inhabitants (FTE),106.0,85140955389
+144,Sri Lanka,2018,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,94493871201
+144,Sri Lanka,2018,Researchers per million inhabitants (FTE),105.6,94493871201
+729,Sudan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,35182711988
+752,Sweden,2005,Gross domestic expenditure on R&D: as a percentage of GDP,3.4,392218000000
+752,Sweden,2005,Researchers per million inhabitants (FTE),6085.1,392218000000
+752,Sweden,2010,Gross domestic expenditure on R&D: as a percentage of GDP,3.2,495813000000
+752,Sweden,2010,Researchers per million inhabitants (FTE),5251.5,495813000000
+752,Sweden,2015,Gross domestic expenditure on R&D: as a percentage of GDP,3.2,505104000000
+752,Sweden,2015,Researchers per million inhabitants (FTE),6834.0,505104000000
+752,Sweden,2020,Gross domestic expenditure on R&D: as a percentage of GDP,3.5,547054000000
+752,Sweden,2020,Researchers per million inhabitants (FTE),7930.2,547054000000
+756,Switzerland,2004,Researchers per million inhabitants (FTE),3468.2,403913000000
+756,Switzerland,2008,Gross domestic expenditure on R&D: as a percentage of GDP,2.7,567268000000
+756,Switzerland,2008,Researchers per million inhabitants (FTE),3298.2,567268000000
+756,Switzerland,2015,Gross domestic expenditure on R&D: as a percentage of GDP,3.1,694118000000
+756,Switzerland,2015,Researchers per million inhabitants (FTE),5271.9,694118000000
+756,Switzerland,2019,Gross domestic expenditure on R&D: as a percentage of GDP,3.2,721369000000
+756,Switzerland,2019,Researchers per million inhabitants (FTE),5552.0,721369000000
+760,Syria,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,16466863097
+760,Syria,2015,Researchers per million inhabitants (FTE),91.0,16466863097
+762,Tajikistan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,2312352021
+762,Tajikistan,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,5642221099
+762,Tajikistan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,8271431485
+762,Tajikistan,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,8133963551
+764,Thailand,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,189318000000
+764,Thailand,2005,Researchers per million inhabitants (FTE),313.5,189318000000
+764,Thailand,2009,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,281711000000
+764,Thailand,2009,Researchers per million inhabitants (FTE),329.0,281711000000
+764,Thailand,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,401296000000
+764,Thailand,2015,Researchers per million inhabitants (FTE),864.7,401296000000
+764,Thailand,2020,Gross domestic expenditure on R&D: as a percentage of GDP,1.3,500462000000
+764,Thailand,2020,Researchers per million inhabitants (FTE),2069.9,500462000000
+768,Togo,2005,Researchers per million inhabitants (FTE),33.1,3221910408
+768,Togo,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,4746389532
+768,Togo,2010,Researchers per million inhabitants (FTE),34.3,4746389532
+768,Togo,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,6393318262
+768,Togo,2014,Researchers per million inhabitants (FTE),38.0,6393318262
+768,Togo,2015,Researchers per million inhabitants (FTE),36.1,5755461035
+768,Togo,2021,Researchers per million inhabitants (FTE),45.2,8342243646
+780,Trinidad and Tobago,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,15982282462
+780,Trinidad and Tobago,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,22157948396
+780,Trinidad and Tobago,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,27026080987
+780,Trinidad and Tobago,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,20807571314
+780,Trinidad and Tobago,2020,Researchers per million inhabitants (FTE),638.8,20807571314
+788,Tunisia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,32272186695
+788,Tunisia,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,46206091938
+788,Tunisia,2010,Researchers per million inhabitants (FTE),1384.7,46206091938
+788,Tunisia,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,45779494042
+788,Tunisia,2015,Researchers per million inhabitants (FTE),1800.1,45779494042
+788,Tunisia,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.7,41905540184
+788,Tunisia,2019,Researchers per million inhabitants (FTE),1744.9,41905540184
+788,Tunisia,2021,Researchers per million inhabitants (FTE),1621.6,46812290143
+800,Uganda,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,9239221763
+800,Uganda,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,26673441431
+800,Uganda,2010,Researchers per million inhabitants (FTE),38.9,26673441431
+800,Uganda,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,32612397257
+800,Uganda,2014,Researchers per million inhabitants (FTE),27.8,32612397257
+804,Ukraine,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.0,89238865119
+804,Ukraine,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.8,141209000000
+804,Ukraine,2010,Researchers per million inhabitants (FTE),1328.0,141209000000
+804,Ukraine,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.6,91030967789
+804,Ukraine,2015,Researchers per million inhabitants (FTE),1006.0,91030967789
+804,Ukraine,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,199766000000
+804,Ukraine,2021,Researchers per million inhabitants (FTE),587.5,199766000000
+784,United Arab Emirates,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.9,370275000000
+784,United Arab Emirates,2015,Researchers per million inhabitants (FTE),1980.5,370275000000
+784,United Arab Emirates,2021,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,415179000000
+784,United Arab Emirates,2021,Researchers per million inhabitants (FTE),2488.8,415179000000
+826,United Kingdom,2005,Gross domestic expenditure on R&D: as a percentage of GDP,1.5,2543180000000
+826,United Kingdom,2005,Researchers per million inhabitants (FTE),4123.5,2543180000000
+826,United Kingdom,2010,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,2485480000000
+826,United Kingdom,2010,Researchers per million inhabitants (FTE),4043.3,2485480000000
+826,United Kingdom,2015,Gross domestic expenditure on R&D: as a percentage of GDP,1.6,2927910000000
+826,United Kingdom,2015,Researchers per million inhabitants (FTE),4319.5,2927910000000
+826,United Kingdom,2019,Gross domestic expenditure on R&D: as a percentage of GDP,1.7,2851410000000
+826,United Kingdom,2019,Researchers per million inhabitants (FTE),4683.8,2851410000000
+834,Tanzania,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,32012892919
+834,Tanzania,2010,Researchers per million inhabitants (FTE),36.1,32012892919
+834,Tanzania,2013,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,45648857242
+834,Tanzania,2013,Researchers per million inhabitants (FTE),19.2,45648857242
+850,US Virgin Islands,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,4428000000
+850,US Virgin Islands,2007,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,4784000000
+858,Uruguay,2002,Researchers per million inhabitants (FTE),373.4,13606515723
+858,Uruguay,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.5,17362857684
+858,Uruguay,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,41950361212
+858,Uruguay,2010,Researchers per million inhabitants (FTE),629.3,41950361212
+858,Uruguay,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,57680327999
+858,Uruguay,2015,Researchers per million inhabitants (FTE),677.0,57680327999
+858,Uruguay,2020,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,53668636568
+858,Uruguay,2020,Researchers per million inhabitants (FTE),795.7,53668636568
+858,Uruguay,2021,Researchers per million inhabitants (FTE),795.4,60760798596
+860,Uzbekistan,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,14307509839
+860,Uzbekistan,2005,Researchers per million inhabitants (FTE),632.8,14307509839
+860,Uzbekistan,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,49765676402
+860,Uzbekistan,2010,Researchers per million inhabitants (FTE),545.0,49765676402
+860,Uzbekistan,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,86196264755
+860,Uzbekistan,2015,Researchers per million inhabitants (FTE),497.4,86196264755
+860,Uzbekistan,2021,Gross domestic expenditure on R&D: as a percentage of GDP,0.1,69600614987
+860,Uzbekistan,2021,Researchers per million inhabitants (FTE),523.4,69600614987
+862,Venezuela,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,145513000000
+862,Venezuela,2005,Researchers per million inhabitants (FTE),122.9,145513000000
+862,Venezuela,2010,Gross domestic expenditure on R&D: as a percentage of GDP,0.2,393192000000
+862,Venezuela,2010,Researchers per million inhabitants (FTE),204.0,393192000000
+862,Venezuela,2014,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,482359000000
+862,Venezuela,2014,Researchers per million inhabitants (FTE),272.7,482359000000
+704,Viet Nam,2002,Researchers per million inhabitants (FTE),114.4,35064105501
+704,Viet Nam,2015,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,239258000000
+704,Viet Nam,2015,Researchers per million inhabitants (FTE),678.6,239258000000
+704,Viet Nam,2019,Gross domestic expenditure on R&D: as a percentage of GDP,0.4,334365000000
+704,Viet Nam,2019,Researchers per million inhabitants (FTE),756.7,334365000000
+894,Zambia,2005,Gross domestic expenditure on R&D: as a percentage of GDP,0.0,8331870169
+894,Zambia,2008,Gross domestic expenditure on R&D: as a percentage of GDP,0.3,17910858638
+894,Zambia,2008,Researchers per million inhabitants (FTE),41.7,17910858638
+716,Zimbabwe,2012,Researchers per million inhabitants (FTE),99.5,17114849900

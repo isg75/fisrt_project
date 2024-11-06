@@ -220,12 +220,12 @@ region,area,year,public_expenditure_education
 188,Costa Rica,2013,6.7
 188,Costa Rica,2015,6.9
 188,Costa Rica,2020,6.7
-384,Côte dIvoire,2005,2.9
-384,Côte dIvoire,2010,3.2
-384,Côte dIvoire,2015,3.5
-384,Côte dIvoire,2019,3.5
-384,Côte dIvoire,2020,3.9
-384,Côte dIvoire,2021,3.5
+384,Ivory Coast,2005,2.9
+384,Ivory Coast,2010,3.2
+384,Ivory Coast,2015,3.5
+384,Ivory Coast,2019,3.5
+384,Ivory Coast,2020,3.9
+384,Ivory Coast,2021,3.5
 191,Croatia,2005,5.1
 191,Croatia,2010,4.2
 191,Croatia,2015,4.9
@@ -536,9 +536,9 @@ region,area,year,public_expenditure_education
 484,Mexico,2015,5.2
 484,Mexico,2016,4.9
 484,Mexico,2018,4.3
-583,Micronesia (Fed. States of),2000,6.7
-583,Micronesia (Fed. States of),2015,12.4
-583,Micronesia (Fed. States of),2019,10.2
+583,Micronesia,2000,6.7
+583,Micronesia,2015,12.4
+583,Micronesia,2019,10.2
 492,Monaco,2004,1.2
 492,Monaco,2010,1.3
 492,Monaco,2014,1.0
@@ -689,11 +689,11 @@ region,area,year,public_expenditure_education
 662,Saint Lucia,2018,3.3
 662,Saint Lucia,2020,3.6
 662,Saint Lucia,2022,4.9
-670,Saint Vincent & Grenadines,2005,6.0
-670,Saint Vincent & Grenadines,2010,4.8
-670,Saint Vincent & Grenadines,2015,5.0
-670,Saint Vincent & Grenadines,2018,5.2
-670,Saint Vincent & Grenadines,2020,6.6
+670,Saint Vincent and the Grenadines,2005,6.0
+670,Saint Vincent and the Grenadines,2010,4.8
+670,Saint Vincent and the Grenadines,2015,5.0
+670,Saint Vincent and the Grenadines,2018,5.2
+670,Saint Vincent and the Grenadines,2020,6.6
 882,Samoa,2002,3.9
 882,Samoa,2008,5.1
 882,Samoa,2015,4.9
@@ -797,10 +797,10 @@ region,area,year,public_expenditure_education
 764,Thailand,2014,3.9
 764,Thailand,2015,3.9
 764,Thailand,2021,3.0
-626,Timor-Leste,2010,11.1
-626,Timor-Leste,2014,7.7
-626,Timor-Leste,2015,6.3
-626,Timor-Leste,2021,5.5
+626,East Timor,2010,11.1
+626,East Timor,2014,7.7
+626,East Timor,2015,6.3
+626,East Timor,2021,5.5
 768,Togo,2005,3.2
 768,Togo,2010,4.1
 768,Togo,2015,5.1
