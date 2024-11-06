@@ -1,0 +1,1839 @@
+country_code,area,year,statistic_type,statistic_value
+001,World,2005,Labour force participation,62.9
+001,World,2005,Unemployment rate,6.3
+001,World,2010,Labour force participation,62.0
+001,World,2010,Unemployment rate,6.3
+001,World,2015,Labour force participation,60.7
+001,World,2015,Unemployment rate,6.0
+001,World,2023,Labour force participation,59.7
+001,World,2023,Unemployment rate,5.8
+002,Africa,2005,Labour force participation,64.4
+002,Africa,2005,Unemployment rate,6.6
+002,Africa,2010,Labour force participation,63.8
+002,Africa,2010,Unemployment rate,6.5
+002,Africa,2015,Labour force participation,62.7
+002,Africa,2015,Unemployment rate,6.7
+002,Africa,2023,Labour force participation,62.7
+002,Africa,2023,Unemployment rate,7.1
+015,Northern Africa,2005,Labour force participation,46.6
+015,Northern Africa,2005,Unemployment rate,12.7
+015,Northern Africa,2010,Labour force participation,47.8
+015,Northern Africa,2010,Unemployment rate,10.5
+015,Northern Africa,2015,Labour force participation,46.4
+015,Northern Africa,2015,Unemployment rate,13.1
+015,Northern Africa,2023,Labour force participation,43.7
+015,Northern Africa,2023,Unemployment rate,11.3
+202,Sub-Saharan Africa,2005,Labour force participation,69.8
+202,Sub-Saharan Africa,2005,Unemployment rate,5.3
+202,Sub-Saharan Africa,2010,Labour force participation,68.5
+202,Sub-Saharan Africa,2010,Unemployment rate,5.7
+202,Sub-Saharan Africa,2015,Labour force participation,67.2
+202,Sub-Saharan Africa,2015,Unemployment rate,5.5
+202,Sub-Saharan Africa,2023,Labour force participation,67.6
+202,Sub-Saharan Africa,2023,Unemployment rate,6.4
+014,Eastern Africa,2005,Labour force participation,76.3
+014,Eastern Africa,2005,Unemployment rate,4.1
+014,Eastern Africa,2010,Labour force participation,75.7
+014,Eastern Africa,2010,Unemployment rate,4.2
+014,Eastern Africa,2015,Labour force participation,75.1
+014,Eastern Africa,2015,Unemployment rate,3.7
+014,Eastern Africa,2023,Labour force participation,74.5
+014,Eastern Africa,2023,Unemployment rate,4.8
+017,Middle Africa,2005,Labour force participation,73.5
+017,Middle Africa,2005,Unemployment rate,4.0
+017,Middle Africa,2010,Labour force participation,70.2
+017,Middle Africa,2010,Unemployment rate,5.7
+017,Middle Africa,2015,Labour force participation,68.4
+017,Middle Africa,2015,Unemployment rate,5.9
+017,Middle Africa,2023,Labour force participation,68.3
+017,Middle Africa,2023,Unemployment rate,6.4
+018,Southern Africa,2005,Labour force participation,60.0
+018,Southern Africa,2005,Unemployment rate,19.8
+018,Southern Africa,2010,Labour force participation,54.8
+018,Southern Africa,2010,Unemployment rate,22.8
+018,Southern Africa,2015,Labour force participation,58.0
+018,Southern Africa,2015,Unemployment rate,22.5
+018,Southern Africa,2023,Labour force participation,58.4
+018,Southern Africa,2023,Unemployment rate,28.8
+011,Western Africa,2005,Labour force participation,63.8
+011,Western Africa,2005,Unemployment rate,4.1
+011,Western Africa,2010,Labour force participation,63.3
+011,Western Africa,2010,Unemployment rate,4.0
+011,Western Africa,2015,Labour force participation,60.2
+011,Western Africa,2015,Unemployment rate,4.0
+011,Western Africa,2023,Labour force participation,61.2
+011,Western Africa,2023,Unemployment rate,4.6
+019,Americas,2005,Labour force participation,64.4
+019,Americas,2005,Unemployment rate,7.1
+019,Americas,2010,Labour force participation,63.7
+019,Americas,2010,Unemployment rate,8.0
+019,Americas,2015,Labour force participation,63.0
+019,Americas,2015,Unemployment rate,6.2
+019,Americas,2023,Labour force participation,62.2
+019,Americas,2023,Unemployment rate,6.1
+021,Northern America,2005,Labour force participation,65.0
+021,Northern America,2005,Unemployment rate,5.3
+021,Northern America,2010,Labour force participation,63.8
+021,Northern America,2010,Unemployment rate,9.5
+021,Northern America,2015,Labour force participation,62.5
+021,Northern America,2015,Unemployment rate,5.5
+021,Northern America,2023,Labour force participation,62.2
+021,Northern America,2023,Unemployment rate,4.7
+419,Latin America and the Caribbean,2005,Labour force participation,63.9
+419,Latin America and the Caribbean,2005,Unemployment rate,8.3
+419,Latin America and the Caribbean,2010,Labour force participation,63.6
+419,Latin America and the Caribbean,2010,Unemployment rate,7.1
+419,Latin America and the Caribbean,2015,Labour force participation,63.3
+419,Latin America and the Caribbean,2015,Unemployment rate,6.7
+419,Latin America and the Caribbean,2023,Labour force participation,62.2
+419,Latin America and the Caribbean,2023,Unemployment rate,7.0
+029,Caribbean,2005,Labour force participation,57.2
+029,Caribbean,2005,Unemployment rate,7.6
+029,Caribbean,2010,Labour force participation,57.3
+029,Caribbean,2010,Unemployment rate,8.1
+029,Caribbean,2015,Labour force participation,59.3
+029,Caribbean,2015,Unemployment rate,8.0
+029,Caribbean,2023,Labour force participation,60.2
+029,Caribbean,2023,Unemployment rate,7.8
+013,Central America,2005,Labour force participation,60.7
+013,Central America,2005,Unemployment rate,4.0
+013,Central America,2010,Labour force participation,60.7
+013,Central America,2010,Unemployment rate,5.3
+013,Central America,2015,Labour force participation,61.0
+013,Central America,2015,Unemployment rate,4.4
+013,Central America,2023,Labour force participation,61.3
+013,Central America,2023,Unemployment rate,4.1
+005,South America,2005,Labour force participation,65.8
+005,South America,2005,Unemployment rate,9.8
+005,South America,2010,Labour force participation,65.3
+005,South America,2010,Unemployment rate,7.6
+005,South America,2015,Labour force participation,64.6
+005,South America,2015,Unemployment rate,7.4
+005,South America,2023,Labour force participation,62.8
+005,South America,2023,Unemployment rate,8.0
+143,Central Asia,2005,Labour force participation,61.0
+143,Central Asia,2005,Unemployment rate,7.5
+143,Central Asia,2010,Labour force participation,59.8
+143,Central Asia,2010,Unemployment rate,5.6
+143,Central Asia,2015,Labour force participation,58.6
+143,Central Asia,2015,Unemployment rate,5.0
+143,Central Asia,2023,Labour force participation,57.2
+143,Central Asia,2023,Unemployment rate,5.9
+030,Eastern Asia,2005,Labour force participation,72.1
+030,Eastern Asia,2005,Unemployment rate,4.5
+030,Eastern Asia,2010,Labour force participation,69.5
+030,Eastern Asia,2010,Unemployment rate,4.5
+030,Eastern Asia,2015,Labour force participation,68.2
+030,Eastern Asia,2015,Unemployment rate,4.5
+030,Eastern Asia,2023,Labour force participation,65.9
+030,Eastern Asia,2023,Unemployment rate,4.4
+035,South-eastern Asia,2005,Labour force participation,66.9
+035,South-eastern Asia,2005,Unemployment rate,4.5
+035,South-eastern Asia,2010,Labour force participation,67.7
+035,South-eastern Asia,2010,Unemployment rate,3.3
+035,South-eastern Asia,2015,Labour force participation,67.6
+035,South-eastern Asia,2015,Unemployment rate,2.9
+035,South-eastern Asia,2023,Labour force participation,66.0
+035,South-eastern Asia,2023,Unemployment rate,2.5
+034,Southern Asia,2005,Labour force participation,53.8
+034,Southern Asia,2005,Unemployment rate,7.7
+034,Southern Asia,2010,Labour force participation,53.6
+034,Southern Asia,2010,Unemployment rate,7.3
+034,Southern Asia,2015,Labour force participation,50.5
+034,Southern Asia,2015,Unemployment rate,7.3
+034,Southern Asia,2023,Labour force participation,50.2
+034,Southern Asia,2023,Unemployment rate,7.2
+145,Western Asia,2005,Labour force participation,48.2
+145,Western Asia,2005,Unemployment rate,8.0
+145,Western Asia,2010,Labour force participation,49.0
+145,Western Asia,2010,Unemployment rate,7.2
+145,Western Asia,2015,Labour force participation,50.7
+145,Western Asia,2015,Unemployment rate,7.7
+145,Western Asia,2023,Labour force participation,50.6
+145,Western Asia,2023,Unemployment rate,9.4
+134,Caucasus,2005,Labour force participation,51.0
+134,Caucasus,2005,Unemployment rate,10.4
+134,Caucasus,2010,Labour force participation,51.9
+134,Caucasus,2010,Unemployment rate,10.3
+134,Caucasus,2015,Labour force participation,54.4
+134,Caucasus,2015,Unemployment rate,9.7
+134,Caucasus,2023,Labour force participation,55.4
+134,Caucasus,2023,Unemployment rate,8.9
+151,Eastern Europe,2005,Labour force participation,58.0
+151,Eastern Europe,2005,Unemployment rate,8.8
+151,Eastern Europe,2010,Labour force participation,59.1
+151,Eastern Europe,2010,Unemployment rate,8.0
+151,Eastern Europe,2015,Labour force participation,59.5
+151,Eastern Europe,2015,Unemployment rate,6.6
+151,Eastern Europe,2023,Labour force participation,58.8
+151,Eastern Europe,2023,Unemployment rate,5.1
+154,Northern Europe,2005,Labour force participation,62.4
+154,Northern Europe,2005,Unemployment rate,5.4
+154,Northern Europe,2010,Labour force participation,62.3
+154,Northern Europe,2010,Unemployment rate,8.6
+154,Northern Europe,2015,Labour force participation,62.5
+154,Northern Europe,2015,Unemployment rate,6.1
+154,Northern Europe,2023,Labour force participation,62.9
+154,Northern Europe,2023,Unemployment rate,4.6
+039,Southern Europe,2005,Labour force participation,53.0
+039,Southern Europe,2005,Unemployment rate,10.3
+039,Southern Europe,2010,Labour force participation,53.4
+039,Southern Europe,2010,Unemployment rate,14.2
+039,Southern Europe,2015,Labour force participation,53.3
+039,Southern Europe,2015,Unemployment rate,17.2
+039,Southern Europe,2023,Labour force participation,53.6
+039,Southern Europe,2023,Unemployment rate,10.7
+155,Western Europe,2005,Labour force participation,58.2
+155,Western Europe,2005,Unemployment rate,9.1
+155,Western Europe,2010,Labour force participation,59.0
+155,Western Europe,2010,Unemployment rate,7.2
+155,Western Europe,2015,Labour force participation,59.1
+155,Western Europe,2015,Unemployment rate,6.9
+155,Western Europe,2023,Labour force participation,59.9
+155,Western Europe,2023,Unemployment rate,4.9
+009,Oceania,2005,Labour force participation,64.2
+009,Oceania,2005,Unemployment rate,4.5
+009,Oceania,2010,Labour force participation,62.8
+009,Oceania,2010,Unemployment rate,5.0
+009,Oceania,2015,Labour force participation,62.3
+009,Oceania,2015,Unemployment rate,5.4
+009,Oceania,2023,Labour force participation,62.4
+009,Oceania,2023,Unemployment rate,3.4
+004,Afghanistan,2005,Labour force participation,47.1
+004,Afghanistan,2005,Unemployment rate,8.1
+004,Afghanistan,2010,Labour force participation,46.9
+004,Afghanistan,2010,Unemployment rate,8.1
+004,Afghanistan,2015,Labour force participation,47.2
+004,Afghanistan,2015,Unemployment rate,9.0
+004,Afghanistan,2020,Labour force participation,41.6
+004,Afghanistan,2020,Unemployment rate,11.7
+008,Albania,2005,Labour force participation,56.4
+008,Albania,2005,Unemployment rate,16.0
+008,Albania,2010,Labour force participation,55.2
+008,Albania,2010,Unemployment rate,14.1
+008,Albania,2015,Labour force participation,55.5
+008,Albania,2015,Unemployment rate,17.2
+008,Albania,2023,Labour force participation,59.4
+008,Albania,2023,Unemployment rate,12.5
+012,Algeria,2005,Labour force participation,42.5
+012,Algeria,2005,Unemployment rate,15.3
+012,Algeria,2010,Labour force participation,41.7
+012,Algeria,2010,Unemployment rate,10.0
+012,Algeria,2015,Labour force participation,41.7
+012,Algeria,2015,Unemployment rate,11.2
+012,Algeria,2023,Labour force participation,40.8
+012,Algeria,2023,Unemployment rate,11.6
+016,American Samoa,2000,Labour force participation,52.9
+016,American Samoa,2000,Unemployment rate,5.1
+016,American Samoa,2005,Labour force participation,59.9
+016,American Samoa,2010,Labour force participation,52.8
+016,American Samoa,2010,Unemployment rate,9.2
+024,Angola,2005,Labour force participation,77.2
+024,Angola,2005,Unemployment rate,3.9
+024,Angola,2010,Labour force participation,77.3
+024,Angola,2010,Unemployment rate,9.4
+024,Angola,2015,Labour force participation,77.3
+024,Angola,2015,Unemployment rate,9.6
+024,Angola,2023,Labour force participation,77.0
+024,Angola,2023,Unemployment rate,10.1
+032,Argentina,2005,Labour force participation,61.5
+032,Argentina,2005,Unemployment rate,11.5
+032,Argentina,2010,Labour force participation,60.2
+032,Argentina,2010,Unemployment rate,7.7
+032,Argentina,2015,Labour force participation,59.2
+032,Argentina,2015,Unemployment rate,7.5
+032,Argentina,2023,Labour force participation,59.4
+032,Argentina,2023,Unemployment rate,6.6
+051,Armenia,2005,Labour force participation,60.5
+051,Armenia,2005,Unemployment rate,10.2
+051,Armenia,2010,Labour force participation,61.4
+051,Armenia,2010,Unemployment rate,10.5
+051,Armenia,2015,Labour force participation,61.6
+051,Armenia,2015,Unemployment rate,12.2
+051,Armenia,2023,Labour force participation,62.3
+051,Armenia,2023,Unemployment rate,13.0
+533,Aruba,2001,Unemployment rate,6.9
+533,Aruba,2010,Labour force participation,63.9
+533,Aruba,2010,Unemployment rate,10.6
+533,Aruba,2011,Labour force participation,63.8
+036,Australia,2005,Labour force participation,64.4
+036,Australia,2005,Unemployment rate,5.0
+036,Australia,2010,Labour force participation,65.4
+036,Australia,2010,Unemployment rate,5.2
+036,Australia,2015,Labour force participation,65.0
+036,Australia,2015,Unemployment rate,6.1
+036,Australia,2023,Labour force participation,65.7
+036,Australia,2023,Unemployment rate,3.5
+040,Austria,2005,Labour force participation,58.6
+040,Austria,2005,Unemployment rate,5.6
+040,Austria,2010,Labour force participation,60.4
+040,Austria,2010,Unemployment rate,4.8
+040,Austria,2015,Labour force participation,60.7
+040,Austria,2015,Unemployment rate,5.7
+040,Austria,2023,Labour force participation,61.3
+040,Austria,2023,Unemployment rate,4.8
+031,Azerbaijan,2005,Labour force participation,66.6
+031,Azerbaijan,2005,Unemployment rate,7.3
+031,Azerbaijan,2010,Labour force participation,60.9
+031,Azerbaijan,2010,Unemployment rate,5.6
+031,Azerbaijan,2015,Labour force participation,63.4
+031,Azerbaijan,2015,Unemployment rate,5.0
+031,Azerbaijan,2023,Labour force participation,65.6
+031,Azerbaijan,2023,Unemployment rate,5.4
+044,Bahamas,2005,Labour force participation,74.9
+044,Bahamas,2005,Unemployment rate,10.2
+044,Bahamas,2010,Labour force participation,74.2
+044,Bahamas,2010,Unemployment rate,14.3
+044,Bahamas,2015,Labour force participation,73.6
+044,Bahamas,2015,Unemployment rate,12.0
+044,Bahamas,2023,Labour force participation,72.4
+044,Bahamas,2023,Unemployment rate,9.6
+048,Bahrain,2005,Labour force participation,67.9
+048,Bahrain,2005,Unemployment rate,1.1
+048,Bahrain,2010,Labour force participation,71.8
+048,Bahrain,2010,Unemployment rate,1.1
+048,Bahrain,2015,Labour force participation,70.9
+048,Bahrain,2015,Unemployment rate,1.2
+048,Bahrain,2023,Labour force participation,71.9
+048,Bahrain,2023,Unemployment rate,1.4
+050,Bangladesh,2005,Labour force participation,58.1
+050,Bangladesh,2005,Unemployment rate,4.3
+050,Bangladesh,2010,Labour force participation,57.3
+050,Bangladesh,2010,Unemployment rate,3.4
+050,Bangladesh,2015,Labour force participation,56.3
+050,Bangladesh,2015,Unemployment rate,4.4
+050,Bangladesh,2023,Labour force participation,58.7
+050,Bangladesh,2023,Unemployment rate,4.7
+052,Barbados,2005,Labour force participation,69.6
+052,Barbados,2005,Unemployment rate,9.1
+052,Barbados,2010,Labour force participation,67.6
+052,Barbados,2010,Unemployment rate,10.7
+052,Barbados,2015,Labour force participation,64.0
+052,Barbados,2015,Unemployment rate,9.8
+052,Barbados,2023,Labour force participation,60.7
+052,Barbados,2023,Unemployment rate,7.6
+112,Belarus,2005,Labour force participation,60.3
+112,Belarus,2005,Unemployment rate,9.0
+112,Belarus,2010,Labour force participation,62.4
+112,Belarus,2010,Unemployment rate,6.3
+112,Belarus,2015,Labour force participation,63.7
+112,Belarus,2015,Unemployment rate,5.8
+112,Belarus,2023,Labour force participation,62.7
+112,Belarus,2023,Unemployment rate,4.4
+056,Belgium,2005,Labour force participation,53.3
+056,Belgium,2005,Unemployment rate,8.4
+056,Belgium,2010,Labour force participation,54.1
+056,Belgium,2010,Unemployment rate,8.3
+056,Belgium,2015,Labour force participation,53.3
+056,Belgium,2015,Unemployment rate,8.5
+056,Belgium,2023,Labour force participation,54.7
+056,Belgium,2023,Unemployment rate,5.9
+084,Belize,2005,Labour force participation,60.8
+084,Belize,2005,Unemployment rate,10.9
+084,Belize,2010,Labour force participation,62.1
+084,Belize,2010,Unemployment rate,8.2
+084,Belize,2015,Labour force participation,64.3
+084,Belize,2015,Unemployment rate,7.6
+084,Belize,2023,Labour force participation,65.0
+084,Belize,2023,Unemployment rate,10.2
+204,Benin,2005,Labour force participation,71.8
+204,Benin,2005,Unemployment rate,0.8
+204,Benin,2010,Labour force participation,71.9
+204,Benin,2010,Unemployment rate,1.0
+204,Benin,2015,Labour force participation,66.8
+204,Benin,2015,Unemployment rate,2.0
+204,Benin,2023,Labour force participation,62.5
+204,Benin,2023,Unemployment rate,1.6
+060,Bermuda,2000,Unemployment rate,2.7
+060,Bermuda,2009,Labour force participation,82.0
+060,Bermuda,2009,Unemployment rate,4.5
+060,Bermuda,2010,Labour force participation,84.0
+060,Bermuda,2012,Labour force participation,76.1
+060,Bermuda,2012,Unemployment rate,8.4
+060,Bermuda,2013,Unemployment rate,6.7
+064,Bhutan,2005,Labour force participation,70.0
+064,Bhutan,2005,Unemployment rate,3.1
+064,Bhutan,2010,Labour force participation,68.2
+064,Bhutan,2010,Unemployment rate,3.3
+064,Bhutan,2015,Labour force participation,63.1
+064,Bhutan,2015,Unemployment rate,2.5
+064,Bhutan,2023,Labour force participation,62.2
+064,Bhutan,2023,Unemployment rate,3.5
+068,Bolivia,2005,Labour force participation,70.0
+068,Bolivia,2005,Unemployment rate,2.5
+068,Bolivia,2010,Labour force participation,72.1
+068,Bolivia,2010,Unemployment rate,2.6
+068,Bolivia,2015,Labour force participation,67.1
+068,Bolivia,2015,Unemployment rate,3.1
+068,Bolivia,2023,Labour force participation,69.9
+068,Bolivia,2023,Unemployment rate,4.6
+070,Bosnia and Herzegovina,2005,Labour force participation,43.2
+070,Bosnia and Herzegovina,2005,Unemployment rate,30.1
+070,Bosnia and Herzegovina,2010,Labour force participation,45.7
+070,Bosnia and Herzegovina,2010,Unemployment rate,27.3
+070,Bosnia and Herzegovina,2015,Labour force participation,46.3
+070,Bosnia and Herzegovina,2015,Unemployment rate,27.7
+070,Bosnia and Herzegovina,2023,Labour force participation,49.2
+070,Bosnia and Herzegovina,2023,Unemployment rate,14.6
+072,Botswana,2005,Labour force participation,58.6
+072,Botswana,2005,Unemployment rate,19.8
+072,Botswana,2010,Labour force participation,59.1
+072,Botswana,2010,Unemployment rate,17.9
+072,Botswana,2015,Labour force participation,61.8
+072,Botswana,2015,Unemployment rate,19.3
+072,Botswana,2023,Labour force participation,64.9
+072,Botswana,2023,Unemployment rate,20.8
+076,Brazil,2005,Labour force participation,66.6
+076,Brazil,2005,Unemployment rate,10.6
+076,Brazil,2010,Labour force participation,64.5
+076,Brazil,2010,Unemployment rate,8.0
+076,Brazil,2015,Labour force participation,63.7
+076,Brazil,2015,Unemployment rate,8.6
+076,Brazil,2023,Labour force participation,62.7
+076,Brazil,2023,Unemployment rate,9.1
+096,Brunei,2005,Labour force participation,67.3
+096,Brunei,2005,Unemployment rate,6.0
+096,Brunei,2010,Labour force participation,66.6
+096,Brunei,2010,Unemployment rate,6.6
+096,Brunei,2015,Labour force participation,64.0
+096,Brunei,2015,Unemployment rate,7.7
+096,Brunei,2023,Labour force participation,64.2
+096,Brunei,2023,Unemployment rate,7.0
+100,Bulgaria,2005,Labour force participation,49.7
+100,Bulgaria,2005,Unemployment rate,10.1
+100,Bulgaria,2010,Labour force participation,53.4
+100,Bulgaria,2010,Unemployment rate,10.3
+100,Bulgaria,2015,Labour force participation,54.1
+100,Bulgaria,2015,Unemployment rate,9.1
+100,Bulgaria,2023,Labour force participation,57.2
+100,Bulgaria,2023,Unemployment rate,4.2
+854,Burkina Faso,2005,Labour force participation,73.6
+854,Burkina Faso,2005,Unemployment rate,4.0
+854,Burkina Faso,2010,Labour force participation,69.3
+854,Burkina Faso,2010,Unemployment rate,3.6
+854,Burkina Faso,2015,Labour force participation,65.6
+854,Burkina Faso,2015,Unemployment rate,4.3
+854,Burkina Faso,2023,Labour force participation,65.3
+854,Burkina Faso,2023,Unemployment rate,5.2
+108,Burundi,2005,Labour force participation,80.5
+108,Burundi,2005,Unemployment rate,3.2
+108,Burundi,2010,Labour force participation,79.5
+108,Burundi,2010,Unemployment rate,1.6
+108,Burundi,2015,Labour force participation,79.3
+108,Burundi,2015,Unemployment rate,1.5
+108,Burundi,2023,Labour force participation,79.8
+108,Burundi,2023,Unemployment rate,1.0
+132,Cabo Verde,2005,Labour force participation,59.6
+132,Cabo Verde,2005,Unemployment rate,10.9
+132,Cabo Verde,2010,Labour force participation,59.1
+132,Cabo Verde,2010,Unemployment rate,10.7
+132,Cabo Verde,2015,Labour force participation,59.2
+132,Cabo Verde,2015,Unemployment rate,11.8
+132,Cabo Verde,2023,Labour force participation,56.4
+132,Cabo Verde,2023,Unemployment rate,13.5
+116,Cambodia,2005,Labour force participation,73.8
+116,Cambodia,2005,Unemployment rate,1.1
+116,Cambodia,2010,Labour force participation,69.6
+116,Cambodia,2010,Unemployment rate,0.8
+116,Cambodia,2015,Labour force participation,71.5
+116,Cambodia,2015,Unemployment rate,0.4
+116,Cambodia,2023,Labour force participation,75.5
+116,Cambodia,2023,Unemployment rate,0.3
+120,Cameroon,2005,Labour force participation,81.8
+120,Cameroon,2005,Unemployment rate,4.4
+120,Cameroon,2010,Labour force participation,76.2
+120,Cameroon,2010,Unemployment rate,4.1
+120,Cameroon,2015,Labour force participation,72.1
+120,Cameroon,2015,Unemployment rate,3.5
+120,Cameroon,2023,Labour force participation,71.7
+120,Cameroon,2023,Unemployment rate,4.0
+124,Canada,2005,Labour force participation,67.1
+124,Canada,2005,Unemployment rate,6.8
+124,Canada,2010,Labour force participation,66.9
+124,Canada,2010,Unemployment rate,8.1
+124,Canada,2015,Labour force participation,65.8
+124,Canada,2015,Unemployment rate,6.9
+124,Canada,2023,Labour force participation,64.3
+124,Canada,2023,Unemployment rate,5.6
+136,Cayman Islands,2005,Unemployment rate,3.5
+136,Cayman Islands,2009,Labour force participation,84.2
+136,Cayman Islands,2009,Unemployment rate,6.0
+136,Cayman Islands,2010,Labour force participation,81.8
+136,Cayman Islands,2010,Unemployment rate,6.7
+136,Cayman Islands,2013,Labour force participation,83.1
+136,Cayman Islands,2013,Unemployment rate,6.3
+140,Central African Republic,2005,Labour force participation,70.4
+140,Central African Republic,2005,Unemployment rate,5.3
+140,Central African Republic,2010,Labour force participation,70.5
+140,Central African Republic,2010,Unemployment rate,5.5
+140,Central African Republic,2015,Labour force participation,70.9
+140,Central African Republic,2015,Unemployment rate,5.7
+140,Central African Republic,2023,Labour force participation,70.7
+140,Central African Republic,2023,Unemployment rate,6.3
+148,Chad,2005,Labour force participation,66.7
+148,Chad,2005,Unemployment rate,0.9
+148,Chad,2010,Labour force participation,64.2
+148,Chad,2010,Unemployment rate,1.0
+148,Chad,2015,Labour force participation,61.6
+148,Chad,2015,Unemployment rate,1.1
+148,Chad,2023,Labour force participation,59.5
+148,Chad,2023,Unemployment rate,1.3
+830,Channel Islands,2005,Labour force participation,60.5
+830,Channel Islands,2005,Unemployment rate,6.3
+830,Channel Islands,2010,Labour force participation,60.1
+830,Channel Islands,2010,Unemployment rate,7.6
+830,Channel Islands,2015,Labour force participation,59.4
+830,Channel Islands,2015,Unemployment rate,8.6
+830,Channel Islands,2023,Labour force participation,58.6
+830,Channel Islands,2023,Unemployment rate,7.4
+152,Chile,2005,Labour force participation,55.7
+152,Chile,2005,Unemployment rate,9.3
+152,Chile,2010,Labour force participation,58.7
+152,Chile,2010,Unemployment rate,8.4
+152,Chile,2015,Labour force participation,59.9
+152,Chile,2015,Unemployment rate,6.5
+152,Chile,2023,Labour force participation,58.0
+152,Chile,2023,Unemployment rate,8.5
+156,China,2005,Labour force participation,74.0
+156,China,2005,Unemployment rate,4.5
+156,China,2010,Labour force participation,71.0
+156,China,2010,Unemployment rate,4.5
+156,China,2015,Labour force participation,69.3
+156,China,2015,Unemployment rate,4.7
+156,China,2023,Labour force participation,66.2
+156,China,2023,Unemployment rate,4.6
+344,Hong Kong,2005,Labour force participation,61.0
+344,Hong Kong,2005,Unemployment rate,5.6
+344,Hong Kong,2010,Labour force participation,59.6
+344,Hong Kong,2010,Unemployment rate,4.3
+344,Hong Kong,2015,Labour force participation,61.1
+344,Hong Kong,2015,Unemployment rate,3.3
+344,Hong Kong,2023,Labour force participation,58.5
+344,Hong Kong,2023,Unemployment rate,4.8
+446,Macao,2005,Labour force participation,63.6
+446,Macao,2005,Unemployment rate,4.2
+446,Macao,2010,Labour force participation,69.8
+446,Macao,2010,Unemployment rate,2.8
+446,Macao,2015,Labour force participation,70.6
+446,Macao,2015,Unemployment rate,1.8
+446,Macao,2023,Labour force participation,68.7
+446,Macao,2023,Unemployment rate,1.9
+170,Colombia,2005,Labour force participation,65.9
+170,Colombia,2005,Unemployment rate,11.9
+170,Colombia,2010,Labour force participation,67.8
+170,Colombia,2010,Unemployment rate,11.0
+170,Colombia,2015,Labour force participation,69.5
+170,Colombia,2015,Unemployment rate,8.3
+170,Colombia,2023,Labour force participation,63.7
+170,Colombia,2023,Unemployment rate,10.6
+174,Comoros,2005,Labour force participation,41.7
+174,Comoros,2005,Unemployment rate,4.9
+174,Comoros,2010,Labour force participation,43.2
+174,Comoros,2010,Unemployment rate,6.7
+174,Comoros,2015,Labour force participation,44.4
+174,Comoros,2015,Unemployment rate,8.1
+174,Comoros,2023,Labour force participation,44.2
+174,Comoros,2023,Unemployment rate,8.9
+178,Congo,2005,Labour force participation,67.9
+178,Congo,2005,Unemployment rate,19.8
+178,Congo,2010,Labour force participation,67.9
+178,Congo,2010,Unemployment rate,20.0
+178,Congo,2015,Labour force participation,68.0
+178,Congo,2015,Unemployment rate,20.5
+178,Congo,2023,Labour force participation,67.7
+178,Congo,2023,Unemployment rate,21.6
+184,Cook Islands,2001,Labour force participation,74.5
+184,Cook Islands,2006,Labour force participation,70.2
+184,Cook Islands,2006,Unemployment rate,6.9
+184,Cook Islands,2011,Labour force participation,71.0
+184,Cook Islands,2011,Unemployment rate,8.2
+188,Costa Rica,2005,Labour force participation,62.1
+188,Costa Rica,2005,Unemployment rate,6.6
+188,Costa Rica,2010,Labour force participation,59.2
+188,Costa Rica,2010,Unemployment rate,7.2
+188,Costa Rica,2015,Labour force participation,62.8
+188,Costa Rica,2015,Unemployment rate,8.4
+188,Costa Rica,2023,Labour force participation,61.7
+188,Costa Rica,2023,Unemployment rate,11.2
+384,Ivory Coast,2005,Labour force participation,65.0
+384,Ivory Coast,2005,Unemployment rate,5.7
+384,Ivory Coast,2010,Labour force participation,64.9
+384,Ivory Coast,2010,Unemployment rate,6.8
+384,Ivory Coast,2015,Labour force participation,64.8
+384,Ivory Coast,2015,Unemployment rate,2.7
+384,Ivory Coast,2023,Labour force participation,65.4
+384,Ivory Coast,2023,Unemployment rate,2.6
+191,Croatia,2005,Labour force participation,49.6
+191,Croatia,2005,Unemployment rate,12.6
+191,Croatia,2010,Labour force participation,52.6
+191,Croatia,2010,Unemployment rate,11.6
+191,Croatia,2015,Labour force participation,52.7
+191,Croatia,2015,Unemployment rate,16.2
+191,Croatia,2023,Labour force participation,51.8
+191,Croatia,2023,Unemployment rate,6.5
+192,Cuba,2005,Labour force participation,53.3
+192,Cuba,2005,Unemployment rate,2.0
+192,Cuba,2010,Labour force participation,55.0
+192,Cuba,2010,Unemployment rate,2.5
+192,Cuba,2015,Labour force participation,56.0
+192,Cuba,2015,Unemployment rate,2.4
+192,Cuba,2023,Labour force participation,55.2
+192,Cuba,2023,Unemployment rate,1.4
+531,Curaçao,2005,Labour force participation,59.4
+531,Curaçao,2005,Unemployment rate,18.2
+531,Curaçao,2008,Labour force participation,59.0
+531,Curaçao,2008,Unemployment rate,10.3
+531,Curaçao,2009,Unemployment rate,9.6
+531,Curaçao,2013,Unemployment rate,13.0
+196,Cyprus,2005,Labour force participation,63.2
+196,Cyprus,2005,Unemployment rate,5.3
+196,Cyprus,2010,Labour force participation,64.3
+196,Cyprus,2010,Unemployment rate,6.3
+196,Cyprus,2015,Labour force participation,62.3
+196,Cyprus,2015,Unemployment rate,14.9
+196,Cyprus,2023,Labour force participation,63.2
+196,Cyprus,2023,Unemployment rate,6.9
+203,Czechia,2005,Labour force participation,59.4
+203,Czechia,2005,Unemployment rate,7.9
+203,Czechia,2010,Labour force participation,58.4
+203,Czechia,2010,Unemployment rate,7.3
+203,Czechia,2015,Labour force participation,59.4
+203,Czechia,2015,Unemployment rate,5.1
+203,Czechia,2023,Labour force participation,60.5
+203,Czechia,2023,Unemployment rate,2.3
+408,North Korea,2005,Labour force participation,74.4
+408,North Korea,2005,Unemployment rate,2.9
+408,North Korea,2010,Labour force participation,74.6
+408,North Korea,2010,Unemployment rate,2.8
+408,North Korea,2015,Labour force participation,74.6
+408,North Korea,2015,Unemployment rate,2.9
+408,North Korea,2023,Labour force participation,74.8
+408,North Korea,2023,Unemployment rate,2.9
+180,Democratic Republic of the Congo,2005,Labour force participation,72.5
+180,Democratic Republic of the Congo,2005,Unemployment rate,2.9
+180,Democratic Republic of the Congo,2010,Labour force participation,68.0
+180,Democratic Republic of the Congo,2010,Unemployment rate,4.0
+180,Democratic Republic of the Congo,2015,Labour force participation,66.0
+180,Democratic Republic of the Congo,2015,Unemployment rate,4.5
+180,Democratic Republic of the Congo,2023,Labour force participation,66.3
+180,Democratic Republic of the Congo,2023,Unemployment rate,5.0
+208,Denmark,2005,Labour force participation,65.7
+208,Denmark,2005,Unemployment rate,4.8
+208,Denmark,2010,Labour force participation,63.5
+208,Denmark,2010,Unemployment rate,7.8
+208,Denmark,2015,Labour force participation,61.3
+208,Denmark,2015,Unemployment rate,6.3
+208,Denmark,2023,Labour force participation,62.7
+208,Denmark,2023,Unemployment rate,4.2
+262,Djibouti,2005,Labour force participation,34.7
+262,Djibouti,2005,Unemployment rate,27.9
+262,Djibouti,2010,Labour force participation,33.1
+262,Djibouti,2010,Unemployment rate,27.2
+262,Djibouti,2015,Labour force participation,32.4
+262,Djibouti,2015,Unemployment rate,26.3
+262,Djibouti,2023,Labour force participation,31.5
+262,Djibouti,2023,Unemployment rate,28.0
+214,Dominican Republic,2005,Labour force participation,56.6
+214,Dominican Republic,2005,Unemployment rate,6.6
+214,Dominican Republic,2010,Labour force participation,56.7
+214,Dominican Republic,2010,Unemployment rate,5.2
+214,Dominican Republic,2015,Labour force participation,62.0
+214,Dominican Republic,2015,Unemployment rate,7.6
+214,Dominican Republic,2023,Labour force participation,64.8
+214,Dominican Republic,2023,Unemployment rate,7.7
+218,Ecuador,2005,Labour force participation,67.0
+218,Ecuador,2005,Unemployment rate,3.8
+218,Ecuador,2010,Labour force participation,62.7
+218,Ecuador,2010,Unemployment rate,4.1
+218,Ecuador,2015,Labour force participation,65.7
+218,Ecuador,2015,Unemployment rate,3.6
+218,Ecuador,2023,Labour force participation,67.0
+218,Ecuador,2023,Unemployment rate,3.8
+818,Egypt,2005,Labour force participation,46.0
+818,Egypt,2005,Unemployment rate,11.0
+818,Egypt,2010,Labour force participation,49.4
+818,Egypt,2010,Unemployment rate,8.8
+818,Egypt,2015,Labour force participation,47.0
+818,Egypt,2015,Unemployment rate,13.1
+818,Egypt,2023,Labour force participation,41.8
+818,Egypt,2023,Unemployment rate,7.0
+222,El Salvador,2005,Labour force participation,60.6
+222,El Salvador,2005,Unemployment rate,7.2
+222,El Salvador,2010,Labour force participation,59.9
+222,El Salvador,2010,Unemployment rate,4.9
+222,El Salvador,2015,Labour force participation,58.7
+222,El Salvador,2015,Unemployment rate,4.0
+222,El Salvador,2023,Labour force participation,59.2
+222,El Salvador,2023,Unemployment rate,4.2
+226,Equatorial Guinea,2005,Labour force participation,56.5
+226,Equatorial Guinea,2005,Unemployment rate,8.1
+226,Equatorial Guinea,2010,Labour force participation,56.2
+226,Equatorial Guinea,2010,Unemployment rate,8.4
+226,Equatorial Guinea,2015,Labour force participation,55.8
+226,Equatorial Guinea,2015,Unemployment rate,8.2
+226,Equatorial Guinea,2023,Labour force participation,55.3
+226,Equatorial Guinea,2023,Unemployment rate,8.6
+232,Eritrea,2005,Labour force participation,77.3
+232,Eritrea,2005,Unemployment rate,5.6
+232,Eritrea,2010,Labour force participation,77.8
+232,Eritrea,2010,Unemployment rate,5.9
+232,Eritrea,2015,Labour force participation,78.6
+232,Eritrea,2015,Unemployment rate,5.8
+232,Eritrea,2023,Labour force participation,77.7
+232,Eritrea,2023,Unemployment rate,6.7
+233,Estonia,2005,Labour force participation,58.6
+233,Estonia,2005,Unemployment rate,8.0
+233,Estonia,2010,Labour force participation,60.5
+233,Estonia,2010,Unemployment rate,16.7
+233,Estonia,2015,Labour force participation,61.8
+233,Estonia,2015,Unemployment rate,6.4
+233,Estonia,2023,Labour force participation,65.0
+233,Estonia,2023,Unemployment rate,6.0
+748,Eswatini,2005,Labour force participation,52.1
+748,Eswatini,2005,Unemployment rate,27.0
+748,Eswatini,2010,Labour force participation,51.7
+748,Eswatini,2010,Unemployment rate,26.4
+748,Eswatini,2015,Labour force participation,51.3
+748,Eswatini,2015,Unemployment rate,23.3
+748,Eswatini,2023,Labour force participation,50.6
+748,Eswatini,2023,Unemployment rate,24.7
+231,Ethiopia,2005,Labour force participation,82.0
+231,Ethiopia,2005,Unemployment rate,2.5
+231,Ethiopia,2010,Labour force participation,81.5
+231,Ethiopia,2010,Unemployment rate,2.3
+231,Ethiopia,2015,Labour force participation,81.0
+231,Ethiopia,2015,Unemployment rate,2.6
+231,Ethiopia,2023,Labour force participation,80.6
+231,Ethiopia,2023,Unemployment rate,4.0
+238,Falkland Islands,2013,Labour force participation,81.9
+238,Falkland Islands,2013,Unemployment rate,1.2
+234,Faroe Islands,2005,Unemployment rate,3.2
+234,Faroe Islands,2010,Labour force participation,81.7
+234,Faroe Islands,2010,Unemployment rate,6.4
+234,Faroe Islands,2013,Labour force participation,82.9
+234,Faroe Islands,2013,Unemployment rate,4.0
+242,Fiji,2005,Labour force participation,56.7
+242,Fiji,2005,Unemployment rate,3.9
+242,Fiji,2010,Labour force participation,62.0
+242,Fiji,2010,Unemployment rate,4.3
+242,Fiji,2015,Labour force participation,58.2
+242,Fiji,2015,Unemployment rate,4.3
+242,Fiji,2023,Labour force participation,56.8
+242,Fiji,2023,Unemployment rate,4.2
+246,Finland,2005,Labour force participation,60.7
+246,Finland,2005,Unemployment rate,8.4
+246,Finland,2010,Labour force participation,59.8
+246,Finland,2010,Unemployment rate,8.4
+246,Finland,2015,Labour force participation,58.9
+246,Finland,2015,Unemployment rate,9.4
+246,Finland,2023,Labour force participation,59.9
+246,Finland,2023,Unemployment rate,7.1
+250,France,2005,Labour force participation,56.2
+250,France,2005,Unemployment rate,8.5
+250,France,2010,Labour force participation,56.5
+250,France,2010,Unemployment rate,8.9
+250,France,2015,Labour force participation,56.0
+250,France,2015,Unemployment rate,10.4
+250,France,2023,Labour force participation,55.8
+250,France,2023,Unemployment rate,7.6
+254,French Guiana,2005,Labour force participation,42.1
+254,French Guiana,2005,Unemployment rate,24.8
+254,French Guiana,2010,Labour force participation,48.9
+254,French Guiana,2010,Unemployment rate,21.0
+254,French Guiana,2013,Labour force participation,53.4
+254,French Guiana,2013,Unemployment rate,21.3
+258,French Polynesia,2005,Labour force participation,56.9
+258,French Polynesia,2005,Unemployment rate,11.8
+258,French Polynesia,2010,Labour force participation,56.3
+258,French Polynesia,2010,Unemployment rate,12.2
+258,French Polynesia,2015,Labour force participation,56.4
+258,French Polynesia,2015,Unemployment rate,12.1
+258,French Polynesia,2023,Labour force participation,55.6
+258,French Polynesia,2023,Unemployment rate,13.1
+266,Gabon,2005,Labour force participation,49.4
+266,Gabon,2005,Unemployment rate,16.9
+266,Gabon,2010,Labour force participation,48.7
+266,Gabon,2010,Unemployment rate,20.4
+266,Gabon,2015,Labour force participation,48.4
+266,Gabon,2015,Unemployment rate,20.6
+266,Gabon,2023,Labour force participation,48.0
+266,Gabon,2023,Unemployment rate,21.4
+270,Gambia,2005,Labour force participation,58.4
+270,Gambia,2005,Unemployment rate,9.0
+270,Gambia,2010,Labour force participation,58.8
+270,Gambia,2010,Unemployment rate,9.2
+270,Gambia,2015,Labour force participation,59.9
+270,Gambia,2015,Unemployment rate,6.8
+270,Gambia,2023,Labour force participation,61.6
+270,Gambia,2023,Unemployment rate,4.7
+268,Georgia,2005,Labour force participation,64.1
+268,Georgia,2005,Unemployment rate,13.8
+268,Georgia,2010,Labour force participation,65.5
+268,Georgia,2010,Unemployment rate,20.2
+268,Georgia,2015,Labour force participation,68.8
+268,Georgia,2015,Unemployment rate,16.5
+268,Georgia,2023,Labour force participation,63.4
+268,Georgia,2023,Unemployment rate,11.7
+276,Germany,2005,Labour force participation,58.4
+276,Germany,2005,Unemployment rate,11.2
+276,Germany,2010,Labour force participation,59.4
+276,Germany,2010,Unemployment rate,7.0
+276,Germany,2015,Labour force participation,60.2
+276,Germany,2015,Unemployment rate,4.6
+276,Germany,2023,Labour force participation,61.7
+276,Germany,2023,Unemployment rate,3.3
+288,Ghana,2005,Labour force participation,72.9
+288,Ghana,2005,Unemployment rate,5.6
+288,Ghana,2010,Labour force participation,71.1
+288,Ghana,2010,Unemployment rate,5.4
+288,Ghana,2015,Labour force participation,69.3
+288,Ghana,2015,Unemployment rate,6.8
+288,Ghana,2023,Labour force participation,68.6
+288,Ghana,2023,Unemployment rate,3.9
+300,Greece,2005,Labour force participation,53.3
+300,Greece,2005,Unemployment rate,10.0
+300,Greece,2010,Labour force participation,53.4
+300,Greece,2010,Unemployment rate,12.7
+300,Greece,2015,Labour force participation,51.8
+300,Greece,2015,Unemployment rate,24.9
+300,Greece,2023,Labour force participation,50.7
+300,Greece,2023,Unemployment rate,11.7
+304,Greenland,2005,Unemployment rate,9.3
+304,Greenland,2006,Unemployment rate,8.4
+304,Greenland,2013,Unemployment rate,9.7
+312,Guadeloupe,2005,Labour force participation,41.8
+312,Guadeloupe,2005,Unemployment rate,25.9
+312,Guadeloupe,2010,Labour force participation,41.6
+312,Guadeloupe,2010,Unemployment rate,23.8
+312,Guadeloupe,2013,Labour force participation,52.7
+312,Guadeloupe,2013,Unemployment rate,26.1
+316,Guam,2005,Labour force participation,61.1
+316,Guam,2005,Unemployment rate,7.0
+316,Guam,2010,Labour force participation,61.4
+316,Guam,2010,Unemployment rate,8.2
+316,Guam,2015,Labour force participation,62.6
+316,Guam,2015,Unemployment rate,6.9
+316,Guam,2023,Labour force participation,61.7
+316,Guam,2023,Unemployment rate,6.1
+320,Guatemala,2005,Labour force participation,62.7
+320,Guatemala,2005,Unemployment rate,3.1
+320,Guatemala,2010,Labour force participation,60.5
+320,Guatemala,2010,Unemployment rate,3.5
+320,Guatemala,2015,Labour force participation,60.6
+320,Guatemala,2015,Unemployment rate,2.5
+320,Guatemala,2023,Labour force participation,58.8
+320,Guatemala,2023,Unemployment rate,2.8
+324,Guinea,2005,Labour force participation,62.5
+324,Guinea,2005,Unemployment rate,4.7
+324,Guinea,2010,Labour force participation,59.1
+324,Guinea,2010,Unemployment rate,4.8
+324,Guinea,2015,Labour force participation,55.7
+324,Guinea,2015,Unemployment rate,4.9
+324,Guinea,2023,Labour force participation,52.3
+324,Guinea,2023,Unemployment rate,5.7
+624,Guinea-Bissau,2005,Labour force participation,56.6
+624,Guinea-Bissau,2005,Unemployment rate,3.1
+624,Guinea-Bissau,2010,Labour force participation,56.3
+624,Guinea-Bissau,2010,Unemployment rate,3.1
+624,Guinea-Bissau,2015,Labour force participation,56.1
+624,Guinea-Bissau,2015,Unemployment rate,3.1
+624,Guinea-Bissau,2023,Labour force participation,55.9
+624,Guinea-Bissau,2023,Unemployment rate,3.6
+328,Guyana,2005,Labour force participation,56.3
+328,Guyana,2005,Unemployment rate,11.0
+328,Guyana,2010,Labour force participation,55.4
+328,Guyana,2010,Unemployment rate,11.8
+328,Guyana,2015,Labour force participation,54.6
+328,Guyana,2015,Unemployment rate,13.3
+328,Guyana,2023,Labour force participation,49.7
+328,Guyana,2023,Unemployment rate,11.8
+332,Haiti,2005,Labour force participation,63.8
+332,Haiti,2005,Unemployment rate,14.4
+332,Haiti,2010,Labour force participation,65.6
+332,Haiti,2010,Unemployment rate,15.4
+332,Haiti,2015,Labour force participation,65.9
+332,Haiti,2015,Unemployment rate,13.9
+332,Haiti,2023,Labour force participation,65.8
+332,Haiti,2023,Unemployment rate,15.6
+340,Honduras,2005,Labour force participation,61.7
+340,Honduras,2005,Unemployment rate,4.9
+340,Honduras,2010,Labour force participation,61.9
+340,Honduras,2010,Unemployment rate,4.1
+340,Honduras,2015,Labour force participation,64.1
+340,Honduras,2015,Unemployment rate,6.2
+340,Honduras,2023,Labour force participation,63.6
+340,Honduras,2023,Unemployment rate,7.5
+348,Hungary,2005,Labour force participation,50.2
+348,Hungary,2005,Unemployment rate,7.2
+348,Hungary,2010,Labour force participation,50.4
+348,Hungary,2010,Unemployment rate,11.2
+348,Hungary,2015,Labour force participation,54.5
+348,Hungary,2015,Unemployment rate,6.8
+348,Hungary,2023,Labour force participation,59.2
+348,Hungary,2023,Unemployment rate,3.5
+352,Iceland,2005,Labour force participation,75.9
+352,Iceland,2005,Unemployment rate,2.6
+352,Iceland,2010,Labour force participation,74.9
+352,Iceland,2010,Unemployment rate,7.6
+352,Iceland,2015,Labour force participation,77.2
+352,Iceland,2015,Unemployment rate,4.0
+352,Iceland,2023,Labour force participation,76.6
+352,Iceland,2023,Unemployment rate,3.7
+356,India,2005,Labour force participation,54.6
+356,India,2005,Unemployment rate,8.7
+356,India,2010,Labour force participation,54.7
+356,India,2010,Unemployment rate,8.3
+356,India,2015,Labour force participation,50.5
+356,India,2015,Unemployment rate,7.9
+356,India,2023,Labour force participation,49.6
+356,India,2023,Unemployment rate,7.3
+360,Indonesia,2005,Labour force participation,64.4
+360,Indonesia,2005,Unemployment rate,7.9
+360,Indonesia,2010,Labour force participation,66.6
+360,Indonesia,2010,Unemployment rate,5.6
+360,Indonesia,2015,Labour force participation,66.6
+360,Indonesia,2015,Unemployment rate,4.5
+360,Indonesia,2023,Labour force participation,67.1
+360,Indonesia,2023,Unemployment rate,3.3
+364,"Iran, Islamic Republic of",2005,Labour force participation,45.4
+364,"Iran, Islamic Republic of",2005,Unemployment rate,11.8
+364,"Iran, Islamic Republic of",2010,Labour force participation,41.6
+364,"Iran, Islamic Republic of",2010,Unemployment rate,13.7
+364,"Iran, Islamic Republic of",2015,Labour force participation,41.4
+364,"Iran, Islamic Republic of",2015,Unemployment rate,11.2
+364,"Iran, Islamic Republic of",2023,Labour force participation,42.8
+364,"Iran, Islamic Republic of",2023,Unemployment rate,11.1
+368,Iraq,2005,Labour force participation,41.8
+368,Iraq,2005,Unemployment rate,8.7
+368,Iraq,2010,Labour force participation,41.3
+368,Iraq,2010,Unemployment rate,8.3
+368,Iraq,2015,Labour force participation,43.0
+368,Iraq,2015,Unemployment rate,10.7
+368,Iraq,2023,Labour force participation,41.0
+368,Iraq,2023,Unemployment rate,15.7
+372,Ireland,2005,Labour force participation,65.1
+372,Ireland,2005,Unemployment rate,4.3
+372,Ireland,2010,Labour force participation,62.6
+372,Ireland,2010,Unemployment rate,14.5
+372,Ireland,2015,Labour force participation,61.8
+372,Ireland,2015,Unemployment rate,9.9
+372,Ireland,2023,Labour force participation,64.7
+372,Ireland,2023,Unemployment rate,4.3
+833,Isle of Man,2001,Labour force participation,63.3
+833,Isle of Man,2001,Unemployment rate,1.6
+833,Isle of Man,2006,Labour force participation,62.8
+833,Isle of Man,2006,Unemployment rate,2.4
+833,Isle of Man,2011,Labour force participation,63.3
+833,Isle of Man,2011,Unemployment rate,3.3
+833,Isle of Man,2013,Unemployment rate,2.6
+376,Israel,2005,Labour force participation,61.8
+376,Israel,2005,Unemployment rate,11.3
+376,Israel,2010,Labour force participation,63.3
+376,Israel,2010,Unemployment rate,8.5
+376,Israel,2015,Labour force participation,64.1
+376,Israel,2015,Unemployment rate,5.3
+376,Israel,2023,Labour force participation,63.6
+376,Israel,2023,Unemployment rate,3.3
+380,Italy,2005,Labour force participation,49.1
+380,Italy,2005,Unemployment rate,7.7
+380,Italy,2010,Labour force participation,48.2
+380,Italy,2010,Unemployment rate,8.4
+380,Italy,2015,Labour force participation,49.0
+380,Italy,2015,Unemployment rate,11.9
+380,Italy,2023,Labour force participation,49.5
+380,Italy,2023,Unemployment rate,8.5
+388,Jamaica,2005,Labour force participation,65.1
+388,Jamaica,2005,Unemployment rate,6.8
+388,Jamaica,2010,Labour force participation,60.5
+388,Jamaica,2010,Unemployment rate,7.6
+388,Jamaica,2015,Labour force participation,65.7
+388,Jamaica,2015,Unemployment rate,8.8
+388,Jamaica,2023,Labour force participation,70.2
+388,Jamaica,2023,Unemployment rate,6.0
+392,Japan,2005,Labour force participation,60.4
+392,Japan,2005,Unemployment rate,4.5
+392,Japan,2010,Labour force participation,59.6
+392,Japan,2010,Unemployment rate,5.1
+392,Japan,2015,Labour force participation,59.5
+392,Japan,2015,Unemployment rate,3.4
+392,Japan,2023,Labour force participation,63.1
+392,Japan,2023,Unemployment rate,2.6
+400,Jordan,2005,Labour force participation,38.3
+400,Jordan,2005,Unemployment rate,14.8
+400,Jordan,2010,Labour force participation,39.5
+400,Jordan,2010,Unemployment rate,12.5
+400,Jordan,2015,Labour force participation,37.7
+400,Jordan,2015,Unemployment rate,13.1
+400,Jordan,2023,Labour force participation,39.7
+400,Jordan,2023,Unemployment rate,17.7
+398,Kazakhstan,2005,Labour force participation,69.5
+398,Kazakhstan,2005,Unemployment rate,8.1
+398,Kazakhstan,2010,Labour force participation,70.9
+398,Kazakhstan,2010,Unemployment rate,5.8
+398,Kazakhstan,2015,Labour force participation,70.4
+398,Kazakhstan,2015,Unemployment rate,4.9
+398,Kazakhstan,2023,Labour force participation,69.8
+398,Kazakhstan,2023,Unemployment rate,5.0
+404,Kenya,2005,Labour force participation,73.1
+404,Kenya,2005,Unemployment rate,3.0
+404,Kenya,2010,Labour force participation,73.7
+404,Kenya,2010,Unemployment rate,2.8
+404,Kenya,2015,Labour force participation,74.3
+404,Kenya,2015,Unemployment rate,2.8
+404,Kenya,2023,Labour force participation,74.4
+404,Kenya,2023,Unemployment rate,5.5
+296,Kiribati,2005,Labour force participation,26.4
+296,Kiribati,2005,Unemployment rate,14.7
+296,Kiribati,2010,Labour force participation,59.3
+296,Kiribati,2010,Unemployment rate,30.6
+412,Kosovo,2005,Labour force participation,48.7
+412,Kosovo,2005,Unemployment rate,41.4
+412,Kosovo,2009,Labour force participation,47.7
+412,Kosovo,2009,Unemployment rate,45.4
+412,Kosovo,2012,Labour force participation,37.1
+412,Kosovo,2012,Unemployment rate,30.9
+412,Kosovo,2013,Labour force participation,40.6
+414,Kuwait,2005,Labour force participation,68.3
+414,Kuwait,2005,Unemployment rate,1.5
+414,Kuwait,2010,Labour force participation,68.7
+414,Kuwait,2010,Unemployment rate,1.8
+414,Kuwait,2015,Labour force participation,72.8
+414,Kuwait,2015,Unemployment rate,2.2
+414,Kuwait,2023,Labour force participation,71.7
+414,Kuwait,2023,Unemployment rate,2.5
+417,Kyrgyzstan,2005,Labour force participation,64.6
+417,Kyrgyzstan,2005,Unemployment rate,2.4
+417,Kyrgyzstan,2010,Labour force participation,64.3
+417,Kyrgyzstan,2010,Unemployment rate,2.8
+417,Kyrgyzstan,2015,Labour force participation,62.4
+417,Kyrgyzstan,2015,Unemployment rate,3.4
+417,Kyrgyzstan,2023,Labour force participation,59.3
+417,Kyrgyzstan,2023,Unemployment rate,4.8
+418,Laos,2005,Labour force participation,62.7
+418,Laos,2005,Unemployment rate,1.4
+418,Laos,2010,Labour force participation,61.3
+418,Laos,2010,Unemployment rate,0.7
+418,Laos,2015,Labour force participation,60.1
+418,Laos,2015,Unemployment rate,2.5
+418,Laos,2023,Labour force participation,58.8
+418,Laos,2023,Unemployment rate,2.9
+428,Latvia,2005,Labour force participation,57.4
+428,Latvia,2005,Unemployment rate,10.0
+428,Latvia,2010,Labour force participation,58.9
+428,Latvia,2010,Unemployment rate,19.5
+428,Latvia,2015,Labour force participation,60.1
+428,Latvia,2015,Unemployment rate,9.9
+428,Latvia,2023,Labour force participation,61.4
+428,Latvia,2023,Unemployment rate,6.3
+422,Lebanon,2005,Labour force participation,43.8
+422,Lebanon,2005,Unemployment rate,8.3
+422,Lebanon,2010,Labour force participation,44.8
+422,Lebanon,2010,Unemployment rate,6.8
+422,Lebanon,2015,Labour force participation,47.1
+422,Lebanon,2015,Unemployment rate,9.3
+422,Lebanon,2023,Labour force participation,47.5
+422,Lebanon,2023,Unemployment rate,12.8
+426,Lesotho,2005,Labour force participation,69.8
+426,Lesotho,2005,Unemployment rate,17.0
+426,Lesotho,2010,Labour force participation,67.0
+426,Lesotho,2010,Unemployment rate,16.9
+426,Lesotho,2015,Labour force participation,65.0
+426,Lesotho,2015,Unemployment rate,16.9
+426,Lesotho,2023,Labour force participation,64.4
+426,Lesotho,2023,Unemployment rate,17.9
+430,Liberia,2005,Labour force participation,77.2
+430,Liberia,2005,Unemployment rate,2.2
+430,Liberia,2010,Labour force participation,77.2
+430,Liberia,2010,Unemployment rate,2.3
+430,Liberia,2015,Labour force participation,77.0
+430,Liberia,2015,Unemployment rate,2.6
+430,Liberia,2023,Labour force participation,76.8
+430,Liberia,2023,Unemployment rate,3.6
+434,Libya,2005,Labour force participation,47.8
+434,Libya,2005,Unemployment rate,19.5
+434,Libya,2010,Labour force participation,47.8
+434,Libya,2010,Unemployment rate,19.3
+434,Libya,2015,Labour force participation,47.6
+434,Libya,2015,Unemployment rate,19.5
+434,Libya,2023,Labour force participation,47.9
+434,Libya,2023,Unemployment rate,20.5
+438,Liechtenstein,2005,Labour force participation,63.0
+438,Liechtenstein,2010,Labour force participation,61.6
+438,Liechtenstein,2010,Unemployment rate,2.6
+438,Liechtenstein,2013,Labour force participation,61.9
+438,Liechtenstein,2013,Unemployment rate,2.6
+440,Lithuania,2005,Labour force participation,56.3
+440,Lithuania,2005,Unemployment rate,8.3
+440,Lithuania,2010,Labour force participation,56.8
+440,Lithuania,2010,Unemployment rate,17.8
+440,Lithuania,2015,Labour force participation,59.2
+440,Lithuania,2015,Unemployment rate,9.1
+440,Lithuania,2023,Labour force participation,62.9
+440,Lithuania,2023,Unemployment rate,5.5
+442,Luxembourg,2005,Labour force participation,55.6
+442,Luxembourg,2005,Unemployment rate,4.5
+442,Luxembourg,2010,Labour force participation,57.7
+442,Luxembourg,2010,Unemployment rate,4.4
+442,Luxembourg,2015,Labour force participation,60.0
+442,Luxembourg,2015,Unemployment rate,6.7
+442,Luxembourg,2023,Labour force participation,61.1
+442,Luxembourg,2023,Unemployment rate,5.0
+450,Madagascar,2005,Labour force participation,86.6
+450,Madagascar,2005,Unemployment rate,2.6
+450,Madagascar,2010,Labour force participation,86.5
+450,Madagascar,2010,Unemployment rate,4.3
+450,Madagascar,2015,Labour force participation,86.1
+450,Madagascar,2015,Unemployment rate,1.8
+450,Madagascar,2023,Labour force participation,85.9
+450,Madagascar,2023,Unemployment rate,2.1
+454,Malawi,2005,Labour force participation,80.8
+454,Malawi,2005,Unemployment rate,4.9
+454,Malawi,2010,Labour force participation,74.7
+454,Malawi,2010,Unemployment rate,4.9
+454,Malawi,2015,Labour force participation,69.6
+454,Malawi,2015,Unemployment rate,5.0
+454,Malawi,2023,Labour force participation,67.5
+454,Malawi,2023,Unemployment rate,5.6
+458,Malaysia,2005,Labour force participation,60.8
+458,Malaysia,2005,Unemployment rate,3.5
+458,Malaysia,2010,Labour force participation,60.4
+458,Malaysia,2010,Unemployment rate,3.4
+458,Malaysia,2015,Labour force participation,64.7
+458,Malaysia,2015,Unemployment rate,3.1
+458,Malaysia,2023,Labour force participation,65.8
+458,Malaysia,2023,Unemployment rate,3.8
+462,Maldives,2005,Labour force participation,53.3
+462,Maldives,2005,Unemployment rate,7.3
+462,Maldives,2010,Labour force participation,53.0
+462,Maldives,2010,Unemployment rate,11.0
+462,Maldives,2015,Labour force participation,57.6
+462,Maldives,2015,Unemployment rate,6.6
+462,Maldives,2023,Labour force participation,63.7
+462,Maldives,2023,Unemployment rate,4.9
+466,Mali,2005,Labour force participation,70.3
+466,Mali,2005,Unemployment rate,1.3
+466,Mali,2010,Labour force participation,70.5
+466,Mali,2010,Unemployment rate,1.3
+466,Mali,2015,Labour force participation,70.6
+466,Mali,2015,Unemployment rate,1.4
+466,Mali,2023,Labour force participation,68.0
+466,Mali,2023,Unemployment rate,2.9
+470,Malta,2005,Labour force participation,48.2
+470,Malta,2005,Unemployment rate,6.9
+470,Malta,2010,Labour force participation,49.7
+470,Malta,2010,Unemployment rate,6.9
+470,Malta,2015,Labour force participation,55.4
+470,Malta,2015,Unemployment rate,5.4
+470,Malta,2023,Labour force participation,63.3
+470,Malta,2023,Unemployment rate,2.8
+584,Marshall Islands,2006,Labour force participation,44.6
+584,Marshall Islands,2011,Unemployment rate,4.7
+474,Martinique,2005,Labour force participation,43.6
+474,Martinique,2005,Unemployment rate,18.7
+474,Martinique,2010,Labour force participation,45.9
+474,Martinique,2010,Unemployment rate,21.0
+474,Martinique,2013,Labour force participation,53.1
+474,Martinique,2013,Unemployment rate,22.8
+478,Mauritania,2005,Labour force participation,45.0
+478,Mauritania,2005,Unemployment rate,9.9
+478,Mauritania,2010,Labour force participation,44.0
+478,Mauritania,2010,Unemployment rate,9.9
+478,Mauritania,2015,Labour force participation,42.1
+478,Mauritania,2015,Unemployment rate,10.2
+478,Mauritania,2023,Labour force participation,40.8
+478,Mauritania,2023,Unemployment rate,11.2
+480,Mauritius,2005,Labour force participation,58.7
+480,Mauritius,2005,Unemployment rate,9.5
+480,Mauritius,2010,Labour force participation,58.6
+480,Mauritius,2010,Unemployment rate,7.7
+480,Mauritius,2015,Labour force participation,59.7
+480,Mauritius,2015,Unemployment rate,7.4
+480,Mauritius,2023,Labour force participation,58.3
+480,Mauritius,2023,Unemployment rate,7.1
+484,Mexico,2005,Labour force participation,60.2
+484,Mexico,2005,Unemployment rate,3.6
+484,Mexico,2010,Labour force participation,60.5
+484,Mexico,2010,Unemployment rate,5.3
+484,Mexico,2015,Labour force participation,60.6
+484,Mexico,2015,Unemployment rate,4.3
+484,Mexico,2023,Labour force participation,61.1
+484,Mexico,2023,Unemployment rate,3.4
+492,Monaco,2000,Labour force participation,45.7
+492,Monaco,2000,Unemployment rate,3.6
+496,Mongolia,2005,Labour force participation,60.1
+496,Mongolia,2005,Unemployment rate,7.0
+496,Mongolia,2010,Labour force participation,59.4
+496,Mongolia,2010,Unemployment rate,6.6
+496,Mongolia,2015,Labour force participation,59.8
+496,Mongolia,2015,Unemployment rate,4.9
+496,Mongolia,2023,Labour force participation,60.2
+496,Mongolia,2023,Unemployment rate,8.9
+499,Montenegro,2005,Labour force participation,49.3
+499,Montenegro,2005,Unemployment rate,30.3
+499,Montenegro,2010,Labour force participation,48.8
+499,Montenegro,2010,Unemployment rate,19.7
+499,Montenegro,2015,Labour force participation,53.7
+499,Montenegro,2015,Unemployment rate,17.6
+499,Montenegro,2023,Labour force participation,57.0
+499,Montenegro,2023,Unemployment rate,16.1
+500,Montserrat,2001,Labour force participation,85.2
+500,Montserrat,2001,Unemployment rate,9.5
+500,Montserrat,2011,Unemployment rate,5.6
+504,Morocco,2005,Labour force participation,50.6
+504,Morocco,2005,Unemployment rate,11.0
+504,Morocco,2010,Labour force participation,49.6
+504,Morocco,2010,Unemployment rate,9.1
+504,Morocco,2015,Labour force participation,47.5
+504,Morocco,2015,Unemployment rate,9.5
+504,Morocco,2023,Labour force participation,45.4
+504,Morocco,2023,Unemployment rate,10.5
+508,Mozambique,2005,Labour force participation,81.9
+508,Mozambique,2005,Unemployment rate,3.0
+508,Mozambique,2010,Labour force participation,80.5
+508,Mozambique,2010,Unemployment rate,3.2
+508,Mozambique,2015,Labour force participation,79.1
+508,Mozambique,2015,Unemployment rate,3.4
+508,Mozambique,2023,Labour force participation,78.6
+508,Mozambique,2023,Unemployment rate,3.9
+104,Myanmar,2005,Labour force participation,68.9
+104,Myanmar,2005,Unemployment rate,0.7
+104,Myanmar,2010,Labour force participation,66.2
+104,Myanmar,2010,Unemployment rate,0.7
+104,Myanmar,2015,Labour force participation,64.7
+104,Myanmar,2015,Unemployment rate,0.8
+104,Myanmar,2020,Labour force participation,60.2
+104,Myanmar,2020,Unemployment rate,1.5
+516,Namibia,2005,Labour force participation,55.6
+516,Namibia,2005,Unemployment rate,22.3
+516,Namibia,2010,Labour force participation,57.0
+516,Namibia,2010,Unemployment rate,22.1
+516,Namibia,2015,Labour force participation,60.6
+516,Namibia,2015,Unemployment rate,20.9
+516,Namibia,2023,Labour force participation,59.0
+516,Namibia,2023,Unemployment rate,20.6
+520,Nauru,2002,Labour force participation,78.0
+520,Nauru,2002,Unemployment rate,22.7
+520,Nauru,2011,Labour force participation,64.0
+520,Nauru,2011,Unemployment rate,23.0
+524,Nepal,2005,Labour force participation,40.8
+524,Nepal,2005,Unemployment rate,10.5
+524,Nepal,2010,Labour force participation,40.2
+524,Nepal,2010,Unemployment rate,10.5
+524,Nepal,2015,Labour force participation,39.7
+524,Nepal,2015,Unemployment rate,10.5
+524,Nepal,2023,Labour force participation,40.2
+524,Nepal,2023,Unemployment rate,11.0
+528,Netherlands,2005,Labour force participation,63.4
+528,Netherlands,2005,Unemployment rate,5.9
+528,Netherlands,2010,Labour force participation,64.8
+528,Netherlands,2010,Unemployment rate,5.0
+528,Netherlands,2015,Labour force participation,64.4
+528,Netherlands,2015,Unemployment rate,6.9
+528,Netherlands,2023,Labour force participation,65.8
+528,Netherlands,2023,Unemployment rate,3.8
+530,Netherlands Antilles,2009,Labour force participation,56.3
+530,Netherlands Antilles,2011,Labour force participation,57.9
+540,New Caledonia,2005,Labour force participation,65.1
+540,New Caledonia,2005,Unemployment rate,15.8
+540,New Caledonia,2010,Labour force participation,64.3
+540,New Caledonia,2010,Unemployment rate,13.7
+540,New Caledonia,2015,Labour force participation,62.7
+540,New Caledonia,2015,Unemployment rate,13.9
+540,New Caledonia,2023,Labour force participation,56.6
+540,New Caledonia,2023,Unemployment rate,12.3
+554,New Zealand,2005,Labour force participation,67.7
+554,New Zealand,2005,Unemployment rate,3.8
+554,New Zealand,2010,Labour force participation,67.6
+554,New Zealand,2010,Unemployment rate,6.6
+554,New Zealand,2015,Labour force participation,68.8
+554,New Zealand,2015,Unemployment rate,5.4
+554,New Zealand,2023,Labour force participation,70.5
+554,New Zealand,2023,Unemployment rate,3.3
+558,Nicaragua,2005,Labour force participation,61.9
+558,Nicaragua,2005,Unemployment rate,5.4
+558,Nicaragua,2010,Labour force participation,63.6
+558,Nicaragua,2010,Unemployment rate,7.8
+558,Nicaragua,2015,Labour force participation,65.1
+558,Nicaragua,2015,Unemployment rate,4.7
+558,Nicaragua,2023,Labour force participation,66.0
+558,Nicaragua,2023,Unemployment rate,5.9
+562,Niger,2005,Labour force participation,79.3
+562,Niger,2005,Unemployment rate,3.1
+562,Niger,2010,Labour force participation,79.5
+562,Niger,2010,Unemployment rate,0.8
+562,Niger,2015,Labour force participation,73.6
+562,Niger,2015,Unemployment rate,0.5
+562,Niger,2023,Labour force participation,73.5
+562,Niger,2023,Unemployment rate,0.5
+566,Nigeria,2005,Labour force participation,60.2
+566,Nigeria,2005,Unemployment rate,3.8
+566,Nigeria,2010,Labour force participation,60.4
+566,Nigeria,2010,Unemployment rate,3.8
+566,Nigeria,2015,Labour force participation,56.5
+566,Nigeria,2015,Unemployment rate,4.2
+566,Nigeria,2023,Labour force participation,59.0
+566,Nigeria,2023,Unemployment rate,5.8
+570,Niue,2001,Labour force participation,75.5
+570,Niue,2001,Unemployment rate,2.2
+570,Niue,2002,Unemployment rate,9.7
+807,North Macedonia,2005,Labour force participation,54.1
+807,North Macedonia,2005,Unemployment rate,37.3
+807,North Macedonia,2010,Labour force participation,55.7
+807,North Macedonia,2010,Unemployment rate,33.1
+807,North Macedonia,2015,Labour force participation,55.4
+807,North Macedonia,2015,Unemployment rate,26.4
+807,North Macedonia,2023,Labour force participation,54.6
+807,North Macedonia,2023,Unemployment rate,16.1
+580,Northern Mariana Islands,2003,Labour force participation,81.8
+580,Northern Mariana Islands,2003,Unemployment rate,4.6
+580,Northern Mariana Islands,2005,Unemployment rate,6.5
+580,Northern Mariana Islands,2010,Labour force participation,72.3
+580,Northern Mariana Islands,2010,Unemployment rate,11.2
+578,Norway,2005,Labour force participation,65.6
+578,Norway,2005,Unemployment rate,4.4
+578,Norway,2010,Labour force participation,65.6
+578,Norway,2010,Unemployment rate,3.5
+578,Norway,2015,Labour force participation,64.9
+578,Norway,2015,Unemployment rate,4.3
+578,Norway,2023,Labour force participation,64.4
+578,Norway,2023,Unemployment rate,3.0
+512,Oman,2005,Labour force participation,56.0
+512,Oman,2005,Unemployment rate,4.2
+512,Oman,2010,Labour force participation,60.4
+512,Oman,2010,Unemployment rate,4.0
+512,Oman,2015,Labour force participation,69.4
+512,Oman,2015,Unemployment rate,3.4
+512,Oman,2023,Labour force participation,68.2
+512,Oman,2023,Unemployment rate,2.5
+586,Pakistan,2005,Labour force participation,50.4
+586,Pakistan,2005,Unemployment rate,0.6
+586,Pakistan,2010,Labour force participation,51.0
+586,Pakistan,2010,Unemployment rate,0.7
+586,Pakistan,2015,Labour force participation,52.0
+586,Pakistan,2015,Unemployment rate,3.6
+586,Pakistan,2023,Labour force participation,52.6
+586,Pakistan,2023,Unemployment rate,6.7
+585,Palau,2005,Labour force participation,67.5
+585,Palau,2005,Unemployment rate,4.2
+591,Panama,2005,Labour force participation,63.3
+591,Panama,2005,Unemployment rate,5.9
+591,Panama,2010,Labour force participation,63.1
+591,Panama,2010,Unemployment rate,5.9
+591,Panama,2015,Labour force participation,63.7
+591,Panama,2015,Unemployment rate,4.4
+591,Panama,2023,Labour force participation,66.3
+591,Panama,2023,Unemployment rate,9.3
+598,Papua New Guinea,2005,Labour force participation,61.1
+598,Papua New Guinea,2005,Unemployment rate,2.4
+598,Papua New Guinea,2010,Labour force participation,48.3
+598,Papua New Guinea,2010,Unemployment rate,2.0
+598,Papua New Guinea,2015,Labour force participation,47.6
+598,Papua New Guinea,2015,Unemployment rate,2.4
+598,Papua New Guinea,2023,Labour force participation,46.9
+598,Papua New Guinea,2023,Unemployment rate,2.7
+600,Paraguay,2005,Labour force participation,70.3
+600,Paraguay,2005,Unemployment rate,4.8
+600,Paraguay,2010,Labour force participation,67.7
+600,Paraguay,2010,Unemployment rate,4.6
+600,Paraguay,2015,Labour force participation,67.9
+600,Paraguay,2015,Unemployment rate,4.6
+600,Paraguay,2023,Labour force participation,71.7
+600,Paraguay,2023,Unemployment rate,6.5
+604,Peru,2005,Labour force participation,73.1
+604,Peru,2005,Unemployment rate,4.9
+604,Peru,2010,Labour force participation,79.2
+604,Peru,2010,Unemployment rate,3.6
+604,Peru,2015,Labour force participation,75.9
+604,Peru,2015,Unemployment rate,3.3
+604,Peru,2023,Labour force participation,70.4
+604,Peru,2023,Unemployment rate,3.6
+608,Philippines,2005,Labour force participation,61.6
+608,Philippines,2005,Unemployment rate,3.8
+608,Philippines,2010,Labour force participation,61.4
+608,Philippines,2010,Unemployment rate,3.6
+608,Philippines,2015,Labour force participation,61.4
+608,Philippines,2015,Unemployment rate,3.1
+608,Philippines,2023,Labour force participation,58.8
+608,Philippines,2023,Unemployment rate,2.2
+616,Poland,2005,Labour force participation,55.2
+616,Poland,2005,Unemployment rate,17.8
+616,Poland,2010,Labour force participation,56.0
+616,Poland,2010,Unemployment rate,9.6
+616,Poland,2015,Labour force participation,56.8
+616,Poland,2015,Unemployment rate,7.5
+616,Poland,2023,Labour force participation,58.3
+616,Poland,2023,Unemployment rate,2.9
+620,Portugal,2005,Labour force participation,61.9
+620,Portugal,2005,Unemployment rate,7.6
+620,Portugal,2010,Labour force participation,61.2
+620,Portugal,2010,Unemployment rate,10.8
+620,Portugal,2015,Labour force participation,58.6
+620,Portugal,2015,Unemployment rate,12.5
+620,Portugal,2023,Labour force participation,58.8
+620,Portugal,2023,Unemployment rate,6.1
+630,Puerto Rico,2005,Labour force participation,47.7
+630,Puerto Rico,2005,Unemployment rate,11.4
+630,Puerto Rico,2010,Labour force participation,41.9
+630,Puerto Rico,2010,Unemployment rate,16.1
+630,Puerto Rico,2015,Labour force participation,40.0
+630,Puerto Rico,2015,Unemployment rate,12.0
+630,Puerto Rico,2023,Labour force participation,39.9
+630,Puerto Rico,2023,Unemployment rate,5.6
+634,Qatar,2005,Labour force participation,82.1
+634,Qatar,2005,Unemployment rate,0.9
+634,Qatar,2010,Labour force participation,86.6
+634,Qatar,2010,Unemployment rate,0.5
+634,Qatar,2015,Labour force participation,87.4
+634,Qatar,2015,Unemployment rate,0.2
+634,Qatar,2023,Labour force participation,88.3
+634,Qatar,2023,Unemployment rate,0.1
+410,South Korea,2005,Labour force participation,62.6
+410,South Korea,2005,Unemployment rate,3.5
+410,South Korea,2010,Labour force participation,61.4
+410,South Korea,2010,Unemployment rate,3.3
+410,South Korea,2015,Labour force participation,63.2
+410,South Korea,2015,Unemployment rate,3.6
+410,South Korea,2023,Labour force participation,63.0
+410,South Korea,2023,Unemployment rate,2.9
+498,Moldova,2005,Labour force participation,48.8
+498,Moldova,2005,Unemployment rate,7.3
+498,Moldova,2010,Labour force participation,41.6
+498,Moldova,2010,Unemployment rate,7.5
+498,Moldova,2015,Labour force participation,44.5
+498,Moldova,2015,Unemployment rate,4.7
+498,Moldova,2023,Labour force participation,42.1
+498,Moldova,2023,Unemployment rate,2.3
+638,Réunion,2005,Labour force participation,50.1
+638,Réunion,2005,Unemployment rate,30.1
+638,Réunion,2010,Labour force participation,52.1
+638,Réunion,2010,Unemployment rate,28.9
+638,Réunion,2013,Labour force participation,54.9
+638,Réunion,2013,Unemployment rate,28.9
+642,Romania,2005,Labour force participation,53.9
+642,Romania,2005,Unemployment rate,7.2
+642,Romania,2010,Labour force participation,54.9
+642,Romania,2010,Unemployment rate,7.0
+642,Romania,2015,Labour force participation,54.5
+642,Romania,2015,Unemployment rate,6.8
+642,Romania,2023,Labour force participation,54.0
+642,Romania,2023,Unemployment rate,5.3
+643,Russia,2005,Labour force participation,60.8
+643,Russia,2005,Unemployment rate,7.1
+643,Russia,2010,Labour force participation,62.6
+643,Russia,2010,Unemployment rate,7.4
+643,Russia,2015,Labour force participation,62.7
+643,Russia,2015,Unemployment rate,5.6
+643,Russia,2021,Labour force participation,62.2
+643,Russia,2021,Unemployment rate,4.7
+646,Rwanda,2005,Labour force participation,61.3
+646,Rwanda,2005,Unemployment rate,11.9
+646,Rwanda,2010,Labour force participation,61.0
+646,Rwanda,2010,Unemployment rate,11.9
+646,Rwanda,2015,Labour force participation,60.6
+646,Rwanda,2015,Unemployment rate,11.8
+646,Rwanda,2023,Labour force participation,54.1
+646,Rwanda,2023,Unemployment rate,12.7
+659,Saint Kitts and Nevis,2001,Labour force participation,68.8
+659,Saint Kitts and Nevis,2001,Unemployment rate,5.1
+662,Saint Lucia,2005,Labour force participation,65.3
+662,Saint Lucia,2005,Unemployment rate,18.7
+662,Saint Lucia,2010,Labour force participation,66.8
+662,Saint Lucia,2010,Unemployment rate,17.1
+662,Saint Lucia,2015,Labour force participation,69.8
+662,Saint Lucia,2015,Unemployment rate,20.6
+662,Saint Lucia,2023,Labour force participation,69.6
+662,Saint Lucia,2023,Unemployment rate,16.3
+670,Saint Vincent and the Grenadines,2005,Labour force participation,64.5
+670,Saint Vincent and the Grenadines,2005,Unemployment rate,19.8
+670,Saint Vincent and the Grenadines,2010,Labour force participation,64.8
+670,Saint Vincent and the Grenadines,2010,Unemployment rate,19.0
+670,Saint Vincent and the Grenadines,2015,Labour force participation,65.0
+670,Saint Vincent and the Grenadines,2015,Unemployment rate,19.0
+670,Saint Vincent and the Grenadines,2023,Labour force participation,64.8
+670,Saint Vincent and the Grenadines,2023,Unemployment rate,18.8
+882,Samoa,2005,Labour force participation,54.4
+882,Samoa,2005,Unemployment rate,5.3
+882,Samoa,2010,Labour force participation,54.3
+882,Samoa,2010,Unemployment rate,5.7
+882,Samoa,2015,Labour force participation,54.3
+882,Samoa,2015,Unemployment rate,8.8
+882,Samoa,2023,Labour force participation,53.7
+882,Samoa,2023,Unemployment rate,9.9
+674,San Marino,2003,Labour force participation,66.2
+674,San Marino,2010,Unemployment rate,4.4
+674,San Marino,2014,Unemployment rate,6.6
+678,Sao Tome and Principe,2005,Labour force participation,54.7
+678,Sao Tome and Principe,2005,Unemployment rate,16.5
+678,Sao Tome and Principe,2010,Labour force participation,54.5
+678,Sao Tome and Principe,2010,Unemployment rate,14.6
+678,Sao Tome and Principe,2015,Labour force participation,54.5
+678,Sao Tome and Principe,2015,Unemployment rate,13.8
+678,Sao Tome and Principe,2023,Labour force participation,53.8
+678,Sao Tome and Principe,2023,Unemployment rate,15.5
+682,Saudi Arabia,2005,Labour force participation,53.1
+682,Saudi Arabia,2005,Unemployment rate,6.1
+682,Saudi Arabia,2010,Labour force participation,53.2
+682,Saudi Arabia,2010,Unemployment rate,5.6
+682,Saudi Arabia,2015,Labour force participation,56.6
+682,Saudi Arabia,2015,Unemployment rate,5.6
+682,Saudi Arabia,2023,Labour force participation,59.2
+682,Saudi Arabia,2023,Unemployment rate,5.6
+686,Senegal,2005,Labour force participation,50.0
+686,Senegal,2005,Unemployment rate,8.9
+686,Senegal,2010,Labour force participation,48.0
+686,Senegal,2010,Unemployment rate,10.2
+686,Senegal,2015,Labour force participation,45.5
+686,Senegal,2015,Unemployment rate,6.8
+686,Senegal,2023,Labour force participation,51.4
+686,Senegal,2023,Unemployment rate,3.4
+688,Serbia,2005,Labour force participation,53.7
+688,Serbia,2005,Unemployment rate,20.9
+688,Serbia,2010,Labour force participation,49.7
+688,Serbia,2010,Unemployment rate,19.2
+688,Serbia,2015,Labour force participation,51.6
+688,Serbia,2015,Unemployment rate,17.7
+688,Serbia,2023,Labour force participation,56.5
+688,Serbia,2023,Unemployment rate,10.3
+690,Seychelles,2005,Labour force participation,72.1
+690,Seychelles,2005,Unemployment rate,5.5
+690,Seychelles,2011,Labour force participation,65.0
+690,Seychelles,2011,Unemployment rate,4.1
+694,Sierra Leone,2005,Labour force participation,65.2
+694,Sierra Leone,2005,Unemployment rate,3.6
+694,Sierra Leone,2010,Labour force participation,60.7
+694,Sierra Leone,2010,Unemployment rate,4.2
+694,Sierra Leone,2015,Labour force participation,56.2
+694,Sierra Leone,2015,Unemployment rate,4.4
+694,Sierra Leone,2023,Labour force participation,53.2
+694,Sierra Leone,2023,Unemployment rate,3.7
+702,Singapore,2005,Labour force participation,65.8
+702,Singapore,2005,Unemployment rate,5.6
+702,Singapore,2010,Labour force participation,68.7
+702,Singapore,2010,Unemployment rate,4.1
+702,Singapore,2015,Labour force participation,71.2
+702,Singapore,2015,Unemployment rate,3.8
+702,Singapore,2023,Labour force participation,69.3
+702,Singapore,2023,Unemployment rate,3.1
+703,Slovakia,2005,Labour force participation,59.5
+703,Slovakia,2005,Unemployment rate,16.3
+703,Slovakia,2010,Labour force participation,59.0
+703,Slovakia,2010,Unemployment rate,14.4
+703,Slovakia,2015,Labour force participation,59.6
+703,Slovakia,2015,Unemployment rate,11.5
+703,Slovakia,2023,Labour force participation,61.7
+703,Slovakia,2023,Unemployment rate,6.1
+705,Slovenia,2005,Labour force participation,59.3
+705,Slovenia,2005,Unemployment rate,6.5
+705,Slovenia,2010,Labour force participation,59.2
+705,Slovenia,2010,Unemployment rate,7.2
+705,Slovenia,2015,Labour force participation,57.3
+705,Slovenia,2015,Unemployment rate,9.0
+705,Slovenia,2023,Labour force participation,58.2
+705,Slovenia,2023,Unemployment rate,4.2
+090,Solomon Islands,2005,Labour force participation,84.7
+090,Solomon Islands,2005,Unemployment rate,1.8
+090,Solomon Islands,2010,Labour force participation,84.2
+090,Solomon Islands,2010,Unemployment rate,1.6
+090,Solomon Islands,2015,Labour force participation,84.2
+090,Solomon Islands,2015,Unemployment rate,0.7
+090,Solomon Islands,2023,Labour force participation,83.7
+090,Solomon Islands,2023,Unemployment rate,1.5
+706,Somalia,2005,Labour force participation,34.5
+706,Somalia,2005,Unemployment rate,19.3
+706,Somalia,2010,Labour force participation,34.6
+706,Somalia,2010,Unemployment rate,19.2
+706,Somalia,2015,Labour force participation,34.3
+706,Somalia,2015,Unemployment rate,18.9
+706,Somalia,2023,Labour force participation,33.9
+706,Somalia,2023,Unemployment rate,20.4
+710,South Africa,2005,Labour force participation,60.0
+710,South Africa,2005,Unemployment rate,19.7
+710,South Africa,2010,Labour force participation,54.2
+710,South Africa,2010,Unemployment rate,23.2
+710,South Africa,2015,Labour force participation,57.7
+710,South Africa,2015,Unemployment rate,22.9
+710,South Africa,2023,Labour force participation,58.0
+710,South Africa,2023,Unemployment rate,29.9
+728,South Sudan,2005,Labour force participation,71.3
+728,South Sudan,2005,Unemployment rate,12.1
+728,South Sudan,2010,Labour force participation,71.1
+728,South Sudan,2010,Unemployment rate,12.1
+728,South Sudan,2015,Labour force participation,70.8
+728,South Sudan,2015,Unemployment rate,12.3
+728,South Sudan,2023,Labour force participation,71.2
+728,South Sudan,2023,Unemployment rate,12.7
+724,Spain,2005,Labour force participation,56.8
+724,Spain,2005,Unemployment rate,9.2
+724,Spain,2010,Labour force participation,59.3
+724,Spain,2010,Unemployment rate,19.9
+724,Spain,2015,Labour force participation,58.5
+724,Spain,2015,Unemployment rate,22.1
+724,Spain,2023,Labour force participation,57.6
+724,Spain,2023,Unemployment rate,13.9
+144,Sri Lanka,2005,Labour force participation,54.4
+144,Sri Lanka,2005,Unemployment rate,7.7
+144,Sri Lanka,2010,Labour force participation,53.3
+144,Sri Lanka,2010,Unemployment rate,4.8
+144,Sri Lanka,2015,Labour force participation,53.7
+144,Sri Lanka,2015,Unemployment rate,4.5
+144,Sri Lanka,2023,Labour force participation,50.6
+144,Sri Lanka,2023,Unemployment rate,7.2
+275,"Palestine, State of",2005,Labour force participation,38.6
+275,"Palestine, State of",2005,Unemployment rate,20.0
+275,"Palestine, State of",2010,Labour force participation,40.0
+275,"Palestine, State of",2010,Unemployment rate,21.4
+275,"Palestine, State of",2015,Labour force participation,44.0
+275,"Palestine, State of",2015,Unemployment rate,23.0
+275,"Palestine, State of",2023,Labour force participation,45.0
+275,"Palestine, State of",2023,Unemployment rate,25.6
+729,Sudan,2005,Labour force participation,49.4
+729,Sudan,2005,Unemployment rate,15.0
+729,Sudan,2010,Labour force participation,49.2
+729,Sudan,2010,Unemployment rate,15.1
+729,Sudan,2015,Labour force participation,48.6
+729,Sudan,2015,Unemployment rate,17.4
+729,Sudan,2023,Labour force participation,48.8
+729,Sudan,2023,Unemployment rate,18.5
+740,Suriname,2005,Labour force participation,50.0
+740,Suriname,2005,Unemployment rate,9.4
+740,Suriname,2010,Labour force participation,52.8
+740,Suriname,2010,Unemployment rate,7.2
+740,Suriname,2015,Labour force participation,55.6
+740,Suriname,2015,Unemployment rate,7.2
+740,Suriname,2023,Labour force participation,55.7
+740,Suriname,2023,Unemployment rate,8.2
+752,Sweden,2005,Labour force participation,62.9
+752,Sweden,2005,Unemployment rate,7.5
+752,Sweden,2010,Labour force participation,63.2
+752,Sweden,2010,Unemployment rate,8.6
+752,Sweden,2015,Labour force participation,63.9
+752,Sweden,2015,Unemployment rate,7.4
+752,Sweden,2023,Labour force participation,64.6
+752,Sweden,2023,Unemployment rate,7.5
+756,Switzerland,2005,Labour force participation,67.0
+756,Switzerland,2005,Unemployment rate,4.4
+756,Switzerland,2010,Labour force participation,67.0
+756,Switzerland,2010,Unemployment rate,4.8
+756,Switzerland,2015,Labour force participation,68.1
+756,Switzerland,2015,Unemployment rate,4.8
+756,Switzerland,2023,Labour force participation,67.2
+756,Switzerland,2023,Unemployment rate,4.2
+760,Syrian Arab Republic,2005,Labour force participation,46.6
+760,Syrian Arab Republic,2005,Unemployment rate,8.9
+760,Syrian Arab Republic,2010,Labour force participation,42.7
+760,Syrian Arab Republic,2010,Unemployment rate,8.6
+760,Syrian Arab Republic,2015,Labour force participation,44.0
+760,Syrian Arab Republic,2015,Unemployment rate,8.7
+760,Syrian Arab Republic,2023,Labour force participation,44.6
+760,Syrian Arab Republic,2023,Unemployment rate,9.5
+762,Tajikistan,2005,Labour force participation,44.5
+762,Tajikistan,2005,Unemployment rate,13.1
+762,Tajikistan,2010,Labour force participation,42.5
+762,Tajikistan,2010,Unemployment rate,10.9
+762,Tajikistan,2015,Labour force participation,42.4
+762,Tajikistan,2015,Unemployment rate,7.6
+762,Tajikistan,2023,Labour force participation,40.9
+762,Tajikistan,2023,Unemployment rate,8.4
+764,Thailand,2005,Labour force participation,73.7
+764,Thailand,2005,Unemployment rate,1.4
+764,Thailand,2010,Labour force participation,71.6
+764,Thailand,2010,Unemployment rate,0.6
+764,Thailand,2015,Labour force participation,69.2
+764,Thailand,2015,Unemployment rate,0.6
+764,Thailand,2023,Labour force participation,65.6
+764,Thailand,2023,Unemployment rate,0.8
+626,East Timor,2005,Labour force participation,69.0
+626,East Timor,2005,Unemployment rate,3.5
+626,East Timor,2010,Labour force participation,67.7
+626,East Timor,2010,Unemployment rate,3.3
+626,East Timor,2015,Labour force participation,67.1
+626,East Timor,2015,Unemployment rate,4.5
+626,East Timor,2023,Labour force participation,67.2
+626,East Timor,2023,Unemployment rate,4.8
+768,Togo,2005,Labour force participation,58.5
+768,Togo,2005,Unemployment rate,4.3
+768,Togo,2010,Labour force participation,58.5
+768,Togo,2010,Unemployment rate,2.4
+768,Togo,2015,Labour force participation,58.2
+768,Togo,2015,Unemployment rate,2.2
+768,Togo,2023,Labour force participation,58.0
+768,Togo,2023,Unemployment rate,4.0
+776,Tonga,2005,Labour force participation,56.9
+776,Tonga,2005,Unemployment rate,2.5
+776,Tonga,2010,Labour force participation,55.7
+776,Tonga,2010,Unemployment rate,1.5
+776,Tonga,2015,Labour force participation,54.5
+776,Tonga,2015,Unemployment rate,1.9
+776,Tonga,2023,Labour force participation,53.4
+776,Tonga,2023,Unemployment rate,2.9
+780,Trinidad and Tobago,2005,Labour force participation,63.7
+780,Trinidad and Tobago,2005,Unemployment rate,8.0
+780,Trinidad and Tobago,2010,Labour force participation,60.9
+780,Trinidad and Tobago,2010,Unemployment rate,4.0
+780,Trinidad and Tobago,2015,Labour force participation,60.0
+780,Trinidad and Tobago,2015,Unemployment rate,2.4
+780,Trinidad and Tobago,2023,Labour force participation,54.8
+780,Trinidad and Tobago,2023,Unemployment rate,3.7
+788,Tunisia,2005,Labour force participation,45.5
+788,Tunisia,2005,Unemployment rate,12.9
+788,Tunisia,2010,Labour force participation,46.9
+788,Tunisia,2010,Unemployment rate,13.1
+788,Tunisia,2015,Labour force participation,47.1
+788,Tunisia,2015,Unemployment rate,15.2
+788,Tunisia,2023,Labour force participation,45.9
+788,Tunisia,2023,Unemployment rate,16.1
+792,Turkey,2005,Labour force participation,46.4
+792,Turkey,2005,Unemployment rate,10.6
+792,Turkey,2010,Labour force participation,48.1
+792,Turkey,2010,Unemployment rate,10.7
+792,Turkey,2015,Labour force participation,51.2
+792,Turkey,2015,Unemployment rate,10.2
+792,Turkey,2023,Labour force participation,52.6
+792,Turkey,2023,Unemployment rate,9.9
+795,Turkmenistan,2005,Labour force participation,51.9
+795,Turkmenistan,2005,Unemployment rate,7.5
+795,Turkmenistan,2010,Labour force participation,49.2
+795,Turkmenistan,2010,Unemployment rate,4.0
+795,Turkmenistan,2015,Labour force participation,47.4
+795,Turkmenistan,2015,Unemployment rate,4.1
+795,Turkmenistan,2023,Labour force participation,46.0
+795,Turkmenistan,2023,Unemployment rate,5.5
+796,Turks and Caicos Islands,2005,Labour force participation,62.0
+796,Turks and Caicos Islands,2008,Labour force participation,64.0
+796,Turks and Caicos Islands,2008,Unemployment rate,8.3
+800,Uganda,2005,Labour force participation,69.9
+800,Uganda,2005,Unemployment rate,1.9
+800,Uganda,2010,Labour force participation,70.1
+800,Uganda,2010,Unemployment rate,3.6
+800,Uganda,2015,Labour force participation,70.2
+800,Uganda,2015,Unemployment rate,2.7
+800,Uganda,2023,Labour force participation,69.8
+800,Uganda,2023,Unemployment rate,4.3
+804,Ukraine,2005,Labour force participation,56.0
+804,Ukraine,2005,Unemployment rate,7.2
+804,Ukraine,2010,Labour force participation,56.3
+804,Ukraine,2010,Unemployment rate,8.1
+804,Ukraine,2015,Labour force participation,56.3
+804,Ukraine,2015,Unemployment rate,9.1
+804,Ukraine,2021,Labour force participation,54.6
+804,Ukraine,2021,Unemployment rate,9.8
+784,United Arab Emirates,2005,Labour force participation,77.0
+784,United Arab Emirates,2005,Unemployment rate,3.1
+784,United Arab Emirates,2010,Labour force participation,77.7
+784,United Arab Emirates,2010,Unemployment rate,2.5
+784,United Arab Emirates,2015,Labour force participation,80.6
+784,United Arab Emirates,2015,Unemployment rate,1.8
+784,United Arab Emirates,2023,Labour force participation,82.7
+784,United Arab Emirates,2023,Unemployment rate,2.7
+826,United Kingdom,2005,Labour force participation,62.3
+826,United Kingdom,2005,Unemployment rate,4.8
+826,United Kingdom,2010,Labour force participation,62.4
+826,United Kingdom,2010,Unemployment rate,7.8
+826,United Kingdom,2015,Labour force participation,62.7
+826,United Kingdom,2015,Unemployment rate,5.3
+826,United Kingdom,2023,Labour force participation,62.6
+826,United Kingdom,2023,Unemployment rate,4.0
+834,"Tanzania, United Republic of",2005,Labour force participation,88.0
+834,"Tanzania, United Republic of",2005,Unemployment rate,3.2
+834,"Tanzania, United Republic of",2010,Labour force participation,86.3
+834,"Tanzania, United Republic of",2010,Unemployment rate,3.0
+834,"Tanzania, United Republic of",2015,Labour force participation,84.0
+834,"Tanzania, United Republic of",2015,Unemployment rate,2.1
+834,"Tanzania, United Republic of",2023,Labour force participation,82.9
+834,"Tanzania, United Republic of",2023,Unemployment rate,2.9
+840,United States,2005,Labour force participation,64.8
+840,United States,2005,Unemployment rate,5.1
+840,United States,2010,Labour force participation,63.5
+840,United States,2010,Unemployment rate,9.6
+840,United States,2015,Labour force participation,62.1
+840,United States,2015,Unemployment rate,5.3
+840,United States,2023,Labour force participation,62.0
+840,United States,2023,Unemployment rate,4.6
+850,"Virgin Islands, U.S.",2005,Labour force participation,62.5
+850,"Virgin Islands, U.S.",2005,Unemployment rate,10.8
+850,"Virgin Islands, U.S.",2010,Labour force participation,60.9
+850,"Virgin Islands, U.S.",2010,Unemployment rate,11.6
+850,"Virgin Islands, U.S.",2015,Labour force participation,58.7
+850,"Virgin Islands, U.S.",2015,Unemployment rate,12.3
+850,"Virgin Islands, U.S.",2023,Labour force participation,52.4
+850,"Virgin Islands, U.S.",2023,Unemployment rate,12.3
+858,Uruguay,2005,Labour force participation,59.5
+858,Uruguay,2005,Unemployment rate,12.0
+858,Uruguay,2010,Labour force participation,64.3
+858,Uruguay,2010,Unemployment rate,7.2
+858,Uruguay,2015,Labour force participation,64.9
+858,Uruguay,2015,Unemployment rate,7.5
+858,Uruguay,2023,Labour force participation,63.7
+858,Uruguay,2023,Unemployment rate,7.9
+860,Uzbekistan,2005,Labour force participation,60.4
+860,Uzbekistan,2005,Unemployment rate,7.1
+860,Uzbekistan,2010,Labour force participation,58.1
+860,Uzbekistan,2010,Unemployment rate,5.4
+860,Uzbekistan,2015,Labour force participation,57.0
+860,Uzbekistan,2015,Unemployment rate,5.2
+860,Uzbekistan,2023,Labour force participation,56.2
+860,Uzbekistan,2023,Unemployment rate,6.3
+548,Vanuatu,2005,Labour force participation,69.6
+548,Vanuatu,2005,Unemployment rate,1.7
+548,Vanuatu,2010,Labour force participation,69.3
+548,Vanuatu,2010,Unemployment rate,1.9
+548,Vanuatu,2015,Labour force participation,69.5
+548,Vanuatu,2015,Unemployment rate,1.9
+548,Vanuatu,2023,Labour force participation,69.2
+548,Vanuatu,2023,Unemployment rate,2.1
+862,Venezuela,2005,Labour force participation,64.3
+862,Venezuela,2005,Unemployment rate,10.7
+862,Venezuela,2010,Labour force participation,63.9
+862,Venezuela,2010,Unemployment rate,7.1
+862,Venezuela,2015,Labour force participation,61.7
+862,Venezuela,2015,Unemployment rate,6.1
+862,Venezuela,2023,Labour force participation,53.7
+862,Venezuela,2023,Unemployment rate,5.6
+704,Viet Nam,2005,Labour force participation,72.4
+704,Viet Nam,2005,Unemployment rate,2.1
+704,Viet Nam,2010,Labour force participation,76.2
+704,Viet Nam,2010,Unemployment rate,1.1
+704,Viet Nam,2015,Labour force participation,77.2
+704,Viet Nam,2015,Unemployment rate,1.9
+704,Viet Nam,2023,Labour force participation,73.6
+704,Viet Nam,2023,Unemployment rate,1.7
+732,Western Sahara,2005,Labour force participation,54.1
+732,Western Sahara,2005,Unemployment rate,7.0
+732,Western Sahara,2010,Labour force participation,56.3
+732,Western Sahara,2010,Unemployment rate,6.5
+732,Western Sahara,2015,Labour force participation,57.5
+732,Western Sahara,2015,Unemployment rate,7.1
+732,Western Sahara,2023,Labour force participation,56.7
+732,Western Sahara,2023,Unemployment rate,8.3
+887,Yemen,2005,Labour force participation,41.7
+887,Yemen,2005,Unemployment rate,12.2
+887,Yemen,2010,Labour force participation,39.4
+887,Yemen,2010,Unemployment rate,12.8
+887,Yemen,2015,Labour force participation,37.0
+887,Yemen,2015,Unemployment rate,13.8
+887,Yemen,2023,Labour force participation,38.6
+887,Yemen,2023,Unemployment rate,13.3
+894,Zambia,2005,Labour force participation,59.2
+894,Zambia,2005,Unemployment rate,15.9
+894,Zambia,2010,Labour force participation,59.3
+894,Zambia,2010,Unemployment rate,13.2
+894,Zambia,2015,Labour force participation,58.9
+894,Zambia,2015,Unemployment rate,8.3
+894,Zambia,2023,Labour force participation,60.5
+894,Zambia,2023,Unemployment rate,6.1
+716,Zimbabwe,2005,Labour force participation,65.5
+716,Zimbabwe,2005,Unemployment rate,4.5
+716,Zimbabwe,2010,Labour force participation,65.6
+716,Zimbabwe,2010,Unemployment rate,5.2
+716,Zimbabwe,2015,Labour force participation,65.9
+716,Zimbabwe,2015,Unemployment rate,5.3
+716,Zimbabwe,2023,Labour force participation,66.1
+716,Zimbabwe,2023,Unemployment rate,8.0
+097,European Union,2005,Labour force participation,56.0
+097,European Union,2005,Unemployment rate,9.6
+097,European Union,2010,Labour force participation,56.7
+097,European Union,2010,Unemployment rate,9.8
+097,European Union,2015,Labour force participation,56.8
+097,European Union,2015,Unemployment rate,10.0
+097,European Union,2023,Labour force participation,57.6
+097,European Union,2023,Unemployment rate,6.3

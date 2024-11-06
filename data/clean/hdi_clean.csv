@@ -1,0 +1,4291 @@
+iso3,country,human_development_groups,undp_developing_regions,year,human_development_index_(hdi)
+AFG,Afghanistan,Low,SA,2000,0.335
+AGO,Angola,Medium,SSA,2000,0.375
+ALB,Albania,High,ECA,2000,0.677
+AND,Andorra,Very High,,2000,0.818
+ARE,United Arab Emirates,Very High,AS,2000,0.796
+ARG,Argentina,Very High,LAC,2000,0.779
+ARM,Armenia,High,ECA,2000,0.662
+ATG,Antigua and Barbuda,High,LAC,2000,
+AUS,Australia,Very High,,2000,0.896
+AUT,Austria,Very High,,2000,0.871
+AZE,Azerbaijan,High,ECA,2000,0.622
+BDI,Burundi,Low,SSA,2000,0.297
+BEL,Belgium,Very High,,2000,0.887
+BEN,Benin,Low,SSA,2000,0.416
+BFA,Burkina Faso,Low,SSA,2000,0.296
+BGD,Bangladesh,Medium,SA,2000,0.485
+BGR,Bulgaria,High,,2000,0.725
+BHR,Bahrain,Very High,AS,2000,0.798
+BHS,Bahamas,Very High,LAC,2000,0.799
+BIH,Bosnia and Herzegovina,High,ECA,2000,0.667
+BLR,Belarus,Very High,ECA,2000,0.712
+BLZ,Belize,Medium,LAC,2000,0.64
+BOL,Bolivia,Medium,LAC,2000,0.632
+BRA,Brazil,High,LAC,2000,0.679
+BRB,Barbados,High,LAC,2000,0.756
+BRN,Brunei,Very High,EAP,2000,0.808
+BTN,Bhutan,Medium,SA,2000,
+BWA,Botswana,Medium,SSA,2000,0.585
+CAF,Central African Republic,Low,SSA,2000,0.329
+CAN,Canada,Very High,,2000,0.89
+CHE,Switzerland,Very High,,2000,0.887
+CHL,Chile,Very High,LAC,2000,0.763
+CHN,China,High,EAP,2000,0.584
+CIV,Ivory Coast,Medium,SSA,2000,0.457
+CMR,Cameroon,Medium,SSA,2000,0.442
+COD,The Democratic Republic of the Congo,Low,SSA,2000,0.376
+COG,Congo,Medium,SSA,2000,0.491
+COL,Colombia,High,LAC,2000,0.666
+COM,Comoros,Medium,SSA,2000,0.464
+CPV,Cabo Verde,Medium,SSA,2000,0.569
+CRI,Costa Rica,Very High,LAC,2000,0.71
+CUB,Cuba,High,LAC,2000,0.693
+CYP,Cyprus,Very High,,2000,0.797
+CZE,Czechia,Very High,,2000,0.808
+DEU,Germany,Very High,,2000,0.889
+DJI,Djibouti,Low,AS,2000,0.361
+DMA,Dominica,High,LAC,2000,0.695
+DNK,Denmark,Very High,,2000,0.889
+DOM,Dominican Republic,High,LAC,2000,0.646
+DZA,Algeria,High,AS,2000,0.649
+ECU,Ecuador,High,LAC,2000,0.687
+EGY,Egypt,High,AS,2000,0.633
+ERI,Eritrea,Low,SSA,2000,
+ESP,Spain,Very High,,2000,0.825
+EST,Estonia,Very High,,2000,0.787
+ETH,Ethiopia,Low,SSA,2000,0.287
+FIN,Finland,Very High,,2000,0.891
+FJI,Fiji,High,EAP,2000,0.681
+FRA,France,Very High,,2000,0.844
+FSM,Micronesia,Medium,EAP,2000,0.572
+GAB,Gabon,High,SSA,2000,0.635
+GBR,United Kingdom,Very High,,2000,0.862
+GEO,Georgia,Very High,ECA,2000,0.702
+GHA,Ghana,Medium,SSA,2000,0.507
+GIN,Guinea,Low,SSA,2000,0.345
+GMB,Gambia,Low,SSA,2000,0.404
+GNB,Guinea-Bissau,Low,SSA,2000,
+GNQ,Equatorial Guinea,Medium,SSA,2000,0.512
+GRC,Greece,Very High,,2000,0.81
+GRD,Grenada,High,LAC,2000,
+GTM,Guatemala,Medium,LAC,2000,0.55
+GUY,Guyana,High,LAC,2000,0.577
+HKG,Hong Kong,Very High,,2000,0.851
+HND,Honduras,Medium,LAC,2000,0.556
+HRV,Croatia,Very High,,2000,0.759
+HTI,Haiti,Low,LAC,2000,0.47
+HUN,Hungary,Very High,,2000,0.773
+IDN,Indonesia,High,EAP,2000,0.595
+IND,India,Medium,SA,2000,0.491
+IRL,Ireland,Very High,,2000,0.847
+IRN,Iran,High,SA,2000,0.685
+IRQ,Iraq,Medium,AS,2000,0.589
+ISL,Iceland,Very High,,2000,0.871
+ISR,Israel,Very High,,2000,0.844
+ITA,Italy,Very High,,2000,0.841
+JAM,Jamaica,High,LAC,2000,0.664
+JOR,Jordan,High,AS,2000,0.678
+JPN,Japan,Very High,,2000,0.877
+KAZ,Kazakhstan,Very High,ECA,2000,0.68
+KEN,Kenya,Medium,SSA,2000,0.481
+KGZ,Kyrgyzstan,Medium,ECA,2000,0.621
+KHM,Cambodia,Medium,EAP,2000,0.425
+KIR,Kiribati,Medium,EAP,2000,0.549
+KNA,Saint Kitts and Nevis,High,LAC,2000,
+KOR,South Korea,Very High,,2000,0.825
+KWT,Kuwait,Very High,AS,2000,0.787
+LAO,Lao,Medium,EAP,2000,0.47
+LBN,Lebanon,High,AS,2000,
+LBR,Liberia,Low,SSA,2000,0.438
+LBY,Libya,High,AS,2000,0.712
+LCA,Saint Lucia,High,LAC,2000,0.698
+LIE,Liechtenstein,Very High,,2000,0.873
+LKA,Sri Lanka,High,SA,2000,0.688
+LSO,Lesotho,Low,SSA,2000,0.452
+LTU,Lithuania,Very High,,2000,0.766
+LUX,Luxembourg,Very High,,2000,0.864
+LVA,Latvia,Very High,,2000,0.756
+MAR,Morocco,Medium,AS,2000,0.521
+MCO,Monaco,,,2000,
+MDA,Moldova,High,ECA,2000,0.641
+MDG,Madagascar,Low,SSA,2000,0.443
+MDV,Maldives,High,SA,2000,0.628
+MEX,Mexico,High,LAC,2000,0.709
+MHL,Marshall Islands,Medium,EAP,2000,
+MKD,North Macedonia,High,ECA,2000,0.675
+MLI,Mali,Low,SSA,2000,0.317
+MLT,Malta,Very High,,2000,0.779
+MMR,Myanmar,Medium,EAP,2000,0.41
+MNE,Montenegro,Very High,ECA,2000,
+MNG,Mongolia,High,EAP,2000,0.598
+MOZ,Mozambique,Low,SSA,2000,0.303
+MRT,Mauritania,Medium,SSA,2000,0.465
+MUS,Mauritius,Very High,SSA,2000,0.681
+MWI,Malawi,Low,SSA,2000,0.374
+MYS,Malaysia,Very High,EAP,2000,0.721
+NAM,Namibia,Medium,SSA,2000,0.546
+NER,Niger,Low,SSA,2000,0.262
+NGA,Nigeria,Low,SSA,2000,
+NIC,Nicaragua,Medium,LAC,2000,0.566
+NLD,Netherlands,Very High,,2000,0.893
+NOR,Norway,Very High,,2000,0.913
+NPL,Nepal,Medium,SA,2000,0.467
+NRU,Nauru,,EAP,2000,
+NZL,New Zealand,Very High,,2000,0.887
+OMN,Oman,Very High,AS,2000,0.705
+PAK,Pakistan,Low,SA,2000,0.441
+PAN,Panama,Very High,LAC,2000,0.721
+PER,Peru,High,LAC,2000,0.676
+PHL,Philippines,Medium,EAP,2000,0.633
+PLW,Palau,High,EAP,2000,0.739
+PNG,Papua New Guinea,Medium,EAP,2000,0.447
+POL,Poland,Very High,,2000,0.793
+PRK,North Korea,,EAP,2000,
+PRT,Portugal,Very High,,2000,0.791
+PRY,Paraguay,High,LAC,2000,0.649
+PSE,"Palestine, State of",High,AS,2000,
+QAT,Qatar,Very High,AS,2000,0.801
+ROU,Romania,Very High,,2000,0.715
+RUS,Russian Federation,Very High,,2000,0.732
+RWA,Rwanda,Low,SSA,2000,0.34
+SAU,Saudi Arabia,Very High,AS,2000,0.737
+SDN,Sudan,Low,AS,2000,0.424
+SEN,Senegal,Low,SSA,2000,0.388
+SGP,Singapore,Very High,EAP,2000,0.831
+SLB,Solomon Islands,Medium,EAP,2000,0.486
+SLE,Sierra Leone,Low,SSA,2000,0.318
+SLV,El Salvador,Medium,LAC,2000,0.617
+SMR,San Marino,Very High,,2000,
+SOM,Somalia,,AS,2000,
+SRB,Serbia,Very High,ECA,2000,0.69
+SSD,South Sudan,Low,SSA,2000,
+STP,Sao Tome and Principe,Medium,SSA,2000,0.501
+SUR,Suriname,High,LAC,2000,
+SVK,Slovakia,Very High,,2000,0.763
+SVN,Slovenia,Very High,,2000,0.821
+SWE,Sweden,Very High,,2000,0.904
+SWZ,Eswatini,Medium,SSA,2000,0.471
+SYC,Seychelles,High,SSA,2000,0.744
+SYR,Syrian Arab Republic,Medium,AS,2000,0.587
+TCD,Chad,Low,SSA,2000,0.291
+TGO,Togo,Low,SSA,2000,0.446
+THA,Thailand,Very High,EAP,2000,0.653
+TJK,Tajikistan,Medium,ECA,2000,0.56
+TKM,Turkmenistan,High,ECA,2000,
+TLS,Timor-Leste,Medium,EAP,2000,
+TON,Tonga,High,EAP,2000,0.685
+TTO,Trinidad and Tobago,Very High,LAC,2000,0.712
+TUN,Tunisia,High,AS,2000,0.658
+TUR,Turkey,Very High,ECA,2000,0.67
+TUV,Tuvalu,Medium,EAP,2000,0.597
+TZA,Tanzania,Low,SSA,2000,0.398
+UGA,Uganda,Low,SSA,2000,0.394
+UKR,Ukraine,High,ECA,2000,0.7
+URY,Uruguay,Very High,LAC,2000,0.753
+USA,United States,Very High,,2000,0.891
+UZB,Uzbekistan,High,ECA,2000,0.607
+VCT,Saint Vincent and the Grenadines,High,LAC,2000,0.683
+VEN,Venezuela,Medium,LAC,2000,0.684
+VNM,Viet Nam,High,EAP,2000,0.588
+VUT,Vanuatu,Medium,EAP,2000,
+WSM,Samoa,High,EAP,2000,0.683
+YEM,Yemen,Low,AS,2000,0.45
+ZAF,South Africa,High,SSA,2000,0.633
+ZMB,Zambia,Medium,SSA,2000,0.418
+ZWE,Zimbabwe,Medium,SSA,2000,0.452
+AFG,Afghanistan,Low,SA,2001,0.337
+AGO,Angola,Medium,SSA,2001,0.386
+ALB,Albania,High,ECA,2001,0.684
+AND,Andorra,Very High,,2001,0.825
+ARE,United Arab Emirates,Very High,AS,2001,0.8
+ARG,Argentina,Very High,LAC,2001,0.784
+ARM,Armenia,High,ECA,2001,0.666
+ATG,Antigua and Barbuda,High,LAC,2001,
+AUS,Australia,Very High,,2001,0.9
+AUT,Austria,Very High,,2001,0.876
+AZE,Azerbaijan,High,ECA,2001,0.632
+BDI,Burundi,Low,SSA,2001,0.299
+BEL,Belgium,Very High,,2001,0.89
+BEN,Benin,Low,SSA,2001,0.428
+BFA,Burkina Faso,Low,SSA,2001,0.299
+BGD,Bangladesh,Medium,SA,2001,0.492
+BGR,Bulgaria,High,,2001,0.734
+BHR,Bahrain,Very High,AS,2001,0.804
+BHS,Bahamas,Very High,LAC,2001,0.801
+BIH,Bosnia and Herzegovina,High,ECA,2001,0.672
+BLR,Belarus,Very High,ECA,2001,0.716
+BLZ,Belize,Medium,LAC,2001,0.643
+BOL,Bolivia,Medium,LAC,2001,0.632
+BRA,Brazil,High,LAC,2001,0.686
+BRB,Barbados,High,LAC,2001,0.756
+BRN,Brunei,Very High,EAP,2001,0.809
+BTN,Bhutan,Medium,SA,2001,
+BWA,Botswana,Medium,SSA,2001,0.586
+CAF,Central African Republic,Low,SSA,2001,0.332
+CAN,Canada,Very High,,2001,0.892
+CHE,Switzerland,Very High,,2001,0.89
+CHL,Chile,Very High,LAC,2001,0.768
+CHN,China,High,EAP,2001,0.593
+CIV,Ivory Coast,Medium,SSA,2001,0.456
+CMR,Cameroon,Medium,SSA,2001,0.46
+COD,The Democratic Republic of the Congo,Low,SSA,2001,0.374
+COG,Congo,Medium,SSA,2001,0.497
+COL,Colombia,High,LAC,2001,0.667
+COM,Comoros,Medium,SSA,2001,0.47
+CPV,Cabo Verde,Medium,SSA,2001,0.576
+CRI,Costa Rica,Very High,LAC,2001,0.715
+CUB,Cuba,High,LAC,2001,0.7
+CYP,Cyprus,Very High,,2001,0.804
+CZE,Czechia,Very High,,2001,0.818
+DEU,Germany,Very High,,2001,0.896
+DJI,Djibouti,Low,AS,2001,0.371
+DMA,Dominica,High,LAC,2001,0.694
+DNK,Denmark,Very High,,2001,0.895
+DOM,Dominican Republic,High,LAC,2001,0.651
+DZA,Algeria,High,AS,2001,0.655
+ECU,Ecuador,High,LAC,2001,0.693
+EGY,Egypt,High,AS,2001,0.637
+ERI,Eritrea,Low,SSA,2001,
+ESP,Spain,Very High,,2001,0.83
+EST,Estonia,Very High,,2001,0.797
+ETH,Ethiopia,Low,SSA,2001,0.301
+FIN,Finland,Very High,,2001,0.9
+FJI,Fiji,High,EAP,2001,0.686
+FRA,France,Very High,,2001,0.847
+FSM,Micronesia,Medium,EAP,2001,0.581
+GAB,Gabon,High,SSA,2001,0.641
+GBR,United Kingdom,Very High,,2001,0.868
+GEO,Georgia,Very High,ECA,2001,0.706
+GHA,Ghana,Medium,SSA,2001,0.505
+GIN,Guinea,Low,SSA,2001,0.352
+GMB,Gambia,Low,SSA,2001,0.41
+GNB,Guinea-Bissau,Low,SSA,2001,
+GNQ,Equatorial Guinea,Medium,SSA,2001,0.522
+GRC,Greece,Very High,,2001,0.82
+GRD,Grenada,High,LAC,2001,
+GTM,Guatemala,Medium,LAC,2001,0.556
+GUY,Guyana,High,LAC,2001,0.584
+HKG,Hong Kong,Very High,,2001,0.856
+HND,Honduras,Medium,LAC,2001,0.559
+HRV,Croatia,Very High,,2001,0.769
+HTI,Haiti,Low,LAC,2001,0.472
+HUN,Hungary,Very High,,2001,0.782
+IDN,Indonesia,High,EAP,2001,0.604
+IND,India,Medium,SA,2001,0.496
+IRL,Ireland,Very High,,2001,0.855
+IRN,Iran,High,SA,2001,0.693
+IRQ,Iraq,Medium,AS,2001,0.596
+ISL,Iceland,Very High,,2001,0.879
+ISR,Israel,Very High,,2001,0.848
+ITA,Italy,Very High,,2001,0.849
+JAM,Jamaica,High,LAC,2001,0.673
+JOR,Jordan,High,AS,2001,0.685
+JPN,Japan,Very High,,2001,0.88
+KAZ,Kazakhstan,Very High,ECA,2001,0.695
+KEN,Kenya,Medium,SSA,2001,0.485
+KGZ,Kyrgyzstan,Medium,ECA,2001,0.63
+KHM,Cambodia,Medium,EAP,2001,0.441
+KIR,Kiribati,Medium,EAP,2001,0.59
+KNA,Saint Kitts and Nevis,High,LAC,2001,
+KOR,South Korea,Very High,,2001,0.833
+KWT,Kuwait,Very High,AS,2001,0.781
+LAO,Lao,Medium,EAP,2001,0.476
+LBN,Lebanon,High,AS,2001,
+LBR,Liberia,Low,SSA,2001,0.443
+LBY,Libya,High,AS,2001,0.716
+LCA,Saint Lucia,High,LAC,2001,0.697
+LIE,Liechtenstein,Very High,,2001,0.888
+LKA,Sri Lanka,High,SA,2001,0.69
+LSO,Lesotho,Low,SSA,2001,0.448
+LTU,Lithuania,Very High,,2001,0.776
+LUX,Luxembourg,Very High,,2001,0.869
+LVA,Latvia,Very High,,2001,0.767
+MAR,Morocco,Medium,AS,2001,0.532
+MCO,Monaco,,,2001,
+MDA,Moldova,High,ECA,2001,0.652
+MDG,Madagascar,Low,SSA,2001,0.451
+MDV,Maldives,High,SA,2001,0.633
+MEX,Mexico,High,LAC,2001,0.712
+MHL,Marshall Islands,Medium,EAP,2001,
+MKD,North Macedonia,High,ECA,2001,0.679
+MLI,Mali,Low,SSA,2001,0.329
+MLT,Malta,Very High,,2001,0.796
+MMR,Myanmar,Medium,EAP,2001,0.42
+MNE,Montenegro,Very High,ECA,2001,
+MNG,Mongolia,High,EAP,2001,0.609
+MOZ,Mozambique,Low,SSA,2001,0.316
+MRT,Mauritania,Medium,SSA,2001,0.466
+MUS,Mauritius,Very High,SSA,2001,0.69
+MWI,Malawi,Low,SSA,2001,0.38
+MYS,Malaysia,Very High,EAP,2001,0.722
+NAM,Namibia,Medium,SSA,2001,0.543
+NER,Niger,Low,SSA,2001,0.268
+NGA,Nigeria,Low,SSA,2001,
+NIC,Nicaragua,Medium,LAC,2001,0.571
+NLD,Netherlands,Very High,,2001,0.895
+NOR,Norway,Very High,,2001,0.911
+NPL,Nepal,Medium,SA,2001,0.469
+NRU,Nauru,,EAP,2001,
+NZL,New Zealand,Very High,,2001,0.894
+OMN,Oman,Very High,AS,2001,0.716
+PAK,Pakistan,Low,SA,2001,0.448
+PAN,Panama,Very High,LAC,2001,0.726
+PER,Peru,High,LAC,2001,0.684
+PHL,Philippines,Medium,EAP,2001,0.638
+PLW,Palau,High,EAP,2001,0.745
+PNG,Papua New Guinea,Medium,EAP,2001,0.451
+POL,Poland,Very High,,2001,0.799
+PRK,North Korea,,EAP,2001,
+PRT,Portugal,Very High,,2001,0.797
+PRY,Paraguay,High,LAC,2001,0.655
+PSE,"Palestine, State of",High,AS,2001,
+QAT,Qatar,Very High,AS,2001,0.803
+ROU,Romania,Very High,,2001,0.722
+RUS,Russian Federation,Very High,,2001,0.74
+RWA,Rwanda,Low,SSA,2001,0.35
+SAU,Saudi Arabia,Very High,AS,2001,0.744
+SDN,Sudan,Low,AS,2001,0.431
+SEN,Senegal,Low,SSA,2001,0.394
+SGP,Singapore,Very High,EAP,2001,0.833
+SLB,Solomon Islands,Medium,EAP,2001,0.49
+SLE,Sierra Leone,Low,SSA,2001,0.331
+SLV,El Salvador,Medium,LAC,2001,0.619
+SMR,San Marino,Very High,,2001,
+SOM,Somalia,,AS,2001,
+SRB,Serbia,Very High,ECA,2001,0.7
+SSD,South Sudan,Low,SSA,2001,
+STP,Sao Tome and Principe,Medium,SSA,2001,0.507
+SUR,Suriname,High,LAC,2001,
+SVK,Slovakia,Very High,,2001,0.77
+SVN,Slovenia,Very High,,2001,0.837
+SWE,Sweden,Very High,,2001,0.907
+SWZ,Eswatini,Medium,SSA,2001,0.463
+SYC,Seychelles,High,SSA,2001,0.741
+SYR,Syrian Arab Republic,Medium,AS,2001,0.596
+TCD,Chad,Low,SSA,2001,0.301
+TGO,Togo,Low,SSA,2001,0.449
+THA,Thailand,Very High,EAP,2001,0.664
+TJK,Tajikistan,Medium,ECA,2001,0.569
+TKM,Turkmenistan,High,ECA,2001,
+TLS,Timor-Leste,Medium,EAP,2001,
+TON,Tonga,High,EAP,2001,0.688
+TTO,Trinidad and Tobago,Very High,LAC,2001,0.721
+TUN,Tunisia,High,AS,2001,0.665
+TUR,Turkey,Very High,ECA,2001,0.674
+TUV,Tuvalu,Medium,EAP,2001,0.61
+TZA,Tanzania,Low,SSA,2001,0.406
+UGA,Uganda,Low,SSA,2001,0.404
+UKR,Ukraine,High,ECA,2001,0.715
+URY,Uruguay,Very High,LAC,2001,0.76
+USA,United States,Very High,,2001,0.892
+UZB,Uzbekistan,High,ECA,2001,0.614
+VCT,Saint Vincent and the Grenadines,High,LAC,2001,0.689
+VEN,Venezuela,Medium,LAC,2001,0.689
+VNM,Viet Nam,High,EAP,2001,0.598
+VUT,Vanuatu,Medium,EAP,2001,
+WSM,Samoa,High,EAP,2001,0.69
+YEM,Yemen,Low,AS,2001,0.46
+ZAF,South Africa,High,SSA,2001,0.629
+ZMB,Zambia,Medium,SSA,2001,0.425
+ZWE,Zimbabwe,Medium,SSA,2001,0.441
+AFG,Afghanistan,Low,SA,2002,0.362
+AGO,Angola,Medium,SSA,2002,0.403
+ALB,Albania,High,ECA,2002,0.689
+AND,Andorra,Very High,,2002,0.832
+ARE,United Arab Emirates,Very High,AS,2002,0.804
+ARG,Argentina,Very High,LAC,2002,0.785
+ARM,Armenia,High,ECA,2002,0.676
+ATG,Antigua and Barbuda,High,LAC,2002,
+AUS,Australia,Very High,,2002,0.902
+AUT,Austria,Very High,,2002,0.879
+AZE,Azerbaijan,High,ECA,2002,0.642
+BDI,Burundi,Low,SSA,2002,0.311
+BEL,Belgium,Very High,,2002,0.892
+BEN,Benin,Low,SSA,2002,0.436
+BFA,Burkina Faso,Low,SSA,2002,0.303
+BGD,Bangladesh,Medium,SA,2002,0.499
+BGR,Bulgaria,High,,2002,0.74
+BHR,Bahrain,Very High,AS,2002,0.804
+BHS,Bahamas,Very High,LAC,2002,0.804
+BIH,Bosnia and Herzegovina,High,ECA,2002,0.675
+BLR,Belarus,Very High,ECA,2002,0.721
+BLZ,Belize,Medium,LAC,2002,0.652
+BOL,Bolivia,Medium,LAC,2002,0.63
+BRA,Brazil,High,LAC,2002,0.692
+BRB,Barbados,High,LAC,2002,0.76
+BRN,Brunei,Very High,EAP,2002,0.813
+BTN,Bhutan,Medium,SA,2002,
+BWA,Botswana,Medium,SSA,2002,0.583
+CAF,Central African Republic,Low,SSA,2002,0.333
+CAN,Canada,Very High,,2002,0.894
+CHE,Switzerland,Very High,,2002,0.89
+CHL,Chile,Very High,LAC,2002,0.775
+CHN,China,High,EAP,2002,0.604
+CIV,Ivory Coast,Medium,SSA,2002,0.454
+CMR,Cameroon,Medium,SSA,2002,0.461
+COD,The Democratic Republic of the Congo,Low,SSA,2002,0.378
+COG,Congo,Medium,SSA,2002,0.5
+COL,Colombia,High,LAC,2002,0.67
+COM,Comoros,Medium,SSA,2002,0.474
+CPV,Cabo Verde,Medium,SSA,2002,0.587
+CRI,Costa Rica,Very High,LAC,2002,0.722
+CUB,Cuba,High,LAC,2002,0.706
+CYP,Cyprus,Very High,,2002,0.816
+CZE,Czechia,Very High,,2002,0.825
+DEU,Germany,Very High,,2002,0.901
+DJI,Djibouti,Low,AS,2002,0.378
+DMA,Dominica,High,LAC,2002,0.695
+DNK,Denmark,Very High,,2002,0.896
+DOM,Dominican Republic,High,LAC,2002,0.657
+DZA,Algeria,High,AS,2002,0.664
+ECU,Ecuador,High,LAC,2002,0.698
+EGY,Egypt,High,AS,2002,0.639
+ERI,Eritrea,Low,SSA,2002,0.426
+ESP,Spain,Very High,,2002,0.834
+EST,Estonia,Very High,,2002,0.807
+ETH,Ethiopia,Low,SSA,2002,0.309
+FIN,Finland,Very High,,2002,0.904
+FJI,Fiji,High,EAP,2002,0.687
+FRA,France,Very High,,2002,0.848
+FSM,Micronesia,Medium,EAP,2002,0.582
+GAB,Gabon,High,SSA,2002,0.644
+GBR,United Kingdom,Very High,,2002,0.873
+GEO,Georgia,Very High,ECA,2002,0.714
+GHA,Ghana,Medium,SSA,2002,0.512
+GIN,Guinea,Low,SSA,2002,0.362
+GMB,Gambia,Low,SSA,2002,0.412
+GNB,Guinea-Bissau,Low,SSA,2002,
+GNQ,Equatorial Guinea,Medium,SSA,2002,0.534
+GRC,Greece,Very High,,2002,0.83
+GRD,Grenada,High,LAC,2002,0.739
+GTM,Guatemala,Medium,LAC,2002,0.561
+GUY,Guyana,High,LAC,2002,0.59
+HKG,Hong Kong,Very High,,2002,0.859
+HND,Honduras,Medium,LAC,2002,0.563
+HRV,Croatia,Very High,,2002,0.777
+HTI,Haiti,Low,LAC,2002,0.476
+HUN,Hungary,Very High,,2002,0.791
+IDN,Indonesia,High,EAP,2002,0.612
+IND,India,Medium,SA,2002,0.503
+IRL,Ireland,Very High,,2002,0.864
+IRN,Iran,High,SA,2002,0.701
+IRQ,Iraq,Medium,AS,2002,0.598
+ISL,Iceland,Very High,,2002,0.886
+ISR,Israel,Very High,,2002,0.854
+ITA,Italy,Very High,,2002,0.853
+JAM,Jamaica,High,LAC,2002,0.677
+JOR,Jordan,High,AS,2002,0.692
+JPN,Japan,Very High,,2002,0.882
+KAZ,Kazakhstan,Very High,ECA,2002,0.706
+KEN,Kenya,Medium,SSA,2002,0.485
+KGZ,Kyrgyzstan,Medium,ECA,2002,0.631
+KHM,Cambodia,Medium,EAP,2002,0.461
+KIR,Kiribati,Medium,EAP,2002,0.587
+KNA,Saint Kitts and Nevis,High,LAC,2002,
+KOR,South Korea,Very High,,2002,0.84
+KWT,Kuwait,Very High,AS,2002,0.784
+LAO,Lao,Medium,EAP,2002,0.484
+LBN,Lebanon,High,AS,2002,
+LBR,Liberia,Low,SSA,2002,0.447
+LBY,Libya,High,AS,2002,0.716
+LCA,Saint Lucia,High,LAC,2002,0.699
+LIE,Liechtenstein,Very High,,2002,0.891
+LKA,Sri Lanka,High,SA,2002,0.694
+LSO,Lesotho,Low,SSA,2002,0.446
+LTU,Lithuania,Very High,,2002,0.786
+LUX,Luxembourg,Very High,,2002,0.874
+LVA,Latvia,Very High,,2002,0.778
+MAR,Morocco,Medium,AS,2002,0.542
+MCO,Monaco,,,2002,
+MDA,Moldova,High,ECA,2002,0.663
+MDG,Madagascar,Low,SSA,2002,0.447
+MDV,Maldives,High,SA,2002,0.636
+MEX,Mexico,High,LAC,2002,0.719
+MHL,Marshall Islands,Medium,EAP,2002,
+MKD,North Macedonia,High,ECA,2002,0.683
+MLI,Mali,Low,SSA,2002,0.338
+MLT,Malta,Very High,,2002,0.8
+MMR,Myanmar,Medium,EAP,2002,0.43
+MNE,Montenegro,Very High,ECA,2002,
+MNG,Mongolia,High,EAP,2002,0.617
+MOZ,Mozambique,Low,SSA,2002,0.324
+MRT,Mauritania,Medium,SSA,2002,0.47
+MUS,Mauritius,Very High,SSA,2002,0.694
+MWI,Malawi,Low,SSA,2002,0.386
+MYS,Malaysia,Very High,EAP,2002,0.724
+NAM,Namibia,Medium,SSA,2002,0.545
+NER,Niger,Low,SSA,2002,0.274
+NGA,Nigeria,Low,SSA,2002,
+NIC,Nicaragua,Medium,LAC,2002,0.575
+NLD,Netherlands,Very High,,2002,0.892
+NOR,Norway,Very High,,2002,0.912
+NPL,Nepal,Medium,SA,2002,0.476
+NRU,Nauru,,EAP,2002,
+NZL,New Zealand,Very High,,2002,0.897
+OMN,Oman,Very High,AS,2002,0.723
+PAK,Pakistan,Low,SA,2002,0.454
+PAN,Panama,Very High,LAC,2002,0.733
+PER,Peru,High,LAC,2002,0.685
+PHL,Philippines,Medium,EAP,2002,0.645
+PLW,Palau,High,EAP,2002,0.75
+PNG,Papua New Guinea,Medium,EAP,2002,0.455
+POL,Poland,Very High,,2002,0.806
+PRK,North Korea,,EAP,2002,
+PRT,Portugal,Very High,,2002,0.798
+PRY,Paraguay,High,LAC,2002,0.662
+PSE,"Palestine, State of",High,AS,2002,
+QAT,Qatar,Very High,AS,2002,0.809
+ROU,Romania,Very High,,2002,0.729
+RUS,Russian Federation,Very High,,2002,0.746
+RWA,Rwanda,Low,SSA,2002,0.369
+SAU,Saudi Arabia,Very High,AS,2002,0.75
+SDN,Sudan,Low,AS,2002,0.436
+SEN,Senegal,Low,SSA,2002,0.398
+SGP,Singapore,Very High,EAP,2002,0.84
+SLB,Solomon Islands,Medium,EAP,2002,0.496
+SLE,Sierra Leone,Low,SSA,2002,0.347
+SLV,El Salvador,Medium,LAC,2002,0.626
+SMR,San Marino,Very High,,2002,
+SOM,Somalia,,AS,2002,
+SRB,Serbia,Very High,ECA,2002,0.702
+SSD,South Sudan,Low,SSA,2002,
+STP,Sao Tome and Principe,Medium,SSA,2002,0.511
+SUR,Suriname,High,LAC,2002,
+SVK,Slovakia,Very High,,2002,0.779
+SVN,Slovenia,Very High,,2002,0.848
+SWE,Sweden,Very High,,2002,0.91
+SWZ,Eswatini,Medium,SSA,2002,0.451
+SYC,Seychelles,High,SSA,2002,0.742
+SYR,Syrian Arab Republic,Medium,AS,2002,0.603
+TCD,Chad,Low,SSA,2002,0.307
+TGO,Togo,Low,SSA,2002,0.454
+THA,Thailand,Very High,EAP,2002,0.676
+TJK,Tajikistan,Medium,ECA,2002,0.579
+TKM,Turkmenistan,High,ECA,2002,
+TLS,Timor-Leste,Medium,EAP,2002,0.508
+TON,Tonga,High,EAP,2002,0.694
+TTO,Trinidad and Tobago,Very High,LAC,2002,0.732
+TUN,Tunisia,High,AS,2002,0.67
+TUR,Turkey,Very High,ECA,2002,0.684
+TUV,Tuvalu,Medium,EAP,2002,0.62
+TZA,Tanzania,Low,SSA,2002,0.416
+UGA,Uganda,Low,SSA,2002,0.417
+UKR,Ukraine,High,ECA,2002,0.722
+URY,Uruguay,Very High,LAC,2002,0.764
+USA,United States,Very High,,2002,0.893
+UZB,Uzbekistan,High,ECA,2002,0.621
+VCT,Saint Vincent and the Grenadines,High,LAC,2002,0.695
+VEN,Venezuela,Medium,LAC,2002,0.699
+VNM,Viet Nam,High,EAP,2002,0.608
+VUT,Vanuatu,Medium,EAP,2002,
+WSM,Samoa,High,EAP,2002,0.689
+YEM,Yemen,Low,AS,2002,0.468
+ZAF,South Africa,High,SSA,2002,0.633
+ZMB,Zambia,Medium,SSA,2002,0.434
+ZWE,Zimbabwe,Medium,SSA,2002,0.452
+AFG,Afghanistan,Low,SA,2003,0.376
+AGO,Angola,Medium,SSA,2003,0.42
+ALB,Albania,High,ECA,2003,0.696
+AND,Andorra,Very High,,2003,0.841
+ARE,United Arab Emirates,Very High,AS,2003,0.814
+ARG,Argentina,Very High,LAC,2003,0.793
+ARM,Armenia,High,ECA,2003,0.686
+ATG,Antigua and Barbuda,High,LAC,2003,
+AUS,Australia,Very High,,2003,0.906
+AUT,Austria,Very High,,2003,0.881
+AZE,Azerbaijan,High,ECA,2003,0.651
+BDI,Burundi,Low,SSA,2003,0.319
+BEL,Belgium,Very High,,2003,0.895
+BEN,Benin,Low,SSA,2003,0.443
+BFA,Burkina Faso,Low,SSA,2003,0.31
+BGD,Bangladesh,Medium,SA,2003,0.505
+BGR,Bulgaria,High,,2003,0.749
+BHR,Bahrain,Very High,AS,2003,0.806
+BHS,Bahamas,Very High,LAC,2003,0.805
+BIH,Bosnia and Herzegovina,High,ECA,2003,0.683
+BLR,Belarus,Very High,ECA,2003,0.73
+BLZ,Belize,Medium,LAC,2003,0.66
+BOL,Bolivia,Medium,LAC,2003,0.627
+BRA,Brazil,High,LAC,2003,0.688
+BRB,Barbados,High,LAC,2003,0.765
+BRN,Brunei,Very High,EAP,2003,0.818
+BTN,Bhutan,Medium,SA,2003,
+BWA,Botswana,Medium,SSA,2003,0.59
+CAF,Central African Republic,Low,SSA,2003,0.333
+CAN,Canada,Very High,,2003,0.897
+CHE,Switzerland,Very High,,2003,0.895
+CHL,Chile,Very High,LAC,2003,0.779
+CHN,China,High,EAP,2003,0.615
+CIV,Ivory Coast,Medium,SSA,2003,0.453
+CMR,Cameroon,Medium,SSA,2003,0.468
+COD,The Democratic Republic of the Congo,Low,SSA,2003,0.384
+COG,Congo,Medium,SSA,2003,0.5
+COL,Colombia,High,LAC,2003,0.677
+COM,Comoros,Medium,SSA,2003,0.479
+CPV,Cabo Verde,Medium,SSA,2003,0.593
+CRI,Costa Rica,Very High,LAC,2003,0.727
+CUB,Cuba,High,LAC,2003,0.714
+CYP,Cyprus,Very High,,2003,0.825
+CZE,Czechia,Very High,,2003,0.831
+DEU,Germany,Very High,,2003,0.905
+DJI,Djibouti,Low,AS,2003,0.388
+DMA,Dominica,High,LAC,2003,0.695
+DNK,Denmark,Very High,,2003,0.901
+DOM,Dominican Republic,High,LAC,2003,0.659
+DZA,Algeria,High,AS,2003,0.67
+ECU,Ecuador,High,LAC,2003,0.703
+EGY,Egypt,High,AS,2003,0.637
+ERI,Eritrea,Low,SSA,2003,0.437
+ESP,Spain,Very High,,2003,0.837
+EST,Estonia,Very High,,2003,0.816
+ETH,Ethiopia,Low,SSA,2003,0.313
+FIN,Finland,Very High,,2003,0.907
+FJI,Fiji,High,EAP,2003,0.692
+FRA,France,Very High,,2003,0.851
+FSM,Micronesia,Medium,EAP,2003,0.594
+GAB,Gabon,High,SSA,2003,0.648
+GBR,United Kingdom,Very High,,2003,0.878
+GEO,Georgia,Very High,ECA,2003,0.723
+GHA,Ghana,Medium,SSA,2003,0.515
+GIN,Guinea,Low,SSA,2003,0.37
+GMB,Gambia,Low,SSA,2003,0.419
+GNB,Guinea-Bissau,Low,SSA,2003,
+GNQ,Equatorial Guinea,Medium,SSA,2003,0.537
+GRC,Greece,Very High,,2003,0.835
+GRD,Grenada,High,LAC,2003,0.747
+GTM,Guatemala,Medium,LAC,2003,0.566
+GUY,Guyana,High,LAC,2003,0.598
+HKG,Hong Kong,Very High,,2003,0.864
+HND,Honduras,Medium,LAC,2003,0.567
+HRV,Croatia,Very High,,2003,0.783
+HTI,Haiti,Low,LAC,2003,0.482
+HUN,Hungary,Very High,,2003,0.798
+IDN,Indonesia,High,EAP,2003,0.621
+IND,India,Medium,SA,2003,0.516
+IRL,Ireland,Very High,,2003,0.873
+IRN,Iran,High,SA,2003,0.704
+IRQ,Iraq,Medium,AS,2003,0.579
+ISL,Iceland,Very High,,2003,0.891
+ISR,Israel,Very High,,2003,0.855
+ITA,Italy,Very High,,2003,0.858
+JAM,Jamaica,High,LAC,2003,0.671
+JOR,Jordan,High,AS,2003,0.698
+JPN,Japan,Very High,,2003,0.884
+KAZ,Kazakhstan,Very High,ECA,2003,0.718
+KEN,Kenya,Medium,SSA,2003,0.495
+KGZ,Kyrgyzstan,Medium,ECA,2003,0.64
+KHM,Cambodia,Medium,EAP,2003,0.475
+KIR,Kiribati,Medium,EAP,2003,0.593
+KNA,Saint Kitts and Nevis,High,LAC,2003,
+KOR,South Korea,Very High,,2003,0.844
+KWT,Kuwait,Very High,AS,2003,0.793
+LAO,Lao,Medium,EAP,2003,0.493
+LBN,Lebanon,High,AS,2003,
+LBR,Liberia,Low,SSA,2003,0.422
+LBY,Libya,High,AS,2003,0.724
+LCA,Saint Lucia,High,LAC,2003,0.701
+LIE,Liechtenstein,Very High,,2003,0.895
+LKA,Sri Lanka,High,SA,2003,0.699
+LSO,Lesotho,Low,SSA,2003,0.449
+LTU,Lithuania,Very High,,2003,0.8
+LUX,Luxembourg,Very High,,2003,0.873
+LVA,Latvia,Very High,,2003,0.787
+MAR,Morocco,Medium,AS,2003,0.552
+MCO,Monaco,,,2003,
+MDA,Moldova,High,ECA,2003,0.674
+MDG,Madagascar,Low,SSA,2003,0.457
+MDV,Maldives,High,SA,2003,0.65
+MEX,Mexico,High,LAC,2003,0.725
+MHL,Marshall Islands,Medium,EAP,2003,
+MKD,North Macedonia,High,ECA,2003,0.688
+MLI,Mali,Low,SSA,2003,0.35
+MLT,Malta,Very High,,2003,0.812
+MMR,Myanmar,Medium,EAP,2003,0.44
+MNE,Montenegro,Very High,ECA,2003,0.756
+MNG,Mongolia,High,EAP,2003,0.631
+MOZ,Mozambique,Low,SSA,2003,0.337
+MRT,Mauritania,Medium,SSA,2003,0.475
+MUS,Mauritius,Very High,SSA,2003,0.703
+MWI,Malawi,Low,SSA,2003,0.393
+MYS,Malaysia,Very High,EAP,2003,0.732
+NAM,Namibia,Medium,SSA,2003,0.548
+NER,Niger,Low,SSA,2003,0.278
+NGA,Nigeria,Low,SSA,2003,0.45
+NIC,Nicaragua,Medium,LAC,2003,0.578
+NLD,Netherlands,Very High,,2003,0.894
+NOR,Norway,Very High,,2003,0.919
+NPL,Nepal,Medium,SA,2003,0.482
+NRU,Nauru,,EAP,2003,
+NZL,New Zealand,Very High,,2003,0.903
+OMN,Oman,Very High,AS,2003,0.731
+PAK,Pakistan,Low,SA,2003,0.462
+PAN,Panama,Very High,LAC,2003,0.737
+PER,Peru,High,LAC,2003,0.684
+PHL,Philippines,Medium,EAP,2003,0.65
+PLW,Palau,High,EAP,2003,0.754
+PNG,Papua New Guinea,Medium,EAP,2003,0.461
+POL,Poland,Very High,,2003,0.811
+PRK,North Korea,,EAP,2003,
+PRT,Portugal,Very High,,2003,0.802
+PRY,Paraguay,High,LAC,2003,0.655
+PSE,"Palestine, State of",High,AS,2003,
+QAT,Qatar,Very High,AS,2003,0.819
+ROU,Romania,Very High,,2003,0.732
+RUS,Russian Federation,Very High,,2003,0.754
+RWA,Rwanda,Low,SSA,2003,0.385
+SAU,Saudi Arabia,Very High,AS,2003,0.76
+SDN,Sudan,Low,AS,2003,0.439
+SEN,Senegal,Low,SSA,2003,0.405
+SGP,Singapore,Very High,EAP,2003,0.845
+SLB,Solomon Islands,Medium,EAP,2003,0.501
+SLE,Sierra Leone,Low,SSA,2003,0.357
+SLV,El Salvador,Medium,LAC,2003,0.631
+SMR,San Marino,Very High,,2003,
+SOM,Somalia,,AS,2003,
+SRB,Serbia,Very High,ECA,2003,0.711
+SSD,South Sudan,Low,SSA,2003,
+STP,Sao Tome and Principe,Medium,SSA,2003,0.519
+SUR,Suriname,High,LAC,2003,
+SVK,Slovakia,Very High,,2003,0.784
+SVN,Slovenia,Very High,,2003,0.858
+SWE,Sweden,Very High,,2003,0.915
+SWZ,Eswatini,Medium,SSA,2003,0.446
+SYC,Seychelles,High,SSA,2003,0.746
+SYR,Syrian Arab Republic,Medium,AS,2003,0.615
+TCD,Chad,Low,SSA,2003,0.307
+TGO,Togo,Low,SSA,2003,0.46
+THA,Thailand,Very High,EAP,2003,0.687
+TJK,Tajikistan,Medium,ECA,2003,0.594
+TKM,Turkmenistan,High,ECA,2003,
+TLS,Timor-Leste,Medium,EAP,2003,0.508
+TON,Tonga,High,EAP,2003,0.701
+TTO,Trinidad and Tobago,Very High,LAC,2003,0.737
+TUN,Tunisia,High,AS,2003,0.677
+TUR,Turkey,Very High,ECA,2003,0.69
+TUV,Tuvalu,Medium,EAP,2003,0.605
+TZA,Tanzania,Low,SSA,2003,0.426
+UGA,Uganda,Low,SSA,2003,0.429
+UKR,Ukraine,High,ECA,2003,0.732
+URY,Uruguay,Very High,LAC,2003,0.77
+USA,United States,Very High,,2003,0.895
+UZB,Uzbekistan,High,ECA,2003,0.627
+VCT,Saint Vincent and the Grenadines,High,LAC,2003,0.702
+VEN,Venezuela,Medium,LAC,2003,0.693
+VNM,Viet Nam,High,EAP,2003,0.617
+VUT,Vanuatu,Medium,EAP,2003,
+WSM,Samoa,High,EAP,2003,0.694
+YEM,Yemen,Low,AS,2003,0.476
+ZAF,South Africa,High,SSA,2003,0.629
+ZMB,Zambia,Medium,SSA,2003,0.448
+ZWE,Zimbabwe,Medium,SSA,2003,0.439
+AFG,Afghanistan,Low,SA,2004,0.392
+AGO,Angola,Medium,SSA,2004,0.433
+ALB,Albania,High,ECA,2004,0.7
+AND,Andorra,Very High,,2004,0.833
+ARE,United Arab Emirates,Very High,AS,2004,0.818
+ARG,Argentina,Very High,LAC,2004,0.798
+ARM,Armenia,High,ECA,2004,0.694
+ATG,Antigua and Barbuda,High,LAC,2004,
+AUS,Australia,Very High,,2004,0.908
+AUT,Austria,Very High,,2004,0.886
+AZE,Azerbaijan,High,ECA,2004,0.659
+BDI,Burundi,Low,SSA,2004,0.33
+BEL,Belgium,Very High,,2004,0.9
+BEN,Benin,Low,SSA,2004,0.45
+BFA,Burkina Faso,Low,SSA,2004,0.32
+BGD,Bangladesh,Medium,SA,2004,0.511
+BGR,Bulgaria,High,,2004,0.756
+BHR,Bahrain,Very High,AS,2004,0.804
+BHS,Bahamas,Very High,LAC,2004,0.807
+BIH,Bosnia and Herzegovina,High,ECA,2004,0.69
+BLR,Belarus,Very High,ECA,2004,0.742
+BLZ,Belize,Medium,LAC,2004,0.667
+BOL,Bolivia,Medium,LAC,2004,0.626
+BRA,Brazil,High,LAC,2004,0.692
+BRB,Barbados,High,LAC,2004,0.77
+BRN,Brunei,Very High,EAP,2004,0.822
+BTN,Bhutan,Medium,SA,2004,
+BWA,Botswana,Medium,SSA,2004,0.595
+CAF,Central African Republic,Low,SSA,2004,0.337
+CAN,Canada,Very High,,2004,0.901
+CHE,Switzerland,Very High,,2004,0.901
+CHL,Chile,Very High,LAC,2004,0.787
+CHN,China,High,EAP,2004,0.626
+CIV,Ivory Coast,Medium,SSA,2004,0.455
+CMR,Cameroon,Medium,SSA,2004,0.474
+COD,The Democratic Republic of the Congo,Low,SSA,2004,0.39
+COG,Congo,Medium,SSA,2004,0.505
+COL,Colombia,High,LAC,2004,0.683
+COM,Comoros,Medium,SSA,2004,0.482
+CPV,Cabo Verde,Medium,SSA,2004,0.597
+CRI,Costa Rica,Very High,LAC,2004,0.732
+CUB,Cuba,High,LAC,2004,0.728
+CYP,Cyprus,Very High,,2004,0.83
+CZE,Czechia,Very High,,2004,0.836
+DEU,Germany,Very High,,2004,0.914
+DJI,Djibouti,Low,AS,2004,0.396
+DMA,Dominica,High,LAC,2004,0.7
+DNK,Denmark,Very High,,2004,0.906
+DOM,Dominican Republic,High,LAC,2004,0.663
+DZA,Algeria,High,AS,2004,0.678
+ECU,Ecuador,High,LAC,2004,0.71
+EGY,Egypt,High,AS,2004,0.64
+ERI,Eritrea,Low,SSA,2004,0.445
+ESP,Spain,Very High,,2004,0.844
+EST,Estonia,Very High,,2004,0.826
+ETH,Ethiopia,Low,SSA,2004,0.327
+FIN,Finland,Very High,,2004,0.902
+FJI,Fiji,High,EAP,2004,0.704
+FRA,France,Very High,,2004,0.858
+FSM,Micronesia,Medium,EAP,2004,0.597
+GAB,Gabon,High,SSA,2004,0.647
+GBR,United Kingdom,Very High,,2004,0.889
+GEO,Georgia,Very High,ECA,2004,0.729
+GHA,Ghana,Medium,SSA,2004,0.521
+GIN,Guinea,Low,SSA,2004,0.377
+GMB,Gambia,Low,SSA,2004,0.428
+GNB,Guinea-Bissau,Low,SSA,2004,
+GNQ,Equatorial Guinea,Medium,SSA,2004,0.545
+GRC,Greece,Very High,,2004,0.843
+GRD,Grenada,High,LAC,2004,0.742
+GTM,Guatemala,Medium,LAC,2004,0.571
+GUY,Guyana,High,LAC,2004,0.612
+HKG,Hong Kong,Very High,,2004,0.872
+HND,Honduras,Medium,LAC,2004,0.572
+HRV,Croatia,Very High,,2004,0.796
+HTI,Haiti,Low,LAC,2004,0.479
+HUN,Hungary,Very High,,2004,0.801
+IDN,Indonesia,High,EAP,2004,0.619
+IND,India,Medium,SA,2004,0.525
+IRL,Ireland,Very High,,2004,0.881
+IRN,Iran,High,SA,2004,0.712
+IRQ,Iraq,Medium,AS,2004,0.602
+ISL,Iceland,Very High,,2004,0.895
+ISR,Israel,Very High,,2004,0.858
+ITA,Italy,Very High,,2004,0.865
+JAM,Jamaica,High,LAC,2004,0.687
+JOR,Jordan,High,AS,2004,0.709
+JPN,Japan,Very High,,2004,0.888
+KAZ,Kazakhstan,Very High,ECA,2004,0.73
+KEN,Kenya,Medium,SSA,2004,0.508
+KGZ,Kyrgyzstan,Medium,ECA,2004,0.643
+KHM,Cambodia,Medium,EAP,2004,0.488
+KIR,Kiribati,Medium,EAP,2004,0.59
+KNA,Saint Kitts and Nevis,High,LAC,2004,
+KOR,South Korea,Very High,,2004,0.852
+KWT,Kuwait,Very High,AS,2004,0.797
+LAO,Lao,Medium,EAP,2004,0.5
+LBN,Lebanon,High,AS,2004,
+LBR,Liberia,Low,SSA,2004,0.434
+LBY,Libya,High,AS,2004,0.731
+LCA,Saint Lucia,High,LAC,2004,0.704
+LIE,Liechtenstein,Very High,,2004,0.907
+LKA,Sri Lanka,High,SA,2004,0.683
+LSO,Lesotho,Low,SSA,2004,0.448
+LTU,Lithuania,Very High,,2004,0.809
+LUX,Luxembourg,Very High,,2004,0.882
+LVA,Latvia,Very High,,2004,0.799
+MAR,Morocco,Medium,AS,2004,0.56
+MCO,Monaco,,,2004,
+MDA,Moldova,High,ECA,2004,0.685
+MDG,Madagascar,Low,SSA,2004,0.465
+MDV,Maldives,High,SA,2004,0.65
+MEX,Mexico,High,LAC,2004,0.73
+MHL,Marshall Islands,Medium,EAP,2004,
+MKD,North Macedonia,High,ECA,2004,0.694
+MLI,Mali,Low,SSA,2004,0.357
+MLT,Malta,Very High,,2004,0.825
+MMR,Myanmar,Medium,EAP,2004,0.45
+MNE,Montenegro,Very High,ECA,2004,0.764
+MNG,Mongolia,High,EAP,2004,0.647
+MOZ,Mozambique,Low,SSA,2004,0.347
+MRT,Mauritania,Medium,SSA,2004,0.486
+MUS,Mauritius,Very High,SSA,2004,0.71
+MWI,Malawi,Low,SSA,2004,0.4
+MYS,Malaysia,Very High,EAP,2004,0.735
+NAM,Namibia,Medium,SSA,2004,0.552
+NER,Niger,Low,SSA,2004,0.289
+NGA,Nigeria,Low,SSA,2004,0.462
+NIC,Nicaragua,Medium,LAC,2004,0.582
+NLD,Netherlands,Very High,,2004,0.897
+NOR,Norway,Very High,,2004,0.927
+NPL,Nepal,Medium,SA,2004,0.489
+NRU,Nauru,,EAP,2004,
+NZL,New Zealand,Very High,,2004,0.906
+OMN,Oman,Very High,AS,2004,0.739
+PAK,Pakistan,Low,SA,2004,0.475
+PAN,Panama,Very High,LAC,2004,0.743
+PER,Peru,High,LAC,2004,0.69
+PHL,Philippines,Medium,EAP,2004,0.657
+PLW,Palau,High,EAP,2004,0.756
+PNG,Papua New Guinea,Medium,EAP,2004,0.461
+POL,Poland,Very High,,2004,0.809
+PRK,North Korea,,EAP,2004,
+PRT,Portugal,Very High,,2004,0.805
+PRY,Paraguay,High,LAC,2004,0.662
+PSE,"Palestine, State of",High,AS,2004,0.651
+QAT,Qatar,Very High,AS,2004,0.822
+ROU,Romania,Very High,,2004,0.742
+RUS,Russian Federation,Very High,,2004,0.761
+RWA,Rwanda,Low,SSA,2004,0.406
+SAU,Saudi Arabia,Very High,AS,2004,0.77
+SDN,Sudan,Low,AS,2004,0.441
+SEN,Senegal,Low,SSA,2004,0.412
+SGP,Singapore,Very High,EAP,2004,0.851
+SLB,Solomon Islands,Medium,EAP,2004,0.507
+SLE,Sierra Leone,Low,SSA,2004,0.364
+SLV,El Salvador,Medium,LAC,2004,0.636
+SMR,San Marino,Very High,,2004,
+SOM,Somalia,,AS,2004,
+SRB,Serbia,Very High,ECA,2004,0.723
+SSD,South Sudan,Low,SSA,2004,
+STP,Sao Tome and Principe,Medium,SSA,2004,0.525
+SUR,Suriname,High,LAC,2004,0.674
+SVK,Slovakia,Very High,,2004,0.794
+SVN,Slovenia,Very High,,2004,0.865
+SWE,Sweden,Very High,,2004,0.9
+SWZ,Eswatini,Medium,SSA,2004,0.444
+SYC,Seychelles,High,SSA,2004,0.747
+SYR,Syrian Arab Republic,Medium,AS,2004,0.627
+TCD,Chad,Low,SSA,2004,0.325
+TGO,Togo,Low,SSA,2004,0.459
+THA,Thailand,Very High,EAP,2004,0.697
+TJK,Tajikistan,Medium,ECA,2004,0.606
+TKM,Turkmenistan,High,ECA,2004,
+TLS,Timor-Leste,Medium,EAP,2004,0.521
+TON,Tonga,High,EAP,2004,0.702
+TTO,Trinidad and Tobago,Very High,LAC,2004,0.752
+TUN,Tunisia,High,AS,2004,0.687
+TUR,Turkey,Very High,ECA,2004,0.695
+TUV,Tuvalu,Medium,EAP,2004,0.61
+TZA,Tanzania,Low,SSA,2004,0.436
+UGA,Uganda,Low,SSA,2004,0.444
+UKR,Ukraine,High,ECA,2004,0.74
+URY,Uruguay,Very High,LAC,2004,0.77
+USA,United States,Very High,,2004,0.898
+UZB,Uzbekistan,High,ECA,2004,0.634
+VCT,Saint Vincent and the Grenadines,High,LAC,2004,0.708
+VEN,Venezuela,Medium,LAC,2004,0.707
+VNM,Viet Nam,High,EAP,2004,0.625
+VUT,Vanuatu,Medium,EAP,2004,
+WSM,Samoa,High,EAP,2004,0.698
+YEM,Yemen,Low,AS,2004,0.483
+ZAF,South Africa,High,SSA,2004,0.63
+ZMB,Zambia,Medium,SSA,2004,0.459
+ZWE,Zimbabwe,Medium,SSA,2004,0.446
+AFG,Afghanistan,Low,SA,2005,0.4
+AGO,Angola,Medium,SSA,2005,0.447
+ALB,Albania,High,ECA,2005,0.711
+AND,Andorra,Very High,,2005,0.833
+ARE,United Arab Emirates,Very High,AS,2005,0.822
+ARG,Argentina,Very High,LAC,2005,0.802
+ARM,Armenia,High,ECA,2005,0.707
+ATG,Antigua and Barbuda,High,LAC,2005,
+AUS,Australia,Very High,,2005,0.911
+AUT,Austria,Very High,,2005,0.889
+AZE,Azerbaijan,High,ECA,2005,0.672
+BDI,Burundi,Low,SSA,2005,0.338
+BEL,Belgium,Very High,,2005,0.902
+BEN,Benin,Low,SSA,2005,0.457
+BFA,Burkina Faso,Low,SSA,2005,0.331
+BGD,Bangladesh,Medium,SA,2005,0.518
+BGR,Bulgaria,High,,2005,0.762
+BHR,Bahrain,Very High,AS,2005,0.803
+BHS,Bahamas,Very High,LAC,2005,0.811
+BIH,Bosnia and Herzegovina,High,ECA,2005,0.691
+BLR,Belarus,Very High,ECA,2005,0.75
+BLZ,Belize,Medium,LAC,2005,0.664
+BOL,Bolivia,Medium,LAC,2005,0.635
+BRA,Brazil,High,LAC,2005,0.698
+BRB,Barbados,High,LAC,2005,0.776
+BRN,Brunei,Very High,EAP,2005,0.825
+BTN,Bhutan,Medium,SA,2005,
+BWA,Botswana,Medium,SSA,2005,0.604
+CAF,Central African Republic,Low,SSA,2005,0.342
+CAN,Canada,Very High,,2005,0.903
+CHE,Switzerland,Very High,,2005,0.905
+CHL,Chile,Very High,LAC,2005,0.795
+CHN,China,High,EAP,2005,0.638
+CIV,Ivory Coast,Medium,SSA,2005,0.456
+CMR,Cameroon,Medium,SSA,2005,0.475
+COD,The Democratic Republic of the Congo,Low,SSA,2005,0.395
+COG,Congo,Medium,SSA,2005,0.519
+COL,Colombia,High,LAC,2005,0.696
+COM,Comoros,Medium,SSA,2005,0.488
+CPV,Cabo Verde,Medium,SSA,2005,0.606
+CRI,Costa Rica,Very High,LAC,2005,0.74
+CUB,Cuba,High,LAC,2005,0.741
+CYP,Cyprus,Very High,,2005,0.834
+CZE,Czechia,Very High,,2005,0.844
+DEU,Germany,Very High,,2005,0.914
+DJI,Djibouti,Low,AS,2005,0.405
+DMA,Dominica,High,LAC,2005,0.701
+DNK,Denmark,Very High,,2005,0.911
+DOM,Dominican Republic,High,LAC,2005,0.674
+DZA,Algeria,High,AS,2005,0.685
+ECU,Ecuador,High,LAC,2005,0.715
+EGY,Egypt,High,AS,2005,0.643
+ERI,Eritrea,Low,SSA,2005,0.449
+ESP,Spain,Very High,,2005,0.85
+EST,Estonia,Very High,,2005,0.839
+ETH,Ethiopia,Low,SSA,2005,0.346
+FIN,Finland,Very High,,2005,0.905
+FJI,Fiji,High,EAP,2005,0.702
+FRA,France,Very High,,2005,0.866
+FSM,Micronesia,Medium,EAP,2005,0.604
+GAB,Gabon,High,SSA,2005,0.652
+GBR,United Kingdom,Very High,,2005,0.895
+GEO,Georgia,Very High,ECA,2005,0.738
+GHA,Ghana,Medium,SSA,2005,0.533
+GIN,Guinea,Low,SSA,2005,0.387
+GMB,Gambia,Low,SSA,2005,0.431
+GNB,Guinea-Bissau,Low,SSA,2005,0.404
+GNQ,Equatorial Guinea,Medium,SSA,2005,0.556
+GRC,Greece,Very High,,2005,0.855
+GRD,Grenada,High,LAC,2005,0.763
+GTM,Guatemala,Medium,LAC,2005,0.574
+GUY,Guyana,High,LAC,2005,0.622
+HKG,Hong Kong,Very High,,2005,0.879
+HND,Honduras,Medium,LAC,2005,0.577
+HRV,Croatia,Very High,,2005,0.802
+HTI,Haiti,Low,LAC,2005,0.49
+HUN,Hungary,Very High,,2005,0.806
+IDN,Indonesia,High,EAP,2005,0.632
+IND,India,Medium,SA,2005,0.534
+IRL,Ireland,Very High,,2005,0.888
+IRN,Iran,High,SA,2005,0.717
+IRQ,Iraq,Medium,AS,2005,0.606
+ISL,Iceland,Very High,,2005,0.901
+ISR,Israel,Very High,,2005,0.866
+ITA,Italy,Very High,,2005,0.868
+JAM,Jamaica,High,LAC,2005,0.69
+JOR,Jordan,High,AS,2005,0.716
+JPN,Japan,Very High,,2005,0.889
+KAZ,Kazakhstan,Very High,ECA,2005,0.739
+KEN,Kenya,Medium,SSA,2005,0.516
+KGZ,Kyrgyzstan,Medium,ECA,2005,0.644
+KHM,Cambodia,Medium,EAP,2005,0.499
+KIR,Kiribati,Medium,EAP,2005,0.591
+KNA,Saint Kitts and Nevis,High,LAC,2005,0.746
+KOR,South Korea,Very High,,2005,0.86
+KWT,Kuwait,Very High,AS,2005,0.798
+LAO,Lao,Medium,EAP,2005,0.51
+LBN,Lebanon,High,AS,2005,0.737
+LBR,Liberia,Low,SSA,2005,0.437
+LBY,Libya,High,AS,2005,0.735
+LCA,Saint Lucia,High,LAC,2005,0.709
+LIE,Liechtenstein,Very High,,2005,0.901
+LKA,Sri Lanka,High,SA,2005,0.71
+LSO,Lesotho,Low,SSA,2005,0.448
+LTU,Lithuania,Very High,,2005,0.817
+LUX,Luxembourg,Very High,,2005,0.884
+LVA,Latvia,Very High,,2005,0.808
+MAR,Morocco,Medium,AS,2005,0.567
+MCO,Monaco,,,2005,
+MDA,Moldova,High,ECA,2005,0.695
+MDG,Madagascar,Low,SSA,2005,0.469
+MDV,Maldives,High,SA,2005,0.649
+MEX,Mexico,High,LAC,2005,0.733
+MHL,Marshall Islands,Medium,EAP,2005,
+MKD,North Macedonia,High,ECA,2005,0.699
+MLI,Mali,Low,SSA,2005,0.366
+MLT,Malta,Very High,,2005,0.832
+MMR,Myanmar,Medium,EAP,2005,0.46
+MNE,Montenegro,Very High,ECA,2005,0.767
+MNG,Mongolia,High,EAP,2005,0.658
+MOZ,Mozambique,Low,SSA,2005,0.357
+MRT,Mauritania,Medium,SSA,2005,0.49
+MUS,Mauritius,Very High,SSA,2005,0.719
+MWI,Malawi,Low,SSA,2005,0.406
+MYS,Malaysia,Very High,EAP,2005,0.732
+NAM,Namibia,Medium,SSA,2005,0.555
+NER,Niger,Low,SSA,2005,0.298
+NGA,Nigeria,Low,SSA,2005,0.469
+NIC,Nicaragua,Medium,LAC,2005,0.588
+NLD,Netherlands,Very High,,2005,0.899
+NOR,Norway,Very High,,2005,0.931
+NPL,Nepal,Medium,SA,2005,0.495
+NRU,Nauru,,EAP,2005,
+NZL,New Zealand,Very High,,2005,0.912
+OMN,Oman,Very High,AS,2005,0.745
+PAK,Pakistan,Low,SA,2005,0.484
+PAN,Panama,Very High,LAC,2005,0.749
+PER,Peru,High,LAC,2005,0.686
+PHL,Philippines,Medium,EAP,2005,0.658
+PLW,Palau,High,EAP,2005,0.767
+PNG,Papua New Guinea,Medium,EAP,2005,0.466
+POL,Poland,Very High,,2005,0.815
+PRK,North Korea,,EAP,2005,
+PRT,Portugal,Very High,,2005,0.806
+PRY,Paraguay,High,LAC,2005,0.664
+PSE,"Palestine, State of",High,AS,2005,0.662
+QAT,Qatar,Very High,AS,2005,0.827
+ROU,Romania,Very High,,2005,0.756
+RUS,Russian Federation,Very High,,2005,0.764
+RWA,Rwanda,Low,SSA,2005,0.422
+SAU,Saudi Arabia,Very High,AS,2005,0.78
+SDN,Sudan,Low,AS,2005,0.448
+SEN,Senegal,Low,SSA,2005,0.419
+SGP,Singapore,Very High,EAP,2005,0.875
+SLB,Solomon Islands,Medium,EAP,2005,0.512
+SLE,Sierra Leone,Low,SSA,2005,0.372
+SLV,El Salvador,Medium,LAC,2005,0.641
+SMR,San Marino,Very High,,2005,
+SOM,Somalia,,AS,2005,
+SRB,Serbia,Very High,ECA,2005,0.734
+SSD,South Sudan,Low,SSA,2005,
+STP,Sao Tome and Principe,Medium,SSA,2005,0.531
+SUR,Suriname,High,LAC,2005,0.683
+SVK,Slovakia,Very High,,2005,0.803
+SVN,Slovenia,Very High,,2005,0.869
+SWE,Sweden,Very High,,2005,0.902
+SWZ,Eswatini,Medium,SSA,2005,0.446
+SYC,Seychelles,High,SSA,2005,0.762
+SYR,Syrian Arab Republic,Medium,AS,2005,0.64
+TCD,Chad,Low,SSA,2005,0.327
+TGO,Togo,Low,SSA,2005,0.458
+THA,Thailand,Very High,EAP,2005,0.706
+TJK,Tajikistan,Medium,ECA,2005,0.612
+TKM,Turkmenistan,High,ECA,2005,0.66
+TLS,Timor-Leste,Medium,EAP,2005,0.538
+TON,Tonga,High,EAP,2005,0.702
+TTO,Trinidad and Tobago,Very High,LAC,2005,0.758
+TUN,Tunisia,High,AS,2005,0.694
+TUR,Turkey,Very High,ECA,2005,0.7
+TUV,Tuvalu,Medium,EAP,2005,0.61
+TZA,Tanzania,Low,SSA,2005,0.446
+UGA,Uganda,Low,SSA,2005,0.454
+UKR,Ukraine,High,ECA,2005,0.743
+URY,Uruguay,Very High,LAC,2005,0.768
+USA,United States,Very High,,2005,0.9
+UZB,Uzbekistan,High,ECA,2005,0.639
+VCT,Saint Vincent and the Grenadines,High,LAC,2005,0.713
+VEN,Venezuela,Medium,LAC,2005,0.721
+VNM,Viet Nam,High,EAP,2005,0.633
+VUT,Vanuatu,Medium,EAP,2005,0.578
+WSM,Samoa,High,EAP,2005,0.701
+YEM,Yemen,Low,AS,2005,0.489
+ZAF,South Africa,High,SSA,2005,0.632
+ZMB,Zambia,Medium,SSA,2005,0.472
+ZWE,Zimbabwe,Medium,SSA,2005,0.448
+AFG,Afghanistan,Low,SA,2006,0.409
+AGO,Angola,Medium,SSA,2006,0.459
+ALB,Albania,High,ECA,2006,0.718
+AND,Andorra,Very High,,2006,0.848
+ARE,United Arab Emirates,Very High,AS,2006,0.827
+ARG,Argentina,Very High,LAC,2006,0.814
+ARM,Armenia,High,ECA,2006,0.721
+ATG,Antigua and Barbuda,High,LAC,2006,
+AUS,Australia,Very High,,2006,0.914
+AUT,Austria,Very High,,2006,0.893
+AZE,Azerbaijan,High,ECA,2006,0.692
+BDI,Burundi,Low,SSA,2006,0.36
+BEL,Belgium,Very High,,2006,0.905
+BEN,Benin,Low,SSA,2006,0.464
+BFA,Burkina Faso,Low,SSA,2006,0.339
+BGD,Bangladesh,Medium,SA,2006,0.524
+BGR,Bulgaria,High,,2006,0.767
+BHR,Bahrain,Very High,AS,2006,0.804
+BHS,Bahamas,Very High,LAC,2006,0.813
+BIH,Bosnia and Herzegovina,High,ECA,2006,0.699
+BLR,Belarus,Very High,ECA,2006,0.762
+BLZ,Belize,Medium,LAC,2006,0.68
+BOL,Bolivia,Medium,LAC,2006,0.638
+BRA,Brazil,High,LAC,2006,0.7
+BRB,Barbados,High,LAC,2006,0.781
+BRN,Brunei,Very High,EAP,2006,0.828
+BTN,Bhutan,Medium,SA,2006,
+BWA,Botswana,Medium,SSA,2006,0.618
+CAF,Central African Republic,Low,SSA,2006,0.345
+CAN,Canada,Very High,,2006,0.907
+CHE,Switzerland,Very High,,2006,0.914
+CHL,Chile,Very High,LAC,2006,0.796
+CHN,China,High,EAP,2006,0.65
+CIV,Ivory Coast,Medium,SSA,2006,0.458
+CMR,Cameroon,Medium,SSA,2006,0.477
+COD,The Democratic Republic of the Congo,Low,SSA,2006,0.401
+COG,Congo,Medium,SSA,2006,0.532
+COL,Colombia,High,LAC,2006,0.698
+COM,Comoros,Medium,SSA,2006,0.494
+CPV,Cabo Verde,Medium,SSA,2006,0.62
+CRI,Costa Rica,Very High,LAC,2006,0.747
+CUB,Cuba,High,LAC,2006,0.761
+CYP,Cyprus,Very High,,2006,0.841
+CZE,Czechia,Very High,,2006,0.852
+DEU,Germany,Very High,,2006,0.917
+DJI,Djibouti,Low,AS,2006,0.416
+DMA,Dominica,High,LAC,2006,0.708
+DNK,Denmark,Very High,,2006,0.91
+DOM,Dominican Republic,High,LAC,2006,0.683
+DZA,Algeria,High,AS,2006,0.69
+ECU,Ecuador,High,LAC,2006,0.72
+EGY,Egypt,High,AS,2006,0.647
+ERI,Eritrea,Low,SSA,2006,0.453
+ESP,Spain,Very High,,2006,0.856
+EST,Estonia,Very High,,2006,0.847
+ETH,Ethiopia,Low,SSA,2006,0.363
+FIN,Finland,Very High,,2006,0.909
+FJI,Fiji,High,EAP,2006,0.705
+FRA,France,Very High,,2006,0.87
+FSM,Micronesia,Medium,EAP,2006,0.61
+GAB,Gabon,High,SSA,2006,0.651
+GBR,United Kingdom,Very High,,2006,0.894
+GEO,Georgia,Very High,ECA,2006,0.742
+GHA,Ghana,Medium,SSA,2006,0.54
+GIN,Guinea,Low,SSA,2006,0.394
+GMB,Gambia,Low,SSA,2006,0.436
+GNB,Guinea-Bissau,Low,SSA,2006,0.417
+GNQ,Equatorial Guinea,Medium,SSA,2006,0.569
+GRC,Greece,Very High,,2006,0.863
+GRD,Grenada,High,LAC,2006,0.765
+GTM,Guatemala,Medium,LAC,2006,0.581
+GUY,Guyana,High,LAC,2006,0.631
+HKG,Hong Kong,Very High,,2006,0.887
+HND,Honduras,Medium,LAC,2006,0.581
+HRV,Croatia,Very High,,2006,0.811
+HTI,Haiti,Low,LAC,2006,0.494
+HUN,Hungary,Very High,,2006,0.814
+IDN,Indonesia,High,EAP,2006,0.639
+IND,India,Medium,SA,2006,0.543
+IRL,Ireland,Very High,,2006,0.891
+IRN,Iran,High,SA,2006,0.727
+IRQ,Iraq,Medium,AS,2006,0.604
+ISL,Iceland,Very High,,2006,0.903
+ISR,Israel,Very High,,2006,0.874
+ITA,Italy,Very High,,2006,0.873
+JAM,Jamaica,High,LAC,2006,0.694
+JOR,Jordan,High,AS,2006,0.722
+JPN,Japan,Very High,,2006,0.892
+KAZ,Kazakhstan,Very High,ECA,2006,0.752
+KEN,Kenya,Medium,SSA,2006,0.525
+KGZ,Kyrgyzstan,Medium,ECA,2006,0.65
+KHM,Cambodia,Medium,EAP,2006,0.51
+KIR,Kiribati,Medium,EAP,2006,0.586
+KNA,Saint Kitts and Nevis,High,LAC,2006,0.75
+KOR,South Korea,Very High,,2006,0.866
+KWT,Kuwait,Very High,AS,2006,0.799
+LAO,Lao,Medium,EAP,2006,0.511
+LBN,Lebanon,High,AS,2006,0.734
+LBR,Liberia,Low,SSA,2006,0.443
+LBY,Libya,High,AS,2006,0.739
+LCA,Saint Lucia,High,LAC,2006,0.718
+LIE,Liechtenstein,Very High,,2006,0.905
+LKA,Sri Lanka,High,SA,2006,0.714
+LSO,Lesotho,Low,SSA,2006,0.446
+LTU,Lithuania,Very High,,2006,0.823
+LUX,Luxembourg,Very High,,2006,0.885
+LVA,Latvia,Very High,,2006,0.815
+MAR,Morocco,Medium,AS,2006,0.573
+MCO,Monaco,,,2006,
+MDA,Moldova,High,ECA,2006,0.704
+MDG,Madagascar,Low,SSA,2006,0.475
+MDV,Maldives,High,SA,2006,0.664
+MEX,Mexico,High,LAC,2006,0.741
+MHL,Marshall Islands,Medium,EAP,2006,
+MKD,North Macedonia,High,ECA,2006,0.707
+MLI,Mali,Low,SSA,2006,0.375
+MLT,Malta,Very High,,2006,0.831
+MMR,Myanmar,Medium,EAP,2006,0.47
+MNE,Montenegro,Very High,ECA,2006,0.776
+MNG,Mongolia,High,EAP,2006,0.669
+MOZ,Mozambique,Low,SSA,2006,0.364
+MRT,Mauritania,Medium,SSA,2006,0.5
+MUS,Mauritius,Very High,SSA,2006,0.726
+MWI,Malawi,Low,SSA,2006,0.415
+MYS,Malaysia,Very High,EAP,2006,0.736
+NAM,Namibia,Medium,SSA,2006,0.561
+NER,Niger,Low,SSA,2006,0.306
+NGA,Nigeria,Low,SSA,2006,0.477
+NIC,Nicaragua,Medium,LAC,2006,0.593
+NLD,Netherlands,Very High,,2006,0.906
+NOR,Norway,Very High,,2006,0.937
+NPL,Nepal,Medium,SA,2006,0.505
+NRU,Nauru,,EAP,2006,
+NZL,New Zealand,Very High,,2006,0.913
+OMN,Oman,Very High,AS,2006,0.753
+PAK,Pakistan,Low,SA,2006,0.493
+PAN,Panama,Very High,LAC,2006,0.754
+PER,Peru,High,LAC,2006,0.691
+PHL,Philippines,Medium,EAP,2006,0.659
+PLW,Palau,High,EAP,2006,0.769
+PNG,Papua New Guinea,Medium,EAP,2006,0.469
+POL,Poland,Very High,,2006,0.82
+PRK,North Korea,,EAP,2006,
+PRT,Portugal,Very High,,2006,0.811
+PRY,Paraguay,High,LAC,2006,0.664
+PSE,"Palestine, State of",High,AS,2006,0.663
+QAT,Qatar,Very High,AS,2006,0.825
+ROU,Romania,Very High,,2006,0.77
+RUS,Russian Federation,Very High,,2006,0.775
+RWA,Rwanda,Low,SSA,2006,0.442
+SAU,Saudi Arabia,Very High,AS,2006,0.787
+SDN,Sudan,Low,AS,2006,0.465
+SEN,Senegal,Low,SSA,2006,0.427
+SGP,Singapore,Very High,EAP,2006,0.881
+SLB,Solomon Islands,Medium,EAP,2006,0.52
+SLE,Sierra Leone,Low,SSA,2006,0.382
+SLV,El Salvador,Medium,LAC,2006,0.646
+SMR,San Marino,Very High,,2006,
+SOM,Somalia,,AS,2006,
+SRB,Serbia,Very High,ECA,2006,0.746
+SSD,South Sudan,Low,SSA,2006,
+STP,Sao Tome and Principe,Medium,SSA,2006,0.542
+SUR,Suriname,High,LAC,2006,0.691
+SVK,Slovakia,Very High,,2006,0.812
+SVN,Slovenia,Very High,,2006,0.878
+SWE,Sweden,Very High,,2006,0.906
+SWZ,Eswatini,Medium,SSA,2006,0.462
+SYC,Seychelles,High,SSA,2006,0.753
+SYR,Syrian Arab Republic,Medium,AS,2006,0.65
+TCD,Chad,Low,SSA,2006,0.327
+TGO,Togo,Low,SSA,2006,0.464
+THA,Thailand,Very High,EAP,2006,0.712
+TJK,Tajikistan,Medium,ECA,2006,0.622
+TKM,Turkmenistan,High,ECA,2006,0.67
+TLS,Timor-Leste,Medium,EAP,2006,0.563
+TON,Tonga,High,EAP,2006,0.703
+TTO,Trinidad and Tobago,Very High,LAC,2006,0.767
+TUN,Tunisia,High,AS,2006,0.7
+TUR,Turkey,Very High,ECA,2006,0.71
+TUV,Tuvalu,Medium,EAP,2006,0.611
+TZA,Tanzania,Low,SSA,2006,0.456
+UGA,Uganda,Low,SSA,2006,0.466
+UKR,Ukraine,High,ECA,2006,0.751
+URY,Uruguay,Very High,LAC,2006,0.768
+USA,United States,Very High,,2006,0.904
+UZB,Uzbekistan,High,ECA,2006,0.644
+VCT,Saint Vincent and the Grenadines,High,LAC,2006,0.722
+VEN,Venezuela,Medium,LAC,2006,0.732
+VNM,Viet Nam,High,EAP,2006,0.641
+VUT,Vanuatu,Medium,EAP,2006,0.584
+WSM,Samoa,High,EAP,2006,0.703
+YEM,Yemen,Low,AS,2006,0.494
+ZAF,South Africa,High,SSA,2006,0.637
+ZMB,Zambia,Medium,SSA,2006,0.484
+ZWE,Zimbabwe,Medium,SSA,2006,0.452
+AFG,Afghanistan,Low,SA,2007,0.424
+AGO,Angola,Medium,SSA,2007,0.475
+ALB,Albania,High,ECA,2007,0.73
+AND,Andorra,Very High,,2007,0.847
+ARE,United Arab Emirates,Very High,AS,2007,0.831
+ARG,Argentina,Very High,LAC,2007,0.817
+ARM,Armenia,High,ECA,2007,0.738
+ATG,Antigua and Barbuda,High,LAC,2007,0.802
+AUS,Australia,Very High,,2007,0.915
+AUT,Austria,Very High,,2007,0.896
+AZE,Azerbaijan,High,ECA,2007,0.706
+BDI,Burundi,Low,SSA,2007,0.372
+BEL,Belgium,Very High,,2007,0.908
+BEN,Benin,Low,SSA,2007,0.472
+BFA,Burkina Faso,Low,SSA,2007,0.334
+BGD,Bangladesh,Medium,SA,2007,0.527
+BGR,Bulgaria,High,,2007,0.774
+BHR,Bahrain,Very High,AS,2007,0.807
+BHS,Bahamas,Very High,LAC,2007,0.812
+BIH,Bosnia and Herzegovina,High,ECA,2007,0.707
+BLR,Belarus,Very High,ECA,2007,0.773
+BLZ,Belize,Medium,LAC,2007,0.685
+BOL,Bolivia,Medium,LAC,2007,0.645
+BRA,Brazil,High,LAC,2007,0.704
+BRB,Barbados,High,LAC,2007,0.786
+BRN,Brunei,Very High,EAP,2007,0.827
+BTN,Bhutan,Medium,SA,2007,
+BWA,Botswana,Medium,SSA,2007,0.632
+CAF,Central African Republic,Low,SSA,2007,0.351
+CAN,Canada,Very High,,2007,0.908
+CHE,Switzerland,Very High,,2007,0.92
+CHL,Chile,Very High,LAC,2007,0.801
+CHN,China,High,EAP,2007,0.663
+CIV,Ivory Coast,Medium,SSA,2007,0.461
+CMR,Cameroon,Medium,SSA,2007,0.489
+COD,The Democratic Republic of the Congo,Low,SSA,2007,0.406
+COG,Congo,Medium,SSA,2007,0.533
+COL,Colombia,High,LAC,2007,0.71
+COM,Comoros,Medium,SSA,2007,0.5
+CPV,Cabo Verde,Medium,SSA,2007,0.629
+CRI,Costa Rica,Very High,LAC,2007,0.756
+CUB,Cuba,High,LAC,2007,0.775
+CYP,Cyprus,Very High,,2007,0.848
+CZE,Czechia,Very High,,2007,0.859
+DEU,Germany,Very High,,2007,0.921
+DJI,Djibouti,Low,AS,2007,0.426
+DMA,Dominica,High,LAC,2007,0.707
+DNK,Denmark,Very High,,2007,0.911
+DOM,Dominican Republic,High,LAC,2007,0.692
+DZA,Algeria,High,AS,2007,0.697
+ECU,Ecuador,High,LAC,2007,0.723
+EGY,Egypt,High,AS,2007,0.655
+ERI,Eritrea,Low,SSA,2007,0.457
+ESP,Spain,Very High,,2007,0.858
+EST,Estonia,Very High,,2007,0.853
+ETH,Ethiopia,Low,SSA,2007,0.38
+FIN,Finland,Very High,,2007,0.911
+FJI,Fiji,High,EAP,2007,0.706
+FRA,France,Very High,,2007,0.873
+FSM,Micronesia,Medium,EAP,2007,0.614
+GAB,Gabon,High,SSA,2007,0.655
+GBR,United Kingdom,Very High,,2007,0.897
+GEO,Georgia,Very High,ECA,2007,0.753
+GHA,Ghana,Medium,SSA,2007,0.55
+GIN,Guinea,Low,SSA,2007,0.402
+GMB,Gambia,Low,SSA,2007,0.442
+GNB,Guinea-Bissau,Low,SSA,2007,0.424
+GNQ,Equatorial Guinea,Medium,SSA,2007,0.578
+GRC,Greece,Very High,,2007,0.858
+GRD,Grenada,High,LAC,2007,0.773
+GTM,Guatemala,Medium,LAC,2007,0.59
+GUY,Guyana,High,LAC,2007,0.638
+HKG,Hong Kong,Very High,,2007,0.894
+HND,Honduras,Medium,LAC,2007,0.586
+HRV,Croatia,Very High,,2007,0.815
+HTI,Haiti,Low,LAC,2007,0.499
+HUN,Hungary,Very High,,2007,0.817
+IDN,Indonesia,High,EAP,2007,0.643
+IND,India,Medium,SA,2007,0.553
+IRL,Ireland,Very High,,2007,0.896
+IRN,Iran,High,SA,2007,0.733
+IRQ,Iraq,Medium,AS,2007,0.607
+ISL,Iceland,Very High,,2007,0.909
+ISR,Israel,Very High,,2007,0.885
+ITA,Italy,Very High,,2007,0.877
+JAM,Jamaica,High,LAC,2007,0.697
+JOR,Jordan,High,AS,2007,0.729
+JPN,Japan,Very High,,2007,0.895
+KAZ,Kazakhstan,Very High,ECA,2007,0.758
+KEN,Kenya,Medium,SSA,2007,0.533
+KGZ,Kyrgyzstan,Medium,ECA,2007,0.656
+KHM,Cambodia,Medium,EAP,2007,0.521
+KIR,Kiribati,Medium,EAP,2007,0.587
+KNA,Saint Kitts and Nevis,High,LAC,2007,0.753
+KOR,South Korea,Very High,,2007,0.871
+KWT,Kuwait,Very High,AS,2007,0.802
+LAO,Lao,Medium,EAP,2007,0.525
+LBN,Lebanon,High,AS,2007,0.752
+LBR,Liberia,Low,SSA,2007,0.448
+LBY,Libya,High,AS,2007,0.741
+LCA,Saint Lucia,High,LAC,2007,0.718
+LIE,Liechtenstein,Very High,,2007,0.907
+LKA,Sri Lanka,High,SA,2007,0.719
+LSO,Lesotho,Low,SSA,2007,0.452
+LTU,Lithuania,Very High,,2007,0.83
+LUX,Luxembourg,Very High,,2007,0.887
+LVA,Latvia,Very High,,2007,0.82
+MAR,Morocco,Medium,AS,2007,0.581
+MCO,Monaco,,,2007,
+MDA,Moldova,High,ECA,2007,0.713
+MDG,Madagascar,Low,SSA,2007,0.482
+MDV,Maldives,High,SA,2007,0.665
+MEX,Mexico,High,LAC,2007,0.743
+MHL,Marshall Islands,Medium,EAP,2007,
+MKD,North Macedonia,High,ECA,2007,0.711
+MLI,Mali,Low,SSA,2007,0.382
+MLT,Malta,Very High,,2007,0.837
+MMR,Myanmar,Medium,EAP,2007,0.48
+MNE,Montenegro,Very High,ECA,2007,0.787
+MNG,Mongolia,High,EAP,2007,0.68
+MOZ,Mozambique,Low,SSA,2007,0.377
+MRT,Mauritania,Medium,SSA,2007,0.499
+MUS,Mauritius,Very High,SSA,2007,0.734
+MWI,Malawi,Low,SSA,2007,0.423
+MYS,Malaysia,Very High,EAP,2007,0.747
+NAM,Namibia,Medium,SSA,2007,0.569
+NER,Niger,Low,SSA,2007,0.311
+NGA,Nigeria,Low,SSA,2007,0.48
+NIC,Nicaragua,Medium,LAC,2007,0.599
+NLD,Netherlands,Very High,,2007,0.912
+NOR,Norway,Very High,,2007,0.938
+NPL,Nepal,Medium,SA,2007,0.509
+NRU,Nauru,,EAP,2007,
+NZL,New Zealand,Very High,,2007,0.916
+OMN,Oman,Very High,AS,2007,0.762
+PAK,Pakistan,Low,SA,2007,0.499
+PAN,Panama,Very High,LAC,2007,0.763
+PER,Peru,High,LAC,2007,0.7
+PHL,Philippines,Medium,EAP,2007,0.664
+PLW,Palau,High,EAP,2007,0.773
+PNG,Papua New Guinea,Medium,EAP,2007,0.478
+POL,Poland,Very High,,2007,0.825
+PRK,North Korea,,EAP,2007,
+PRT,Portugal,Very High,,2007,0.818
+PRY,Paraguay,High,LAC,2007,0.669
+PSE,"Palestine, State of",High,AS,2007,0.672
+QAT,Qatar,Very High,AS,2007,0.834
+ROU,Romania,Very High,,2007,0.786
+RUS,Russian Federation,Very High,,2007,0.786
+RWA,Rwanda,Low,SSA,2007,0.456
+SAU,Saudi Arabia,Very High,AS,2007,0.794
+SDN,Sudan,Low,AS,2007,0.47
+SEN,Senegal,Low,SSA,2007,0.439
+SGP,Singapore,Very High,EAP,2007,0.887
+SLB,Solomon Islands,Medium,EAP,2007,0.523
+SLE,Sierra Leone,Low,SSA,2007,0.397
+SLV,El Salvador,Medium,LAC,2007,0.651
+SMR,San Marino,Very High,,2007,
+SOM,Somalia,,AS,2007,
+SRB,Serbia,Very High,ECA,2007,0.754
+SSD,South Sudan,Low,SSA,2007,
+STP,Sao Tome and Principe,Medium,SSA,2007,0.545
+SUR,Suriname,High,LAC,2007,0.701
+SVK,Slovakia,Very High,,2007,0.823
+SVN,Slovenia,Very High,,2007,0.882
+SWE,Sweden,Very High,,2007,0.908
+SWZ,Eswatini,Medium,SSA,2007,0.471
+SYC,Seychelles,High,SSA,2007,0.77
+SYR,Syrian Arab Republic,Medium,AS,2007,0.659
+TCD,Chad,Low,SSA,2007,0.337
+TGO,Togo,Low,SSA,2007,0.457
+THA,Thailand,Very High,EAP,2007,0.724
+TJK,Tajikistan,Medium,ECA,2007,0.625
+TKM,Turkmenistan,High,ECA,2007,0.682
+TLS,Timor-Leste,Medium,EAP,2007,0.585
+TON,Tonga,High,EAP,2007,0.704
+TTO,Trinidad and Tobago,Very High,LAC,2007,0.773
+TUN,Tunisia,High,AS,2007,0.706
+TUR,Turkey,Very High,ECA,2007,0.717
+TUV,Tuvalu,Medium,EAP,2007,0.613
+TZA,Tanzania,Low,SSA,2007,0.465
+UGA,Uganda,Low,SSA,2007,0.476
+UKR,Ukraine,High,ECA,2007,0.757
+URY,Uruguay,Very High,LAC,2007,0.771
+USA,United States,Very High,,2007,0.906
+UZB,Uzbekistan,High,ECA,2007,0.656
+VCT,Saint Vincent and the Grenadines,High,LAC,2007,0.73
+VEN,Venezuela,Medium,LAC,2007,0.749
+VNM,Viet Nam,High,EAP,2007,0.648
+VUT,Vanuatu,Medium,EAP,2007,0.585
+WSM,Samoa,High,EAP,2007,0.708
+YEM,Yemen,Low,AS,2007,0.498
+ZAF,South Africa,High,SSA,2007,0.644
+ZMB,Zambia,Medium,SSA,2007,0.495
+ZWE,Zimbabwe,Medium,SSA,2007,0.454
+AFG,Afghanistan,Low,SA,2008,0.43
+AGO,Angola,Medium,SSA,2008,0.486
+ALB,Albania,High,ECA,2008,0.736
+AND,Andorra,Very High,,2008,0.85
+ARE,United Arab Emirates,Very High,AS,2008,0.834
+ARG,Argentina,Very High,LAC,2008,0.825
+ARM,Armenia,High,ECA,2008,0.742
+ATG,Antigua and Barbuda,High,LAC,2008,0.801
+AUS,Australia,Very High,,2008,0.919
+AUT,Austria,Very High,,2008,0.898
+AZE,Azerbaijan,High,ECA,2008,0.716
+BDI,Burundi,Low,SSA,2008,0.386
+BEL,Belgium,Very High,,2008,0.908
+BEN,Benin,Low,SSA,2008,0.48
+BFA,Burkina Faso,Low,SSA,2008,0.349
+BGD,Bangladesh,Medium,SA,2008,0.53
+BGR,Bulgaria,High,,2008,0.782
+BHR,Bahrain,Very High,AS,2008,0.808
+BHS,Bahamas,Very High,LAC,2008,0.812
+BIH,Bosnia and Herzegovina,High,ECA,2008,0.718
+BLR,Belarus,Very High,ECA,2008,0.783
+BLZ,Belize,Medium,LAC,2008,0.693
+BOL,Bolivia,Medium,LAC,2008,0.652
+BRA,Brazil,High,LAC,2008,0.715
+BRB,Barbados,High,LAC,2008,0.789
+BRN,Brunei,Very High,EAP,2008,0.826
+BTN,Bhutan,Medium,SA,2008,
+BWA,Botswana,Medium,SSA,2008,0.642
+CAF,Central African Republic,Low,SSA,2008,0.358
+CAN,Canada,Very High,,2008,0.91
+CHE,Switzerland,Very High,,2008,0.926
+CHL,Chile,Very High,LAC,2008,0.813
+CHN,China,High,EAP,2008,0.672
+CIV,Ivory Coast,Medium,SSA,2008,0.464
+CMR,Cameroon,Medium,SSA,2008,0.497
+COD,The Democratic Republic of the Congo,Low,SSA,2008,0.416
+COG,Congo,Medium,SSA,2008,0.541
+COL,Colombia,High,LAC,2008,0.716
+COM,Comoros,Medium,SSA,2008,0.507
+CPV,Cabo Verde,Medium,SSA,2008,0.635
+CRI,Costa Rica,Very High,LAC,2008,0.765
+CUB,Cuba,High,LAC,2008,0.784
+CYP,Cyprus,Very High,,2008,0.857
+CZE,Czechia,Very High,,2008,0.863
+DEU,Germany,Very High,,2008,0.923
+DJI,Djibouti,Low,AS,2008,0.434
+DMA,Dominica,High,LAC,2008,0.717
+DNK,Denmark,Very High,,2008,0.915
+DOM,Dominican Republic,High,LAC,2008,0.697
+DZA,Algeria,High,AS,2008,0.705
+ECU,Ecuador,High,LAC,2008,0.729
+EGY,Egypt,High,AS,2008,0.663
+ERI,Eritrea,Low,SSA,2008,0.448
+ESP,Spain,Very High,,2008,0.86
+EST,Estonia,Very High,,2008,0.856
+ETH,Ethiopia,Low,SSA,2008,0.395
+FIN,Finland,Very High,,2008,0.912
+FJI,Fiji,High,EAP,2008,0.709
+FRA,France,Very High,,2008,0.873
+FSM,Micronesia,Medium,EAP,2008,0.618
+GAB,Gabon,High,SSA,2008,0.655
+GBR,United Kingdom,Very High,,2008,0.9
+GEO,Georgia,Very High,ECA,2008,0.748
+GHA,Ghana,Medium,SSA,2008,0.561
+GIN,Guinea,Low,SSA,2008,0.408
+GMB,Gambia,Low,SSA,2008,0.45
+GNB,Guinea-Bissau,Low,SSA,2008,0.429
+GNQ,Equatorial Guinea,Medium,SSA,2008,0.582
+GRC,Greece,Very High,,2008,0.863
+GRD,Grenada,High,LAC,2008,0.778
+GTM,Guatemala,Medium,LAC,2008,0.596
+GUY,Guyana,High,LAC,2008,0.644
+HKG,Hong Kong,Very High,,2008,0.899
+HND,Honduras,Medium,LAC,2008,0.591
+HRV,Croatia,Very High,,2008,0.817
+HTI,Haiti,Low,LAC,2008,0.503
+HUN,Hungary,Very High,,2008,0.823
+IDN,Indonesia,High,EAP,2008,0.646
+IND,India,Medium,SA,2008,0.56
+IRL,Ireland,Very High,,2008,0.899
+IRN,Iran,High,SA,2008,0.735
+IRQ,Iraq,Medium,AS,2008,0.623
+ISL,Iceland,Very High,,2008,0.902
+ISR,Israel,Very High,,2008,0.885
+ITA,Italy,Very High,,2008,0.878
+JAM,Jamaica,High,LAC,2008,0.7
+JOR,Jordan,High,AS,2008,0.734
+JPN,Japan,Very High,,2008,0.895
+KAZ,Kazakhstan,Very High,ECA,2008,0.758
+KEN,Kenya,Medium,SSA,2008,0.539
+KGZ,Kyrgyzstan,Medium,ECA,2008,0.66
+KHM,Cambodia,Medium,EAP,2008,0.528
+KIR,Kiribati,Medium,EAP,2008,0.588
+KNA,Saint Kitts and Nevis,High,LAC,2008,0.757
+KOR,South Korea,Very High,,2008,0.875
+KWT,Kuwait,Very High,AS,2008,0.807
+LAO,Lao,Medium,EAP,2008,0.532
+LBN,Lebanon,High,AS,2008,0.76
+LBR,Liberia,Low,SSA,2008,0.453
+LBY,Libya,High,AS,2008,0.741
+LCA,Saint Lucia,High,LAC,2008,0.723
+LIE,Liechtenstein,Very High,,2008,0.917
+LKA,Sri Lanka,High,SA,2008,0.721
+LSO,Lesotho,Low,SSA,2008,0.457
+LTU,Lithuania,Very High,,2008,0.84
+LUX,Luxembourg,Very High,,2008,0.9
+LVA,Latvia,Very High,,2008,0.827
+MAR,Morocco,Medium,AS,2008,0.588
+MCO,Monaco,,,2008,
+MDA,Moldova,High,ECA,2008,0.723
+MDG,Madagascar,Low,SSA,2008,0.49
+MDV,Maldives,High,SA,2008,0.677
+MEX,Mexico,High,LAC,2008,0.745
+MHL,Marshall Islands,Medium,EAP,2008,
+MKD,North Macedonia,High,ECA,2008,0.73
+MLI,Mali,Low,SSA,2008,0.39
+MLT,Malta,Very High,,2008,0.841
+MMR,Myanmar,Medium,EAP,2008,0.465
+MNE,Montenegro,Very High,ECA,2008,0.8
+MNG,Mongolia,High,EAP,2008,0.691
+MOZ,Mozambique,Low,SSA,2008,0.387
+MRT,Mauritania,Medium,SSA,2008,0.499
+MUS,Mauritius,Very High,SSA,2008,0.741
+MWI,Malawi,Low,SSA,2008,0.433
+MYS,Malaysia,Very High,EAP,2008,0.756
+NAM,Namibia,Medium,SSA,2008,0.576
+NER,Niger,Low,SSA,2008,0.32
+NGA,Nigeria,Low,SSA,2008,0.484
+NIC,Nicaragua,Medium,LAC,2008,0.605
+NLD,Netherlands,Very High,,2008,0.912
+NOR,Norway,Very High,,2008,0.94
+NPL,Nepal,Medium,SA,2008,0.518
+NRU,Nauru,,EAP,2008,
+NZL,New Zealand,Very High,,2008,0.915
+OMN,Oman,Very High,AS,2008,0.772
+PAK,Pakistan,Low,SA,2008,0.498
+PAN,Panama,Very High,LAC,2008,0.767
+PER,Peru,High,LAC,2008,0.708
+PHL,Philippines,Medium,EAP,2008,0.668
+PLW,Palau,High,EAP,2008,0.772
+PNG,Papua New Guinea,Medium,EAP,2008,0.484
+POL,Poland,Very High,,2008,0.831
+PRK,North Korea,,EAP,2008,
+PRT,Portugal,Very High,,2008,0.822
+PRY,Paraguay,High,LAC,2008,0.679
+PSE,"Palestine, State of",High,AS,2008,0.677
+QAT,Qatar,Very High,AS,2008,0.84
+ROU,Romania,Very High,,2008,0.806
+RUS,Russian Federation,Very High,,2008,0.791
+RWA,Rwanda,Low,SSA,2008,0.467
+SAU,Saudi Arabia,Very High,AS,2008,0.802
+SDN,Sudan,Low,AS,2008,0.478
+SEN,Senegal,Low,SSA,2008,0.451
+SGP,Singapore,Very High,EAP,2008,0.892
+SLB,Solomon Islands,Medium,EAP,2008,0.531
+SLE,Sierra Leone,Low,SSA,2008,0.409
+SLV,El Salvador,Medium,LAC,2008,0.653
+SMR,San Marino,Very High,,2008,
+SOM,Somalia,,AS,2008,
+SRB,Serbia,Very High,ECA,2008,0.765
+SSD,South Sudan,Low,SSA,2008,
+STP,Sao Tome and Principe,Medium,SSA,2008,0.546
+SUR,Suriname,High,LAC,2008,0.709
+SVK,Slovakia,Very High,,2008,0.831
+SVN,Slovenia,Very High,,2008,0.888
+SWE,Sweden,Very High,,2008,0.905
+SWZ,Eswatini,Medium,SSA,2008,0.479
+SYC,Seychelles,High,SSA,2008,0.771
+SYR,Syrian Arab Republic,Medium,AS,2008,0.653
+TCD,Chad,Low,SSA,2008,0.341
+TGO,Togo,Low,SSA,2008,0.464
+THA,Thailand,Very High,EAP,2008,0.727
+TJK,Tajikistan,Medium,ECA,2008,0.639
+TKM,Turkmenistan,High,ECA,2008,0.693
+TLS,Timor-Leste,Medium,EAP,2008,0.611
+TON,Tonga,High,EAP,2008,0.709
+TTO,Trinidad and Tobago,Very High,LAC,2008,0.777
+TUN,Tunisia,High,AS,2008,0.711
+TUR,Turkey,Very High,ECA,2008,0.721
+TUV,Tuvalu,Medium,EAP,2008,0.618
+TZA,Tanzania,Low,SSA,2008,0.473
+UGA,Uganda,Low,SSA,2008,0.484
+UKR,Ukraine,High,ECA,2008,0.761
+URY,Uruguay,Very High,LAC,2008,0.774
+USA,United States,Very High,,2008,0.906
+UZB,Uzbekistan,High,ECA,2008,0.659
+VCT,Saint Vincent and the Grenadines,High,LAC,2008,0.734
+VEN,Venezuela,Medium,LAC,2008,0.756
+VNM,Viet Nam,High,EAP,2008,0.653
+VUT,Vanuatu,Medium,EAP,2008,0.591
+WSM,Samoa,High,EAP,2008,0.709
+YEM,Yemen,Low,AS,2008,0.501
+ZAF,South Africa,High,SSA,2008,0.653
+ZMB,Zambia,Medium,SSA,2008,0.506
+ZWE,Zimbabwe,Medium,SSA,2008,0.454
+AFG,Afghanistan,Low,SA,2009,0.44
+AGO,Angola,Medium,SSA,2009,0.5
+ALB,Albania,High,ECA,2009,0.741
+AND,Andorra,Very High,,2009,0.848
+ARE,United Arab Emirates,Very High,AS,2009,0.833
+ARG,Argentina,Very High,LAC,2009,0.827
+ARM,Armenia,High,ECA,2009,0.741
+ATG,Antigua and Barbuda,High,LAC,2009,0.795
+AUS,Australia,Very High,,2009,0.921
+AUT,Austria,Very High,,2009,0.898
+AZE,Azerbaijan,High,ECA,2009,0.722
+BDI,Burundi,Low,SSA,2009,0.395
+BEL,Belgium,Very High,,2009,0.91
+BEN,Benin,Low,SSA,2009,0.486
+BFA,Burkina Faso,Low,SSA,2009,0.36
+BGD,Bangladesh,Medium,SA,2009,0.541
+BGR,Bulgaria,High,,2009,0.785
+BHR,Bahrain,Very High,AS,2009,0.806
+BHS,Bahamas,Very High,LAC,2009,0.81
+BIH,Bosnia and Herzegovina,High,ECA,2009,0.721
+BLR,Belarus,Very High,ECA,2009,0.785
+BLZ,Belize,Medium,LAC,2009,0.701
+BOL,Bolivia,Medium,LAC,2009,0.658
+BRA,Brazil,High,LAC,2009,0.717
+BRB,Barbados,High,LAC,2009,0.791
+BRN,Brunei,Very High,EAP,2009,0.828
+BTN,Bhutan,Medium,SA,2009,
+BWA,Botswana,Medium,SSA,2009,0.647
+CAF,Central African Republic,Low,SSA,2009,0.364
+CAN,Canada,Very High,,2009,0.909
+CHE,Switzerland,Very High,,2009,0.936
+CHL,Chile,Very High,LAC,2009,0.811
+CHN,China,High,EAP,2009,0.682
+CIV,Ivory Coast,Medium,SSA,2009,0.469
+CMR,Cameroon,Medium,SSA,2009,0.506
+COD,The Democratic Republic of the Congo,Low,SSA,2009,0.421
+COG,Congo,Medium,SSA,2009,0.554
+COL,Colombia,High,LAC,2009,0.722
+COM,Comoros,Medium,SSA,2009,0.513
+CPV,Cabo Verde,Medium,SSA,2009,0.639
+CRI,Costa Rica,Very High,LAC,2009,0.769
+CUB,Cuba,High,LAC,2009,0.784
+CYP,Cyprus,Very High,,2009,0.862
+CZE,Czechia,Very High,,2009,0.865
+DEU,Germany,Very High,,2009,0.923
+DJI,Djibouti,Low,AS,2009,0.445
+DMA,Dominica,High,LAC,2009,0.713
+DNK,Denmark,Very High,,2009,0.909
+DOM,Dominican Republic,High,LAC,2009,0.701
+DZA,Algeria,High,AS,2009,0.714
+ECU,Ecuador,High,LAC,2009,0.731
+EGY,Egypt,High,AS,2009,0.668
+ERI,Eritrea,Low,SSA,2009,0.457
+ESP,Spain,Very High,,2009,0.861
+EST,Estonia,Very High,,2009,0.856
+ETH,Ethiopia,Low,SSA,2009,0.402
+FIN,Finland,Very High,,2009,0.907
+FJI,Fiji,High,EAP,2009,0.711
+FRA,France,Very High,,2009,0.872
+FSM,Micronesia,Medium,EAP,2009,0.62
+GAB,Gabon,High,SSA,2009,0.66
+GBR,United Kingdom,Very High,,2009,0.906
+GEO,Georgia,Very High,ECA,2009,0.753
+GHA,Ghana,Medium,SSA,2009,0.566
+GIN,Guinea,Low,SSA,2009,0.41
+GMB,Gambia,Low,SSA,2009,0.455
+GNB,Guinea-Bissau,Low,SSA,2009,0.436
+GNQ,Equatorial Guinea,Medium,SSA,2009,0.586
+GRC,Greece,Very High,,2009,0.866
+GRD,Grenada,High,LAC,2009,0.777
+GTM,Guatemala,Medium,LAC,2009,0.6
+GUY,Guyana,High,LAC,2009,0.649
+HKG,Hong Kong,Very High,,2009,0.9
+HND,Honduras,Medium,LAC,2009,0.594
+HRV,Croatia,Very High,,2009,0.816
+HTI,Haiti,Low,LAC,2009,0.508
+HUN,Hungary,Very High,,2009,0.825
+IDN,Indonesia,High,EAP,2009,0.657
+IND,India,Medium,SA,2009,0.565
+IRL,Ireland,Very High,,2009,0.895
+IRN,Iran,High,SA,2009,0.738
+IRQ,Iraq,Medium,AS,2009,0.633
+ISL,Iceland,Very High,,2009,0.9
+ISR,Israel,Very High,,2009,0.889
+ITA,Italy,Very High,,2009,0.878
+JAM,Jamaica,High,LAC,2009,0.7
+JOR,Jordan,High,AS,2009,0.731
+JPN,Japan,Very High,,2009,0.896
+KAZ,Kazakhstan,Very High,ECA,2009,0.761
+KEN,Kenya,Medium,SSA,2009,0.539
+KGZ,Kyrgyzstan,Medium,ECA,2009,0.663
+KHM,Cambodia,Medium,EAP,2009,0.534
+KIR,Kiribati,Medium,EAP,2009,0.585
+KNA,Saint Kitts and Nevis,High,LAC,2009,0.758
+KOR,South Korea,Very High,,2009,0.877
+KWT,Kuwait,Very High,AS,2009,0.81
+LAO,Lao,Medium,EAP,2009,0.543
+LBN,Lebanon,High,AS,2009,0.767
+LBR,Liberia,Low,SSA,2009,0.456
+LBY,Libya,High,AS,2009,0.738
+LCA,Saint Lucia,High,LAC,2009,0.725
+LIE,Liechtenstein,Very High,,2009,0.911
+LKA,Sri Lanka,High,SA,2009,0.713
+LSO,Lesotho,Low,SSA,2009,0.457
+LTU,Lithuania,Very High,,2009,0.839
+LUX,Luxembourg,Very High,,2009,0.905
+LVA,Latvia,Very High,,2009,0.826
+MAR,Morocco,Medium,AS,2009,0.594
+MCO,Monaco,,,2009,
+MDA,Moldova,High,ECA,2009,0.723
+MDG,Madagascar,Low,SSA,2009,0.493
+MDV,Maldives,High,SA,2009,0.68
+MEX,Mexico,High,LAC,2009,0.745
+MHL,Marshall Islands,Medium,EAP,2009,
+MKD,North Macedonia,High,ECA,2009,0.733
+MLI,Mali,Low,SSA,2009,0.397
+MLT,Malta,Very High,,2009,0.847
+MMR,Myanmar,Medium,EAP,2009,0.501
+MNE,Montenegro,Very High,ECA,2009,0.8
+MNG,Mongolia,High,EAP,2009,0.695
+MOZ,Mozambique,Low,SSA,2009,0.395
+MRT,Mauritania,Medium,SSA,2009,0.508
+MUS,Mauritius,Very High,SSA,2009,0.749
+MWI,Malawi,Low,SSA,2009,0.445
+MYS,Malaysia,Very High,EAP,2009,0.762
+NAM,Namibia,Medium,SSA,2009,0.581
+NER,Niger,Low,SSA,2009,0.327
+NGA,Nigeria,Low,SSA,2009,0.484
+NIC,Nicaragua,Medium,LAC,2009,0.606
+NLD,Netherlands,Very High,,2009,0.913
+NOR,Norway,Very High,,2009,0.936
+NPL,Nepal,Medium,SA,2009,0.53
+NRU,Nauru,,EAP,2009,
+NZL,New Zealand,Very High,,2009,0.919
+OMN,Oman,Very High,AS,2009,0.783
+PAK,Pakistan,Low,SA,2009,0.502
+PAN,Panama,Very High,LAC,2009,0.769
+PER,Peru,High,LAC,2009,0.711
+PHL,Philippines,Medium,EAP,2009,0.667
+PLW,Palau,High,EAP,2009,0.771
+PNG,Papua New Guinea,Medium,EAP,2009,0.49
+POL,Poland,Very High,,2009,0.835
+PRK,North Korea,,EAP,2009,
+PRT,Portugal,Very High,,2009,0.825
+PRY,Paraguay,High,LAC,2009,0.677
+PSE,"Palestine, State of",High,AS,2009,0.682
+QAT,Qatar,Very High,AS,2009,0.838
+ROU,Romania,Very High,,2009,0.809
+RUS,Russian Federation,Very High,,2009,0.789
+RWA,Rwanda,Low,SSA,2009,0.48
+SAU,Saudi Arabia,Very High,AS,2009,0.807
+SDN,Sudan,Low,AS,2009,0.486
+SEN,Senegal,Low,SSA,2009,0.459
+SGP,Singapore,Very High,EAP,2009,0.892
+SLB,Solomon Islands,Medium,EAP,2009,0.538
+SLE,Sierra Leone,Low,SSA,2009,0.42
+SLV,El Salvador,Medium,LAC,2009,0.653
+SMR,San Marino,Very High,,2009,
+SOM,Somalia,,AS,2009,
+SRB,Serbia,Very High,ECA,2009,0.766
+SSD,South Sudan,Low,SSA,2009,
+STP,Sao Tome and Principe,Medium,SSA,2009,0.552
+SUR,Suriname,High,LAC,2009,0.717
+SVK,Slovakia,Very High,,2009,0.833
+SVN,Slovenia,Very High,,2009,0.887
+SWE,Sweden,Very High,,2009,0.904
+SWZ,Eswatini,Medium,SSA,2009,0.486
+SYC,Seychelles,High,SSA,2009,0.77
+SYR,Syrian Arab Republic,Medium,AS,2009,0.659
+TCD,Chad,Low,SSA,2009,0.355
+TGO,Togo,Low,SSA,2009,0.472
+THA,Thailand,Very High,EAP,2009,0.73
+TJK,Tajikistan,Medium,ECA,2009,0.633
+TKM,Turkmenistan,High,ECA,2009,0.701
+TLS,Timor-Leste,Medium,EAP,2009,0.609
+TON,Tonga,High,EAP,2009,0.708
+TTO,Trinidad and Tobago,Very High,LAC,2009,0.787
+TUN,Tunisia,High,AS,2009,0.715
+TUR,Turkey,Very High,ECA,2009,0.728
+TUV,Tuvalu,Medium,EAP,2009,0.615
+TZA,Tanzania,Low,SSA,2009,0.482
+UGA,Uganda,Low,SSA,2009,0.494
+UKR,Ukraine,High,ECA,2009,0.758
+URY,Uruguay,Very High,LAC,2009,0.78
+USA,United States,Very High,,2009,0.908
+UZB,Uzbekistan,High,ECA,2009,0.665
+VCT,Saint Vincent and the Grenadines,High,LAC,2009,0.736
+VEN,Venezuela,Medium,LAC,2009,0.756
+VNM,Viet Nam,High,EAP,2009,0.658
+VUT,Vanuatu,Medium,EAP,2009,0.591
+WSM,Samoa,High,EAP,2009,0.7
+YEM,Yemen,Low,AS,2009,0.506
+ZAF,South Africa,High,SSA,2009,0.665
+ZMB,Zambia,Medium,SSA,2009,0.519
+ZWE,Zimbabwe,Medium,SSA,2009,0.486
+AFG,Afghanistan,Low,SA,2010,0.448
+AGO,Angola,Medium,SSA,2010,0.51
+ALB,Albania,High,ECA,2010,0.754
+AND,Andorra,Very High,,2010,0.848
+ARE,United Arab Emirates,Very High,AS,2010,0.835
+ARG,Argentina,Very High,LAC,2010,0.834
+ARM,Armenia,High,ECA,2010,0.746
+ATG,Antigua and Barbuda,High,LAC,2010,0.79
+AUS,Australia,Very High,,2010,0.923
+AUT,Austria,Very High,,2010,0.902
+AZE,Azerbaijan,High,ECA,2010,0.727
+BDI,Burundi,Low,SSA,2010,0.405
+BEL,Belgium,Very High,,2010,0.912
+BEN,Benin,Low,SSA,2010,0.492
+BFA,Burkina Faso,Low,SSA,2010,0.372
+BGD,Bangladesh,Medium,SA,2010,0.553
+BGR,Bulgaria,High,,2010,0.79
+BHR,Bahrain,Very High,AS,2010,0.808
+BHS,Bahamas,Very High,LAC,2010,0.812
+BIH,Bosnia and Herzegovina,High,ECA,2010,0.725
+BLR,Belarus,Very High,ECA,2010,0.79
+BLZ,Belize,Medium,LAC,2010,0.707
+BOL,Bolivia,Medium,LAC,2010,0.662
+BRA,Brazil,High,LAC,2010,0.723
+BRB,Barbados,High,LAC,2010,0.788
+BRN,Brunei,Very High,EAP,2010,0.828
+BTN,Bhutan,Medium,SA,2010,0.581
+BWA,Botswana,Medium,SSA,2010,0.66
+CAF,Central African Republic,Low,SSA,2010,0.372
+CAN,Canada,Very High,,2010,0.911
+CHE,Switzerland,Very High,,2010,0.942
+CHL,Chile,Very High,LAC,2010,0.813
+CHN,China,High,EAP,2010,0.691
+CIV,Ivory Coast,Medium,SSA,2010,0.473
+CMR,Cameroon,Medium,SSA,2010,0.513
+COD,The Democratic Republic of the Congo,Low,SSA,2010,0.429
+COG,Congo,Medium,SSA,2010,0.561
+COL,Colombia,High,LAC,2010,0.726
+COM,Comoros,Medium,SSA,2010,0.52
+CPV,Cabo Verde,Medium,SSA,2010,0.644
+CRI,Costa Rica,Very High,LAC,2010,0.772
+CUB,Cuba,High,LAC,2010,0.78
+CYP,Cyprus,Very High,,2010,0.857
+CZE,Czechia,Very High,,2010,0.87
+DEU,Germany,Very High,,2010,0.926
+DJI,Djibouti,Low,AS,2010,0.458
+DMA,Dominica,High,LAC,2010,0.711
+DNK,Denmark,Very High,,2010,0.913
+DOM,Dominican Republic,High,LAC,2010,0.708
+DZA,Algeria,High,AS,2010,0.721
+ECU,Ecuador,High,LAC,2010,0.736
+EGY,Egypt,High,AS,2010,0.675
+ERI,Eritrea,Low,SSA,2010,0.463
+ESP,Spain,Very High,,2010,0.868
+EST,Estonia,Very High,,2010,0.861
+ETH,Ethiopia,Low,SSA,2010,0.412
+FIN,Finland,Very High,,2010,0.911
+FJI,Fiji,High,EAP,2010,0.714
+FRA,France,Very High,,2010,0.877
+FSM,Micronesia,Medium,EAP,2010,0.625
+GAB,Gabon,High,SSA,2010,0.664
+GBR,United Kingdom,Very High,,2010,0.912
+GEO,Georgia,Very High,ECA,2010,0.759
+GHA,Ghana,Medium,SSA,2010,0.574
+GIN,Guinea,Low,SSA,2010,0.415
+GMB,Gambia,Low,SSA,2010,0.46
+GNB,Guinea-Bissau,Low,SSA,2010,0.443
+GNQ,Equatorial Guinea,Medium,SSA,2010,0.579
+GRC,Greece,Very High,,2010,0.869
+GRD,Grenada,High,LAC,2010,0.782
+GTM,Guatemala,Medium,LAC,2010,0.605
+GUY,Guyana,High,LAC,2010,0.656
+HKG,Hong Kong,Very High,,2010,0.907
+HND,Honduras,Medium,LAC,2010,0.597
+HRV,Croatia,Very High,,2010,0.821
+HTI,Haiti,Low,LAC,2010,0.433
+HUN,Hungary,Very High,,2010,0.828
+IDN,Indonesia,High,EAP,2010,0.664
+IND,India,Medium,SA,2010,0.575
+IRL,Ireland,Very High,,2010,0.904
+IRN,Iran,High,SA,2010,0.745
+IRQ,Iraq,Medium,AS,2010,0.64
+ISL,Iceland,Very High,,2010,0.902
+ISR,Israel,Very High,,2010,0.894
+ITA,Italy,Very High,,2010,0.882
+JAM,Jamaica,High,LAC,2010,0.704
+JOR,Jordan,High,AS,2010,0.725
+JPN,Japan,Very High,,2010,0.898
+KAZ,Kazakhstan,Very High,ECA,2010,0.767
+KEN,Kenya,Medium,SSA,2010,0.545
+KGZ,Kyrgyzstan,Medium,ECA,2010,0.664
+KHM,Cambodia,Medium,EAP,2010,0.54
+KIR,Kiribati,Medium,EAP,2010,0.589
+KNA,Saint Kitts and Nevis,High,LAC,2010,0.759
+KOR,South Korea,Very High,,2010,0.89
+KWT,Kuwait,Very High,AS,2010,0.813
+LAO,Lao,Medium,EAP,2010,0.551
+LBN,Lebanon,High,AS,2010,0.77
+LBR,Liberia,Low,SSA,2010,0.46
+LBY,Libya,High,AS,2010,0.739
+LCA,Saint Lucia,High,LAC,2010,0.728
+LIE,Liechtenstein,Very High,,2010,0.913
+LKA,Sri Lanka,High,SA,2010,0.737
+LSO,Lesotho,Low,SSA,2010,0.467
+LTU,Lithuania,Very High,,2010,0.842
+LUX,Luxembourg,Very High,,2010,0.912
+LVA,Latvia,Very High,,2010,0.824
+MAR,Morocco,Medium,AS,2010,0.603
+MCO,Monaco,,,2010,
+MDA,Moldova,High,ECA,2010,0.73
+MDG,Madagascar,Low,SSA,2010,0.492
+MDV,Maldives,High,SA,2010,0.688
+MEX,Mexico,High,LAC,2010,0.746
+MHL,Marshall Islands,Medium,EAP,2010,
+MKD,North Macedonia,High,ECA,2010,0.738
+MLI,Mali,Low,SSA,2010,0.404
+MLT,Malta,Very High,,2010,0.861
+MMR,Myanmar,Medium,EAP,2010,0.51
+MNE,Montenegro,Very High,ECA,2010,0.808
+MNG,Mongolia,High,EAP,2010,0.701
+MOZ,Mozambique,Low,SSA,2010,0.402
+MRT,Mauritania,Medium,SSA,2010,0.51
+MUS,Mauritius,Very High,SSA,2010,0.755
+MWI,Malawi,Low,SSA,2010,0.456
+MYS,Malaysia,Very High,EAP,2010,0.769
+NAM,Namibia,Medium,SSA,2010,0.585
+NER,Niger,Low,SSA,2010,0.338
+NGA,Nigeria,Low,SSA,2010,0.482
+NIC,Nicaragua,Medium,LAC,2010,0.614
+NLD,Netherlands,Very High,,2010,0.917
+NOR,Norway,Very High,,2010,0.941
+NPL,Nepal,Medium,SA,2010,0.543
+NRU,Nauru,,EAP,2010,
+NZL,New Zealand,Very High,,2010,0.922
+OMN,Oman,Very High,AS,2010,0.788
+PAK,Pakistan,Low,SA,2010,0.505
+PAN,Panama,Very High,LAC,2010,0.773
+PER,Peru,High,LAC,2010,0.725
+PHL,Philippines,Medium,EAP,2010,0.674
+PLW,Palau,High,EAP,2010,0.773
+PNG,Papua New Guinea,Medium,EAP,2010,0.499
+POL,Poland,Very High,,2010,0.841
+PRK,North Korea,,EAP,2010,
+PRT,Portugal,Very High,,2010,0.829
+PRY,Paraguay,High,LAC,2010,0.685
+PSE,"Palestine, State of",High,AS,2010,0.687
+QAT,Qatar,Very High,AS,2010,0.834
+ROU,Romania,Very High,,2010,0.807
+RUS,Russian Federation,Very High,,2010,0.796
+RWA,Rwanda,Low,SSA,2010,0.489
+SAU,Saudi Arabia,Very High,AS,2010,0.816
+SDN,Sudan,Low,AS,2010,0.486
+SEN,Senegal,Low,SSA,2010,0.468
+SGP,Singapore,Very High,EAP,2010,0.91
+SLB,Solomon Islands,Medium,EAP,2010,0.55
+SLE,Sierra Leone,Low,SSA,2010,0.427
+SLV,El Salvador,Medium,LAC,2010,0.659
+SMR,San Marino,Very High,,2010,
+SOM,Somalia,,AS,2010,
+SRB,Serbia,Very High,ECA,2010,0.767
+SSD,South Sudan,Low,SSA,2010,0.43
+STP,Sao Tome and Principe,Medium,SSA,2010,0.554
+SUR,Suriname,High,LAC,2010,0.723
+SVK,Slovakia,Very High,,2010,0.84
+SVN,Slovenia,Very High,,2010,0.89
+SWE,Sweden,Very High,,2010,0.91
+SWZ,Eswatini,Medium,SSA,2010,0.503
+SYC,Seychelles,High,SSA,2010,0.776
+SYR,Syrian Arab Republic,Medium,AS,2010,0.66
+TCD,Chad,Low,SSA,2010,0.362
+TGO,Togo,Low,SSA,2010,0.477
+THA,Thailand,Very High,EAP,2010,0.737
+TJK,Tajikistan,Medium,ECA,2010,0.636
+TKM,Turkmenistan,High,ECA,2010,0.711
+TLS,Timor-Leste,Medium,EAP,2010,0.619
+TON,Tonga,High,EAP,2010,0.713
+TTO,Trinidad and Tobago,Very High,LAC,2010,0.79
+TUN,Tunisia,High,AS,2010,0.72
+TUR,Turkey,Very High,ECA,2010,0.749
+TUV,Tuvalu,Medium,EAP,2010,0.616
+TZA,Tanzania,Low,SSA,2010,0.493
+UGA,Uganda,Low,SSA,2010,0.502
+UKR,Ukraine,High,ECA,2010,0.764
+URY,Uruguay,Very High,LAC,2010,0.787
+USA,United States,Very High,,2010,0.911
+UZB,Uzbekistan,High,ECA,2010,0.673
+VCT,Saint Vincent and the Grenadines,High,LAC,2010,0.734
+VEN,Venezuela,Medium,LAC,2010,0.755
+VNM,Viet Nam,High,EAP,2010,0.663
+VUT,Vanuatu,Medium,EAP,2010,0.591
+WSM,Samoa,High,EAP,2010,0.713
+YEM,Yemen,Low,AS,2010,0.51
+ZAF,South Africa,High,SSA,2010,0.675
+ZMB,Zambia,Medium,SSA,2010,0.529
+ZWE,Zimbabwe,Medium,SSA,2010,0.512
+AFG,Afghanistan,Low,SA,2011,0.456
+AGO,Angola,Medium,SSA,2011,0.526
+ALB,Albania,High,ECA,2011,0.766
+AND,Andorra,Very High,,2011,0.849
+ARE,United Arab Emirates,Very High,AS,2011,0.84
+ARG,Argentina,Very High,LAC,2011,0.841
+ARM,Armenia,High,ECA,2011,0.75
+ATG,Antigua and Barbuda,High,LAC,2011,0.783
+AUS,Australia,Very High,,2011,0.926
+AUT,Austria,Very High,,2011,0.905
+AZE,Azerbaijan,High,ECA,2011,0.729
+BDI,Burundi,Low,SSA,2011,0.41
+BEL,Belgium,Very High,,2011,0.914
+BEN,Benin,Low,SSA,2011,0.499
+BFA,Burkina Faso,Low,SSA,2011,0.384
+BGD,Bangladesh,Medium,SA,2011,0.561
+BGR,Bulgaria,High,,2011,0.794
+BHR,Bahrain,Very High,AS,2011,0.809
+BHS,Bahamas,Very High,LAC,2011,0.812
+BIH,Bosnia and Herzegovina,High,ECA,2011,0.732
+BLR,Belarus,Very High,ECA,2011,0.797
+BLZ,Belize,Medium,LAC,2011,0.709
+BOL,Bolivia,Medium,LAC,2011,0.668
+BRA,Brazil,High,LAC,2011,0.728
+BRB,Barbados,High,LAC,2011,0.784
+BRN,Brunei,Very High,EAP,2011,0.832
+BTN,Bhutan,Medium,SA,2011,0.591
+BWA,Botswana,Medium,SSA,2011,0.669
+CAF,Central African Republic,Low,SSA,2011,0.381
+CAN,Canada,Very High,,2011,0.915
+CHE,Switzerland,Very High,,2011,0.943
+CHL,Chile,Very High,LAC,2011,0.817
+CHN,China,High,EAP,2011,0.7
+CIV,Ivory Coast,Medium,SSA,2011,0.472
+CMR,Cameroon,Medium,SSA,2011,0.521
+COD,The Democratic Republic of the Congo,Low,SSA,2011,0.438
+COG,Congo,Medium,SSA,2011,0.564
+COL,Colombia,High,LAC,2011,0.733
+COM,Comoros,Medium,SSA,2011,0.527
+CPV,Cabo Verde,Medium,SSA,2011,0.653
+CRI,Costa Rica,Very High,LAC,2011,0.782
+CUB,Cuba,High,LAC,2011,0.777
+CYP,Cyprus,Very High,,2011,0.861
+CZE,Czechia,Very High,,2011,0.872
+DEU,Germany,Very High,,2011,0.931
+DJI,Djibouti,Low,AS,2011,0.47
+DMA,Dominica,High,LAC,2011,0.702
+DNK,Denmark,Very High,,2011,0.926
+DOM,Dominican Republic,High,LAC,2011,0.713
+DZA,Algeria,High,AS,2011,0.727
+ECU,Ecuador,High,LAC,2011,0.743
+EGY,Egypt,High,AS,2011,0.679
+ERI,Eritrea,Low,SSA,2011,0.481
+ESP,Spain,Very High,,2011,0.872
+EST,Estonia,Very High,,2011,0.871
+ETH,Ethiopia,Low,SSA,2011,0.422
+FIN,Finland,Very High,,2011,0.915
+FJI,Fiji,High,EAP,2011,0.719
+FRA,France,Very High,,2011,0.881
+FSM,Micronesia,Medium,EAP,2011,0.628
+GAB,Gabon,High,SSA,2011,0.668
+GBR,United Kingdom,Very High,,2011,0.908
+GEO,Georgia,Very High,ECA,2011,0.766
+GHA,Ghana,Medium,SSA,2011,0.585
+GIN,Guinea,Low,SSA,2011,0.42
+GMB,Gambia,Low,SSA,2011,0.46
+GNB,Guinea-Bissau,Low,SSA,2011,0.452
+GNQ,Equatorial Guinea,Medium,SSA,2011,0.585
+GRC,Greece,Very High,,2011,0.865
+GRD,Grenada,High,LAC,2011,0.786
+GTM,Guatemala,Medium,LAC,2011,0.611
+GUY,Guyana,High,LAC,2011,0.665
+HKG,Hong Kong,Very High,,2011,0.914
+HND,Honduras,Medium,LAC,2011,0.6
+HRV,Croatia,Very High,,2011,0.826
+HTI,Haiti,Low,LAC,2011,0.512
+HUN,Hungary,Very High,,2011,0.83
+IDN,Indonesia,High,EAP,2011,0.671
+IND,India,Medium,SA,2011,0.588
+IRL,Ireland,Very High,,2011,0.902
+IRN,Iran,High,SA,2011,0.754
+IRQ,Iraq,Medium,AS,2011,0.649
+ISL,Iceland,Very High,,2011,0.912
+ISR,Israel,Very High,,2011,0.897
+ITA,Italy,Very High,,2011,0.885
+JAM,Jamaica,High,LAC,2011,0.709
+JOR,Jordan,High,AS,2011,0.721
+JPN,Japan,Very High,,2011,0.899
+KAZ,Kazakhstan,Very High,ECA,2011,0.775
+KEN,Kenya,Medium,SSA,2011,0.55
+KGZ,Kyrgyzstan,Medium,ECA,2011,0.665
+KHM,Cambodia,Medium,EAP,2011,0.548
+KIR,Kiribati,Medium,EAP,2011,0.587
+KNA,Saint Kitts and Nevis,High,LAC,2011,0.764
+KOR,South Korea,Very High,,2011,0.896
+KWT,Kuwait,Very High,AS,2011,0.82
+LAO,Lao,Medium,EAP,2011,0.563
+LBN,Lebanon,High,AS,2011,0.771
+LBR,Liberia,Low,SSA,2011,0.464
+LBY,Libya,High,AS,2011,0.69
+LCA,Saint Lucia,High,LAC,2011,0.734
+LIE,Liechtenstein,Very High,,2011,0.918
+LKA,Sri Lanka,High,SA,2011,0.744
+LSO,Lesotho,Low,SSA,2011,0.475
+LTU,Lithuania,Very High,,2011,0.849
+LUX,Luxembourg,Very High,,2011,0.913
+LVA,Latvia,Very High,,2011,0.831
+MAR,Morocco,Medium,AS,2011,0.614
+MCO,Monaco,,,2011,
+MDA,Moldova,High,ECA,2011,0.736
+MDG,Madagascar,Low,SSA,2011,0.494
+MDV,Maldives,High,SA,2011,0.7
+MEX,Mexico,High,LAC,2011,0.752
+MHL,Marshall Islands,Medium,EAP,2011,0.633
+MKD,North Macedonia,High,ECA,2011,0.741
+MLI,Mali,Low,SSA,2011,0.409
+MLT,Malta,Very High,,2011,0.857
+MMR,Myanmar,Medium,EAP,2011,0.521
+MNE,Montenegro,Very High,ECA,2011,0.811
+MNG,Mongolia,High,EAP,2011,0.709
+MOZ,Mozambique,Low,SSA,2011,0.407
+MRT,Mauritania,Medium,SSA,2011,0.515
+MUS,Mauritius,Very High,SSA,2011,0.762
+MWI,Malawi,Low,SSA,2011,0.463
+MYS,Malaysia,Very High,EAP,2011,0.773
+NAM,Namibia,Medium,SSA,2011,0.592
+NER,Niger,Low,SSA,2011,0.346
+NGA,Nigeria,Low,SSA,2011,0.492
+NIC,Nicaragua,Medium,LAC,2011,0.622
+NLD,Netherlands,Very High,,2011,0.927
+NOR,Norway,Very High,,2011,0.944
+NPL,Nepal,Medium,SA,2011,0.553
+NRU,Nauru,,EAP,2011,
+NZL,New Zealand,Very High,,2011,0.922
+OMN,Oman,Very High,AS,2011,0.793
+PAK,Pakistan,Low,SA,2011,0.508
+PAN,Panama,Very High,LAC,2011,0.779
+PER,Peru,High,LAC,2011,0.732
+PHL,Philippines,Medium,EAP,2011,0.679
+PLW,Palau,High,EAP,2011,0.776
+PNG,Papua New Guinea,Medium,EAP,2011,0.504
+POL,Poland,Very High,,2011,0.847
+PRK,North Korea,,EAP,2011,
+PRT,Portugal,Very High,,2011,0.835
+PRY,Paraguay,High,LAC,2011,0.696
+PSE,"Palestine, State of",High,AS,2011,0.694
+QAT,Qatar,Very High,AS,2011,0.844
+ROU,Romania,Very High,,2011,0.808
+RUS,Russian Federation,Very High,,2011,0.808
+RWA,Rwanda,Low,SSA,2011,0.497
+SAU,Saudi Arabia,Very High,AS,2011,0.828
+SDN,Sudan,Low,AS,2011,0.487
+SEN,Senegal,Low,SSA,2011,0.482
+SGP,Singapore,Very High,EAP,2011,0.915
+SLB,Solomon Islands,Medium,EAP,2011,0.553
+SLE,Sierra Leone,Low,SSA,2011,0.433
+SLV,El Salvador,Medium,LAC,2011,0.661
+SMR,San Marino,Very High,,2011,
+SOM,Somalia,,AS,2011,
+SRB,Serbia,Very High,ECA,2011,0.777
+SSD,South Sudan,Low,SSA,2011,0.433
+STP,Sao Tome and Principe,Medium,SSA,2011,0.556
+SUR,Suriname,High,LAC,2011,0.728
+SVK,Slovakia,Very High,,2011,0.844
+SVN,Slovenia,Very High,,2011,0.892
+SWE,Sweden,Very High,,2011,0.911
+SWZ,Eswatini,Medium,SSA,2011,0.517
+SYC,Seychelles,High,SSA,2011,0.766
+SYR,Syrian Arab Republic,Medium,AS,2011,0.691
+TCD,Chad,Low,SSA,2011,0.372
+TGO,Togo,Low,SSA,2011,0.487
+THA,Thailand,Very High,EAP,2011,0.743
+TJK,Tajikistan,Medium,ECA,2011,0.635
+TKM,Turkmenistan,High,ECA,2011,0.72
+TLS,Timor-Leste,Medium,EAP,2011,0.638
+TON,Tonga,High,EAP,2011,0.72
+TTO,Trinidad and Tobago,Very High,LAC,2011,0.794
+TUN,Tunisia,High,AS,2011,0.722
+TUR,Turkey,Very High,ECA,2011,0.762
+TUV,Tuvalu,Medium,EAP,2011,0.616
+TZA,Tanzania,Low,SSA,2011,0.499
+UGA,Uganda,Low,SSA,2011,0.506
+UKR,Ukraine,High,ECA,2011,0.769
+URY,Uruguay,Very High,LAC,2011,0.794
+USA,United States,Very High,,2011,0.913
+UZB,Uzbekistan,High,ECA,2011,0.68
+VCT,Saint Vincent and the Grenadines,High,LAC,2011,0.736
+VEN,Venezuela,Medium,LAC,2011,0.762
+VNM,Viet Nam,High,EAP,2011,0.668
+VUT,Vanuatu,Medium,EAP,2011,0.593
+WSM,Samoa,High,EAP,2011,0.713
+YEM,Yemen,Low,AS,2011,0.509
+ZAF,South Africa,High,SSA,2011,0.686
+ZMB,Zambia,Medium,SSA,2011,0.534
+ZWE,Zimbabwe,Medium,SSA,2011,0.535
+AFG,Afghanistan,Low,SA,2012,0.466
+AGO,Angola,Medium,SSA,2012,0.541
+ALB,Albania,High,ECA,2012,0.778
+AND,Andorra,Very High,,2012,0.869
+ARE,United Arab Emirates,Very High,AS,2012,0.846
+ARG,Argentina,Very High,LAC,2012,0.843
+ARM,Armenia,High,ECA,2012,0.755
+ATG,Antigua and Barbuda,High,LAC,2012,0.787
+AUS,Australia,Very High,,2012,0.93
+AUT,Austria,Very High,,2012,0.906
+AZE,Azerbaijan,High,ECA,2012,0.734
+BDI,Burundi,Low,SSA,2012,0.416
+BEL,Belgium,Very High,,2012,0.915
+BEN,Benin,Low,SSA,2012,0.509
+BFA,Burkina Faso,Low,SSA,2012,0.395
+BGD,Bangladesh,Medium,SA,2012,0.572
+BGR,Bulgaria,High,,2012,0.798
+BHR,Bahrain,Very High,AS,2012,0.817
+BHS,Bahamas,Very High,LAC,2012,0.815
+BIH,Bosnia and Herzegovina,High,ECA,2012,0.745
+BLR,Belarus,Very High,ECA,2012,0.806
+BLZ,Belize,Medium,LAC,2012,0.713
+BOL,Bolivia,Medium,LAC,2012,0.674
+BRA,Brazil,High,LAC,2012,0.732
+BRB,Barbados,High,LAC,2012,0.787
+BRN,Brunei,Very High,EAP,2012,0.838
+BTN,Bhutan,Medium,SA,2012,0.598
+BWA,Botswana,Medium,SSA,2012,0.674
+CAF,Central African Republic,Low,SSA,2012,0.388
+CAN,Canada,Very High,,2012,0.921
+CHE,Switzerland,Very High,,2012,0.945
+CHL,Chile,Very High,LAC,2012,0.824
+CHN,China,High,EAP,2012,0.709
+CIV,Ivory Coast,Medium,SSA,2012,0.477
+CMR,Cameroon,Medium,SSA,2012,0.533
+COD,The Democratic Republic of the Congo,Low,SSA,2012,0.44
+COG,Congo,Medium,SSA,2012,0.575
+COL,Colombia,High,LAC,2012,0.734
+COM,Comoros,Medium,SSA,2012,0.533
+CPV,Cabo Verde,Medium,SSA,2012,0.656
+CRI,Costa Rica,Very High,LAC,2012,0.786
+CUB,Cuba,High,LAC,2012,0.773
+CYP,Cyprus,Very High,,2012,0.86
+CZE,Czechia,Very High,,2012,0.874
+DEU,Germany,Very High,,2012,0.933
+DJI,Djibouti,Low,AS,2012,0.478
+DMA,Dominica,High,LAC,2012,0.706
+DNK,Denmark,Very High,,2012,0.931
+DOM,Dominican Republic,High,LAC,2012,0.718
+DZA,Algeria,High,AS,2012,0.729
+ECU,Ecuador,High,LAC,2012,0.751
+EGY,Egypt,High,AS,2012,0.688
+ERI,Eritrea,Low,SSA,2012,0.486
+ESP,Spain,Very High,,2012,0.874
+EST,Estonia,Very High,,2012,0.874
+ETH,Ethiopia,Low,SSA,2012,0.43
+FIN,Finland,Very High,,2012,0.915
+FJI,Fiji,High,EAP,2012,0.721
+FRA,France,Very High,,2012,0.882
+FSM,Micronesia,Medium,EAP,2012,0.628
+GAB,Gabon,High,SSA,2012,0.679
+GBR,United Kingdom,Very High,,2012,0.909
+GEO,Georgia,Very High,ECA,2012,0.773
+GHA,Ghana,Medium,SSA,2012,0.592
+GIN,Guinea,Low,SSA,2012,0.425
+GMB,Gambia,Low,SSA,2012,0.467
+GNB,Guinea-Bissau,Low,SSA,2012,0.456
+GNQ,Equatorial Guinea,Medium,SSA,2012,0.592
+GRC,Greece,Very High,,2012,0.866
+GRD,Grenada,High,LAC,2012,0.784
+GTM,Guatemala,Medium,LAC,2012,0.616
+GUY,Guyana,High,LAC,2012,0.669
+HKG,Hong Kong,Very High,,2012,0.918
+HND,Honduras,Medium,LAC,2012,0.599
+HRV,Croatia,Very High,,2012,0.83
+HTI,Haiti,Low,LAC,2012,0.517
+HUN,Hungary,Very High,,2012,0.831
+IDN,Indonesia,High,EAP,2012,0.678
+IND,India,Medium,SA,2012,0.598
+IRL,Ireland,Very High,,2012,0.903
+IRN,Iran,High,SA,2012,0.768
+IRQ,Iraq,Medium,AS,2012,0.66
+ISL,Iceland,Very High,,2012,0.921
+ISR,Israel,Very High,,2012,0.898
+ITA,Italy,Very High,,2012,0.883
+JAM,Jamaica,High,LAC,2012,0.713
+JOR,Jordan,High,AS,2012,0.721
+JPN,Japan,Very High,,2012,0.905
+KAZ,Kazakhstan,Very High,ECA,2012,0.783
+KEN,Kenya,Medium,SSA,2012,0.552
+KGZ,Kyrgyzstan,Medium,ECA,2012,0.675
+KHM,Cambodia,Medium,EAP,2012,0.555
+KIR,Kiribati,Medium,EAP,2012,0.594
+KNA,Saint Kitts and Nevis,High,LAC,2012,0.766
+KOR,South Korea,Very High,,2012,0.897
+KWT,Kuwait,Very High,AS,2012,0.826
+LAO,Lao,Medium,EAP,2012,0.572
+LBN,Lebanon,High,AS,2012,0.762
+LBR,Liberia,Low,SSA,2012,0.47
+LBY,Libya,High,AS,2012,0.726
+LCA,Saint Lucia,High,LAC,2012,0.734
+LIE,Liechtenstein,Very High,,2012,0.923
+LKA,Sri Lanka,High,SA,2012,0.751
+LSO,Lesotho,Low,SSA,2012,0.486
+LTU,Lithuania,Very High,,2012,0.851
+LUX,Luxembourg,Very High,,2012,0.916
+LVA,Latvia,Very High,,2012,0.833
+MAR,Morocco,Medium,AS,2012,0.624
+MCO,Monaco,,,2012,
+MDA,Moldova,High,ECA,2012,0.741
+MDG,Madagascar,Low,SSA,2012,0.496
+MDV,Maldives,High,SA,2012,0.709
+MEX,Mexico,High,LAC,2012,0.76
+MHL,Marshall Islands,Medium,EAP,2012,0.628
+MKD,North Macedonia,High,ECA,2012,0.743
+MLI,Mali,Low,SSA,2012,0.407
+MLT,Malta,Very High,,2012,0.864
+MMR,Myanmar,Medium,EAP,2012,0.531
+MNE,Montenegro,Very High,ECA,2012,0.812
+MNG,Mongolia,High,EAP,2012,0.718
+MOZ,Mozambique,Low,SSA,2012,0.413
+MRT,Mauritania,Medium,SSA,2012,0.523
+MUS,Mauritius,Very High,SSA,2012,0.775
+MWI,Malawi,Low,SSA,2012,0.47
+MYS,Malaysia,Very High,EAP,2012,0.78
+NAM,Namibia,Medium,SSA,2012,0.601
+NER,Niger,Low,SSA,2012,0.354
+NGA,Nigeria,Low,SSA,2012,0.499
+NIC,Nicaragua,Medium,LAC,2012,0.629
+NLD,Netherlands,Very High,,2012,0.927
+NOR,Norway,Very High,,2012,0.946
+NPL,Nepal,Medium,SA,2012,0.561
+NRU,Nauru,,EAP,2012,
+NZL,New Zealand,Very High,,2012,0.924
+OMN,Oman,Very High,AS,2012,0.802
+PAK,Pakistan,Low,SA,2012,0.513
+PAN,Panama,Very High,LAC,2012,0.785
+PER,Peru,High,LAC,2012,0.742
+PHL,Philippines,Medium,EAP,2012,0.685
+PLW,Palau,High,EAP,2012,0.776
+PNG,Papua New Guinea,Medium,EAP,2012,0.513
+POL,Poland,Very High,,2012,0.852
+PRK,North Korea,,EAP,2012,
+PRT,Portugal,Very High,,2012,0.836
+PRY,Paraguay,High,LAC,2012,0.702
+PSE,"Palestine, State of",High,AS,2012,0.701
+QAT,Qatar,Very High,AS,2012,0.829
+ROU,Romania,Very High,,2012,0.805
+RUS,Russian Federation,Very High,,2012,0.811
+RWA,Rwanda,Low,SSA,2012,0.506
+SAU,Saudi Arabia,Very High,AS,2012,0.837
+SDN,Sudan,Low,AS,2012,0.493
+SEN,Senegal,Low,SSA,2012,0.49
+SGP,Singapore,Very High,EAP,2012,0.92
+SLB,Solomon Islands,Medium,EAP,2012,0.554
+SLE,Sierra Leone,Low,SSA,2012,0.447
+SLV,El Salvador,Medium,LAC,2012,0.664
+SMR,San Marino,Very High,,2012,
+SOM,Somalia,,AS,2012,
+SRB,Serbia,Very High,ECA,2012,0.78
+SSD,South Sudan,Low,SSA,2012,0.397
+STP,Sao Tome and Principe,Medium,SSA,2012,0.562
+SUR,Suriname,High,LAC,2012,0.731
+SVK,Slovakia,Very High,,2012,0.845
+SVN,Slovenia,Very High,,2012,0.891
+SWE,Sweden,Very High,,2012,0.911
+SWZ,Eswatini,Medium,SSA,2012,0.531
+SYC,Seychelles,High,SSA,2012,0.786
+SYR,Syrian Arab Republic,Medium,AS,2012,0.65
+TCD,Chad,Low,SSA,2012,0.381
+TGO,Togo,Low,SSA,2012,0.491
+THA,Thailand,Very High,EAP,2012,0.746
+TJK,Tajikistan,Medium,ECA,2012,0.643
+TKM,Turkmenistan,High,ECA,2012,0.727
+TLS,Timor-Leste,Medium,EAP,2012,0.635
+TON,Tonga,High,EAP,2012,0.723
+TTO,Trinidad and Tobago,Very High,LAC,2012,0.8
+TUN,Tunisia,High,AS,2012,0.724
+TUR,Turkey,Very High,ECA,2012,0.769
+TUV,Tuvalu,Medium,EAP,2012,0.624
+TZA,Tanzania,Low,SSA,2012,0.504
+UGA,Uganda,Low,SSA,2012,0.504
+UKR,Ukraine,High,ECA,2012,0.773
+URY,Uruguay,Very High,LAC,2012,0.798
+USA,United States,Very High,,2012,0.916
+UZB,Uzbekistan,High,ECA,2012,0.687
+VCT,Saint Vincent and the Grenadines,High,LAC,2012,0.737
+VEN,Venezuela,Medium,LAC,2012,0.767
+VNM,Viet Nam,High,EAP,2012,0.672
+VUT,Vanuatu,Medium,EAP,2012,0.59
+WSM,Samoa,High,EAP,2012,0.709
+YEM,Yemen,Low,AS,2012,0.512
+ZAF,South Africa,High,SSA,2012,0.696
+ZMB,Zambia,Medium,SSA,2012,0.548
+ZWE,Zimbabwe,Medium,SSA,2012,0.557
+AFG,Afghanistan,Low,SA,2013,0.474
+AGO,Angola,Medium,SSA,2013,0.552
+ALB,Albania,High,ECA,2013,0.785
+AND,Andorra,Very High,,2013,0.864
+ARE,United Arab Emirates,Very High,AS,2013,0.852
+ARG,Argentina,Very High,LAC,2013,0.845
+ARM,Armenia,High,ECA,2013,0.76
+ATG,Antigua and Barbuda,High,LAC,2013,0.787
+AUS,Australia,Very High,,2013,0.929
+AUT,Austria,Very High,,2013,0.905
+AZE,Azerbaijan,High,ECA,2013,0.741
+BDI,Burundi,Low,SSA,2013,0.421
+BEL,Belgium,Very High,,2013,0.916
+BEN,Benin,Low,SSA,2013,0.52
+BFA,Burkina Faso,Low,SSA,2013,0.402
+BGD,Bangladesh,Medium,SA,2013,0.574
+BGR,Bulgaria,High,,2013,0.805
+BHR,Bahrain,Very High,AS,2013,0.824
+BHS,Bahamas,Very High,LAC,2013,0.816
+BIH,Bosnia and Herzegovina,High,ECA,2013,0.751
+BLR,Belarus,Very High,ECA,2013,0.808
+BLZ,Belize,Medium,LAC,2013,0.712
+BOL,Bolivia,Medium,LAC,2013,0.682
+BRA,Brazil,High,LAC,2013,0.75
+BRB,Barbados,High,LAC,2013,0.787
+BRN,Brunei,Very High,EAP,2013,0.838
+BTN,Bhutan,Medium,SA,2013,0.606
+BWA,Botswana,Medium,SSA,2013,0.687
+CAF,Central African Republic,Low,SSA,2013,0.368
+CAN,Canada,Very High,,2013,0.923
+CHE,Switzerland,Very High,,2013,0.948
+CHL,Chile,Very High,LAC,2013,0.836
+CHN,China,High,EAP,2013,0.717
+CIV,Ivory Coast,Medium,SSA,2013,0.483
+CMR,Cameroon,Medium,SSA,2013,0.542
+COD,The Democratic Republic of the Congo,Low,SSA,2013,0.446
+COG,Congo,Medium,SSA,2013,0.58
+COL,Colombia,High,LAC,2013,0.746
+COM,Comoros,Medium,SSA,2013,0.539
+CPV,Cabo Verde,Medium,SSA,2013,0.666
+CRI,Costa Rica,Very High,LAC,2013,0.792
+CUB,Cuba,High,LAC,2013,0.769
+CYP,Cyprus,Very High,,2013,0.861
+CZE,Czechia,Very High,,2013,0.881
+DEU,Germany,Very High,,2013,0.934
+DJI,Djibouti,Low,AS,2013,0.483
+DMA,Dominica,High,LAC,2013,0.699
+DNK,Denmark,Very High,,2013,0.933
+DOM,Dominican Republic,High,LAC,2013,0.722
+DZA,Algeria,High,AS,2013,0.731
+ECU,Ecuador,High,LAC,2013,0.755
+EGY,Egypt,High,AS,2013,0.694
+ERI,Eritrea,Low,SSA,2013,0.483
+ESP,Spain,Very High,,2013,0.88
+EST,Estonia,Very High,,2013,0.88
+ETH,Ethiopia,Low,SSA,2013,0.441
+FIN,Finland,Very High,,2013,0.926
+FJI,Fiji,High,EAP,2013,0.726
+FRA,France,Very High,,2013,0.887
+FSM,Micronesia,Medium,EAP,2013,0.626
+GAB,Gabon,High,SSA,2013,0.685
+GBR,United Kingdom,Very High,,2013,0.922
+GEO,Georgia,Very High,ECA,2013,0.777
+GHA,Ghana,Medium,SSA,2013,0.6
+GIN,Guinea,Low,SSA,2013,0.429
+GMB,Gambia,Low,SSA,2013,0.471
+GNB,Guinea-Bissau,Low,SSA,2013,0.46
+GNQ,Equatorial Guinea,Medium,SSA,2013,0.594
+GRC,Greece,Very High,,2013,0.871
+GRD,Grenada,High,LAC,2013,0.787
+GTM,Guatemala,Medium,LAC,2013,0.62
+GUY,Guyana,High,LAC,2013,0.673
+HKG,Hong Kong,Very High,,2013,0.924
+HND,Honduras,Medium,LAC,2013,0.603
+HRV,Croatia,Very High,,2013,0.838
+HTI,Haiti,Low,LAC,2013,0.521
+HUN,Hungary,Very High,,2013,0.84
+IDN,Indonesia,High,EAP,2013,0.683
+IND,India,Medium,SA,2013,0.607
+IRL,Ireland,Very High,,2013,0.908
+IRN,Iran,High,SA,2013,0.769
+IRQ,Iraq,Medium,AS,2013,0.667
+ISL,Iceland,Very High,,2013,0.929
+ISR,Israel,Very High,,2013,0.904
+ITA,Italy,Very High,,2013,0.882
+JAM,Jamaica,High,LAC,2013,0.714
+JOR,Jordan,High,AS,2013,0.719
+JPN,Japan,Very High,,2013,0.91
+KAZ,Kazakhstan,Very High,ECA,2013,0.792
+KEN,Kenya,Medium,SSA,2013,0.554
+KGZ,Kyrgyzstan,Medium,ECA,2013,0.682
+KHM,Cambodia,Medium,EAP,2013,0.562
+KIR,Kiribati,Medium,EAP,2013,0.602
+KNA,Saint Kitts and Nevis,High,LAC,2013,0.77
+KOR,South Korea,Very High,,2013,0.901
+KWT,Kuwait,Very High,AS,2013,0.819
+LAO,Lao,Medium,EAP,2013,0.582
+LBN,Lebanon,High,AS,2013,0.759
+LBR,Liberia,Low,SSA,2013,0.475
+LBY,Libya,High,AS,2013,0.716
+LCA,Saint Lucia,High,LAC,2013,0.734
+LIE,Liechtenstein,Very High,,2013,0.922
+LKA,Sri Lanka,High,SA,2013,0.756
+LSO,Lesotho,Low,SSA,2013,0.49
+LTU,Lithuania,Very High,,2013,0.854
+LUX,Luxembourg,Very High,,2013,0.921
+LVA,Latvia,Very High,,2013,0.843
+MAR,Morocco,Medium,AS,2013,0.635
+MCO,Monaco,,,2013,
+MDA,Moldova,High,ECA,2013,0.746
+MDG,Madagascar,Low,SSA,2013,0.499
+MDV,Maldives,High,SA,2013,0.718
+MEX,Mexico,High,LAC,2013,0.76
+MHL,Marshall Islands,Medium,EAP,2013,0.632
+MKD,North Macedonia,High,ECA,2013,0.75
+MLI,Mali,Low,SSA,2013,0.407
+MLT,Malta,Very High,,2013,0.872
+MMR,Myanmar,Medium,EAP,2013,0.543
+MNE,Montenegro,Very High,ECA,2013,0.817
+MNG,Mongolia,High,EAP,2013,0.726
+MOZ,Mozambique,Low,SSA,2013,0.427
+MRT,Mauritania,Medium,SSA,2013,0.531
+MUS,Mauritius,Very High,SSA,2013,0.782
+MWI,Malawi,Low,SSA,2013,0.478
+MYS,Malaysia,Very High,EAP,2013,0.785
+NAM,Namibia,Medium,SSA,2013,0.611
+NER,Niger,Low,SSA,2013,0.362
+NGA,Nigeria,Low,SSA,2013,0.506
+NIC,Nicaragua,Medium,LAC,2013,0.634
+NLD,Netherlands,Very High,,2013,0.929
+NOR,Norway,Very High,,2013,0.949
+NPL,Nepal,Medium,SA,2013,0.57
+NRU,Nauru,,EAP,2013,
+NZL,New Zealand,Very High,,2013,0.929
+OMN,Oman,Very High,AS,2013,0.809
+PAK,Pakistan,Low,SA,2013,0.518
+PAN,Panama,Very High,LAC,2013,0.79
+PER,Peru,High,LAC,2013,0.75
+PHL,Philippines,Medium,EAP,2013,0.692
+PLW,Palau,High,EAP,2013,0.779
+PNG,Papua New Guinea,Medium,EAP,2013,0.518
+POL,Poland,Very High,,2013,0.863
+PRK,North Korea,,EAP,2013,
+PRT,Portugal,Very High,,2013,0.845
+PRY,Paraguay,High,LAC,2013,0.715
+PSE,"Palestine, State of",High,AS,2013,0.703
+QAT,Qatar,Very High,AS,2013,0.834
+ROU,Romania,Very High,,2013,0.81
+RUS,Russian Federation,Very High,,2013,0.817
+RWA,Rwanda,Low,SSA,2013,0.508
+SAU,Saudi Arabia,Very High,AS,2013,0.845
+SDN,Sudan,Low,AS,2013,0.497
+SEN,Senegal,Low,SSA,2013,0.496
+SGP,Singapore,Very High,EAP,2013,0.923
+SLB,Solomon Islands,Medium,EAP,2013,0.559
+SLE,Sierra Leone,Low,SSA,2013,0.459
+SLV,El Salvador,Medium,LAC,2013,0.667
+SMR,San Marino,Very High,,2013,
+SOM,Somalia,,AS,2013,
+SRB,Serbia,Very High,ECA,2013,0.785
+SSD,South Sudan,Low,SSA,2013,0.411
+STP,Sao Tome and Principe,Medium,SSA,2013,0.573
+SUR,Suriname,High,LAC,2013,0.734
+SVK,Slovakia,Very High,,2013,0.848
+SVN,Slovenia,Very High,,2013,0.9
+SWE,Sweden,Very High,,2013,0.932
+SWZ,Eswatini,Medium,SSA,2013,0.546
+SYC,Seychelles,High,SSA,2013,0.787
+SYR,Syrian Arab Republic,Medium,AS,2013,0.573
+TCD,Chad,Low,SSA,2013,0.386
+TGO,Togo,Low,SSA,2013,0.499
+THA,Thailand,Very High,EAP,2013,0.747
+TJK,Tajikistan,Medium,ECA,2013,0.656
+TKM,Turkmenistan,High,ECA,2013,0.73
+TLS,Timor-Leste,Medium,EAP,2013,0.63
+TON,Tonga,High,EAP,2013,0.725
+TTO,Trinidad and Tobago,Very High,LAC,2013,0.806
+TUN,Tunisia,High,AS,2013,0.727
+TUR,Turkey,Very High,ECA,2013,0.799
+TUV,Tuvalu,Medium,EAP,2013,0.628
+TZA,Tanzania,Low,SSA,2013,0.51
+UGA,Uganda,Low,SSA,2013,0.509
+UKR,Ukraine,High,ECA,2013,0.773
+URY,Uruguay,Very High,LAC,2013,0.805
+USA,United States,Very High,,2013,0.917
+UZB,Uzbekistan,High,ECA,2013,0.693
+VCT,Saint Vincent and the Grenadines,High,LAC,2013,0.743
+VEN,Venezuela,Medium,LAC,2013,0.774
+VNM,Viet Nam,High,EAP,2013,0.676
+VUT,Vanuatu,Medium,EAP,2013,0.593
+WSM,Samoa,High,EAP,2013,0.71
+YEM,Yemen,Low,AS,2013,0.513
+ZAF,South Africa,High,SSA,2013,0.704
+ZMB,Zambia,Medium,SSA,2013,0.554
+ZWE,Zimbabwe,Medium,SSA,2013,0.567
+AFG,Afghanistan,Low,SA,2014,0.479
+AGO,Angola,Medium,SSA,2014,0.563
+ALB,Albania,High,ECA,2014,0.792
+AND,Andorra,Very High,,2014,0.871
+ARE,United Arab Emirates,Very High,AS,2014,0.859
+ARG,Argentina,Very High,LAC,2014,0.846
+ARM,Armenia,High,ECA,2014,0.764
+ATG,Antigua and Barbuda,High,LAC,2014,0.789
+AUS,Australia,Very High,,2014,0.931
+AUT,Austria,Very High,,2014,0.909
+AZE,Azerbaijan,High,ECA,2014,0.745
+BDI,Burundi,Low,SSA,2014,0.426
+BEL,Belgium,Very High,,2014,0.921
+BEN,Benin,Low,SSA,2014,0.524
+BFA,Burkina Faso,Low,SSA,2014,0.408
+BGD,Bangladesh,Medium,SA,2014,0.583
+BGR,Bulgaria,High,,2014,0.807
+BHR,Bahrain,Very High,AS,2014,0.83
+BHS,Bahamas,Very High,LAC,2014,0.82
+BIH,Bosnia and Herzegovina,High,ECA,2014,0.756
+BLR,Belarus,Very High,ECA,2014,0.812
+BLZ,Belize,Medium,LAC,2014,0.709
+BOL,Bolivia,Medium,LAC,2014,0.684
+BRA,Brazil,High,LAC,2014,0.754
+BRB,Barbados,High,LAC,2014,0.789
+BRN,Brunei,Very High,EAP,2014,0.837
+BTN,Bhutan,Medium,SA,2014,0.617
+BWA,Botswana,Medium,SSA,2014,0.696
+CAF,Central African Republic,Low,SSA,2014,0.37
+CAN,Canada,Very High,,2014,0.925
+CHE,Switzerland,Very High,,2014,0.952
+CHL,Chile,Very High,LAC,2014,0.841
+CHN,China,High,EAP,2014,0.725
+CIV,Ivory Coast,Medium,SSA,2014,0.502
+CMR,Cameroon,Medium,SSA,2014,0.551
+COD,The Democratic Republic of the Congo,Low,SSA,2014,0.455
+COG,Congo,Medium,SSA,2014,0.589
+COL,Colombia,High,LAC,2014,0.75
+COM,Comoros,Medium,SSA,2014,0.54
+CPV,Cabo Verde,Medium,SSA,2014,0.667
+CRI,Costa Rica,Very High,LAC,2014,0.796
+CUB,Cuba,High,LAC,2014,0.771
+CYP,Cyprus,Very High,,2014,0.865
+CZE,Czechia,Very High,,2014,0.887
+DEU,Germany,Very High,,2014,0.937
+DJI,Djibouti,Low,AS,2014,0.488
+DMA,Dominica,High,LAC,2014,0.705
+DNK,Denmark,Very High,,2014,0.932
+DOM,Dominican Republic,High,LAC,2014,0.728
+DZA,Algeria,High,AS,2014,0.735
+ECU,Ecuador,High,LAC,2014,0.76
+EGY,Egypt,High,AS,2014,0.699
+ERI,Eritrea,Low,SSA,2014,0.502
+ESP,Spain,Very High,,2014,0.884
+EST,Estonia,Very High,,2014,0.879
+ETH,Ethiopia,Low,SSA,2014,0.45
+FIN,Finland,Very High,,2014,0.927
+FJI,Fiji,High,EAP,2014,0.729
+FRA,France,Very High,,2014,0.892
+FSM,Micronesia,Medium,EAP,2014,0.625
+GAB,Gabon,High,SSA,2014,0.694
+GBR,United Kingdom,Very High,,2014,0.924
+GEO,Georgia,Very High,ECA,2014,0.784
+GHA,Ghana,Medium,SSA,2014,0.6
+GIN,Guinea,Low,SSA,2014,0.435
+GMB,Gambia,Low,SSA,2014,0.473
+GNB,Guinea-Bissau,Low,SSA,2014,0.466
+GNQ,Equatorial Guinea,Medium,SSA,2014,0.598
+GRC,Greece,Very High,,2014,0.879
+GRD,Grenada,High,LAC,2014,0.787
+GTM,Guatemala,Medium,LAC,2014,0.637
+GUY,Guyana,High,LAC,2014,0.681
+HKG,Hong Kong,Very High,,2014,0.93
+HND,Honduras,Medium,LAC,2014,0.606
+HRV,Croatia,Very High,,2014,0.841
+HTI,Haiti,Low,LAC,2014,0.525
+HUN,Hungary,Very High,,2014,0.838
+IDN,Indonesia,High,EAP,2014,0.687
+IND,India,Medium,SA,2014,0.619
+IRL,Ireland,Very High,,2014,0.914
+IRN,Iran,High,SA,2014,0.773
+IRQ,Iraq,Medium,AS,2014,0.67
+ISL,Iceland,Very High,,2014,0.938
+ISR,Israel,Very High,,2014,0.908
+ITA,Italy,Very High,,2014,0.883
+JAM,Jamaica,High,LAC,2014,0.714
+JOR,Jordan,High,AS,2014,0.719
+JPN,Japan,Very High,,2014,0.914
+KAZ,Kazakhstan,Very High,ECA,2014,0.799
+KEN,Kenya,Medium,SSA,2014,0.558
+KGZ,Kyrgyzstan,Medium,ECA,2014,0.688
+KHM,Cambodia,Medium,EAP,2014,0.569
+KIR,Kiribati,Medium,EAP,2014,0.61
+KNA,Saint Kitts and Nevis,High,LAC,2014,0.772
+KOR,South Korea,Very High,,2014,0.906
+KWT,Kuwait,Very High,AS,2014,0.823
+LAO,Lao,Medium,EAP,2014,0.592
+LBN,Lebanon,High,AS,2014,0.75
+LBR,Liberia,Low,SSA,2014,0.472
+LBY,Libya,High,AS,2014,0.699
+LCA,Saint Lucia,High,LAC,2014,0.735
+LIE,Liechtenstein,Very High,,2014,0.92
+LKA,Sri Lanka,High,SA,2014,0.76
+LSO,Lesotho,Low,SSA,2014,0.496
+LTU,Lithuania,Very High,,2014,0.861
+LUX,Luxembourg,Very High,,2014,0.926
+LVA,Latvia,Very High,,2014,0.846
+MAR,Morocco,Medium,AS,2014,0.644
+MCO,Monaco,,,2014,
+MDA,Moldova,High,ECA,2014,0.75
+MDG,Madagascar,Low,SSA,2014,0.502
+MDV,Maldives,High,SA,2014,0.728
+MEX,Mexico,High,LAC,2014,0.764
+MHL,Marshall Islands,Medium,EAP,2014,0.633
+MKD,North Macedonia,High,ECA,2014,0.755
+MLI,Mali,Low,SSA,2014,0.415
+MLT,Malta,Very High,,2014,0.881
+MMR,Myanmar,Medium,EAP,2014,0.553
+MNE,Montenegro,Very High,ECA,2014,0.819
+MNG,Mongolia,High,EAP,2014,0.729
+MOZ,Mozambique,Low,SSA,2014,0.433
+MRT,Mauritania,Medium,SSA,2014,0.537
+MUS,Mauritius,Very High,SSA,2014,0.793
+MWI,Malawi,Low,SSA,2014,0.487
+MYS,Malaysia,Very High,EAP,2014,0.792
+NAM,Namibia,Medium,SSA,2014,0.621
+NER,Niger,Low,SSA,2014,0.37
+NGA,Nigeria,Low,SSA,2014,0.512
+NIC,Nicaragua,Medium,LAC,2014,0.641
+NLD,Netherlands,Very High,,2014,0.931
+NOR,Norway,Very High,,2014,0.952
+NPL,Nepal,Medium,SA,2014,0.576
+NRU,Nauru,,EAP,2014,
+NZL,New Zealand,Very High,,2014,0.93
+OMN,Oman,Very High,AS,2014,0.814
+PAK,Pakistan,Low,SA,2014,0.527
+PAN,Panama,Very High,LAC,2014,0.794
+PER,Peru,High,LAC,2014,0.755
+PHL,Philippines,Medium,EAP,2014,0.696
+PLW,Palau,High,EAP,2014,0.779
+PNG,Papua New Guinea,Medium,EAP,2014,0.533
+POL,Poland,Very High,,2014,0.865
+PRK,North Korea,,EAP,2014,
+PRT,Portugal,Very High,,2014,0.848
+PRY,Paraguay,High,LAC,2014,0.716
+PSE,"Palestine, State of",High,AS,2014,0.698
+QAT,Qatar,Very High,AS,2014,0.839
+ROU,Romania,Very High,,2014,0.811
+RUS,Russian Federation,Very High,,2014,0.818
+RWA,Rwanda,Low,SSA,2014,0.513
+SAU,Saudi Arabia,Very High,AS,2014,0.852
+SDN,Sudan,Low,AS,2014,0.504
+SEN,Senegal,Low,SSA,2014,0.502
+SGP,Singapore,Very High,EAP,2014,0.928
+SLB,Solomon Islands,Medium,EAP,2014,0.558
+SLE,Sierra Leone,Low,SSA,2014,0.461
+SLV,El Salvador,Medium,LAC,2014,0.666
+SMR,San Marino,Very High,,2014,
+SOM,Somalia,,AS,2014,
+SRB,Serbia,Very High,ECA,2014,0.788
+SSD,South Sudan,Low,SSA,2014,0.41
+STP,Sao Tome and Principe,Medium,SSA,2014,0.584
+SUR,Suriname,High,LAC,2014,0.736
+SVK,Slovakia,Very High,,2014,0.849
+SVN,Slovenia,Very High,,2014,0.902
+SWE,Sweden,Very High,,2014,0.935
+SWZ,Eswatini,Medium,SSA,2014,0.559
+SYC,Seychelles,High,SSA,2014,0.796
+SYR,Syrian Arab Republic,Medium,AS,2014,0.553
+TCD,Chad,Low,SSA,2014,0.393
+TGO,Togo,Low,SSA,2014,0.505
+THA,Thailand,Very High,EAP,2014,0.778
+TJK,Tajikistan,Medium,ECA,2014,0.656
+TKM,Turkmenistan,High,ECA,2014,0.734
+TLS,Timor-Leste,Medium,EAP,2014,0.622
+TON,Tonga,High,EAP,2014,0.727
+TTO,Trinidad and Tobago,Very High,LAC,2014,0.809
+TUN,Tunisia,High,AS,2014,0.73
+TUR,Turkey,Very High,ECA,2014,0.809
+TUV,Tuvalu,Medium,EAP,2014,0.627
+TZA,Tanzania,Low,SSA,2014,0.515
+UGA,Uganda,Low,SSA,2014,0.512
+UKR,Ukraine,High,ECA,2014,0.773
+URY,Uruguay,Very High,LAC,2014,0.808
+USA,United States,Very High,,2014,0.919
+UZB,Uzbekistan,High,ECA,2014,0.698
+VCT,Saint Vincent and the Grenadines,High,LAC,2014,0.752
+VEN,Venezuela,Medium,LAC,2014,0.77
+VNM,Viet Nam,High,EAP,2014,0.68
+VUT,Vanuatu,Medium,EAP,2014,0.595
+WSM,Samoa,High,EAP,2014,0.711
+YEM,Yemen,Low,AS,2014,0.505
+ZAF,South Africa,High,SSA,2014,0.712
+ZMB,Zambia,Medium,SSA,2014,0.557
+ZWE,Zimbabwe,Medium,SSA,2014,0.576
+AFG,Afghanistan,Low,SA,2015,0.478
+AGO,Angola,Medium,SSA,2015,0.582
+ALB,Albania,High,ECA,2015,0.795
+AND,Andorra,Very High,,2015,0.867
+ARE,United Arab Emirates,Very High,AS,2015,0.865
+ARG,Argentina,Very High,LAC,2015,0.848
+ARM,Armenia,High,ECA,2015,0.766
+ATG,Antigua and Barbuda,High,LAC,2015,0.791
+AUS,Australia,Very High,,2015,0.933
+AUT,Austria,Very High,,2015,0.91
+AZE,Azerbaijan,High,ECA,2015,0.748
+BDI,Burundi,Low,SSA,2015,0.428
+BEL,Belgium,Very High,,2015,0.924
+BEN,Benin,Low,SSA,2015,0.529
+BFA,Burkina Faso,Low,SSA,2015,0.418
+BGD,Bangladesh,Medium,SA,2015,0.602
+BGR,Bulgaria,High,,2015,0.809
+BHR,Bahrain,Very High,AS,2015,0.858
+BHS,Bahamas,Very High,LAC,2015,0.82
+BIH,Bosnia and Herzegovina,High,ECA,2015,0.761
+BLR,Belarus,Very High,ECA,2015,0.812
+BLZ,Belize,Medium,LAC,2015,0.708
+BOL,Bolivia,Medium,LAC,2015,0.69
+BRA,Brazil,High,LAC,2015,0.753
+BRB,Barbados,High,LAC,2015,0.791
+BRN,Brunei,Very High,EAP,2015,0.836
+BTN,Bhutan,Medium,SA,2015,0.627
+BWA,Botswana,Medium,SSA,2015,0.702
+CAF,Central African Republic,Low,SSA,2015,0.384
+CAN,Canada,Very High,,2015,0.926
+CHE,Switzerland,Very High,,2015,0.954
+CHL,Chile,Very High,LAC,2015,0.846
+CHN,China,High,EAP,2015,0.733
+CIV,Ivory Coast,Medium,SSA,2015,0.513
+CMR,Cameroon,Medium,SSA,2015,0.56
+COD,The Democratic Republic of the Congo,Low,SSA,2015,0.463
+COG,Congo,Medium,SSA,2015,0.59
+COL,Colombia,High,LAC,2015,0.754
+COM,Comoros,Medium,SSA,2015,0.544
+CPV,Cabo Verde,Medium,SSA,2015,0.663
+CRI,Costa Rica,Very High,LAC,2015,0.798
+CUB,Cuba,High,LAC,2015,0.773
+CYP,Cyprus,Very High,,2015,0.871
+CZE,Czechia,Very High,,2015,0.891
+DEU,Germany,Very High,,2015,0.938
+DJI,Djibouti,Low,AS,2015,0.493
+DMA,Dominica,High,LAC,2015,0.7
+DNK,Denmark,Very High,,2015,0.936
+DOM,Dominican Republic,High,LAC,2015,0.736
+DZA,Algeria,High,AS,2015,0.74
+ECU,Ecuador,High,LAC,2015,0.765
+EGY,Egypt,High,AS,2015,0.706
+ERI,Eritrea,Low,SSA,2015,0.483
+ESP,Spain,Very High,,2015,0.889
+EST,Estonia,Very High,,2015,0.882
+ETH,Ethiopia,Low,SSA,2015,0.46
+FIN,Finland,Very High,,2015,0.93
+FJI,Fiji,High,EAP,2015,0.729
+FRA,France,Very High,,2015,0.892
+FSM,Micronesia,Medium,EAP,2015,0.626
+GAB,Gabon,High,SSA,2015,0.699
+GBR,United Kingdom,Very High,,2015,0.924
+GEO,Georgia,Very High,ECA,2015,0.79
+GHA,Ghana,Medium,SSA,2015,0.607
+GIN,Guinea,Low,SSA,2015,0.44
+GMB,Gambia,Low,SSA,2015,0.478
+GNB,Guinea-Bissau,Low,SSA,2015,0.472
+GNQ,Equatorial Guinea,Medium,SSA,2015,0.603
+GRC,Greece,Very High,,2015,0.88
+GRD,Grenada,High,LAC,2015,0.79
+GTM,Guatemala,Medium,LAC,2015,0.639
+GUY,Guyana,High,LAC,2015,0.684
+HKG,Hong Kong,Very High,,2015,0.935
+HND,Honduras,Medium,LAC,2015,0.613
+HRV,Croatia,Very High,,2015,0.843
+HTI,Haiti,Low,LAC,2015,0.529
+HUN,Hungary,Very High,,2015,0.838
+IDN,Indonesia,High,EAP,2015,0.695
+IND,India,Medium,SA,2015,0.629
+IRL,Ireland,Very High,,2015,0.925
+IRN,Iran,High,SA,2015,0.776
+IRQ,Iraq,Medium,AS,2015,0.675
+ISL,Iceland,Very High,,2015,0.945
+ISR,Israel,Very High,,2015,0.909
+ITA,Italy,Very High,,2015,0.882
+JAM,Jamaica,High,LAC,2015,0.713
+JOR,Jordan,High,AS,2015,0.718
+JPN,Japan,Very High,,2015,0.918
+KAZ,Kazakhstan,Very High,ECA,2015,0.805
+KEN,Kenya,Medium,SSA,2015,0.561
+KGZ,Kyrgyzstan,Medium,ECA,2015,0.69
+KHM,Cambodia,Medium,EAP,2015,0.574
+KIR,Kiribati,Medium,EAP,2015,0.622
+KNA,Saint Kitts and Nevis,High,LAC,2015,0.772
+KOR,South Korea,Very High,,2015,0.909
+KWT,Kuwait,Very High,AS,2015,0.83
+LAO,Lao,Medium,EAP,2015,0.599
+LBN,Lebanon,High,AS,2015,0.746
+LBR,Liberia,Low,SSA,2015,0.473
+LBY,Libya,High,AS,2015,0.699
+LCA,Saint Lucia,High,LAC,2015,0.737
+LIE,Liechtenstein,Very High,,2015,0.924
+LKA,Sri Lanka,High,SA,2015,0.764
+LSO,Lesotho,Low,SSA,2015,0.503
+LTU,Lithuania,Very High,,2015,0.862
+LUX,Luxembourg,Very High,,2015,0.915
+LVA,Latvia,Very High,,2015,0.85
+MAR,Morocco,Medium,AS,2015,0.654
+MCO,Monaco,,,2015,
+MDA,Moldova,High,ECA,2015,0.749
+MDG,Madagascar,Low,SSA,2015,0.504
+MDV,Maldives,High,SA,2015,0.736
+MEX,Mexico,High,LAC,2015,0.768
+MHL,Marshall Islands,Medium,EAP,2015,0.638
+MKD,North Macedonia,High,ECA,2015,0.762
+MLI,Mali,Low,SSA,2015,0.416
+MLT,Malta,Very High,,2015,0.889
+MMR,Myanmar,Medium,EAP,2015,0.562
+MNE,Montenegro,Very High,ECA,2015,0.822
+MNG,Mongolia,High,EAP,2015,0.732
+MOZ,Mozambique,Low,SSA,2015,0.44
+MRT,Mauritania,Medium,SSA,2015,0.544
+MUS,Mauritius,Very High,SSA,2015,0.795
+MWI,Malawi,Low,SSA,2015,0.491
+MYS,Malaysia,Very High,EAP,2015,0.797
+NAM,Namibia,Medium,SSA,2015,0.628
+NER,Niger,Low,SSA,2015,0.376
+NGA,Nigeria,Low,SSA,2015,0.516
+NIC,Nicaragua,Medium,LAC,2015,0.647
+NLD,Netherlands,Very High,,2015,0.932
+NOR,Norway,Very High,,2015,0.953
+NPL,Nepal,Medium,SA,2015,0.579
+NRU,Nauru,,EAP,2015,
+NZL,New Zealand,Very High,,2015,0.931
+OMN,Oman,Very High,AS,2015,0.823
+PAK,Pakistan,Low,SA,2015,0.534
+PAN,Panama,Very High,LAC,2015,0.8
+PER,Peru,High,LAC,2015,0.759
+PHL,Philippines,Medium,EAP,2015,0.698
+PLW,Palau,High,EAP,2015,0.78
+PNG,Papua New Guinea,Medium,EAP,2015,0.541
+POL,Poland,Very High,,2015,0.868
+PRK,North Korea,,EAP,2015,
+PRT,Portugal,Very High,,2015,0.85
+PRY,Paraguay,High,LAC,2015,0.723
+PSE,"Palestine, State of",High,AS,2015,0.71
+QAT,Qatar,Very High,AS,2015,0.846
+ROU,Romania,Very High,,2015,0.813
+RUS,Russian Federation,Very High,,2015,0.824
+RWA,Rwanda,Low,SSA,2015,0.515
+SAU,Saudi Arabia,Very High,AS,2015,0.859
+SDN,Sudan,Low,AS,2015,0.508
+SEN,Senegal,Low,SSA,2015,0.505
+SGP,Singapore,Very High,EAP,2015,0.93
+SLB,Solomon Islands,Medium,EAP,2015,0.559
+SLE,Sierra Leone,Low,SSA,2015,0.453
+SLV,El Salvador,Medium,LAC,2015,0.668
+SMR,San Marino,Very High,,2015,
+SOM,Somalia,,AS,2015,
+SRB,Serbia,Very High,ECA,2015,0.794
+SSD,South Sudan,Low,SSA,2015,0.412
+STP,Sao Tome and Principe,Medium,SSA,2015,0.596
+SUR,Suriname,High,LAC,2015,0.744
+SVK,Slovakia,Very High,,2015,0.851
+SVN,Slovenia,Very High,,2015,0.903
+SWE,Sweden,Very High,,2015,0.937
+SWZ,Eswatini,Medium,SSA,2015,0.575
+SYC,Seychelles,High,SSA,2015,0.796
+SYR,Syrian Arab Republic,Medium,AS,2015,0.556
+TCD,Chad,Low,SSA,2015,0.389
+TGO,Togo,Low,SSA,2015,0.514
+THA,Thailand,Very High,EAP,2015,0.781
+TJK,Tajikistan,Medium,ECA,2015,0.657
+TKM,Turkmenistan,High,ECA,2015,0.74
+TLS,Timor-Leste,Medium,EAP,2015,0.614
+TON,Tonga,High,EAP,2015,0.73
+TTO,Trinidad and Tobago,Very High,LAC,2015,0.816
+TUN,Tunisia,High,AS,2015,0.733
+TUR,Turkey,Very High,ECA,2015,0.817
+TUV,Tuvalu,Medium,EAP,2015,0.643
+TZA,Tanzania,Low,SSA,2015,0.52
+UGA,Uganda,Low,SSA,2015,0.517
+UKR,Ukraine,High,ECA,2015,0.774
+URY,Uruguay,Very High,LAC,2015,0.811
+USA,United States,Very High,,2015,0.92
+UZB,Uzbekistan,High,ECA,2015,0.701
+VCT,Saint Vincent and the Grenadines,High,LAC,2015,0.759
+VEN,Venezuela,Medium,LAC,2015,0.767
+VNM,Viet Nam,High,EAP,2015,0.684
+VUT,Vanuatu,Medium,EAP,2015,0.595
+WSM,Samoa,High,EAP,2015,0.716
+YEM,Yemen,Low,AS,2015,0.477
+ZAF,South Africa,High,SSA,2015,0.716
+ZMB,Zambia,Medium,SSA,2015,0.562
+ZWE,Zimbabwe,Medium,SSA,2015,0.582
+AFG,Afghanistan,Low,SA,2016,0.481
+AGO,Angola,Medium,SSA,2016,0.596
+ALB,Albania,High,ECA,2016,0.798
+AND,Andorra,Very High,,2016,0.871
+ARE,United Arab Emirates,Very High,AS,2016,0.87
+ARG,Argentina,Very High,LAC,2016,0.847
+ARM,Armenia,High,ECA,2016,0.765
+ATG,Antigua and Barbuda,High,LAC,2016,0.794
+AUS,Australia,Very High,,2016,0.935
+AUT,Austria,Very High,,2016,0.915
+AZE,Azerbaijan,High,ECA,2016,0.75
+BDI,Burundi,Low,SSA,2016,0.43
+BEL,Belgium,Very High,,2016,0.927
+BEN,Benin,Low,SSA,2016,0.53
+BFA,Burkina Faso,Low,SSA,2016,0.427
+BGD,Bangladesh,Medium,SA,2016,0.612
+BGR,Bulgaria,High,,2016,0.809
+BHR,Bahrain,Very High,AS,2016,0.865
+BHS,Bahamas,Very High,LAC,2016,0.823
+BIH,Bosnia and Herzegovina,High,ECA,2016,0.77
+BLR,Belarus,Very High,ECA,2016,0.813
+BLZ,Belize,Medium,LAC,2016,0.712
+BOL,Bolivia,Medium,LAC,2016,0.701
+BRA,Brazil,High,LAC,2016,0.755
+BRB,Barbados,High,LAC,2016,0.794
+BRN,Brunei,Very High,EAP,2016,0.835
+BTN,Bhutan,Medium,SA,2016,0.638
+BWA,Botswana,Medium,SSA,2016,0.713
+CAF,Central African Republic,Low,SSA,2016,0.391
+CAN,Canada,Very High,,2016,0.928
+CHE,Switzerland,Very High,,2016,0.956
+CHL,Chile,Very High,LAC,2016,0.85
+CHN,China,High,EAP,2016,0.74
+CIV,Ivory Coast,Medium,SSA,2016,0.524
+CMR,Cameroon,Medium,SSA,2016,0.564
+COD,The Democratic Republic of the Congo,Low,SSA,2016,0.472
+COG,Congo,Medium,SSA,2016,0.586
+COL,Colombia,High,LAC,2016,0.759
+COM,Comoros,Medium,SSA,2016,0.548
+CPV,Cabo Verde,Medium,SSA,2016,0.67
+CRI,Costa Rica,Very High,LAC,2016,0.803
+CUB,Cuba,High,LAC,2016,0.774
+CYP,Cyprus,Very High,,2016,0.877
+CZE,Czechia,Very High,,2016,0.895
+DEU,Germany,Very High,,2016,0.941
+DJI,Djibouti,Low,AS,2016,0.496
+DMA,Dominica,High,LAC,2016,0.709
+DNK,Denmark,Very High,,2016,0.943
+DOM,Dominican Republic,High,LAC,2016,0.755
+DZA,Algeria,High,AS,2016,0.743
+ECU,Ecuador,High,LAC,2016,0.762
+EGY,Egypt,High,AS,2016,0.713
+ERI,Eritrea,Low,SSA,2016,0.488
+ESP,Spain,Very High,,2016,0.895
+EST,Estonia,Very High,,2016,0.885
+ETH,Ethiopia,Low,SSA,2016,0.47
+FIN,Finland,Very High,,2016,0.931
+FJI,Fiji,High,EAP,2016,0.735
+FRA,France,Very High,,2016,0.895
+FSM,Micronesia,Medium,EAP,2016,0.629
+GAB,Gabon,High,SSA,2016,0.702
+GBR,United Kingdom,Very High,,2016,0.927
+GEO,Georgia,Very High,ECA,2016,0.794
+GHA,Ghana,Medium,SSA,2016,0.611
+GIN,Guinea,Low,SSA,2016,0.45
+GMB,Gambia,Low,SSA,2016,0.484
+GNB,Guinea-Bissau,Low,SSA,2016,0.478
+GNQ,Equatorial Guinea,Medium,SSA,2016,0.603
+GRC,Greece,Very High,,2016,0.877
+GRD,Grenada,High,LAC,2016,0.791
+GTM,Guatemala,Medium,LAC,2016,0.639
+GUY,Guyana,High,LAC,2016,0.691
+HKG,Hong Kong,Very High,,2016,0.938
+HND,Honduras,Medium,LAC,2016,0.618
+HRV,Croatia,Very High,,2016,0.848
+HTI,Haiti,Low,LAC,2016,0.532
+HUN,Hungary,Very High,,2016,0.843
+IDN,Indonesia,High,EAP,2016,0.699
+IND,India,Medium,SA,2016,0.639
+IRL,Ireland,Very High,,2016,0.929
+IRN,Iran,High,SA,2016,0.786
+IRQ,Iraq,Medium,AS,2016,0.679
+ISL,Iceland,Very High,,2016,0.948
+ISR,Israel,Very High,,2016,0.913
+ITA,Italy,Very High,,2016,0.887
+JAM,Jamaica,High,LAC,2016,0.712
+JOR,Jordan,High,AS,2016,0.718
+JPN,Japan,Very High,,2016,0.921
+KAZ,Kazakhstan,Very High,ECA,2016,0.805
+KEN,Kenya,Medium,SSA,2016,0.569
+KGZ,Kyrgyzstan,Medium,ECA,2016,0.693
+KHM,Cambodia,Medium,EAP,2016,0.581
+KIR,Kiribati,Medium,EAP,2016,0.617
+KNA,Saint Kitts and Nevis,High,LAC,2016,0.779
+KOR,South Korea,Very High,,2016,0.912
+KWT,Kuwait,Very High,AS,2016,0.833
+LAO,Lao,Medium,EAP,2016,0.604
+LBN,Lebanon,High,AS,2016,0.743
+LBR,Liberia,Low,SSA,2016,0.478
+LBY,Libya,High,AS,2016,0.696
+LCA,Saint Lucia,High,LAC,2016,0.744
+LIE,Liechtenstein,Very High,,2016,0.923
+LKA,Sri Lanka,High,SA,2016,0.767
+LSO,Lesotho,Low,SSA,2016,0.514
+LTU,Lithuania,Very High,,2016,0.868
+LUX,Luxembourg,Very High,,2016,0.923
+LVA,Latvia,Very High,,2016,0.855
+MAR,Morocco,Medium,AS,2016,0.661
+MCO,Monaco,,,2016,
+MDA,Moldova,High,ECA,2016,0.756
+MDG,Madagascar,Low,SSA,2016,0.505
+MDV,Maldives,High,SA,2016,0.741
+MEX,Mexico,High,LAC,2016,0.772
+MHL,Marshall Islands,Medium,EAP,2016,0.637
+MKD,North Macedonia,High,ECA,2016,0.767
+MLI,Mali,Low,SSA,2016,0.421
+MLT,Malta,Very High,,2016,0.891
+MMR,Myanmar,Medium,EAP,2016,0.572
+MNE,Montenegro,Very High,ECA,2016,0.824
+MNG,Mongolia,High,EAP,2016,0.733
+MOZ,Mozambique,Low,SSA,2016,0.443
+MRT,Mauritania,Medium,SSA,2016,0.541
+MUS,Mauritius,Very High,SSA,2016,0.801
+MWI,Malawi,Low,SSA,2016,0.498
+MYS,Malaysia,Very High,EAP,2016,0.803
+NAM,Namibia,Medium,SSA,2016,0.632
+NER,Niger,Low,SSA,2016,0.383
+NGA,Nigeria,Low,SSA,2016,0.521
+NIC,Nicaragua,Medium,LAC,2016,0.653
+NLD,Netherlands,Very High,,2016,0.933
+NOR,Norway,Very High,,2016,0.955
+NPL,Nepal,Medium,SA,2016,0.586
+NRU,Nauru,,EAP,2016,
+NZL,New Zealand,Very High,,2016,0.934
+OMN,Oman,Very High,AS,2016,0.833
+PAK,Pakistan,Low,SA,2016,0.541
+PAN,Panama,Very High,LAC,2016,0.805
+PER,Peru,High,LAC,2016,0.765
+PHL,Philippines,Medium,EAP,2016,0.7
+PLW,Palau,High,EAP,2016,0.778
+PNG,Papua New Guinea,Medium,EAP,2016,0.547
+POL,Poland,Very High,,2016,0.872
+PRK,North Korea,,EAP,2016,
+PRT,Portugal,Very High,,2016,0.853
+PRY,Paraguay,High,LAC,2016,0.721
+PSE,"Palestine, State of",High,AS,2016,0.715
+QAT,Qatar,Very High,AS,2016,0.85
+ROU,Romania,Very High,,2016,0.816
+RUS,Russian Federation,Very High,,2016,0.828
+RWA,Rwanda,Low,SSA,2016,0.524
+SAU,Saudi Arabia,Very High,AS,2016,0.864
+SDN,Sudan,Low,AS,2016,0.511
+SEN,Senegal,Low,SSA,2016,0.507
+SGP,Singapore,Very High,EAP,2016,0.934
+SLB,Solomon Islands,Medium,EAP,2016,0.56
+SLE,Sierra Leone,Low,SSA,2016,0.457
+SLV,El Salvador,Medium,LAC,2016,0.671
+SMR,San Marino,Very High,,2016,
+SOM,Somalia,,AS,2016,
+SRB,Serbia,Very High,ECA,2016,0.8
+SSD,South Sudan,Low,SSA,2016,0.402
+STP,Sao Tome and Principe,Medium,SSA,2016,0.603
+SUR,Suriname,High,LAC,2016,0.747
+SVK,Slovakia,Very High,,2016,0.854
+SVN,Slovenia,Very High,,2016,0.91
+SWE,Sweden,Very High,,2016,0.939
+SWZ,Eswatini,Medium,SSA,2016,0.586
+SYC,Seychelles,High,SSA,2016,0.796
+SYR,Syrian Arab Republic,Medium,AS,2016,0.56
+TCD,Chad,Low,SSA,2016,0.391
+TGO,Togo,Low,SSA,2016,0.518
+THA,Thailand,Very High,EAP,2016,0.785
+TJK,Tajikistan,Medium,ECA,2016,0.66
+TKM,Turkmenistan,High,ECA,2016,0.742
+TLS,Timor-Leste,Medium,EAP,2016,0.604
+TON,Tonga,High,EAP,2016,0.735
+TTO,Trinidad and Tobago,Very High,LAC,2016,0.815
+TUN,Tunisia,High,AS,2016,0.737
+TUR,Turkey,Very High,ECA,2016,0.823
+TUV,Tuvalu,Medium,EAP,2016,0.636
+TZA,Tanzania,Low,SSA,2016,0.524
+UGA,Uganda,Low,SSA,2016,0.519
+UKR,Ukraine,High,ECA,2016,0.779
+URY,Uruguay,Very High,LAC,2016,0.815
+USA,United States,Very High,,2016,0.922
+UZB,Uzbekistan,High,ECA,2016,0.709
+VCT,Saint Vincent and the Grenadines,High,LAC,2016,0.765
+VEN,Venezuela,Medium,LAC,2016,0.757
+VNM,Viet Nam,High,EAP,2016,0.688
+VUT,Vanuatu,Medium,EAP,2016,0.596
+WSM,Samoa,High,EAP,2016,0.717
+YEM,Yemen,Low,AS,2016,0.467
+ZAF,South Africa,High,SSA,2016,0.719
+ZMB,Zambia,Medium,SSA,2016,0.564
+ZWE,Zimbabwe,Medium,SSA,2016,0.588
+AFG,Afghanistan,Low,SA,2017,0.482
+AGO,Angola,Medium,SSA,2017,0.597
+ALB,Albania,High,ECA,2017,0.802
+AND,Andorra,Very High,,2017,0.868
+ARE,United Arab Emirates,Very High,AS,2017,0.897
+ARG,Argentina,Very High,LAC,2017,0.851
+ARM,Armenia,High,ECA,2017,0.768
+ATG,Antigua and Barbuda,High,LAC,2017,0.795
+AUS,Australia,Very High,,2017,0.937
+AUT,Austria,Very High,,2017,0.916
+AZE,Azerbaijan,High,ECA,2017,0.753
+BDI,Burundi,Low,SSA,2017,0.428
+BEL,Belgium,Very High,,2017,0.931
+BEN,Benin,Low,SSA,2017,0.53
+BFA,Burkina Faso,Low,SSA,2017,0.438
+BGD,Bangladesh,Medium,SA,2017,0.622
+BGR,Bulgaria,High,,2017,0.808
+BHR,Bahrain,Very High,AS,2017,0.869
+BHS,Bahamas,Very High,LAC,2017,0.825
+BIH,Bosnia and Herzegovina,High,ECA,2017,0.772
+BLR,Belarus,Very High,ECA,2017,0.817
+BLZ,Belize,Medium,LAC,2017,0.707
+BOL,Bolivia,Medium,LAC,2017,0.708
+BRA,Brazil,High,LAC,2017,0.759
+BRB,Barbados,High,LAC,2017,0.796
+BRN,Brunei,Very High,EAP,2017,0.834
+BTN,Bhutan,Medium,SA,2017,0.647
+BWA,Botswana,Medium,SSA,2017,0.722
+CAF,Central African Republic,Low,SSA,2017,0.398
+CAN,Canada,Very High,,2017,0.931
+CHE,Switzerland,Very High,,2017,0.957
+CHL,Chile,Very High,LAC,2017,0.853
+CHN,China,High,EAP,2017,0.747
+CIV,Ivory Coast,Medium,SSA,2017,0.534
+CMR,Cameroon,Medium,SSA,2017,0.571
+COD,The Democratic Republic of the Congo,Low,SSA,2017,0.475
+COG,Congo,Medium,SSA,2017,0.58
+COL,Colombia,High,LAC,2017,0.761
+COM,Comoros,Medium,SSA,2017,0.553
+CPV,Cabo Verde,Medium,SSA,2017,0.675
+CRI,Costa Rica,Very High,LAC,2017,0.807
+CUB,Cuba,High,LAC,2017,0.779
+CYP,Cyprus,Very High,,2017,0.887
+CZE,Czechia,Very High,,2017,0.897
+DEU,Germany,Very High,,2017,0.944
+DJI,Djibouti,Low,AS,2017,0.499
+DMA,Dominica,High,LAC,2017,0.692
+DNK,Denmark,Very High,,2017,0.944
+DOM,Dominican Republic,High,LAC,2017,0.757
+DZA,Algeria,High,AS,2017,0.744
+ECU,Ecuador,High,LAC,2017,0.762
+EGY,Egypt,High,AS,2017,0.721
+ERI,Eritrea,Low,SSA,2017,0.484
+ESP,Spain,Very High,,2017,0.897
+EST,Estonia,Very High,,2017,0.887
+ETH,Ethiopia,Low,SSA,2017,0.48
+FIN,Finland,Very High,,2017,0.934
+FJI,Fiji,High,EAP,2017,0.741
+FRA,France,Very High,,2017,0.898
+FSM,Micronesia,Medium,EAP,2017,0.632
+GAB,Gabon,High,SSA,2017,0.706
+GBR,United Kingdom,Very High,,2017,0.93
+GEO,Georgia,Very High,ECA,2017,0.8
+GHA,Ghana,Medium,SSA,2017,0.616
+GIN,Guinea,Low,SSA,2017,0.458
+GMB,Gambia,Low,SSA,2017,0.489
+GNB,Guinea-Bissau,Low,SSA,2017,0.481
+GNQ,Equatorial Guinea,Medium,SSA,2017,0.601
+GRC,Greece,Very High,,2017,0.88
+GRD,Grenada,High,LAC,2017,0.794
+GTM,Guatemala,Medium,LAC,2017,0.64
+GUY,Guyana,High,LAC,2017,0.695
+HKG,Hong Kong,Very High,,2017,0.944
+HND,Honduras,Medium,LAC,2017,0.617
+HRV,Croatia,Very High,,2017,0.852
+HTI,Haiti,Low,LAC,2017,0.539
+HUN,Hungary,Very High,,2017,0.845
+IDN,Indonesia,High,EAP,2017,0.704
+IND,India,Medium,SA,2017,0.644
+IRL,Ireland,Very High,,2017,0.934
+IRN,Iran,High,SA,2017,0.789
+IRQ,Iraq,Medium,AS,2017,0.685
+ISL,Iceland,Very High,,2017,0.954
+ISR,Israel,Very High,,2017,0.917
+ITA,Italy,Very High,,2017,0.888
+JAM,Jamaica,High,LAC,2017,0.715
+JOR,Jordan,High,AS,2017,0.718
+JPN,Japan,Very High,,2017,0.922
+KAZ,Kazakhstan,Very High,ECA,2017,0.811
+KEN,Kenya,Medium,SSA,2017,0.572
+KGZ,Kyrgyzstan,Medium,ECA,2017,0.696
+KHM,Cambodia,Medium,EAP,2017,0.586
+KIR,Kiribati,Medium,EAP,2017,0.621
+KNA,Saint Kitts and Nevis,High,LAC,2017,0.778
+KOR,South Korea,Very High,,2017,0.916
+KWT,Kuwait,Very High,AS,2017,0.835
+LAO,Lao,Medium,EAP,2017,0.607
+LBN,Lebanon,High,AS,2017,0.75
+LBR,Liberia,Low,SSA,2017,0.481
+LBY,Libya,High,AS,2017,0.714
+LCA,Saint Lucia,High,LAC,2017,0.744
+LIE,Liechtenstein,Very High,,2017,0.933
+LKA,Sri Lanka,High,SA,2017,0.771
+LSO,Lesotho,Low,SSA,2017,0.518
+LTU,Lithuania,Very High,,2017,0.876
+LUX,Luxembourg,Very High,,2017,0.919
+LVA,Latvia,Very High,,2017,0.86
+MAR,Morocco,Medium,AS,2017,0.67
+MCO,Monaco,,,2017,
+MDA,Moldova,High,ECA,2017,0.765
+MDG,Madagascar,Low,SSA,2017,0.507
+MDV,Maldives,High,SA,2017,0.746
+MEX,Mexico,High,LAC,2017,0.775
+MHL,Marshall Islands,Medium,EAP,2017,0.638
+MKD,North Macedonia,High,ECA,2017,0.773
+MLI,Mali,Low,SSA,2017,0.426
+MLT,Malta,Very High,,2017,0.901
+MMR,Myanmar,Medium,EAP,2017,0.58
+MNE,Montenegro,Very High,ECA,2017,0.83
+MNG,Mongolia,High,EAP,2017,0.732
+MOZ,Mozambique,Low,SSA,2017,0.445
+MRT,Mauritania,Medium,SSA,2017,0.545
+MUS,Mauritius,Very High,SSA,2017,0.805
+MWI,Malawi,Low,SSA,2017,0.505
+MYS,Malaysia,Very High,EAP,2017,0.805
+NAM,Namibia,Medium,SSA,2017,0.635
+NER,Niger,Low,SSA,2017,0.39
+NGA,Nigeria,Low,SSA,2017,0.526
+NIC,Nicaragua,Medium,LAC,2017,0.659
+NLD,Netherlands,Very High,,2017,0.937
+NOR,Norway,Very High,,2017,0.959
+NPL,Nepal,Medium,SA,2017,0.594
+NRU,Nauru,,EAP,2017,
+NZL,New Zealand,Very High,,2017,0.935
+OMN,Oman,Very High,AS,2017,0.831
+PAK,Pakistan,Low,SA,2017,0.543
+PAN,Panama,Very High,LAC,2017,0.811
+PER,Peru,High,LAC,2017,0.77
+PHL,Philippines,Medium,EAP,2017,0.704
+PLW,Palau,High,EAP,2017,0.775
+PNG,Papua New Guinea,Medium,EAP,2017,0.552
+POL,Poland,Very High,,2017,0.875
+PRK,North Korea,,EAP,2017,
+PRT,Portugal,Very High,,2017,0.859
+PRY,Paraguay,High,LAC,2017,0.724
+PSE,"Palestine, State of",High,AS,2017,0.719
+QAT,Qatar,Very High,AS,2017,0.849
+ROU,Romania,Very High,,2017,0.823
+RUS,Russian Federation,Very High,,2017,0.833
+RWA,Rwanda,Low,SSA,2017,0.526
+SAU,Saudi Arabia,Very High,AS,2017,0.86
+SDN,Sudan,Low,AS,2017,0.514
+SEN,Senegal,Low,SSA,2017,0.509
+SGP,Singapore,Very High,EAP,2017,0.935
+SLB,Solomon Islands,Medium,EAP,2017,0.564
+SLE,Sierra Leone,Low,SSA,2017,0.466
+SLV,El Salvador,Medium,LAC,2017,0.674
+SMR,San Marino,Very High,,2017,
+SOM,Somalia,,AS,2017,
+SRB,Serbia,Very High,ECA,2017,0.802
+SSD,South Sudan,Low,SSA,2017,0.395
+STP,Sao Tome and Principe,Medium,SSA,2017,0.612
+SUR,Suriname,High,LAC,2017,0.75
+SVK,Slovakia,Very High,,2017,0.856
+SVN,Slovenia,Very High,,2017,0.913
+SWE,Sweden,Very High,,2017,0.941
+SWZ,Eswatini,Medium,SSA,2017,0.596
+SYC,Seychelles,High,SSA,2017,0.796
+SYR,Syrian Arab Republic,Medium,AS,2017,0.572
+TCD,Chad,Low,SSA,2017,0.393
+TGO,Togo,Low,SSA,2017,0.524
+THA,Thailand,Very High,EAP,2017,0.79
+TJK,Tajikistan,Medium,ECA,2017,0.665
+TKM,Turkmenistan,High,ECA,2017,0.741
+TLS,Timor-Leste,Medium,EAP,2017,0.606
+TON,Tonga,High,EAP,2017,0.74
+TTO,Trinidad and Tobago,Very High,LAC,2017,0.817
+TUN,Tunisia,High,AS,2017,0.74
+TUR,Turkey,Very High,ECA,2017,0.833
+TUV,Tuvalu,Medium,EAP,2017,0.634
+TZA,Tanzania,Low,SSA,2017,0.528
+UGA,Uganda,Low,SSA,2017,0.52
+UKR,Ukraine,High,ECA,2017,0.782
+URY,Uruguay,Very High,LAC,2017,0.819
+USA,United States,Very High,,2017,0.924
+UZB,Uzbekistan,High,ECA,2017,0.715
+VCT,Saint Vincent and the Grenadines,High,LAC,2017,0.774
+VEN,Venezuela,Medium,LAC,2017,0.744
+VNM,Viet Nam,High,EAP,2017,0.692
+VUT,Vanuatu,Medium,EAP,2017,0.599
+WSM,Samoa,High,EAP,2017,0.716
+YEM,Yemen,Low,AS,2017,0.459
+ZAF,South Africa,High,SSA,2017,0.72
+ZMB,Zambia,Medium,SSA,2017,0.568
+ZWE,Zimbabwe,Medium,SSA,2017,0.594
+AFG,Afghanistan,Low,SA,2018,0.483
+AGO,Angola,Medium,SSA,2018,0.595
+ALB,Albania,High,ECA,2018,0.806
+AND,Andorra,Very High,,2018,0.872
+ARE,United Arab Emirates,Very High,AS,2018,0.909
+ARG,Argentina,Very High,LAC,2018,0.85
+ARM,Armenia,High,ECA,2018,0.771
+ATG,Antigua and Barbuda,High,LAC,2018,0.798
+AUS,Australia,Very High,,2018,0.941
+AUT,Austria,Very High,,2018,0.917
+AZE,Azerbaijan,High,ECA,2018,0.757
+BDI,Burundi,Low,SSA,2018,0.428
+BEL,Belgium,Very High,,2018,0.933
+BEN,Benin,Low,SSA,2018,0.53
+BFA,Burkina Faso,Low,SSA,2018,0.449
+BGD,Bangladesh,Medium,SA,2018,0.635
+BGR,Bulgaria,High,,2018,0.809
+BHR,Bahrain,Very High,AS,2018,0.879
+BHS,Bahamas,Very High,LAC,2018,0.827
+BIH,Bosnia and Herzegovina,High,ECA,2018,0.776
+BLR,Belarus,Very High,ECA,2018,0.818
+BLZ,Belize,Medium,LAC,2018,0.706
+BOL,Bolivia,Medium,LAC,2018,0.714
+BRA,Brazil,High,LAC,2018,0.764
+BRB,Barbados,High,LAC,2018,0.797
+BRN,Brunei,Very High,EAP,2018,0.83
+BTN,Bhutan,Medium,SA,2018,0.658
+BWA,Botswana,Medium,SSA,2018,0.716
+CAF,Central African Republic,Low,SSA,2018,0.405
+CAN,Canada,Very High,,2018,0.933
+CHE,Switzerland,Very High,,2018,0.959
+CHL,Chile,Very High,LAC,2018,0.856
+CHN,China,High,EAP,2018,0.755
+CIV,Ivory Coast,Medium,SSA,2018,0.542
+CMR,Cameroon,Medium,SSA,2018,0.577
+COD,The Democratic Republic of the Congo,Low,SSA,2018,0.48
+COG,Congo,Medium,SSA,2018,0.578
+COL,Colombia,High,LAC,2018,0.763
+COM,Comoros,Medium,SSA,2018,0.557
+CPV,Cabo Verde,Medium,SSA,2018,0.673
+CRI,Costa Rica,Very High,LAC,2018,0.811
+CUB,Cuba,High,LAC,2018,0.783
+CYP,Cyprus,Very High,,2018,0.892
+CZE,Czechia,Very High,,2018,0.894
+DEU,Germany,Very High,,2018,0.945
+DJI,Djibouti,Low,AS,2018,0.506
+DMA,Dominica,High,LAC,2018,0.726
+DNK,Denmark,Very High,,2018,0.942
+DOM,Dominican Republic,High,LAC,2018,0.764
+DZA,Algeria,High,AS,2018,0.745
+ECU,Ecuador,High,LAC,2018,0.762
+EGY,Egypt,High,AS,2018,0.729
+ERI,Eritrea,Low,SSA,2018,0.493
+ESP,Spain,Very High,,2018,0.901
+EST,Estonia,Very High,,2018,0.891
+ETH,Ethiopia,Low,SSA,2018,0.489
+FIN,Finland,Very High,,2018,0.936
+FJI,Fiji,High,EAP,2018,0.745
+FRA,France,Very High,,2018,0.901
+FSM,Micronesia,Medium,EAP,2018,0.633
+GAB,Gabon,High,SSA,2018,0.706
+GBR,United Kingdom,Very High,,2018,0.929
+GEO,Georgia,Very High,ECA,2018,0.804
+GHA,Ghana,Medium,SSA,2018,0.62
+GIN,Guinea,Low,SSA,2018,0.462
+GMB,Gambia,Low,SSA,2018,0.495
+GNB,Guinea-Bissau,Low,SSA,2018,0.482
+GNQ,Equatorial Guinea,Medium,SSA,2018,0.601
+GRC,Greece,Very High,,2018,0.886
+GRD,Grenada,High,LAC,2018,0.797
+GTM,Guatemala,Medium,LAC,2018,0.64
+GUY,Guyana,High,LAC,2018,0.701
+HKG,Hong Kong,Very High,,2018,0.949
+HND,Honduras,Medium,LAC,2018,0.617
+HRV,Croatia,Very High,,2018,0.856
+HTI,Haiti,Low,LAC,2018,0.541
+HUN,Hungary,Very High,,2018,0.849
+IDN,Indonesia,High,EAP,2018,0.71
+IND,India,Medium,SA,2018,0.645
+IRL,Ireland,Very High,,2018,0.937
+IRN,Iran,High,SA,2018,0.787
+IRQ,Iraq,Medium,AS,2018,0.692
+ISL,Iceland,Very High,,2018,0.959
+ISR,Israel,Very High,,2018,0.919
+ITA,Italy,Very High,,2018,0.893
+JAM,Jamaica,High,LAC,2018,0.716
+JOR,Jordan,High,AS,2018,0.723
+JPN,Japan,Very High,,2018,0.923
+KAZ,Kazakhstan,Very High,ECA,2018,0.814
+KEN,Kenya,Medium,SSA,2018,0.577
+KGZ,Kyrgyzstan,Medium,ECA,2018,0.698
+KHM,Cambodia,Medium,EAP,2018,0.591
+KIR,Kiribati,Medium,EAP,2018,0.622
+KNA,Saint Kitts and Nevis,High,LAC,2018,0.779
+KOR,South Korea,Very High,,2018,0.919
+KWT,Kuwait,Very High,AS,2018,0.836
+LAO,Lao,Medium,EAP,2018,0.607
+LBN,Lebanon,High,AS,2018,0.75
+LBR,Liberia,Low,SSA,2018,0.483
+LBY,Libya,High,AS,2018,0.722
+LCA,Saint Lucia,High,LAC,2018,0.746
+LIE,Liechtenstein,Very High,,2018,0.928
+LKA,Sri Lanka,High,SA,2018,0.776
+LSO,Lesotho,Low,SSA,2018,0.522
+LTU,Lithuania,Very High,,2018,0.88
+LUX,Luxembourg,Very High,,2018,0.922
+LVA,Latvia,Very High,,2018,0.866
+MAR,Morocco,Medium,AS,2018,0.676
+MCO,Monaco,,,2018,
+MDA,Moldova,High,ECA,2018,0.768
+MDG,Madagascar,Low,SSA,2018,0.507
+MDV,Maldives,High,SA,2018,0.75
+MEX,Mexico,High,LAC,2018,0.777
+MHL,Marshall Islands,Medium,EAP,2018,0.639
+MKD,North Macedonia,High,ECA,2018,0.779
+MLI,Mali,Low,SSA,2018,0.43
+MLT,Malta,Very High,,2018,0.91
+MMR,Myanmar,Medium,EAP,2018,0.59
+MNE,Montenegro,Very High,ECA,2018,0.834
+MNG,Mongolia,High,EAP,2018,0.743
+MOZ,Mozambique,Low,SSA,2018,0.451
+MRT,Mauritania,Medium,SSA,2018,0.556
+MUS,Mauritius,Very High,SSA,2018,0.811
+MWI,Malawi,Low,SSA,2018,0.51
+MYS,Malaysia,Very High,EAP,2018,0.807
+NAM,Namibia,Medium,SSA,2018,0.636
+NER,Niger,Low,SSA,2018,0.399
+NGA,Nigeria,Low,SSA,2018,0.531
+NIC,Nicaragua,Medium,LAC,2018,0.662
+NLD,Netherlands,Very High,,2018,0.939
+NOR,Norway,Very High,,2018,0.962
+NPL,Nepal,Medium,SA,2018,0.601
+NRU,Nauru,,EAP,2018,
+NZL,New Zealand,Very High,,2018,0.936
+OMN,Oman,Very High,AS,2018,0.834
+PAK,Pakistan,Low,SA,2018,0.545
+PAN,Panama,Very High,LAC,2018,0.814
+PER,Peru,High,LAC,2018,0.776
+PHL,Philippines,Medium,EAP,2018,0.71
+PLW,Palau,High,EAP,2018,0.778
+PNG,Papua New Guinea,Medium,EAP,2018,0.554
+POL,Poland,Very High,,2018,0.877
+PRK,North Korea,,EAP,2018,
+PRT,Portugal,Very High,,2018,0.86
+PRY,Paraguay,High,LAC,2018,0.727
+PSE,"Palestine, State of",High,AS,2018,0.723
+QAT,Qatar,Very High,AS,2018,0.853
+ROU,Romania,Very High,,2018,0.827
+RUS,Russian Federation,Very High,,2018,0.841
+RWA,Rwanda,Low,SSA,2018,0.528
+SAU,Saudi Arabia,Very High,AS,2018,0.865
+SDN,Sudan,Low,AS,2018,0.514
+SEN,Senegal,Low,SSA,2018,0.512
+SGP,Singapore,Very High,EAP,2018,0.94
+SLB,Solomon Islands,Medium,EAP,2018,0.566
+SLE,Sierra Leone,Low,SSA,2018,0.47
+SLV,El Salvador,Medium,LAC,2018,0.68
+SMR,San Marino,Very High,,2018,0.86
+SOM,Somalia,,AS,2018,
+SRB,Serbia,Very High,ECA,2018,0.808
+SSD,South Sudan,Low,SSA,2018,0.395
+STP,Sao Tome and Principe,Medium,SSA,2018,0.617
+SUR,Suriname,High,LAC,2018,0.755
+SVK,Slovakia,Very High,,2018,0.859
+SVN,Slovenia,Very High,,2018,0.917
+SWE,Sweden,Very High,,2018,0.942
+SWZ,Eswatini,Medium,SSA,2018,0.607
+SYC,Seychelles,High,SSA,2018,0.8
+SYR,Syrian Arab Republic,Medium,AS,2018,0.58
+TCD,Chad,Low,SSA,2018,0.398
+TGO,Togo,Low,SSA,2018,0.528
+THA,Thailand,Very High,EAP,2018,0.795
+TJK,Tajikistan,Medium,ECA,2018,0.671
+TKM,Turkmenistan,High,ECA,2018,0.746
+TLS,Timor-Leste,Medium,EAP,2018,0.605
+TON,Tonga,High,EAP,2018,0.742
+TTO,Trinidad and Tobago,Very High,LAC,2018,0.815
+TUN,Tunisia,High,AS,2018,0.743
+TUR,Turkey,Very High,ECA,2018,0.839
+TUV,Tuvalu,Medium,EAP,2018,0.642
+TZA,Tanzania,Low,SSA,2018,0.538
+UGA,Uganda,Low,SSA,2018,0.522
+UKR,Ukraine,High,ECA,2018,0.783
+URY,Uruguay,Very High,LAC,2018,0.819
+USA,United States,Very High,,2018,0.927
+UZB,Uzbekistan,High,ECA,2018,0.72
+VCT,Saint Vincent and the Grenadines,High,LAC,2018,0.775
+VEN,Venezuela,Medium,LAC,2018,0.738
+VNM,Viet Nam,High,EAP,2018,0.697
+VUT,Vanuatu,Medium,EAP,2018,0.603
+WSM,Samoa,High,EAP,2018,0.716
+YEM,Yemen,Low,AS,2018,0.459
+ZAF,South Africa,High,SSA,2018,0.726
+ZMB,Zambia,Medium,SSA,2018,0.572
+ZWE,Zimbabwe,Medium,SSA,2018,0.602
+AFG,Afghanistan,Low,SA,2019,0.488
+AGO,Angola,Medium,SSA,2019,0.595
+ALB,Albania,High,ECA,2019,0.81
+AND,Andorra,Very High,,2019,0.873
+ARE,United Arab Emirates,Very High,AS,2019,0.92
+ARG,Argentina,Very High,LAC,2019,0.852
+ARM,Armenia,High,ECA,2019,0.778
+ATG,Antigua and Barbuda,High,LAC,2019,0.8
+AUS,Australia,Very High,,2019,0.941
+AUT,Austria,Very High,,2019,0.919
+AZE,Azerbaijan,High,ECA,2019,0.761
+BDI,Burundi,Low,SSA,2019,0.431
+BEL,Belgium,Very High,,2019,0.936
+BEN,Benin,Low,SSA,2019,0.53
+BFA,Burkina Faso,Low,SSA,2019,0.452
+BGD,Bangladesh,Medium,SA,2019,0.644
+BGR,Bulgaria,High,,2019,0.81
+BHR,Bahrain,Very High,AS,2019,0.882
+BHS,Bahamas,Very High,LAC,2019,0.816
+BIH,Bosnia and Herzegovina,High,ECA,2019,0.783
+BLR,Belarus,Very High,ECA,2019,0.817
+BLZ,Belize,Medium,LAC,2019,0.705
+BOL,Bolivia,Medium,LAC,2019,0.717
+BRA,Brazil,High,LAC,2019,0.766
+BRB,Barbados,High,LAC,2019,0.799
+BRN,Brunei,Very High,EAP,2019,0.83
+BTN,Bhutan,Medium,SA,2019,0.671
+BWA,Botswana,Medium,SSA,2019,0.717
+CAF,Central African Republic,Low,SSA,2019,0.411
+CAN,Canada,Very High,,2019,0.937
+CHE,Switzerland,Very High,,2019,0.962
+CHL,Chile,Very High,LAC,2019,0.861
+CHN,China,High,EAP,2019,0.762
+CIV,Ivory Coast,Medium,SSA,2019,0.55
+CMR,Cameroon,Medium,SSA,2019,0.583
+COD,The Democratic Republic of the Congo,Low,SSA,2019,0.482
+COG,Congo,Medium,SSA,2019,0.57
+COL,Colombia,High,LAC,2019,0.768
+COM,Comoros,Medium,SSA,2019,0.56
+CPV,Cabo Verde,Medium,SSA,2019,0.676
+CRI,Costa Rica,Very High,LAC,2019,0.819
+CUB,Cuba,High,LAC,2019,0.788
+CYP,Cyprus,Very High,,2019,0.897
+CZE,Czechia,Very High,,2019,0.897
+DEU,Germany,Very High,,2019,0.948
+DJI,Djibouti,Low,AS,2019,0.512
+DMA,Dominica,High,LAC,2019,0.729
+DNK,Denmark,Very High,,2019,0.946
+DOM,Dominican Republic,High,LAC,2019,0.771
+DZA,Algeria,High,AS,2019,0.748
+ECU,Ecuador,High,LAC,2019,0.76
+EGY,Egypt,High,AS,2019,0.735
+ERI,Eritrea,Low,SSA,2019,0.495
+ESP,Spain,Very High,,2019,0.908
+EST,Estonia,Very High,,2019,0.896
+ETH,Ethiopia,Low,SSA,2019,0.498
+FIN,Finland,Very High,,2019,0.939
+FJI,Fiji,High,EAP,2019,0.746
+FRA,France,Very High,,2019,0.905
+FSM,Micronesia,Medium,EAP,2019,0.633
+GAB,Gabon,High,SSA,2019,0.709
+GBR,United Kingdom,Very High,,2019,0.935
+GEO,Georgia,Very High,ECA,2019,0.81
+GHA,Ghana,Medium,SSA,2019,0.631
+GIN,Guinea,Low,SSA,2019,0.467
+GMB,Gambia,Low,SSA,2019,0.503
+GNB,Guinea-Bissau,Low,SSA,2019,0.49
+GNQ,Equatorial Guinea,Medium,SSA,2019,0.605
+GRC,Greece,Very High,,2019,0.889
+GRD,Grenada,High,LAC,2019,0.8
+GTM,Guatemala,Medium,LAC,2019,0.642
+GUY,Guyana,High,LAC,2019,0.708
+HKG,Hong Kong,Very High,,2019,0.952
+HND,Honduras,Medium,LAC,2019,0.632
+HRV,Croatia,Very High,,2019,0.861
+HTI,Haiti,Low,LAC,2019,0.543
+HUN,Hungary,Very High,,2019,0.853
+IDN,Indonesia,High,EAP,2019,0.716
+IND,India,Medium,SA,2019,0.645
+IRL,Ireland,Very High,,2019,0.942
+IRN,Iran,High,SA,2019,0.783
+IRQ,Iraq,Medium,AS,2019,0.696
+ISL,Iceland,Very High,,2019,0.96
+ISR,Israel,Very High,,2019,0.921
+ITA,Italy,Very High,,2019,0.897
+JAM,Jamaica,High,LAC,2019,0.719
+JOR,Jordan,High,AS,2019,0.727
+JPN,Japan,Very High,,2019,0.924
+KAZ,Kazakhstan,Very High,ECA,2019,0.819
+KEN,Kenya,Medium,SSA,2019,0.581
+KGZ,Kyrgyzstan,Medium,ECA,2019,0.698
+KHM,Cambodia,Medium,EAP,2019,0.598
+KIR,Kiribati,Medium,EAP,2019,0.63
+KNA,Saint Kitts and Nevis,High,LAC,2019,0.783
+KOR,South Korea,Very High,,2019,0.923
+KWT,Kuwait,Very High,AS,2019,0.839
+LAO,Lao,Medium,EAP,2019,0.61
+LBN,Lebanon,High,AS,2019,0.745
+LBR,Liberia,Low,SSA,2019,0.484
+LBY,Libya,High,AS,2019,0.722
+LCA,Saint Lucia,High,LAC,2019,0.735
+LIE,Liechtenstein,Very High,,2019,0.94
+LKA,Sri Lanka,High,SA,2019,0.778
+LSO,Lesotho,Low,SSA,2019,0.524
+LTU,Lithuania,Very High,,2019,0.884
+LUX,Luxembourg,Very High,,2019,0.927
+LVA,Latvia,Very High,,2019,0.871
+MAR,Morocco,Medium,AS,2019,0.682
+MCO,Monaco,,,2019,
+MDA,Moldova,High,ECA,2019,0.774
+MDG,Madagascar,Low,SSA,2019,0.51
+MDV,Maldives,High,SA,2019,0.755
+MEX,Mexico,High,LAC,2019,0.779
+MHL,Marshall Islands,Medium,EAP,2019,0.64
+MKD,North Macedonia,High,ECA,2019,0.784
+MLI,Mali,Low,SSA,2019,0.433
+MLT,Malta,Very High,,2019,0.915
+MMR,Myanmar,Medium,EAP,2019,0.598
+MNE,Montenegro,Very High,ECA,2019,0.837
+MNG,Mongolia,High,EAP,2019,0.746
+MOZ,Mozambique,Low,SSA,2019,0.456
+MRT,Mauritania,Medium,SSA,2019,0.563
+MUS,Mauritius,Very High,SSA,2019,0.817
+MWI,Malawi,Low,SSA,2019,0.519
+MYS,Malaysia,Very High,EAP,2019,0.81
+NAM,Namibia,Medium,SSA,2019,0.639
+NER,Niger,Low,SSA,2019,0.406
+NGA,Nigeria,Low,SSA,2019,0.538
+NIC,Nicaragua,Medium,LAC,2019,0.664
+NLD,Netherlands,Very High,,2019,0.943
+NOR,Norway,Very High,,2019,0.961
+NPL,Nepal,Medium,SA,2019,0.611
+NRU,Nauru,,EAP,2019,
+NZL,New Zealand,Very High,,2019,0.937
+OMN,Oman,Very High,AS,2019,0.839
+PAK,Pakistan,Low,SA,2019,0.546
+PAN,Panama,Very High,LAC,2019,0.817
+PER,Peru,High,LAC,2019,0.78
+PHL,Philippines,Medium,EAP,2019,0.718
+PLW,Palau,High,EAP,2019,0.776
+PNG,Papua New Guinea,Medium,EAP,2019,0.56
+POL,Poland,Very High,,2019,0.881
+PRK,North Korea,,EAP,2019,
+PRT,Portugal,Very High,,2019,0.867
+PRY,Paraguay,High,LAC,2019,0.732
+PSE,"Palestine, State of",High,AS,2019,0.727
+QAT,Qatar,Very High,AS,2019,0.859
+ROU,Romania,Very High,,2019,0.832
+RUS,Russian Federation,Very High,,2019,0.845
+RWA,Rwanda,Low,SSA,2019,0.534
+SAU,Saudi Arabia,Very High,AS,2019,0.873
+SDN,Sudan,Low,AS,2019,0.514
+SEN,Senegal,Low,SSA,2019,0.513
+SGP,Singapore,Very High,EAP,2019,0.943
+SLB,Solomon Islands,Medium,EAP,2019,0.567
+SLE,Sierra Leone,Low,SSA,2019,0.48
+SLV,El Salvador,Medium,LAC,2019,0.683
+SMR,San Marino,Very High,,2019,0.862
+SOM,Somalia,,AS,2019,
+SRB,Serbia,Very High,ECA,2019,0.811
+SSD,South Sudan,Low,SSA,2019,0.393
+STP,Sao Tome and Principe,Medium,SSA,2019,0.622
+SUR,Suriname,High,LAC,2019,0.755
+SVK,Slovakia,Very High,,2019,0.862
+SVN,Slovenia,Very High,,2019,0.921
+SWE,Sweden,Very High,,2019,0.947
+SWZ,Eswatini,Medium,SSA,2019,0.615
+SYC,Seychelles,High,SSA,2019,0.802
+SYR,Syrian Arab Republic,Medium,AS,2019,0.584
+TCD,Chad,Low,SSA,2019,0.403
+TGO,Togo,Low,SSA,2019,0.535
+THA,Thailand,Very High,EAP,2019,0.804
+TJK,Tajikistan,Medium,ECA,2019,0.676
+TKM,Turkmenistan,High,ECA,2019,0.742
+TLS,Timor-Leste,Medium,EAP,2019,0.614
+TON,Tonga,High,EAP,2019,0.744
+TTO,Trinidad and Tobago,Very High,LAC,2019,0.821
+TUN,Tunisia,High,AS,2019,0.745
+TUR,Turkey,Very High,ECA,2019,0.842
+TUV,Tuvalu,Medium,EAP,2019,0.635
+TZA,Tanzania,Low,SSA,2019,0.548
+UGA,Uganda,Low,SSA,2019,0.525
+UKR,Ukraine,High,ECA,2019,0.786
+URY,Uruguay,Very High,LAC,2019,0.821
+USA,United States,Very High,,2019,0.93
+UZB,Uzbekistan,High,ECA,2019,0.726
+VCT,Saint Vincent and the Grenadines,High,LAC,2019,0.769
+VEN,Venezuela,Medium,LAC,2019,0.721
+VNM,Viet Nam,High,EAP,2019,0.703
+VUT,Vanuatu,Medium,EAP,2019,0.611
+WSM,Samoa,High,EAP,2019,0.715
+YEM,Yemen,Low,AS,2019,0.461
+ZAF,South Africa,High,SSA,2019,0.736
+ZMB,Zambia,Medium,SSA,2019,0.575
+ZWE,Zimbabwe,Medium,SSA,2019,0.601
+AFG,Afghanistan,Low,SA,2020,0.483
+AGO,Angola,Medium,SSA,2020,0.59
+ALB,Albania,High,ECA,2020,0.794
+AND,Andorra,Very High,,2020,0.848
+ARE,United Arab Emirates,Very High,AS,2020,0.912
+ARG,Argentina,Very High,LAC,2020,0.84
+ARM,Armenia,High,ECA,2020,0.757
+ATG,Antigua and Barbuda,High,LAC,2020,0.788
+AUS,Australia,Very High,,2020,0.947
+AUT,Austria,Very High,,2020,0.913
+AZE,Azerbaijan,High,ECA,2020,0.73
+BDI,Burundi,Low,SSA,2020,0.426
+BEL,Belgium,Very High,,2020,0.928
+BEN,Benin,Low,SSA,2020,0.524
+BFA,Burkina Faso,Low,SSA,2020,0.449
+BGD,Bangladesh,Medium,SA,2020,0.655
+BGR,Bulgaria,High,,2020,0.802
+BHR,Bahrain,Very High,AS,2020,0.877
+BHS,Bahamas,Very High,LAC,2020,0.815
+BIH,Bosnia and Herzegovina,High,ECA,2020,0.781
+BLR,Belarus,Very High,ECA,2020,0.807
+BLZ,Belize,Medium,LAC,2020,0.69
+BOL,Bolivia,Medium,LAC,2020,0.694
+BRA,Brazil,High,LAC,2020,0.758
+BRB,Barbados,High,LAC,2020,0.788
+BRN,Brunei,Very High,EAP,2020,0.83
+BTN,Bhutan,Medium,SA,2020,0.668
+BWA,Botswana,Medium,SSA,2020,0.713
+CAF,Central African Republic,Low,SSA,2020,0.407
+CAN,Canada,Very High,,2020,0.931
+CHE,Switzerland,Very High,,2020,0.956
+CHL,Chile,Very High,LAC,2020,0.852
+CHN,China,High,EAP,2020,0.764
+CIV,Ivory Coast,Medium,SSA,2020,0.551
+CMR,Cameroon,Medium,SSA,2020,0.578
+COD,The Democratic Republic of the Congo,Low,SSA,2020,0.479
+COG,Congo,Medium,SSA,2020,0.574
+COL,Colombia,High,LAC,2020,0.756
+COM,Comoros,Medium,SSA,2020,0.562
+CPV,Cabo Verde,Medium,SSA,2020,0.662
+CRI,Costa Rica,Very High,LAC,2020,0.816
+CUB,Cuba,High,LAC,2020,0.781
+CYP,Cyprus,Very High,,2020,0.894
+CZE,Czechia,Very High,,2020,0.892
+DEU,Germany,Very High,,2020,0.944
+DJI,Djibouti,Low,AS,2020,0.51
+DMA,Dominica,High,LAC,2020,0.722
+DNK,Denmark,Very High,,2020,0.947
+DOM,Dominican Republic,High,LAC,2020,0.764
+DZA,Algeria,High,AS,2020,0.736
+ECU,Ecuador,High,LAC,2020,0.731
+EGY,Egypt,High,AS,2020,0.734
+ERI,Eritrea,Low,SSA,2020,0.494
+ESP,Spain,Very High,,2020,0.899
+EST,Estonia,Very High,,2020,0.892
+ETH,Ethiopia,Low,SSA,2020,0.498
+FIN,Finland,Very High,,2020,0.938
+FJI,Fiji,High,EAP,2020,0.737
+FRA,France,Very High,,2020,0.898
+FSM,Micronesia,Medium,EAP,2020,0.629
+GAB,Gabon,High,SSA,2020,0.71
+GBR,United Kingdom,Very High,,2020,0.924
+GEO,Georgia,Very High,ECA,2020,0.802
+GHA,Ghana,Medium,SSA,2020,0.632
+GIN,Guinea,Low,SSA,2020,0.466
+GMB,Gambia,Low,SSA,2020,0.501
+GNB,Guinea-Bissau,Low,SSA,2020,0.483
+GNQ,Equatorial Guinea,Medium,SSA,2020,0.599
+GRC,Greece,Very High,,2020,0.886
+GRD,Grenada,High,LAC,2020,0.792
+GTM,Guatemala,Medium,LAC,2020,0.635
+GUY,Guyana,High,LAC,2020,0.721
+HKG,Hong Kong,Very High,,2020,0.949
+HND,Honduras,Medium,LAC,2020,0.621
+HRV,Croatia,Very High,,2020,0.855
+HTI,Haiti,Low,LAC,2020,0.54
+HUN,Hungary,Very High,,2020,0.849
+IDN,Indonesia,High,EAP,2020,0.709
+IND,India,Medium,SA,2020,0.642
+IRL,Ireland,Very High,,2020,0.943
+IRN,Iran,High,SA,2020,0.777
+IRQ,Iraq,Medium,AS,2020,0.679
+ISL,Iceland,Very High,,2020,0.957
+ISR,Israel,Very High,,2020,0.917
+ITA,Italy,Very High,,2020,0.889
+JAM,Jamaica,High,LAC,2020,0.713
+JOR,Jordan,High,AS,2020,0.723
+JPN,Japan,Very High,,2020,0.923
+KAZ,Kazakhstan,Very High,ECA,2020,0.814
+KEN,Kenya,Medium,SSA,2020,0.578
+KGZ,Kyrgyzstan,Medium,ECA,2020,0.689
+KHM,Cambodia,Medium,EAP,2020,0.596
+KIR,Kiribati,Medium,EAP,2020,0.623
+KNA,Saint Kitts and Nevis,High,LAC,2020,0.779
+KOR,South Korea,Very High,,2020,0.922
+KWT,Kuwait,Very High,AS,2020,0.822
+LAO,Lao,Medium,EAP,2020,0.608
+LBN,Lebanon,High,AS,2020,0.726
+LBR,Liberia,Low,SSA,2020,0.48
+LBY,Libya,High,AS,2020,0.703
+LCA,Saint Lucia,High,LAC,2020,0.723
+LIE,Liechtenstein,Very High,,2020,0.933
+LKA,Sri Lanka,High,SA,2020,0.78
+LSO,Lesotho,Low,SSA,2020,0.521
+LTU,Lithuania,Very High,,2020,0.879
+LUX,Luxembourg,Very High,,2020,0.924
+LVA,Latvia,Very High,,2020,0.871
+MAR,Morocco,Medium,AS,2020,0.679
+MCO,Monaco,,,2020,
+MDA,Moldova,High,ECA,2020,0.766
+MDG,Madagascar,Low,SSA,2020,0.501
+MDV,Maldives,High,SA,2020,0.734
+MEX,Mexico,High,LAC,2020,0.756
+MHL,Marshall Islands,Medium,EAP,2020,0.639
+MKD,North Macedonia,High,ECA,2020,0.774
+MLI,Mali,Low,SSA,2020,0.427
+MLT,Malta,Very High,,2020,0.911
+MMR,Myanmar,Medium,EAP,2020,0.6
+MNE,Montenegro,Very High,ECA,2020,0.826
+MNG,Mongolia,High,EAP,2020,0.745
+MOZ,Mozambique,Low,SSA,2020,0.453
+MRT,Mauritania,Medium,SSA,2020,0.556
+MUS,Mauritius,Very High,SSA,2020,0.804
+MWI,Malawi,Low,SSA,2020,0.516
+MYS,Malaysia,Very High,EAP,2020,0.806
+NAM,Namibia,Medium,SSA,2020,0.633
+NER,Niger,Low,SSA,2020,0.401
+NGA,Nigeria,Low,SSA,2020,0.535
+NIC,Nicaragua,Medium,LAC,2020,0.654
+NLD,Netherlands,Very High,,2020,0.939
+NOR,Norway,Very High,,2020,0.959
+NPL,Nepal,Medium,SA,2020,0.604
+NRU,Nauru,,EAP,2020,
+NZL,New Zealand,Very High,,2020,0.936
+OMN,Oman,Very High,AS,2020,0.827
+PAK,Pakistan,Low,SA,2020,0.543
+PAN,Panama,Very High,LAC,2020,0.801
+PER,Peru,High,LAC,2020,0.762
+PHL,Philippines,Medium,EAP,2020,0.71
+PLW,Palau,High,EAP,2020,0.773
+PNG,Papua New Guinea,Medium,EAP,2020,0.56
+POL,Poland,Very High,,2020,0.876
+PRK,North Korea,,EAP,2020,
+PRT,Portugal,Very High,,2020,0.863
+PRY,Paraguay,High,LAC,2020,0.73
+PSE,"Palestine, State of",High,AS,2020,0.716
+QAT,Qatar,Very High,AS,2020,0.854
+ROU,Romania,Very High,,2020,0.824
+RUS,Russian Federation,Very High,,2020,0.83
+RWA,Rwanda,Low,SSA,2020,0.532
+SAU,Saudi Arabia,Very High,AS,2020,0.87
+SDN,Sudan,Low,AS,2020,0.51
+SEN,Senegal,Low,SSA,2020,0.513
+SGP,Singapore,Very High,EAP,2020,0.939
+SLB,Solomon Islands,Medium,EAP,2020,0.565
+SLE,Sierra Leone,Low,SSA,2020,0.475
+SLV,El Salvador,Medium,LAC,2020,0.672
+SMR,San Marino,Very High,,2020,0.845
+SOM,Somalia,,AS,2020,
+SRB,Serbia,Very High,ECA,2020,0.804
+SSD,South Sudan,Low,SSA,2020,0.386
+STP,Sao Tome and Principe,Medium,SSA,2020,0.619
+SUR,Suriname,High,LAC,2020,0.743
+SVK,Slovakia,Very High,,2020,0.857
+SVN,Slovenia,Very High,,2020,0.913
+SWE,Sweden,Very High,,2020,0.942
+SWZ,Eswatini,Medium,SSA,2020,0.61
+SYC,Seychelles,High,SSA,2020,0.793
+SYR,Syrian Arab Republic,Medium,AS,2020,0.577
+TCD,Chad,Low,SSA,2020,0.397
+TGO,Togo,Low,SSA,2020,0.535
+THA,Thailand,Very High,EAP,2020,0.802
+TJK,Tajikistan,Medium,ECA,2020,0.664
+TKM,Turkmenistan,High,ECA,2020,0.741
+TLS,Timor-Leste,Medium,EAP,2020,0.614
+TON,Tonga,High,EAP,2020,0.745
+TTO,Trinidad and Tobago,Very High,LAC,2020,0.818
+TUN,Tunisia,High,AS,2020,0.737
+TUR,Turkey,Very High,ECA,2020,0.833
+TUV,Tuvalu,Medium,EAP,2020,0.639
+TZA,Tanzania,Low,SSA,2020,0.548
+UGA,Uganda,Low,SSA,2020,0.524
+UKR,Ukraine,High,ECA,2020,0.775
+URY,Uruguay,Very High,LAC,2020,0.821
+USA,United States,Very High,,2020,0.92
+UZB,Uzbekistan,High,ECA,2020,0.721
+VCT,Saint Vincent and the Grenadines,High,LAC,2020,0.764
+VEN,Venezuela,Medium,LAC,2020,0.695
+VNM,Viet Nam,High,EAP,2020,0.71
+VUT,Vanuatu,Medium,EAP,2020,0.608
+WSM,Samoa,High,EAP,2020,0.712
+YEM,Yemen,Low,AS,2020,0.46
+ZAF,South Africa,High,SSA,2020,0.727
+ZMB,Zambia,Medium,SSA,2020,0.57
+ZWE,Zimbabwe,Medium,SSA,2020,0.6
+AFG,Afghanistan,Low,SA,2021,0.478
+AGO,Angola,Medium,SSA,2021,0.586
+ALB,Albania,High,ECA,2021,0.796
+AND,Andorra,Very High,,2021,0.858
+ARE,United Arab Emirates,Very High,AS,2021,0.911
+ARG,Argentina,Very High,LAC,2021,0.842
+ARM,Armenia,High,ECA,2021,0.759
+ATG,Antigua and Barbuda,High,LAC,2021,0.788
+AUS,Australia,Very High,,2021,0.951
+AUT,Austria,Very High,,2021,0.916
+AZE,Azerbaijan,High,ECA,2021,0.745
+BDI,Burundi,Low,SSA,2021,0.426
+BEL,Belgium,Very High,,2021,0.937
+BEN,Benin,Low,SSA,2021,0.525
+BFA,Burkina Faso,Low,SSA,2021,0.449
+BGD,Bangladesh,Medium,SA,2021,0.661
+BGR,Bulgaria,High,,2021,0.795
+BHR,Bahrain,Very High,AS,2021,0.875
+BHS,Bahamas,Very High,LAC,2021,0.812
+BIH,Bosnia and Herzegovina,High,ECA,2021,0.78
+BLR,Belarus,Very High,ECA,2021,0.808
+BLZ,Belize,Medium,LAC,2021,0.683
+BOL,Bolivia,Medium,LAC,2021,0.692
+BRA,Brazil,High,LAC,2021,0.754
+BRB,Barbados,High,LAC,2021,0.79
+BRN,Brunei,Very High,EAP,2021,0.829
+BTN,Bhutan,Medium,SA,2021,0.666
+BWA,Botswana,Medium,SSA,2021,0.693
+CAF,Central African Republic,Low,SSA,2021,0.404
+CAN,Canada,Very High,,2021,0.936
+CHE,Switzerland,Very High,,2021,0.962
+CHL,Chile,Very High,LAC,2021,0.855
+CHN,China,High,EAP,2021,0.768
+CIV,Ivory Coast,Medium,SSA,2021,0.55
+CMR,Cameroon,Medium,SSA,2021,0.576
+COD,The Democratic Republic of the Congo,Low,SSA,2021,0.479
+COG,Congo,Medium,SSA,2021,0.571
+COL,Colombia,High,LAC,2021,0.752
+COM,Comoros,Medium,SSA,2021,0.558
+CPV,Cabo Verde,Medium,SSA,2021,0.662
+CRI,Costa Rica,Very High,LAC,2021,0.809
+CUB,Cuba,High,LAC,2021,0.764
+CYP,Cyprus,Very High,,2021,0.896
+CZE,Czechia,Very High,,2021,0.889
+DEU,Germany,Very High,,2021,0.942
+DJI,Djibouti,Low,AS,2021,0.509
+DMA,Dominica,High,LAC,2021,0.72
+DNK,Denmark,Very High,,2021,0.948
+DOM,Dominican Republic,High,LAC,2021,0.767
+DZA,Algeria,High,AS,2021,0.745
+ECU,Ecuador,High,LAC,2021,0.74
+EGY,Egypt,High,AS,2021,0.731
+ERI,Eritrea,Low,SSA,2021,0.492
+ESP,Spain,Very High,,2021,0.905
+EST,Estonia,Very High,,2021,0.89
+ETH,Ethiopia,Low,SSA,2021,0.498
+FIN,Finland,Very High,,2021,0.94
+FJI,Fiji,High,EAP,2021,0.73
+FRA,France,Very High,,2021,0.903
+FSM,Micronesia,Medium,EAP,2021,0.628
+GAB,Gabon,High,SSA,2021,0.706
+GBR,United Kingdom,Very High,,2021,0.929
+GEO,Georgia,Very High,ECA,2021,0.802
+GHA,Ghana,Medium,SSA,2021,0.632
+GIN,Guinea,Low,SSA,2021,0.465
+GMB,Gambia,Low,SSA,2021,0.5
+GNB,Guinea-Bissau,Low,SSA,2021,0.483
+GNQ,Equatorial Guinea,Medium,SSA,2021,0.596
+GRC,Greece,Very High,,2021,0.887
+GRD,Grenada,High,LAC,2021,0.795
+GTM,Guatemala,Medium,LAC,2021,0.627
+GUY,Guyana,High,LAC,2021,0.714
+HKG,Hong Kong,Very High,,2021,0.952
+HND,Honduras,Medium,LAC,2021,0.621
+HRV,Croatia,Very High,,2021,0.858
+HTI,Haiti,Low,LAC,2021,0.535
+HUN,Hungary,Very High,,2021,0.846
+IDN,Indonesia,High,EAP,2021,0.705
+IND,India,Medium,SA,2021,0.633
+IRL,Ireland,Very High,,2021,0.945
+IRN,Iran,High,SA,2021,0.774
+IRQ,Iraq,Medium,AS,2021,0.686
+ISL,Iceland,Very High,,2021,0.959
+ISR,Israel,Very High,,2021,0.919
+ITA,Italy,Very High,,2021,0.895
+JAM,Jamaica,High,LAC,2021,0.709
+JOR,Jordan,High,AS,2021,0.72
+JPN,Japan,Very High,,2021,0.925
+KAZ,Kazakhstan,Very High,ECA,2021,0.811
+KEN,Kenya,Medium,SSA,2021,0.575
+KGZ,Kyrgyzstan,Medium,ECA,2021,0.692
+KHM,Cambodia,Medium,EAP,2021,0.593
+KIR,Kiribati,Medium,EAP,2021,0.624
+KNA,Saint Kitts and Nevis,High,LAC,2021,0.777
+KOR,South Korea,Very High,,2021,0.925
+KWT,Kuwait,Very High,AS,2021,0.831
+LAO,Lao,Medium,EAP,2021,0.607
+LBN,Lebanon,High,AS,2021,0.706
+LBR,Liberia,Low,SSA,2021,0.481
+LBY,Libya,High,AS,2021,0.718
+LCA,Saint Lucia,High,LAC,2021,0.715
+LIE,Liechtenstein,Very High,,2021,0.935
+LKA,Sri Lanka,High,SA,2021,0.782
+LSO,Lesotho,Low,SSA,2021,0.514
+LTU,Lithuania,Very High,,2021,0.875
+LUX,Luxembourg,Very High,,2021,0.93
+LVA,Latvia,Very High,,2021,0.863
+MAR,Morocco,Medium,AS,2021,0.683
+MCO,Monaco,,,2021,
+MDA,Moldova,High,ECA,2021,0.767
+MDG,Madagascar,Low,SSA,2021,0.501
+MDV,Maldives,High,SA,2021,0.747
+MEX,Mexico,High,LAC,2021,0.758
+MHL,Marshall Islands,Medium,EAP,2021,0.639
+MKD,North Macedonia,High,ECA,2021,0.77
+MLI,Mali,Low,SSA,2021,0.428
+MLT,Malta,Very High,,2021,0.918
+MMR,Myanmar,Medium,EAP,2021,0.585
+MNE,Montenegro,Very High,ECA,2021,0.832
+MNG,Mongolia,High,EAP,2021,0.739
+MOZ,Mozambique,Low,SSA,2021,0.446
+MRT,Mauritania,Medium,SSA,2021,0.556
+MUS,Mauritius,Very High,SSA,2021,0.802
+MWI,Malawi,Low,SSA,2021,0.512
+MYS,Malaysia,Very High,EAP,2021,0.803
+NAM,Namibia,Medium,SSA,2021,0.615
+NER,Niger,Low,SSA,2021,0.4
+NGA,Nigeria,Low,SSA,2021,0.535
+NIC,Nicaragua,Medium,LAC,2021,0.667
+NLD,Netherlands,Very High,,2021,0.941
+NOR,Norway,Very High,,2021,0.961
+NPL,Nepal,Medium,SA,2021,0.602
+NRU,Nauru,,EAP,2021,
+NZL,New Zealand,Very High,,2021,0.937
+OMN,Oman,Very High,AS,2021,0.816
+PAK,Pakistan,Low,SA,2021,0.544
+PAN,Panama,Very High,LAC,2021,0.805
+PER,Peru,High,LAC,2021,0.762
+PHL,Philippines,Medium,EAP,2021,0.699
+PLW,Palau,High,EAP,2021,0.767
+PNG,Papua New Guinea,Medium,EAP,2021,0.558
+POL,Poland,Very High,,2021,0.876
+PRK,North Korea,,EAP,2021,
+PRT,Portugal,Very High,,2021,0.866
+PRY,Paraguay,High,LAC,2021,0.717
+PSE,"Palestine, State of",High,AS,2021,0.715
+QAT,Qatar,Very High,AS,2021,0.855
+ROU,Romania,Very High,,2021,0.821
+RUS,Russian Federation,Very High,,2021,0.822
+RWA,Rwanda,Low,SSA,2021,0.534
+SAU,Saudi Arabia,Very High,AS,2021,0.875
+SDN,Sudan,Low,AS,2021,0.508
+SEN,Senegal,Low,SSA,2021,0.511
+SGP,Singapore,Very High,EAP,2021,0.939
+SLB,Solomon Islands,Medium,EAP,2021,0.564
+SLE,Sierra Leone,Low,SSA,2021,0.477
+SLV,El Salvador,Medium,LAC,2021,0.675
+SMR,San Marino,Very High,,2021,0.853
+SOM,Somalia,,AS,2021,
+SRB,Serbia,Very High,ECA,2021,0.802
+SSD,South Sudan,Low,SSA,2021,0.385
+STP,Sao Tome and Principe,Medium,SSA,2021,0.618
+SUR,Suriname,High,LAC,2021,0.73
+SVK,Slovakia,Very High,,2021,0.848
+SVN,Slovenia,Very High,,2021,0.918
+SWE,Sweden,Very High,,2021,0.947
+SWZ,Eswatini,Medium,SSA,2021,0.597
+SYC,Seychelles,High,SSA,2021,0.785
+SYR,Syrian Arab Republic,Medium,AS,2021,0.577
+TCD,Chad,Low,SSA,2021,0.394
+TGO,Togo,Low,SSA,2021,0.539
+THA,Thailand,Very High,EAP,2021,0.8
+TJK,Tajikistan,Medium,ECA,2021,0.685
+TKM,Turkmenistan,High,ECA,2021,0.745
+TLS,Timor-Leste,Medium,EAP,2021,0.607
+TON,Tonga,High,EAP,2021,0.745
+TTO,Trinidad and Tobago,Very High,LAC,2021,0.81
+TUN,Tunisia,High,AS,2021,0.731
+TUR,Turkey,Very High,ECA,2021,0.838
+TUV,Tuvalu,Medium,EAP,2021,0.641
+TZA,Tanzania,Low,SSA,2021,0.549
+UGA,Uganda,Low,SSA,2021,0.525
+UKR,Ukraine,High,ECA,2021,0.773
+URY,Uruguay,Very High,LAC,2021,0.809
+USA,United States,Very High,,2021,0.921
+UZB,Uzbekistan,High,ECA,2021,0.727
+VCT,Saint Vincent and the Grenadines,High,LAC,2021,0.751
+VEN,Venezuela,Medium,LAC,2021,0.691
+VNM,Viet Nam,High,EAP,2021,0.703
+VUT,Vanuatu,Medium,EAP,2021,0.607
+WSM,Samoa,High,EAP,2021,0.707
+YEM,Yemen,Low,AS,2021,0.455
+ZAF,South Africa,High,SSA,2021,0.713
+ZMB,Zambia,Medium,SSA,2021,0.565
+ZWE,Zimbabwe,Medium,SSA,2021,0.593
