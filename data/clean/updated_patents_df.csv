@@ -1,0 +1,772 @@
+country_code,area,year,patents_num
+1,"Total, all countries or areas",1985,397580
+1,"Total, all countries or areas",1995,429800
+1,"Total, all countries or areas",2005,632400
+1,"Total, all countries or areas",2010,914200
+1,"Total, all countries or areas",2019,1506900
+1,"Total, all countries or areas",2020,1596500
+1,"Total, all countries or areas",2021,1756500
+2,Africa,2005,4200
+2,Africa,2010,9000
+2,Africa,2019,10600
+2,Africa,2020,7400
+2,Africa,2021,10800
+419,Latin America & the Caribbean,2005,14200
+419,Latin America & the Caribbean,2010,17200
+419,Latin America & the Caribbean,2019,26900
+419,Latin America & the Caribbean,2020,36100
+419,Latin America & the Caribbean,2021,45900
+142,Asia,2005,288600
+142,Asia,2010,469500
+142,Asia,2019,834900
+142,Asia,2020,928700
+142,Asia,2021,1122400
+150,Europe,2005,150900
+150,Europe,2010,160900
+150,Europe,2019,239400
+150,Europe,2020,231400
+150,Europe,2021,208100
+9,Oceania,2005,15200
+9,Oceania,2010,18900
+9,Oceania,2019,18700
+9,Oceania,2020,19600
+9,Oceania,2021,19300
+8,Albania,2005,395
+8,Albania,2010,349
+8,Albania,2019,2
+8,Albania,2020,5
+8,Albania,2021,2
+12,Algeria,1995,118
+12,Algeria,2005,443
+12,Algeria,2010,1076
+12,Algeria,2019,140
+12,Algeria,2020,421
+12,Algeria,2021,770
+20,Andorra,2019,11
+20,Andorra,2020,13
+20,Andorra,2021,12
+24,Angola,2020,33
+24,Angola,2021,49
+32,Argentina,1995,1003
+32,Argentina,2005,1798
+32,Argentina,2010,1366
+32,Argentina,2019,2177
+32,Argentina,2020,2337
+32,Argentina,2021,2298
+51,Armenia,1995,52
+51,Armenia,2005,126
+51,Armenia,2010,124
+51,Armenia,2019,100
+51,Armenia,2020,72
+51,Armenia,2021,27
+36,Australia,1985,6764
+36,Australia,1995,9406
+36,Australia,2005,10979
+36,Australia,2010,14557
+36,Australia,2019,17010
+36,Australia,2020,17778
+36,Australia,2021,17155
+40,Austria,1985,2571
+40,Austria,1995,1777
+40,Austria,2005,938
+40,Austria,2010,1130
+40,Austria,2019,1112
+40,Austria,2020,1058
+40,Austria,2021,1038
+31,Azerbaijan,1995,9
+31,Azerbaijan,2005,195
+31,Azerbaijan,2010,126
+31,Azerbaijan,2019,102
+31,Azerbaijan,2020,110
+31,Azerbaijan,2021,119
+44,Bahamas,1985,66
+48,Bahrain,1985,31
+48,Bahrain,2019,74
+48,Bahrain,2020,34
+48,Bahrain,2021,67
+50,Bangladesh,1985,118
+50,Bangladesh,1995,80
+50,Bangladesh,2005,182
+50,Bangladesh,2010,92
+50,Bangladesh,2019,129
+50,Bangladesh,2020,140
+50,Bangladesh,2021,240
+52,Barbados,2005,7
+112,Belarus,1995,633
+112,Belarus,2005,955
+112,Belarus,2010,1222
+112,Belarus,2019,461
+112,Belarus,2020,447
+112,Belarus,2021,316
+56,Belgium,1985,1976
+56,Belgium,1995,1216
+56,Belgium,2005,708
+56,Belgium,2010,532
+56,Belgium,2019,998
+56,Belgium,2020,994
+56,Belgium,2021,1005
+84,Belize,2019,9
+84,Belize,2020,3
+84,Belize,2021,12
+64,Bhutan,2019,1
+68,Bolivia (Plurin. State of),1985,62
+68,Bolivia (Plurin. State of),1995,47
+70,Bosnia and Herzegovina,2005,46
+70,Bosnia and Herzegovina,2010,173
+70,Bosnia and Herzegovina,2019,2
+70,Bosnia and Herzegovina,2020,18
+70,Bosnia and Herzegovina,2021,4
+76,Brazil,1985,3934
+76,Brazil,1995,2659
+76,Brazil,2005,2439
+76,Brazil,2010,3251
+76,Brazil,2019,10947
+76,Brazil,2020,20407
+76,Brazil,2021,26872
+96,Brunei Darussalam,1995,42
+96,Brunei Darussalam,2005,26
+96,Brunei Darussalam,2010,40
+96,Brunei Darussalam,2019,50
+96,Brunei Darussalam,2020,27
+96,Brunei Darussalam,2021,31
+100,Bulgaria,1985,130
+100,Bulgaria,1995,375
+100,Bulgaria,2005,313
+100,Bulgaria,2010,251
+100,Bulgaria,2019,195
+100,Bulgaria,2020,215
+100,Bulgaria,2021,182
+108,Burundi,1995,1
+108,Burundi,2019,18
+108,Burundi,2020,5
+132,Cabo Verde,2021,2
+116,Cambodia,2019,84
+116,Cambodia,2020,96
+124,Canada,1985,18697
+124,Canada,1995,9139
+124,Canada,2005,15516
+124,Canada,2010,19120
+124,Canada,2019,22009
+124,Canada,2020,21284
+124,Canada,2021,22687
+152,Chile,1985,448
+152,Chile,1995,133
+152,Chile,2005,311
+152,Chile,2010,1020
+152,Chile,2019,1490
+152,Chile,2020,2904
+152,Chile,2021,2379
+156,China,1985,44
+156,China,1995,3393
+156,China,2005,53305
+156,China,2010,135110
+156,China,2019,452804
+156,China,2020,530127
+156,China,2021,695946
+344,"China, Hong Kong SAR",1985,1030
+344,"China, Hong Kong SAR",1995,1960
+344,"China, Hong Kong SAR",2005,6518
+344,"China, Hong Kong SAR",2010,5353
+344,"China, Hong Kong SAR",2019,6780
+344,"China, Hong Kong SAR",2020,7658
+344,"China, Hong Kong SAR",2021,14662
+446,"China, Macao SAR",1995,2
+446,"China, Macao SAR",2005,5
+446,"China, Macao SAR",2010,156
+446,"China, Macao SAR",2019,20
+446,"China, Macao SAR",2020,18
+446,"China, Macao SAR",2021,15
+170,Colombia,1985,169
+170,Colombia,1995,365
+170,Colombia,2005,256
+170,Colombia,2010,639
+170,Colombia,2019,1630
+170,Colombia,2020,1075
+170,Colombia,2021,1263
+178,Congo,1995,15
+188,Costa Rica,1985,20
+188,Costa Rica,1995,25
+188,Costa Rica,2005,13
+188,Costa Rica,2010,34
+188,Costa Rica,2019,191
+188,Costa Rica,2020,170
+188,Costa Rica,2021,130
+191,Croatia,1995,25
+191,Croatia,2005,140
+191,Croatia,2010,82
+191,Croatia,2019,20
+191,Croatia,2020,10
+191,Croatia,2021,7
+192,Cuba,1985,18
+192,Cuba,1995,77
+192,Cuba,2005,64
+192,Cuba,2019,89
+192,Cuba,2020,38
+192,Cuba,2021,81
+196,Cyprus,1985,43
+196,Cyprus,2005,68
+196,Cyprus,2010,19
+196,Cyprus,2019,1
+203,Czechia,1995,1299
+203,Czechia,2005,1551
+203,Czechia,2010,911
+203,Czechia,2019,509
+203,Czechia,2020,499
+203,Czechia,2021,444
+408,Dem. People's Rep. Korea,2005,3583
+408,Dem. People's Rep. Korea,2010,6290
+408,Dem. People's Rep. Korea,2019,4712
+408,Dem. People's Rep. Korea,2020,4227
+180,Dem. Rep. of the Congo,2019,63
+180,Dem. Rep. of the Congo,2020,27
+208,Denmark,1985,1054
+208,Denmark,1995,1120
+208,Denmark,2005,389
+208,Denmark,2010,155
+208,Denmark,2019,501
+208,Denmark,2020,353
+208,Denmark,2021,368
+212,Dominica,2019,3
+212,Dominica,2020,2
+212,Dominica,2021,11
+214,Dominican Republic,2010,91
+214,Dominican Republic,2019,158
+214,Dominican Republic,2020,138
+214,Dominican Republic,2021,227
+218,Ecuador,1995,90
+218,Ecuador,2005,38
+218,Ecuador,2010,28
+218,Ecuador,2019,17
+218,Ecuador,2020,9
+218,Ecuador,2021,17
+818,Egypt,1985,298
+818,Egypt,1995,346
+818,Egypt,2005,147
+818,Egypt,2010,321
+818,Egypt,2019,747
+818,Egypt,2020,495
+818,Egypt,2021,508
+222,El Salvador,1985,70
+222,El Salvador,1995,61
+222,El Salvador,2019,117
+222,El Salvador,2020,67
+222,El Salvador,2021,58
+233,Estonia,2005,163
+233,Estonia,2010,120
+233,Estonia,2019,5
+233,Estonia,2020,12
+233,Estonia,2021,8
+748,Eswatini,1985,30
+231,Ethiopia,2005,9
+231,Ethiopia,2020,1
+242,Fiji,1985,15
+246,Finland,1985,2160
+246,Finland,1995,2347
+246,Finland,2005,1757
+246,Finland,2010,923
+246,Finland,2019,505
+246,Finland,2020,602
+246,Finland,2021,545
+250,France,1985,24195
+250,France,1995,17918
+250,France,2005,11473
+250,France,2010,9899
+250,France,2019,13593
+250,France,2020,12874
+250,France,2021,15493
+270,Gambia,2005,2
+270,Gambia,2019,16
+270,Gambia,2020,16
+268,Georgia,1995,133
+268,Georgia,2005,320
+268,Georgia,2010,258
+268,Georgia,2019,115
+268,Georgia,2020,152
+268,Georgia,2021,128
+276,Germany,1985,19500
+276,Germany,1995,16000
+276,Germany,2005,17063
+276,Germany,2010,13678
+276,Germany,2019,18255
+276,Germany,2020,17305
+276,Germany,2021,21113
+300,Greece,1985,3294
+300,Greece,1995,350
+300,Greece,2005,320
+300,Greece,2010,479
+300,Greece,2019,248
+300,Greece,2020,223
+300,Greece,2021,252
+320,Guatemala,1985,166
+320,Guatemala,1995,22
+320,Guatemala,2005,104
+320,Guatemala,2010,104
+320,Guatemala,2019,50
+320,Guatemala,2020,40
+320,Guatemala,2021,38
+328,Guyana,1985,22
+328,Guyana,2021,21
+332,Haiti,1985,9
+332,Haiti,1995,3
+332,Haiti,2005,11
+332,Haiti,2010,10
+340,Honduras,1985,19
+340,Honduras,2005,85
+340,Honduras,2010,81
+340,Honduras,2019,85
+340,Honduras,2020,40
+340,Honduras,2021,92
+348,Hungary,1985,2095
+348,Hungary,1995,1910
+348,Hungary,2005,1126
+348,Hungary,2010,65
+348,Hungary,2019,135
+348,Hungary,2020,94
+348,Hungary,2021,107
+352,Iceland,1985,21
+352,Iceland,1995,11
+352,Iceland,2005,101
+352,Iceland,2010,139
+352,Iceland,2019,9
+352,Iceland,2020,9
+352,Iceland,2021,7
+356,India,1985,1814
+356,India,1995,1613
+356,India,2005,4320
+356,India,2010,7138
+356,India,2019,23578
+356,India,2020,26361
+356,India,2021,30721
+360,Indonesia,2019,10514
+360,Indonesia,2020,7981
+360,Indonesia,2021,6850
+364,Iran (Islamic Republic of),1985,339
+364,Iran (Islamic Republic of),1995,166
+364,Iran (Islamic Republic of),2005,2890
+364,Iran (Islamic Republic of),2010,5372
+364,Iran (Islamic Republic of),2019,2769
+364,Iran (Islamic Republic of),2020,3660
+364,Iran (Islamic Republic of),2021,3013
+368,Iraq,1985,103
+368,Iraq,1995,32
+368,Iraq,2019,470
+368,Iraq,2020,404
+372,Ireland,1985,1042
+372,Ireland,1995,3208
+372,Ireland,2005,226
+372,Ireland,2010,87
+372,Ireland,2019,48
+372,Ireland,2020,42
+372,Ireland,2021,43
+376,Israel,1985,1636
+376,Israel,1995,2029
+376,Israel,2005,2269
+376,Israel,2010,2293
+376,Israel,2019,4197
+376,Israel,2020,4668
+376,Israel,2021,5488
+380,Italy,1995,9164
+380,Italy,2005,5534
+380,Italy,2010,16106
+380,Italy,2019,8617
+380,Italy,2020,9152
+380,Italy,2021,7254
+388,Jamaica,1995,4
+388,Jamaica,2019,1
+388,Jamaica,2020,5
+388,Jamaica,2021,5
+392,Japan,1985,50100
+392,Japan,1995,109100
+392,Japan,2005,122944
+392,Japan,2010,222693
+392,Japan,2019,179910
+392,Japan,2020,179383
+392,Japan,2021,184372
+400,Jordan,2005,55
+400,Jordan,2010,64
+400,Jordan,2019,88
+400,Jordan,2020,334
+400,Jordan,2021,166
+398,Kazakhstan,1995,1281
+398,Kazakhstan,2010,1868
+398,Kazakhstan,2020,709
+398,Kazakhstan,2021,651
+404,Kenya,1985,98
+404,Kenya,2005,48
+404,Kenya,2010,54
+404,Kenya,2019,28
+404,Kenya,2020,35
+404,Kenya,2021,35
+296,Kiribati,1985,1
+417,Kyrgyzstan,1995,133
+417,Kyrgyzstan,2010,109
+417,Kyrgyzstan,2019,67
+417,Kyrgyzstan,2020,49
+417,Kyrgyzstan,2021,39
+418,Lao People's Dem. Rep.,2020,14
+428,Latvia,1995,629
+428,Latvia,2005,122
+428,Latvia,2010,184
+428,Latvia,2019,52
+428,Latvia,2020,60
+428,Latvia,2021,76
+426,Lesotho,1995,7
+440,Lithuania,1995,494
+440,Lithuania,2005,116
+440,Lithuania,2010,84
+440,Lithuania,2019,112
+440,Lithuania,2020,106
+440,Lithuania,2021,83
+442,Luxembourg,1985,418
+442,Luxembourg,2005,29
+442,Luxembourg,2010,87
+442,Luxembourg,2019,326
+442,Luxembourg,2020,438
+442,Luxembourg,2021,1036
+450,Madagascar,1995,25
+450,Madagascar,2005,32
+450,Madagascar,2010,55
+450,Madagascar,2019,15
+450,Madagascar,2020,4
+450,Madagascar,2021,48
+454,Malawi,1985,43
+454,Malawi,1995,23
+454,Malawi,2010,1
+458,Malaysia,1985,1150
+458,Malaysia,1995,1753
+458,Malaysia,2005,2508
+458,Malaysia,2010,2160
+458,Malaysia,2019,4106
+458,Malaysia,2020,8206
+458,Malaysia,2021,6876
+470,Malta,1985,20
+470,Malta,1995,19
+470,Malta,2010,4
+470,Malta,2019,23
+470,Malta,2020,10
+470,Malta,2021,11
+480,Mauritius,1985,4
+480,Mauritius,1995,3
+480,Mauritius,2010,8
+480,Mauritius,2019,4
+480,Mauritius,2020,17
+480,Mauritius,2021,4
+484,Mexico,1985,977
+484,Mexico,1995,3538
+484,Mexico,2005,8098
+484,Mexico,2010,9399
+484,Mexico,2019,8702
+484,Mexico,2020,7726
+484,Mexico,2021,10369
+492,Monaco,1985,66
+492,Monaco,1995,36
+492,Monaco,2005,9
+492,Monaco,2010,5
+492,Monaco,2019,4
+492,Monaco,2020,16
+492,Monaco,2021,9
+496,Mongolia,1985,5
+496,Mongolia,1995,117
+496,Mongolia,2005,197
+496,Mongolia,2010,96
+496,Mongolia,2019,177
+496,Mongolia,2020,124
+496,Mongolia,2021,186
+499,Montenegro,2010,264
+499,Montenegro,2019,7
+499,Montenegro,2020,4
+504,Morocco,1985,313
+504,Morocco,1995,354
+504,Morocco,2005,556
+504,Morocco,2010,808
+504,Morocco,2019,357
+504,Morocco,2020,400
+504,Morocco,2021,745
+508,Mozambique,2005,14
+516,Namibia,2019,30
+516,Namibia,2020,21
+524,Nepal,1985,1
+524,Nepal,1995,1
+524,Nepal,2005,3
+528,Netherlands (Kingdom of the),1985,2145
+528,Netherlands (Kingdom of the),1995,673
+528,Netherlands (Kingdom of the),2005,2373
+528,Netherlands (Kingdom of the),2010,1947
+528,Netherlands (Kingdom of the),2019,1936
+528,Netherlands (Kingdom of the),2020,1911
+528,Netherlands (Kingdom of the),2021,2264
+554,New Zealand,1985,1732
+554,New Zealand,1995,2641
+554,New Zealand,2005,4189
+554,New Zealand,2010,4347
+554,New Zealand,2019,1642
+554,New Zealand,2020,1841
+554,New Zealand,2021,2149
+558,Nicaragua,1985,25
+558,Nicaragua,1995,1
+807,North Macedonia,1995,163
+807,North Macedonia,2005,373
+807,North Macedonia,2010,406
+807,North Macedonia,2020,22
+807,North Macedonia,2021,51
+578,Norway,1985,2165
+578,Norway,1995,2014
+578,Norway,2005,542
+578,Norway,2010,1631
+578,Norway,2019,1211
+578,Norway,2020,907
+578,Norway,2021,650
+512,Oman,2019,91
+512,Oman,2020,11
+586,Pakistan,1995,474
+586,Pakistan,2005,393
+586,Pakistan,2010,238
+586,Pakistan,2019,268
+586,Pakistan,2020,201
+586,Pakistan,2021,234
+591,Panama,1985,72
+591,Panama,1995,80
+591,Panama,2005,228
+591,Panama,2010,378
+591,Panama,2019,133
+591,Panama,2020,284
+591,Panama,2021,476
+598,Papua New Guinea,2019,4
+598,Papua New Guinea,2020,5
+600,Paraguay,1985,8
+600,Paraguay,2019,27
+600,Paraguay,2020,27
+604,Peru,1985,148
+604,Peru,2005,388
+604,Peru,2010,365
+604,Peru,2019,713
+604,Peru,2020,501
+604,Peru,2021,571
+608,Philippines,1985,1281
+608,Philippines,1995,589
+608,Philippines,2005,1642
+608,Philippines,2010,1153
+608,Philippines,2019,1458
+608,Philippines,2020,1002
+608,Philippines,2021,1449
+616,Poland,1985,4467
+616,Poland,1995,2608
+616,Poland,2005,2522
+616,Poland,2010,3004
+616,Poland,2019,3042
+616,Poland,2020,2308
+616,Poland,2021,3319
+620,Portugal,1985,960
+620,Portugal,1995,960
+620,Portugal,2005,231
+620,Portugal,2010,140
+620,Portugal,2019,80
+620,Portugal,2020,110
+620,Portugal,2021,191
+634,Qatar,2019,15
+634,Qatar,2020,4
+634,Qatar,2021,83
+410,Republic of Korea,1985,2268
+410,Republic of Korea,1995,12512
+410,Republic of Korea,2005,73512
+410,Republic of Korea,2010,68843
+410,Republic of Korea,2019,125661
+410,Republic of Korea,2020,134766
+410,Republic of Korea,2021,145882
+498,Republic of Moldova,1995,227
+498,Republic of Moldova,2005,269
+498,Republic of Moldova,2010,132
+498,Republic of Moldova,2019,57
+498,Republic of Moldova,2020,44
+498,Republic of Moldova,2021,69
+642,Romania,1985,2786
+642,Romania,1995,1860
+642,Romania,2005,759
+642,Romania,2010,447
+642,Romania,2019,357
+642,Romania,2020,367
+642,Romania,2021,376
+643,Russian Federation,1995,25633
+643,Russian Federation,2005,23390
+643,Russian Federation,2010,30322
+643,Russian Federation,2019,34008
+643,Russian Federation,2020,28788
+643,Russian Federation,2021,23662
+646,Rwanda,1985,1
+646,Rwanda,2005,3
+646,Rwanda,2019,75
+646,Rwanda,2021,13
+670,Saint Vincent & Grenadines,2019,2
+670,Saint Vincent & Grenadines,2020,19
+882,Samoa,1985,4
+882,Samoa,1995,2
+882,Samoa,2019,3
+882,Samoa,2021,3
+674,San Marino,2019,753
+674,San Marino,2020,715
+674,San Marino,2021,729
+682,Saudi Arabia,1995,3
+682,Saudi Arabia,2005,225
+682,Saudi Arabia,2010,194
+682,Saudi Arabia,2019,480
+682,Saudi Arabia,2020,705
+682,Saudi Arabia,2021,1746
+688,Serbia,2005,265
+688,Serbia,2010,427
+688,Serbia,2019,59
+688,Serbia,2020,65
+688,Serbia,2021,45
+690,Seychelles,1985,2
+690,Seychelles,1995,1
+690,Seychelles,2020,30
+690,Seychelles,2021,26
+694,Sierra Leone,1995,5
+702,Singapore,1985,416
+702,Singapore,1995,1750
+702,Singapore,2005,7530
+702,Singapore,2010,4442
+702,Singapore,2019,4188
+702,Singapore,2020,5386
+702,Singapore,2021,6488
+703,Slovakia,1995,381
+703,Slovakia,2005,560
+703,Slovakia,2010,376
+703,Slovakia,2019,91
+703,Slovakia,2020,89
+703,Slovakia,2021,106
+705,Slovenia,1995,380
+705,Slovenia,2005,285
+705,Slovenia,2010,250
+90,Solomon Islands,1985,4
+706,Somalia,1985,7
+710,South Africa,1985,6768
+710,South Africa,1995,5113
+710,South Africa,2005,1831
+710,South Africa,2010,5331
+710,South Africa,2019,6162
+710,South Africa,2020,3466
+710,South Africa,2021,6107
+724,Spain,1985,9115
+724,Spain,1995,686
+724,Spain,2005,2769
+724,Spain,2010,2773
+724,Spain,2019,1272
+724,Spain,2020,641
+724,Spain,2021,716
+144,Sri Lanka,1985,112
+144,Sri Lanka,1995,159
+144,Sri Lanka,2005,180
+144,Sri Lanka,2010,504
+144,Sri Lanka,2019,175
+144,Sri Lanka,2020,273
+144,Sri Lanka,2021,194
+729,Sudan,2005,174
+729,Sudan,2010,125
+729,Sudan,2019,139
+729,Sudan,2020,117
+752,Sweden,1985,5681
+752,Sweden,1995,1541
+752,Sweden,2005,1911
+752,Sweden,2010,1380
+752,Sweden,2019,920
+752,Sweden,2020,1534
+752,Sweden,2021,717
+756,Switzerland,1985,6421
+756,Switzerland,1995,1303
+756,Switzerland,2010,741
+756,Switzerland,2019,615
+756,Switzerland,2020,745
+756,Switzerland,2021,724
+760,Syrian Arab Republic,1995,71
+760,Syrian Arab Republic,2005,72
+760,Syrian Arab Republic,2019,58
+762,Tajikistan,1995,47
+762,Tajikistan,2010,3
+762,Tajikistan,2019,1
+764,Thailand,1985,45
+764,Thailand,1995,470
+764,Thailand,2005,553
+764,Thailand,2010,772
+764,Thailand,2019,3121
+764,Thailand,2020,3525
+764,Thailand,2021,2994
+780,Trinidad and Tobago,1995,87
+780,Trinidad and Tobago,2019,68
+780,Trinidad and Tobago,2020,67
+780,Trinidad and Tobago,2021,40
+788,Tunisia,1995,141
+788,Tunisia,2005,338
+788,Tunisia,2010,620
+788,Tunisia,2019,328
+792,Türkiye,1985,385
+792,Türkiye,1995,763
+792,Türkiye,2005,823
+792,Türkiye,2019,1941
+792,Türkiye,2020,2063
+792,Türkiye,2021,3387
+798,Tuvalu,2019,10
+798,Tuvalu,2020,10
+800,Uganda,1985,26
+800,Uganda,2019,1
+804,Ukraine,1995,1350
+804,Ukraine,2005,3719
+804,Ukraine,2010,3874
+804,Ukraine,2019,2255
+804,Ukraine,2020,2179
+804,Ukraine,2021,2298
+784,United Arab Emirates,2010,2
+784,United Arab Emirates,2019,1278
+784,United Arab Emirates,2020,506
+784,United Arab Emirates,2021,655
+826,United Kingdom,1985,20880
+826,United Kingdom,1995,9473
+826,United Kingdom,2005,10159
+826,United Kingdom,2010,5594
+826,United Kingdom,2019,5948
+826,United Kingdom,2020,9772
+826,United Kingdom,2021,10895
+834,United Rep. of Tanzania,1985,30
+834,United Rep. of Tanzania,2005,3
+834,United Rep. of Tanzania,2010,1
+834,United Rep. of Tanzania,2019,19
+834,United Rep. of Tanzania,2020,7
+834,United Rep. of Tanzania,2021,13
+840,United States of America,1985,71661
+840,United States of America,1995,101419
+840,United States of America,2005,143806
+840,United States of America,2010,219614
+840,United States of America,2019,354430
+840,United States of America,2020,351993
+840,United States of America,2021,327307
+858,Uruguay,1985,196
+858,Uruguay,1995,36
+858,Uruguay,2010,29
+860,Uzbekistan,1995,1233
+860,Uzbekistan,2005,407
+860,Uzbekistan,2010,192
+860,Uzbekistan,2019,378
+860,Uzbekistan,2020,278
+860,Uzbekistan,2021,298
+862,Venezuela (Boliv. Rep. of),1985,351
+862,Venezuela (Boliv. Rep. of),2019,81
+862,Venezuela (Boliv. Rep. of),2020,58
+704,Viet Nam,1995,56
+704,Viet Nam,2005,668
+704,Viet Nam,2010,822
+704,Viet Nam,2019,2620
+704,Viet Nam,2020,4319
+704,Viet Nam,2021,3691
+887,Yemen,2019,13
+887,Yemen,2020,19
+887,Yemen,2021,4
+894,Zambia,1985,74
+894,Zambia,1995,43
+894,Zambia,2005,14
+894,Zambia,2010,12
+894,Zambia,2019,9
+894,Zambia,2020,9
+716,Zimbabwe,1985,212
+716,Zimbabwe,1995,105
+716,Zimbabwe,2019,31
+716,Zimbabwe,2020,6
+716,Zimbabwe,2021,10

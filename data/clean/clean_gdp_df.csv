@@ -1,4 +1,4 @@
-country_name,time,gdp
+area,time,gdp
 Afghanistan,2000,3521418060
 Afghanistan,2001,2813571754
 Afghanistan,2002,3825701439
@@ -46,30 +46,30 @@ Africa Eastern and Southern,2020,929074000000
 Africa Eastern and Southern,2021,1086770000000
 Africa Eastern and Southern,2022,1183960000000
 Africa Eastern and Southern,2023,1236160000000
-Africa Western and Central,2000,142140000000
-Africa Western and Central,2001,149452000000
-Africa Western and Central,2002,178692000000
-Africa Western and Central,2003,206982000000
-Africa Western and Central,2004,256101000000
-Africa Western and Central,2005,312409000000
-Africa Western and Central,2006,397089000000
-Africa Western and Central,2007,465684000000
-Africa Western and Central,2008,567938000000
-Africa Western and Central,2009,508553000000
-Africa Western and Central,2010,598698000000
-Africa Western and Central,2011,682233000000
-Africa Western and Central,2012,737800000000
-Africa Western and Central,2013,834161000000
-Africa Western and Central,2014,894585000000
-Africa Western and Central,2015,769367000000
-Africa Western and Central,2016,692181000000
-Africa Western and Central,2017,685750000000
-Africa Western and Central,2018,768190000000
-Africa Western and Central,2019,823934000000
-Africa Western and Central,2020,787147000000
-Africa Western and Central,2021,845993000000
-Africa Western and Central,2022,877141000000
-Africa Western and Central,2023,796586000000
+Western and Central Africa,2000,142140000000
+Western and Central Africa,2001,149452000000
+Western and Central Africa,2002,178692000000
+Western and Central Africa,2003,206982000000
+Western and Central Africa,2004,256101000000
+Western and Central Africa,2005,312409000000
+Western and Central Africa,2006,397089000000
+Western and Central Africa,2007,465684000000
+Western and Central Africa,2008,567938000000
+Western and Central Africa,2009,508553000000
+Western and Central Africa,2010,598698000000
+Western and Central Africa,2011,682233000000
+Western and Central Africa,2012,737800000000
+Western and Central Africa,2013,834161000000
+Western and Central Africa,2014,894585000000
+Western and Central Africa,2015,769367000000
+Western and Central Africa,2016,692181000000
+Western and Central Africa,2017,685750000000
+Western and Central Africa,2018,768190000000
+Western and Central Africa,2019,823934000000
+Western and Central Africa,2020,787147000000
+Western and Central Africa,2021,845993000000
+Western and Central Africa,2022,877141000000
+Western and Central Africa,2023,796586000000
 Albania,2000,3480355258
 Albania,2001,3922100794
 Albania,2002,4348068242
@@ -378,30 +378,30 @@ Azerbaijan,2020,42693000000
 Azerbaijan,2021,54825411765
 Azerbaijan,2022,78807470588
 Azerbaijan,2023,72356176471
-"Bahamas, The",2000,8076470000
-"Bahamas, The",2001,8317830000
-"Bahamas, The",2002,8881160000
-"Bahamas, The",2003,8870090000
-"Bahamas, The",2004,9055290000
-"Bahamas, The",2005,9836200000
-"Bahamas, The",2006,10167250000
-"Bahamas, The",2007,10618340000
-"Bahamas, The",2008,10526000000
-"Bahamas, The",2009,9981960000
-"Bahamas, The",2010,10095760000
-"Bahamas, The",2011,10070450000
-"Bahamas, The",2012,10720500000
-"Bahamas, The",2013,10395800000
-"Bahamas, The",2014,10974100000
-"Bahamas, The",2015,11671900000
-"Bahamas, The",2016,11745100000
-"Bahamas, The",2017,12236700000
-"Bahamas, The",2018,12615800000
-"Bahamas, The",2019,13016200000
-"Bahamas, The",2020,9958200000
-"Bahamas, The",2021,11368900000
-"Bahamas, The",2022,13136400000
-"Bahamas, The",2023,14338500000
+The Bahamas,2000,8076470000
+The Bahamas,2001,8317830000
+The Bahamas,2002,8881160000
+The Bahamas,2003,8870090000
+The Bahamas,2004,9055290000
+The Bahamas,2005,9836200000
+The Bahamas,2006,10167250000
+The Bahamas,2007,10618340000
+The Bahamas,2008,10526000000
+The Bahamas,2009,9981960000
+The Bahamas,2010,10095760000
+The Bahamas,2011,10070450000
+The Bahamas,2012,10720500000
+The Bahamas,2013,10395800000
+The Bahamas,2014,10974100000
+The Bahamas,2015,11671900000
+The Bahamas,2016,11745100000
+The Bahamas,2017,12236700000
+The Bahamas,2018,12615800000
+The Bahamas,2019,13016200000
+The Bahamas,2020,9958200000
+The Bahamas,2021,11368900000
+The Bahamas,2022,13136400000
+The Bahamas,2023,14338500000
 Bahrain,2000,9062898936
 Bahrain,2001,8976196809
 Bahrain,2002,9593510638
@@ -712,30 +712,30 @@ Brazil,2020,1476110000000
 Brazil,2021,1670650000000
 Brazil,2022,1951920000000
 Brazil,2023,2173670000000
-Brunei Darussalam,2000,6001282104
-Brunei Darussalam,2001,5601018684
-Brunei Darussalam,2002,5843368268
-Brunei Darussalam,2003,6557397070
-Brunei Darussalam,2004,7872202803
-Brunei Darussalam,2005,9531420028
-Brunei Darussalam,2006,11470464771
-Brunei Darussalam,2007,12247677994
-Brunei Darussalam,2008,14393434225
-Brunei Darussalam,2009,10732595016
-Brunei Darussalam,2010,13707280260
-Brunei Darussalam,2011,18525128526
-Brunei Darussalam,2012,19048443341
-Brunei Darussalam,2013,18094321617
-Brunei Darussalam,2014,17097802753
-Brunei Darussalam,2015,12930291488
-Brunei Darussalam,2016,11400466356
-Brunei Darussalam,2017,12128183904
-Brunei Darussalam,2018,13566937674
-Brunei Darussalam,2019,13469235365
-Brunei Darussalam,2020,12005799654
-Brunei Darussalam,2021,14006496617
-Brunei Darussalam,2022,16681536467
-Brunei Darussalam,2023,15128292954
+Brunei,2000,6001282104
+Brunei,2001,5601018684
+Brunei,2002,5843368268
+Brunei,2003,6557397070
+Brunei,2004,7872202803
+Brunei,2005,9531420028
+Brunei,2006,11470464771
+Brunei,2007,12247677994
+Brunei,2008,14393434225
+Brunei,2009,10732595016
+Brunei,2010,13707280260
+Brunei,2011,18525128526
+Brunei,2012,19048443341
+Brunei,2013,18094321617
+Brunei,2014,17097802753
+Brunei,2015,12930291488
+Brunei,2016,11400466356
+Brunei,2017,12128183904
+Brunei,2018,13566937674
+Brunei,2019,13469235365
+Brunei,2020,12005799654
+Brunei,2021,14006496617
+Brunei,2022,16681536467
+Brunei,2023,15128292954
 Bulgaria,2000,13245990274
 Bulgaria,2001,14183446026
 Bulgaria,2002,16403043850
@@ -904,30 +904,6 @@ Canada,2020,1655680000000
 Canada,2021,2007470000000
 Canada,2022,2161480000000
 Canada,2023,2140090000000
-Caribbean small states,2000,17467367619
-Caribbean small states,2001,17638376241
-Caribbean small states,2002,18687788780
-Caribbean small states,2003,19248879363
-Caribbean small states,2004,20281937834
-Caribbean small states,2005,22208371015
-Caribbean small states,2006,25923714994
-Caribbean small states,2007,28067234200
-Caribbean small states,2008,29396279802
-Caribbean small states,2009,28708191271
-Caribbean small states,2010,29715534449
-Caribbean small states,2011,30344564229
-Caribbean small states,2012,32052386052
-Caribbean small states,2013,32390809157
-Caribbean small states,2014,33462282321
-Caribbean small states,2015,34538256118
-Caribbean small states,2016,33451252507
-Caribbean small states,2017,34921587493
-Caribbean small states,2018,36225416548
-Caribbean small states,2019,37621010338
-Caribbean small states,2020,31378030001
-Caribbean small states,2021,36706592899
-Caribbean small states,2022,48138054139
-Caribbean small states,2023,53252637670
 Cayman Islands,2006,4200288282
 Cayman Islands,2007,4466278031
 Cayman Islands,2008,4585948969
@@ -1128,54 +1104,54 @@ Comoros,2020,1225039197
 Comoros,2021,1296089480
 Comoros,2022,1242519408
 Comoros,2023,1352380972
-"Congo, Dem. Rep.",2000,19088046306
-"Congo, Dem. Rep.",2001,7438189100
-"Congo, Dem. Rep.",2002,8728038525
-"Congo, Dem. Rep.",2003,8937567060
-"Congo, Dem. Rep.",2004,10297483481
-"Congo, Dem. Rep.",2005,11964484466
-"Congo, Dem. Rep.",2006,14451901696
-"Congo, Dem. Rep.",2007,16737071816
-"Congo, Dem. Rep.",2008,19788515590
-"Congo, Dem. Rep.",2009,18648372553
-"Congo, Dem. Rep.",2010,21565721045
-"Congo, Dem. Rep.",2011,25839749199
-"Congo, Dem. Rep.",2012,29306235285
-"Congo, Dem. Rep.",2013,32679745048
-"Congo, Dem. Rep.",2014,35909040926
-"Congo, Dem. Rep.",2015,37917706497
-"Congo, Dem. Rep.",2016,37134801555
-"Congo, Dem. Rep.",2017,38019264795
-"Congo, Dem. Rep.",2018,47568210010
-"Congo, Dem. Rep.",2019,51775829877
-"Congo, Dem. Rep.",2020,48716961860
-"Congo, Dem. Rep.",2021,55328482784
-"Congo, Dem. Rep.",2022,65801547620
-"Congo, Dem. Rep.",2023,66383287003
-"Congo, Rep.",2000,3227927698
-"Congo, Rep.",2001,2796704604
-"Congo, Rep.",2002,3034250924
-"Congo, Rep.",2003,3503723088
-"Congo, Rep.",2004,4656974940
-"Congo, Rep.",2005,6650001680
-"Congo, Rep.",2006,8072305029
-"Congo, Rep.",2007,8782703437
-"Congo, Rep.",2008,11649857673
-"Congo, Rep.",2009,9723299915
-"Congo, Rep.",2010,13148396212
-"Congo, Rep.",2011,15655383577
-"Congo, Rep.",2012,17692911296
-"Congo, Rep.",2013,17958720699
-"Congo, Rep.",2014,17919321083
-"Congo, Rep.",2015,12434793868
-"Congo, Rep.",2016,10931328150
-"Congo, Rep.",2017,11834473048
-"Congo, Rep.",2018,14773900278
-"Congo, Rep.",2019,13976637329
-"Congo, Rep.",2020,11468688141
-"Congo, Rep.",2021,14825690210
-"Congo, Rep.",2022,15817030157
-"Congo, Rep.",2023,15321055818
+Democratic Republic of the Congo,2000,19088046306
+Democratic Republic of the Congo,2001,7438189100
+Democratic Republic of the Congo,2002,8728038525
+Democratic Republic of the Congo,2003,8937567060
+Democratic Republic of the Congo,2004,10297483481
+Democratic Republic of the Congo,2005,11964484466
+Democratic Republic of the Congo,2006,14451901696
+Democratic Republic of the Congo,2007,16737071816
+Democratic Republic of the Congo,2008,19788515590
+Democratic Republic of the Congo,2009,18648372553
+Democratic Republic of the Congo,2010,21565721045
+Democratic Republic of the Congo,2011,25839749199
+Democratic Republic of the Congo,2012,29306235285
+Democratic Republic of the Congo,2013,32679745048
+Democratic Republic of the Congo,2014,35909040926
+Democratic Republic of the Congo,2015,37917706497
+Democratic Republic of the Congo,2016,37134801555
+Democratic Republic of the Congo,2017,38019264795
+Democratic Republic of the Congo,2018,47568210010
+Democratic Republic of the Congo,2019,51775829877
+Democratic Republic of the Congo,2020,48716961860
+Democratic Republic of the Congo,2021,55328482784
+Democratic Republic of the Congo,2022,65801547620
+Democratic Republic of the Congo,2023,66383287003
+Democratic Republic of the Congo,2000,3227927698
+Democratic Republic of the Congo,2001,2796704604
+Democratic Republic of the Congo,2002,3034250924
+Democratic Republic of the Congo,2003,3503723088
+Democratic Republic of the Congo,2004,4656974940
+Democratic Republic of the Congo,2005,6650001680
+Democratic Republic of the Congo,2006,8072305029
+Democratic Republic of the Congo,2007,8782703437
+Democratic Republic of the Congo,2008,11649857673
+Democratic Republic of the Congo,2009,9723299915
+Democratic Republic of the Congo,2010,13148396212
+Democratic Republic of the Congo,2011,15655383577
+Democratic Republic of the Congo,2012,17692911296
+Democratic Republic of the Congo,2013,17958720699
+Democratic Republic of the Congo,2014,17919321083
+Democratic Republic of the Congo,2015,12434793868
+Democratic Republic of the Congo,2016,10931328150
+Democratic Republic of the Congo,2017,11834473048
+Democratic Republic of the Congo,2018,14773900278
+Democratic Republic of the Congo,2019,13976637329
+Democratic Republic of the Congo,2020,11468688141
+Democratic Republic of the Congo,2021,14825690210
+Democratic Republic of the Congo,2022,15817030157
+Democratic Republic of the Congo,2023,15321055818
 Costa Rica,2000,15013629659
 Costa Rica,2001,15976174337
 Costa Rica,2002,16578820687
@@ -1200,30 +1176,30 @@ Costa Rica,2020,62395610760
 Costa Rica,2021,64960725734
 Costa Rica,2022,69243626029
 Costa Rica,2023,86497941439
-Cote d'Ivoire,2000,16577533892
-Cote d'Ivoire,2001,16810537044
-Cote d'Ivoire,2002,18054383321
-Cote d'Ivoire,2003,21251754340
-Cote d'Ivoire,2004,23510575681
-Cote d'Ivoire,2005,24036918703
-Cote d'Ivoire,2006,25281413263
-Cote d'Ivoire,2007,28760090953
-Cote d'Ivoire,2008,34078240293
-Cote d'Ivoire,2009,33886813250
-Cote d'Ivoire,2010,34936307980
-Cote d'Ivoire,2011,36693710801
-Cote d'Ivoire,2012,36302302877
-Cote d'Ivoire,2013,42760235485
-Cote d'Ivoire,2014,48843005614
-Cote d'Ivoire,2015,45815005169
-Cote d'Ivoire,2016,48407761037
-Cote d'Ivoire,2017,52512343997
-Cote d'Ivoire,2018,58522477787
-Cote d'Ivoire,2019,60382894697
-Cote d'Ivoire,2020,63027852805
-Cote d'Ivoire,2021,72794636654
-Cote d'Ivoire,2022,70173140101
-Cote d'Ivoire,2023,78788828907
+Ivory Coast,2000,16577533892
+Ivory Coast,2001,16810537044
+Ivory Coast,2002,18054383321
+Ivory Coast,2003,21251754340
+Ivory Coast,2004,23510575681
+Ivory Coast,2005,24036918703
+Ivory Coast,2006,25281413263
+Ivory Coast,2007,28760090953
+Ivory Coast,2008,34078240293
+Ivory Coast,2009,33886813250
+Ivory Coast,2010,34936307980
+Ivory Coast,2011,36693710801
+Ivory Coast,2012,36302302877
+Ivory Coast,2013,42760235485
+Ivory Coast,2014,48843005614
+Ivory Coast,2015,45815005169
+Ivory Coast,2016,48407761037
+Ivory Coast,2017,52512343997
+Ivory Coast,2018,58522477787
+Ivory Coast,2019,60382894697
+Ivory Coast,2020,63027852805
+Ivory Coast,2021,72794636654
+Ivory Coast,2022,70173140101
+Ivory Coast,2023,78788828907
 Croatia,2000,22128414549
 Croatia,2001,23062561237
 Croatia,2002,26757989561
@@ -1425,102 +1401,6 @@ Dominican Republic,2020,78844656298
 Dominican Republic,2021,94243425938
 Dominican Republic,2022,113537000000
 Dominican Republic,2023,121444000000
-Early-demographic dividend,2000,3377700000000
-Early-demographic dividend,2001,3351140000000
-Early-demographic dividend,2002,3255000000000
-Early-demographic dividend,2003,3622990000000
-Early-demographic dividend,2004,4210080000000
-Early-demographic dividend,2005,4895870000000
-Early-demographic dividend,2006,5596740000000
-Early-demographic dividend,2007,6624830000000
-Early-demographic dividend,2008,7460090000000
-Early-demographic dividend,2009,7172730000000
-Early-demographic dividend,2010,8708210000000
-Early-demographic dividend,2011,9813800000000
-Early-demographic dividend,2012,10261800000000
-Early-demographic dividend,2013,10406800000000
-Early-demographic dividend,2014,10766600000000
-Early-demographic dividend,2015,10237000000000
-Early-demographic dividend,2016,10537000000000
-Early-demographic dividend,2017,11393400000000
-Early-demographic dividend,2018,11524400000000
-Early-demographic dividend,2019,11767700000000
-Early-demographic dividend,2020,10981000000000
-Early-demographic dividend,2021,12771300000000
-Early-demographic dividend,2022,14131100000000
-Early-demographic dividend,2023,14847800000000
-East Asia & Pacific,2000,8377360000000
-East Asia & Pacific,2001,7789510000000
-East Asia & Pacific,2002,7912760000000
-East Asia & Pacific,2003,8702210000000
-East Asia & Pacific,2004,9758440000000
-East Asia & Pacific,2005,10411300000000
-East Asia & Pacific,2006,11034800000000
-East Asia & Pacific,2007,12331200000000
-East Asia & Pacific,2008,14220100000000
-East Asia & Pacific,2009,14630600000000
-East Asia & Pacific,2010,17078100000000
-East Asia & Pacific,2011,19796900000000
-East Asia & Pacific,2012,21174200000000
-East Asia & Pacific,2013,21411300000000
-East Asia & Pacific,2014,22089700000000
-East Asia & Pacific,2015,21995300000000
-East Asia & Pacific,2016,22776000000000
-East Asia & Pacific,2017,24329100000000
-East Asia & Pacific,2018,26487900000000
-East Asia & Pacific,2019,27032500000000
-East Asia & Pacific,2020,27156500000000
-East Asia & Pacific,2021,31148200000000
-East Asia & Pacific,2022,30663800000000
-East Asia & Pacific,2023,30775700000000
-East Asia & Pacific (IDA & IBRD countries),2000,1734140000000
-East Asia & Pacific (IDA & IBRD countries),2001,1844980000000
-East Asia & Pacific (IDA & IBRD countries),2002,2041980000000
-East Asia & Pacific (IDA & IBRD countries),2003,2311140000000
-East Asia & Pacific (IDA & IBRD countries),2004,2679770000000
-East Asia & Pacific (IDA & IBRD countries),2005,3104020000000
-East Asia & Pacific (IDA & IBRD countries),2006,3738300000000
-East Asia & Pacific (IDA & IBRD countries),2007,4726060000000
-East Asia & Pacific (IDA & IBRD countries),2008,5979820000000
-East Asia & Pacific (IDA & IBRD countries),2009,6483350000000
-East Asia & Pacific (IDA & IBRD countries),2010,7890860000000
-East Asia & Pacific (IDA & IBRD countries),2011,9638850000000
-East Asia & Pacific (IDA & IBRD countries),2012,10746700000000
-East Asia & Pacific (IDA & IBRD countries),2013,11855500000000
-East Asia & Pacific (IDA & IBRD countries),2014,12784500000000
-East Asia & Pacific (IDA & IBRD countries),2015,13306900000000
-East Asia & Pacific (IDA & IBRD countries),2016,13597900000000
-East Asia & Pacific (IDA & IBRD countries),2017,14862800000000
-East Asia & Pacific (IDA & IBRD countries),2018,16619900000000
-East Asia & Pacific (IDA & IBRD countries),2019,17192000000000
-East Asia & Pacific (IDA & IBRD countries),2020,17465800000000
-East Asia & Pacific (IDA & IBRD countries),2021,20814300000000
-East Asia & Pacific (IDA & IBRD countries),2022,21087700000000
-East Asia & Pacific (IDA & IBRD countries),2023,21124100000000
-East Asia & Pacific (excluding high income),2000,1736140000000
-East Asia & Pacific (excluding high income),2001,1847120000000
-East Asia & Pacific (excluding high income),2002,2044360000000
-East Asia & Pacific (excluding high income),2003,2313860000000
-East Asia & Pacific (excluding high income),2004,2682940000000
-East Asia & Pacific (excluding high income),2005,3107690000000
-East Asia & Pacific (excluding high income),2006,3742770000000
-East Asia & Pacific (excluding high income),2007,4731770000000
-East Asia & Pacific (excluding high income),2008,5987100000000
-East Asia & Pacific (excluding high income),2009,6491260000000
-East Asia & Pacific (excluding high income),2010,7900540000000
-East Asia & Pacific (excluding high income),2011,9650690000000
-East Asia & Pacific (excluding high income),2012,10759900000000
-East Asia & Pacific (excluding high income),2013,11870100000000
-East Asia & Pacific (excluding high income),2014,12800200000000
-East Asia & Pacific (excluding high income),2015,13323200000000
-East Asia & Pacific (excluding high income),2016,13614600000000
-East Asia & Pacific (excluding high income),2017,14881100000000
-East Asia & Pacific (excluding high income),2018,16640400000000
-East Asia & Pacific (excluding high income),2019,17213200000000
-East Asia & Pacific (excluding high income),2020,17487300000000
-East Asia & Pacific (excluding high income),2021,20840000000000
-East Asia & Pacific (excluding high income),2022,21113800000000
-East Asia & Pacific (excluding high income),2023,21150200000000
 Ecuador,2000,17539454727
 Ecuador,2001,23127055000
 Ecuador,2002,27054197000
@@ -1545,30 +1425,30 @@ Ecuador,2020,95865472000
 Ecuador,2021,107435000000
 Ecuador,2022,116586000000
 Ecuador,2023,118845000000
-"Egypt, Arab Rep.",2000,99838543960
-"Egypt, Arab Rep.",2001,96684636119
-"Egypt, Arab Rep.",2002,85146067416
-"Egypt, Arab Rep.",2003,80288461538
-"Egypt, Arab Rep.",2004,78782467532
-"Egypt, Arab Rep.",2005,89600665557
-"Egypt, Arab Rep.",2006,107426000000
-"Egypt, Arab Rep.",2007,130438000000
-"Egypt, Arab Rep.",2008,162818000000
-"Egypt, Arab Rep.",2009,189147000000
-"Egypt, Arab Rep.",2010,218984000000
-"Egypt, Arab Rep.",2011,235990000000
-"Egypt, Arab Rep.",2012,279117000000
-"Egypt, Arab Rep.",2013,288434000000
-"Egypt, Arab Rep.",2014,305595000000
-"Egypt, Arab Rep.",2015,329367000000
-"Egypt, Arab Rep.",2016,332442000000
-"Egypt, Arab Rep.",2017,248363000000
-"Egypt, Arab Rep.",2018,262589000000
-"Egypt, Arab Rep.",2019,318679000000
-"Egypt, Arab Rep.",2020,383818000000
-"Egypt, Arab Rep.",2021,424672000000
-"Egypt, Arab Rep.",2022,476748000000
-"Egypt, Arab Rep.",2023,395926000000
+Egypt,2000,99838543960
+Egypt,2001,96684636119
+Egypt,2002,85146067416
+Egypt,2003,80288461538
+Egypt,2004,78782467532
+Egypt,2005,89600665557
+Egypt,2006,107426000000
+Egypt,2007,130438000000
+Egypt,2008,162818000000
+Egypt,2009,189147000000
+Egypt,2010,218984000000
+Egypt,2011,235990000000
+Egypt,2012,279117000000
+Egypt,2013,288434000000
+Egypt,2014,305595000000
+Egypt,2015,329367000000
+Egypt,2016,332442000000
+Egypt,2017,248363000000
+Egypt,2018,262589000000
+Egypt,2019,318679000000
+Egypt,2020,383818000000
+Egypt,2021,424672000000
+Egypt,2022,476748000000
+Egypt,2023,395926000000
 El Salvador,2000,11784927700
 El Salvador,2001,12282533600
 El Salvador,2002,12664190300
@@ -1701,102 +1581,54 @@ Ethiopia,2020,107658000000
 Ethiopia,2021,111262000000
 Ethiopia,2022,126773000000
 Ethiopia,2023,163698000000
-Euro area,2000,6517630000000
-Euro area,2001,6619380000000
-Euro area,2002,7226690000000
-Euro area,2003,8897550000000
-Euro area,2004,10202200000000
-Euro area,2005,10568600000000
-Euro area,2006,11233600000000
-Euro area,2007,12938400000000
-Euro area,2008,14226800000000
-Euro area,2009,13000700000000
-Euro area,2010,12700600000000
-Euro area,2011,13700800000000
-Euro area,2012,12695700000000
-Euro area,2013,13255700000000
-Euro area,2014,13570100000000
-Euro area,2015,11727100000000
-Euro area,2016,12025900000000
-Euro area,2017,12736900000000
-Euro area,2018,13761100000000
-Euro area,2019,13481100000000
-Euro area,2020,13155200000000
-Euro area,2021,14754600000000
-Euro area,2022,14224300000000
-Euro area,2023,15544900000000
-Europe & Central Asia,2000,10065900000000
-Europe & Central Asia,2001,10168300000000
-Europe & Central Asia,2002,11134300000000
-Europe & Central Asia,2003,13534600000000
-Europe & Central Asia,2004,15775500000000
-Europe & Central Asia,2005,16780900000000
-Europe & Central Asia,2006,18167700000000
-Europe & Central Asia,2007,21227700000000
-Europe & Central Asia,2008,23363300000000
-Europe & Central Asia,2009,20545100000000
-Europe & Central Asia,2010,21016500000000
-Europe & Central Asia,2011,23306000000000
-Europe & Central Asia,2012,22453700000000
-Europe & Central Asia,2013,23455000000000
-Europe & Central Asia,2014,23784400000000
-Europe & Central Asia,2015,20481500000000
-Europe & Central Asia,2016,20408600000000
-Europe & Central Asia,2017,21652800000000
-Europe & Central Asia,2018,23188700000000
-Europe & Central Asia,2019,22908200000000
-Europe & Central Asia,2020,22156500000000
-Europe & Central Asia,2021,25331400000000
-Europe & Central Asia,2022,25389300000000
-Europe & Central Asia,2023,27240600000000
-Europe & Central Asia (IDA & IBRD countries),2000,894544000000
-Europe & Central Asia (IDA & IBRD countries),2001,909540000000
-Europe & Central Asia (IDA & IBRD countries),2002,1022700000000
-Europe & Central Asia (IDA & IBRD countries),2003,1258200000000
-Europe & Central Asia (IDA & IBRD countries),2004,1628010000000
-Europe & Central Asia (IDA & IBRD countries),2005,2039290000000
-Europe & Central Asia (IDA & IBRD countries),2006,2466360000000
-Europe & Central Asia (IDA & IBRD countries),2007,3172400000000
-Europe & Central Asia (IDA & IBRD countries),2008,3926840000000
-Europe & Central Asia (IDA & IBRD countries),2009,3113740000000
-Europe & Central Asia (IDA & IBRD countries),2010,3657870000000
-Europe & Central Asia (IDA & IBRD countries),2011,4450220000000
-Europe & Central Asia (IDA & IBRD countries),2012,4646860000000
-Europe & Central Asia (IDA & IBRD countries),2013,4915750000000
-Europe & Central Asia (IDA & IBRD countries),2014,4644400000000
-Europe & Central Asia (IDA & IBRD countries),2015,3627950000000
-Europe & Central Asia (IDA & IBRD countries),2016,3486200000000
-Europe & Central Asia (IDA & IBRD countries),2017,3909730000000
-Europe & Central Asia (IDA & IBRD countries),2018,4077640000000
-Europe & Central Asia (IDA & IBRD countries),2019,4159710000000
-Europe & Central Asia (IDA & IBRD countries),2020,3900800000000
-Europe & Central Asia (IDA & IBRD countries),2021,4623630000000
-Europe & Central Asia (IDA & IBRD countries),2022,5220070000000
-Europe & Central Asia (IDA & IBRD countries),2023,5466280000000
-Europe & Central Asia (excluding high income),2000,390255000000
-Europe & Central Asia (excluding high income),2001,334433000000
-Europe & Central Asia (excluding high income),2002,389029000000
-Europe & Central Asia (excluding high income),2003,495996000000
-Europe & Central Asia (excluding high income),2004,639129000000
-Europe & Central Asia (excluding high income),2005,796047000000
-Europe & Central Asia (excluding high income),2006,925984000000
-Europe & Central Asia (excluding high income),2007,1165480000000
-Europe & Central Asia (excluding high income),2008,1395060000000
-Europe & Central Asia (excluding high income),2009,1163140000000
-Europe & Central Asia (excluding high income),2010,1377630000000
-Europe & Central Asia (excluding high income),2011,1566800000000
-Europe & Central Asia (excluding high income),2012,1652510000000
-Europe & Central Asia (excluding high income),2013,1802290000000
-Europe & Central Asia (excluding high income),2014,1729710000000
-Europe & Central Asia (excluding high income),2015,1507650000000
-Europe & Central Asia (excluding high income),2016,1447400000000
-Europe & Central Asia (excluding high income),2017,1485110000000
-Europe & Central Asia (excluding high income),2018,1459980000000
-Europe & Central Asia (excluding high income),2019,1488770000000
-Europe & Central Asia (excluding high income),2020,1428330000000
-Europe & Central Asia (excluding high income),2021,1659440000000
-Europe & Central Asia (excluding high income),2022,1803040000000
-Europe & Central Asia (excluding high income),2023,2098350000000
+,2000,6517630000000
+,2001,6619380000000
+,2002,7226690000000
+,2003,8897550000000
+,2004,10202200000000
+,2005,10568600000000
+,2006,11233600000000
+,2007,12938400000000
+,2008,14226800000000
+,2009,13000700000000
+,2010,12700600000000
+,2011,13700800000000
+,2012,12695700000000
+,2013,13255700000000
+,2014,13570100000000
+,2015,11727100000000
+,2016,12025900000000
+,2017,12736900000000
+,2018,13761100000000
+,2019,13481100000000
+,2020,13155200000000
+,2021,14754600000000
+,2022,14224300000000
+,2023,15544900000000
+Europe and Central Asia,2000,10065900000000
+Europe and Central Asia,2001,10168300000000
+Europe and Central Asia,2002,11134300000000
+Europe and Central Asia,2003,13534600000000
+Europe and Central Asia,2004,15775500000000
+Europe and Central Asia,2005,16780900000000
+Europe and Central Asia,2006,18167700000000
+Europe and Central Asia,2007,21227700000000
+Europe and Central Asia,2008,23363300000000
+Europe and Central Asia,2009,20545100000000
+Europe and Central Asia,2010,21016500000000
+Europe and Central Asia,2011,23306000000000
+Europe and Central Asia,2012,22453700000000
+Europe and Central Asia,2013,23455000000000
+Europe and Central Asia,2014,23784400000000
+Europe and Central Asia,2015,20481500000000
+Europe and Central Asia,2016,20408600000000
+Europe and Central Asia,2017,21652800000000
+Europe and Central Asia,2018,23188700000000
+Europe and Central Asia,2019,22908200000000
+Europe and Central Asia,2020,22156500000000
+Europe and Central Asia,2021,25331400000000
+Europe and Central Asia,2022,25389300000000
+Europe and Central Asia,2023,27240600000000
 European Union,2000,7276390000000
 European Union,2001,7393610000000
 European Union,2002,8083520000000
@@ -1892,30 +1724,6 @@ Finland,2020,271886000000
 Finland,2021,296470000000
 Finland,2022,281887000000
 Finland,2023,300187000000
-Fragile and conflict affected situations,2000,468036000000
-Fragile and conflict affected situations,2001,458017000000
-Fragile and conflict affected situations,2002,446929000000
-Fragile and conflict affected situations,2003,470618000000
-Fragile and conflict affected situations,2004,596965000000
-Fragile and conflict affected situations,2005,755161000000
-Fragile and conflict affected situations,2006,945955000000
-Fragile and conflict affected situations,2007,1159330000000
-Fragile and conflict affected situations,2008,1481950000000
-Fragile and conflict affected situations,2009,1342730000000
-Fragile and conflict affected situations,2010,1593980000000
-Fragile and conflict affected situations,2011,1664320000000
-Fragile and conflict affected situations,2012,1861810000000
-Fragile and conflict affected situations,2013,1935540000000
-Fragile and conflict affected situations,2014,2053790000000
-Fragile and conflict affected situations,2015,1617320000000
-Fragile and conflict affected situations,2016,1490630000000
-Fragile and conflict affected situations,2017,1549710000000
-Fragile and conflict affected situations,2018,1735180000000
-Fragile and conflict affected situations,2019,1842150000000
-Fragile and conflict affected situations,2020,1690930000000
-Fragile and conflict affected situations,2021,1796270000000
-Fragile and conflict affected situations,2022,1950010000000
-Fragile and conflict affected situations,2023,1906800000000
 France,2000,1365640000000
 France,2001,1377660000000
 France,2002,1501410000000
@@ -1987,30 +1795,30 @@ Gabon,2020,15314577168
 Gabon,2021,20217946921
 Gabon,2022,21071739228
 Gabon,2023,20516134389
-"Gambia, The",2000,782913871
-"Gambia, The",2001,687410645
-"Gambia, The",2002,578235309
-"Gambia, The",2003,487038685
-"Gambia, The",2004,961900651
-"Gambia, The",2005,1027701068
-"Gambia, The",2006,1054112488
-"Gambia, The",2007,1279703047
-"Gambia, The",2008,1561766956
-"Gambia, The",2009,1450142509
-"Gambia, The",2010,1543294927
-"Gambia, The",2011,1409693597
-"Gambia, The",2012,1415004738
-"Gambia, The",2013,1375609453
-"Gambia, The",2014,1229461721
-"Gambia, The",2015,1378176609
-"Gambia, The",2016,1484578886
-"Gambia, The",2017,1504909463
-"Gambia, The",2018,1670671328
-"Gambia, The",2019,1813609692
-"Gambia, The",2020,1812170891
-"Gambia, The",2021,2014158843
-"Gambia, The",2022,2175099790
-"Gambia, The",2023,2339904157
+Gambia,2000,782913871
+Gambia,2001,687410645
+Gambia,2002,578235309
+Gambia,2003,487038685
+Gambia,2004,961900651
+Gambia,2005,1027701068
+Gambia,2006,1054112488
+Gambia,2007,1279703047
+Gambia,2008,1561766956
+Gambia,2009,1450142509
+Gambia,2010,1543294927
+Gambia,2011,1409693597
+Gambia,2012,1415004738
+Gambia,2013,1375609453
+Gambia,2014,1229461721
+Gambia,2015,1378176609
+Gambia,2016,1484578886
+Gambia,2017,1504909463
+Gambia,2018,1670671328
+Gambia,2019,1813609692
+Gambia,2020,1812170891
+Gambia,2021,2014158843
+Gambia,2022,2175099790
+Gambia,2023,2339904157
 Georgia,2000,3057475335
 Georgia,2001,3219462262
 Georgia,2002,3395766678
@@ -2294,54 +2102,6 @@ Haiti,2020,14508222518
 Haiti,2021,20877414953
 Haiti,2022,20253551921
 Haiti,2023,19850829758
-Heavily indebted poor countries (HIPC),2000,181381000000
-Heavily indebted poor countries (HIPC),2001,174623000000
-Heavily indebted poor countries (HIPC),2002,189453000000
-Heavily indebted poor countries (HIPC),2003,214946000000
-Heavily indebted poor countries (HIPC),2004,247743000000
-Heavily indebted poor countries (HIPC),2005,283838000000
-Heavily indebted poor countries (HIPC),2006,332982000000
-Heavily indebted poor countries (HIPC),2007,397470000000
-Heavily indebted poor countries (HIPC),2008,472367000000
-Heavily indebted poor countries (HIPC),2009,468776000000
-Heavily indebted poor countries (HIPC),2010,509062000000
-Heavily indebted poor countries (HIPC),2011,564065000000
-Heavily indebted poor countries (HIPC),2012,583888000000
-Heavily indebted poor countries (HIPC),2013,655856000000
-Heavily indebted poor countries (HIPC),2014,694344000000
-Heavily indebted poor countries (HIPC),2015,667302000000
-Heavily indebted poor countries (HIPC),2016,674512000000
-Heavily indebted poor countries (HIPC),2017,724758000000
-Heavily indebted poor countries (HIPC),2018,774607000000
-Heavily indebted poor countries (HIPC),2019,803356000000
-Heavily indebted poor countries (HIPC),2020,811360000000
-Heavily indebted poor countries (HIPC),2021,902263000000
-Heavily indebted poor countries (HIPC),2022,981675000000
-Heavily indebted poor countries (HIPC),2023,1130470000000
-High income,2000,28036700000000
-High income,2001,27811100000000
-High income,2002,29022800000000
-High income,2003,32575000000000
-High income,2004,36387600000000
-High income,2005,38623900000000
-High income,2006,40986100000000
-High income,2007,45098600000000
-High income,2008,48338200000000
-High income,2009,44940300000000
-High income,2010,47340300000000
-High income,2011,51525000000000
-High income,2012,51710000000000
-High income,2013,52439900000000
-High income,2014,53310200000000
-High income,2015,49773100000000
-High income,2016,50737200000000
-High income,2017,53336800000000
-High income,2018,56684600000000
-High income,2019,57218300000000
-High income,2020,55791100000000
-High income,2021,62461000000000
-High income,2022,64444400000000
-High income,2023,67653700000000
 Honduras,2000,7186638029
 Honduras,2001,7651162302
 Honduras,2002,7858255413
@@ -2366,30 +2126,30 @@ Honduras,2020,23352232484
 Honduras,2021,28144331507
 Honduras,2022,31426041807
 Honduras,2023,34400509852
-"Hong Kong SAR, China",2000,171669000000
-"Hong Kong SAR, China",2001,169404000000
-"Hong Kong SAR, China",2002,166349000000
-"Hong Kong SAR, China",2003,161386000000
-"Hong Kong SAR, China",2004,169100000000
-"Hong Kong SAR, China",2005,181569000000
-"Hong Kong SAR, China",2006,193535000000
-"Hong Kong SAR, China",2007,211597000000
-"Hong Kong SAR, China",2008,219279000000
-"Hong Kong SAR, China",2009,214048000000
-"Hong Kong SAR, China",2010,228639000000
-"Hong Kong SAR, China",2011,248514000000
-"Hong Kong SAR, China",2012,262629000000
-"Hong Kong SAR, China",2013,275697000000
-"Hong Kong SAR, China",2014,291460000000
-"Hong Kong SAR, China",2015,309386000000
-"Hong Kong SAR, China",2016,320860000000
-"Hong Kong SAR, China",2017,341273000000
-"Hong Kong SAR, China",2018,361731000000
-"Hong Kong SAR, China",2019,363075000000
-"Hong Kong SAR, China",2020,344943000000
-"Hong Kong SAR, China",2021,368954000000
-"Hong Kong SAR, China",2022,358696000000
-"Hong Kong SAR, China",2023,382055000000
+Hong Kong,2000,171669000000
+Hong Kong,2001,169404000000
+Hong Kong,2002,166349000000
+Hong Kong,2003,161386000000
+Hong Kong,2004,169100000000
+Hong Kong,2005,181569000000
+Hong Kong,2006,193535000000
+Hong Kong,2007,211597000000
+Hong Kong,2008,219279000000
+Hong Kong,2009,214048000000
+Hong Kong,2010,228639000000
+Hong Kong,2011,248514000000
+Hong Kong,2012,262629000000
+Hong Kong,2013,275697000000
+Hong Kong,2014,291460000000
+Hong Kong,2015,309386000000
+Hong Kong,2016,320860000000
+Hong Kong,2017,341273000000
+Hong Kong,2018,361731000000
+Hong Kong,2019,363075000000
+Hong Kong,2020,344943000000
+Hong Kong,2021,368954000000
+Hong Kong,2022,358696000000
+Hong Kong,2023,382055000000
 Hungary,2000,47218405892
 Hungary,2001,53749989092
 Hungary,2002,67608919144
@@ -2414,126 +2174,6 @@ Hungary,2020,157289000000
 Hungary,2021,182110000000
 Hungary,2022,177006000000
 Hungary,2023,212389000000
-IBRD only,2000,5873250000000
-IBRD only,2001,5954920000000
-IBRD only,2002,6043650000000
-IBRD only,2003,6788180000000
-IBRD only,2004,8085420000000
-IBRD only,2005,9658000000000
-IBRD only,2006,11453300000000
-IBRD only,2007,14221800000000
-IBRD only,2008,17060900000000
-IBRD only,2009,16541800000000
-IBRD only,2010,20112000000000
-IBRD only,2011,23807300000000
-IBRD only,2012,25304700000000
-IBRD only,2013,26693500000000
-IBRD only,2014,27592800000000
-IBRD only,2015,25838400000000
-IBRD only,2016,26027800000000
-IBRD only,2017,28745200000000
-IBRD only,2018,30579300000000
-IBRD only,2019,31246600000000
-IBRD only,2020,30103900000000
-IBRD only,2021,35740400000000
-IBRD only,2022,37733200000000
-IBRD only,2023,38733000000000
-IDA & IBRD total,2000,6390530000000
-IDA & IBRD total,2001,6465890000000
-IDA & IBRD total,2002,6593950000000
-IDA & IBRD total,2003,7408770000000
-IDA & IBRD total,2004,8811150000000
-IDA & IBRD total,2005,10499900000000
-IDA & IBRD total,2006,12458300000000
-IDA & IBRD total,2007,15401400000000
-IDA & IBRD total,2008,18465800000000
-IDA & IBRD total,2009,17913100000000
-IDA & IBRD total,2010,21693500000000
-IDA & IBRD total,2011,25594600000000
-IDA & IBRD total,2012,27188500000000
-IDA & IBRD total,2013,28743700000000
-IDA & IBRD total,2014,29800900000000
-IDA & IBRD total,2015,27987300000000
-IDA & IBRD total,2016,28169500000000
-IDA & IBRD total,2017,30960100000000
-IDA & IBRD total,2018,32964100000000
-IDA & IBRD total,2019,33722400000000
-IDA & IBRD total,2020,32528600000000
-IDA & IBRD total,2021,38379000000000
-IDA & IBRD total,2022,40567000000000
-IDA & IBRD total,2023,41559700000000
-IDA blend,2000,226799000000
-IDA blend,2001,226318000000
-IDA blend,2002,248463000000
-IDA blend,2003,280424000000
-IDA blend,2004,340143000000
-IDA blend,2005,402542000000
-IDA blend,2006,498778000000
-IDA blend,2007,578188000000
-IDA blend,2008,677188000000
-IDA blend,2009,631413000000
-IDA blend,2010,741312000000
-IDA blend,2011,847545000000
-IDA blend,2012,941696000000
-IDA blend,2013,1023670000000
-IDA blend,2014,1110560000000
-IDA blend,2015,1054060000000
-IDA blend,2016,984096000000
-IDA blend,2017,967438000000
-IDA blend,2018,1056910000000
-IDA blend,2019,1077750000000
-IDA blend,2020,1009470000000
-IDA blend,2021,1104600000000
-IDA blend,2022,1183660000000
-IDA blend,2023,1044020000000
-IDA only,2000,291558000000
-IDA only,2001,285482000000
-IDA only,2002,303011000000
-IDA only,2003,341510000000
-IDA only,2004,386660000000
-IDA only,2005,440101000000
-IDA only,2006,506609000000
-IDA only,2007,601254000000
-IDA only,2008,727719000000
-IDA only,2009,739884000000
-IDA only,2010,840161000000
-IDA only,2011,939785000000
-IDA only,2012,942115000000
-IDA only,2013,1026530000000
-IDA only,2014,1097550000000
-IDA only,2015,1093640000000
-IDA only,2016,1156610000000
-IDA only,2017,1247730000000
-IDA only,2018,1327890000000
-IDA only,2019,1397670000000
-IDA only,2020,1414560000000
-IDA only,2021,1535390000000
-IDA only,2022,1651360000000
-IDA only,2023,1786070000000
-IDA total,2000,517721000000
-IDA total,2001,511239000000
-IDA total,2002,550996000000
-IDA total,2003,621400000000
-IDA total,2004,726523000000
-IDA total,2005,842543000000
-IDA total,2006,1005780000000
-IDA total,2007,1179710000000
-IDA total,2008,1404910000000
-IDA total,2009,1371300000000
-IDA total,2010,1581470000000
-IDA total,2011,1787330000000
-IDA total,2012,1883810000000
-IDA total,2013,2050190000000
-IDA total,2014,2208110000000
-IDA total,2015,2147700000000
-IDA total,2016,2140700000000
-IDA total,2017,2215170000000
-IDA total,2018,2384800000000
-IDA total,2019,2475420000000
-IDA total,2020,2424030000000
-IDA total,2021,2639990000000
-IDA total,2022,2835000000000
-IDA total,2023,2828040000000
 Iceland,2000,9025660362
 Iceland,2001,8234846805
 Iceland,2002,9318395055
@@ -2606,30 +2246,30 @@ Indonesia,2020,1059050000000
 Indonesia,2021,1186510000000
 Indonesia,2022,1319080000000
 Indonesia,2023,1371170000000
-"Iran, Islamic Rep.",2000,109592000000
-"Iran, Islamic Rep.",2001,126879000000
-"Iran, Islamic Rep.",2002,128627000000
-"Iran, Islamic Rep.",2003,153545000000
-"Iran, Islamic Rep.",2004,190043000000
-"Iran, Islamic Rep.",2005,226452000000
-"Iran, Islamic Rep.",2006,266299000000
-"Iran, Islamic Rep.",2007,349882000000
-"Iran, Islamic Rep.",2008,412336000000
-"Iran, Islamic Rep.",2009,416397000000
-"Iran, Islamic Rep.",2010,486808000000
-"Iran, Islamic Rep.",2011,626133000000
-"Iran, Islamic Rep.",2012,644036000000
-"Iran, Islamic Rep.",2013,492776000000
-"Iran, Islamic Rep.",2014,460383000000
-"Iran, Islamic Rep.",2015,408213000000
-"Iran, Islamic Rep.",2016,457955000000
-"Iran, Islamic Rep.",2017,486630000000
-"Iran, Islamic Rep.",2018,329692000000
-"Iran, Islamic Rep.",2019,283650000000
-"Iran, Islamic Rep.",2020,239735000000
-"Iran, Islamic Rep.",2021,359097000000
-"Iran, Islamic Rep.",2022,413395000000
-"Iran, Islamic Rep.",2023,401505000000
+Iran,2000,109592000000
+Iran,2001,126879000000
+Iran,2002,128627000000
+Iran,2003,153545000000
+Iran,2004,190043000000
+Iran,2005,226452000000
+Iran,2006,266299000000
+Iran,2007,349882000000
+Iran,2008,412336000000
+Iran,2009,416397000000
+Iran,2010,486808000000
+Iran,2011,626133000000
+Iran,2012,644036000000
+Iran,2013,492776000000
+Iran,2014,460383000000
+Iran,2015,408213000000
+Iran,2016,457955000000
+Iran,2017,486630000000
+Iran,2018,329692000000
+Iran,2019,283650000000
+Iran,2020,239735000000
+Iran,2021,359097000000
+Iran,2022,413395000000
+Iran,2023,401505000000
 Iraq,2000,48364250944
 Iraq,2001,36176430129
 Iraq,2002,32928454672
@@ -2892,30 +2532,30 @@ Kiribati,2020,222973879
 Kiribati,2021,289207526
 Kiribati,2022,270520731
 Kiribati,2023,279034355
-"Korea, Rep.",2000,576179000000
-"Korea, Rep.",2001,547656000000
-"Korea, Rep.",2002,627247000000
-"Korea, Rep.",2003,702715000000
-"Korea, Rep.",2004,793176000000
-"Korea, Rep.",2005,934901000000
-"Korea, Rep.",2006,1053220000000
-"Korea, Rep.",2007,1172610000000
-"Korea, Rep.",2008,1047340000000
-"Korea, Rep.",2009,943942000000
-"Korea, Rep.",2010,1143670000000
-"Korea, Rep.",2011,1253290000000
-"Korea, Rep.",2012,1278050000000
-"Korea, Rep.",2013,1370630000000
-"Korea, Rep.",2014,1484490000000
-"Korea, Rep.",2015,1466040000000
-"Korea, Rep.",2016,1499680000000
-"Korea, Rep.",2017,1623070000000
-"Korea, Rep.",2018,1725370000000
-"Korea, Rep.",2019,1651420000000
-"Korea, Rep.",2020,1644310000000
-"Korea, Rep.",2021,1818430000000
-"Korea, Rep.",2022,1673920000000
-"Korea, Rep.",2023,1712790000000
+South Korea,2000,576179000000
+South Korea,2001,547656000000
+South Korea,2002,627247000000
+South Korea,2003,702715000000
+South Korea,2004,793176000000
+South Korea,2005,934901000000
+South Korea,2006,1053220000000
+South Korea,2007,1172610000000
+South Korea,2008,1047340000000
+South Korea,2009,943942000000
+South Korea,2010,1143670000000
+South Korea,2011,1253290000000
+South Korea,2012,1278050000000
+South Korea,2013,1370630000000
+South Korea,2014,1484490000000
+South Korea,2015,1466040000000
+South Korea,2016,1499680000000
+South Korea,2017,1623070000000
+South Korea,2018,1725370000000
+South Korea,2019,1651420000000
+South Korea,2020,1644310000000
+South Korea,2021,1818430000000
+South Korea,2022,1673920000000
+South Korea,2023,1712790000000
 Kosovo,2008,5181776769
 Kosovo,2009,5015894693
 Kosovo,2010,5343950556
@@ -2956,150 +2596,78 @@ Kuwait,2020,107513000000
 Kuwait,2021,141777000000
 Kuwait,2022,182809000000
 Kuwait,2023,161772000000
-Kyrgyz Republic,2000,1369688498
-Kyrgyz Republic,2001,1525116370
-Kyrgyz Republic,2002,1605643105
-Kyrgyz Republic,2003,1919008090
-Kyrgyz Republic,2004,2211534585
-Kyrgyz Republic,2005,2460246766
-Kyrgyz Republic,2006,2834168889
-Kyrgyz Republic,2007,3802570553
-Kyrgyz Republic,2008,5139958909
-Kyrgyz Republic,2009,4690061381
-Kyrgyz Republic,2010,4794361863
-Kyrgyz Republic,2011,6197765984
-Kyrgyz Republic,2012,6605142884
-Kyrgyz Republic,2013,7335033801
-Kyrgyz Republic,2014,7468102413
-Kyrgyz Republic,2015,6678177512
-Kyrgyz Republic,2016,6813095379
-Kyrgyz Republic,2017,7702938379
-Kyrgyz Republic,2018,8271106235
-Kyrgyz Republic,2019,9371275264
-Kyrgyz Republic,2020,8270468614
-Kyrgyz Republic,2021,9249133946
-Kyrgyz Republic,2022,12134931018
-Kyrgyz Republic,2023,13987627909
-Lao PDR,2000,1731198022
-Lao PDR,2001,1768619058
-Lao PDR,2002,1758176653
-Lao PDR,2003,2023324407
-Lao PDR,2004,2366398120
-Lao PDR,2005,2735558735
-Lao PDR,2006,3455030061
-Lao PDR,2007,4223152739
-Lao PDR,2008,5446433157
-Lao PDR,2009,5836137330
-Lao PDR,2010,7131771015
-Lao PDR,2011,8750104617
-Lao PDR,2012,10192846339
-Lao PDR,2013,11983252627
-Lao PDR,2014,13279245886
-Lao PDR,2015,14426380126
-Lao PDR,2016,15912501723
-Lao PDR,2017,17071155481
-Lao PDR,2018,18141641090
-Lao PDR,2019,18740561513
-Lao PDR,2020,18981805250
-Lao PDR,2021,18827148531
-Lao PDR,2022,15468785204
-Lao PDR,2023,15843155731
-Late-demographic dividend,2000,3410310000000
-Late-demographic dividend,2001,3525090000000
-Late-demographic dividend,2002,3736800000000
-Late-demographic dividend,2003,4257950000000
-Late-demographic dividend,2004,5117290000000
-Late-demographic dividend,2005,6172910000000
-Late-demographic dividend,2006,7448570000000
-Late-demographic dividend,2007,9382450000000
-Late-demographic dividend,2008,11663600000000
-Late-demographic dividend,2009,11269400000000
-Late-demographic dividend,2010,13564300000000
-Late-demographic dividend,2011,16530400000000
-Late-demographic dividend,2012,17680700000000
-Late-demographic dividend,2013,19042400000000
-Late-demographic dividend,2014,19776300000000
-Late-demographic dividend,2015,18550900000000
-Late-demographic dividend,2016,18593600000000
-Late-demographic dividend,2017,20631100000000
-Late-demographic dividend,2018,22623600000000
-Late-demographic dividend,2019,23050200000000
-Late-demographic dividend,2020,22531200000000
-Late-demographic dividend,2021,26872800000000
-Late-demographic dividend,2022,28062600000000
-Late-demographic dividend,2023,28341400000000
-Latin America & Caribbean,2000,2326170000000
-Latin America & Caribbean,2001,2281660000000
-Latin America & Caribbean,2002,2051650000000
-Latin America & Caribbean,2003,2090650000000
-Latin America & Caribbean,2004,2404140000000
-Latin America & Caribbean,2005,2901840000000
-Latin America & Caribbean,2006,3395770000000
-Latin America & Caribbean,2007,3997430000000
-Latin America & Caribbean,2008,4642690000000
-Latin America & Caribbean,2009,4355870000000
-Latin America & Caribbean,2010,5395520000000
-Latin America & Caribbean,2011,6137300000000
-Latin America & Caribbean,2012,6209020000000
-Latin America & Caribbean,2013,6362330000000
-Latin America & Caribbean,2014,6483200000000
-Latin America & Caribbean,2015,5418290000000
-Latin America & Caribbean,2016,5283310000000
-Latin America & Caribbean,2017,5866480000000
-Latin America & Caribbean,2018,5742640000000
-Latin America & Caribbean,2019,5659970000000
-Latin America & Caribbean,2020,4804920000000
-Latin America & Caribbean,2021,5578000000000
-Latin America & Caribbean,2022,6341680000000
-Latin America & Caribbean,2023,7094330000000
-Latin America & Caribbean (excluding high income),2000,2001500000000
-Latin America & Caribbean (excluding high income),2001,1951440000000
-Latin America & Caribbean (excluding high income),2002,1757080000000
-Latin America & Caribbean (excluding high income),2003,1793950000000
-Latin America & Caribbean (excluding high income),2004,2043680000000
-Latin America & Caribbean (excluding high income),2005,2470500000000
-Latin America & Caribbean (excluding high income),2006,2881090000000
-Latin America & Caribbean (excluding high income),2007,3401600000000
-Latin America & Caribbean (excluding high income),2008,3931410000000
-Latin America & Caribbean (excluding high income),2009,3643240000000
-Latin America & Caribbean (excluding high income),2010,4556440000000
-Latin America & Caribbean (excluding high income),2011,5320450000000
-Latin America & Caribbean (excluding high income),2012,5297860000000
-Latin America & Caribbean (excluding high income),2013,5436630000000
-Latin America & Caribbean (excluding high income),2014,5457290000000
-Latin America & Caribbean (excluding high income),2015,4634560000000
-Latin America & Caribbean (excluding high income),2016,4496980000000
-Latin America & Caribbean (excluding high income),2017,5012880000000
-Latin America & Caribbean (excluding high income),2018,4870400000000
-Latin America & Caribbean (excluding high income),2019,4804550000000
-Latin America & Caribbean (excluding high income),2020,4046820000000
-Latin America & Caribbean (excluding high income),2021,4690740000000
-Latin America & Caribbean (excluding high income),2022,5389510000000
-Latin America & Caribbean (excluding high income),2023,6050580000000
-Latin America & the Caribbean (IDA & IBRD countries),2000,2214790000000
-Latin America & the Caribbean (IDA & IBRD countries),2001,2161570000000
-Latin America & the Caribbean (IDA & IBRD countries),2002,1927470000000
-Latin America & the Caribbean (IDA & IBRD countries),2003,1960570000000
-Latin America & the Caribbean (IDA & IBRD countries),2004,2264750000000
-Latin America & the Caribbean (IDA & IBRD countries),2005,2751720000000
-Latin America & the Caribbean (IDA & IBRD countries),2006,3234380000000
-Latin America & the Caribbean (IDA & IBRD countries),2007,3826510000000
-Latin America & the Caribbean (IDA & IBRD countries),2008,4465250000000
-Latin America & the Caribbean (IDA & IBRD countries),2009,4176120000000
-Latin America & the Caribbean (IDA & IBRD countries),2010,5210710000000
-Latin America & the Caribbean (IDA & IBRD countries),2011,5940250000000
-Latin America & the Caribbean (IDA & IBRD countries),2012,6005860000000
-Latin America & the Caribbean (IDA & IBRD countries),2013,6154590000000
-Latin America & the Caribbean (IDA & IBRD countries),2014,6270840000000
-Latin America & the Caribbean (IDA & IBRD countries),2015,5194840000000
-Latin America & the Caribbean (IDA & IBRD countries),2016,5053700000000
-Latin America & the Caribbean (IDA & IBRD countries),2017,5631950000000
-Latin America & the Caribbean (IDA & IBRD countries),2018,5506070000000
-Latin America & the Caribbean (IDA & IBRD countries),2019,5413990000000
-Latin America & the Caribbean (IDA & IBRD countries),2020,4561300000000
-Latin America & the Caribbean (IDA & IBRD countries),2021,5310340000000
-Latin America & the Caribbean (IDA & IBRD countries),2022,6045250000000
-Latin America & the Caribbean (IDA & IBRD countries),2023,6772780000000
+Kyrgyztan,2000,1369688498
+Kyrgyztan,2001,1525116370
+Kyrgyztan,2002,1605643105
+Kyrgyztan,2003,1919008090
+Kyrgyztan,2004,2211534585
+Kyrgyztan,2005,2460246766
+Kyrgyztan,2006,2834168889
+Kyrgyztan,2007,3802570553
+Kyrgyztan,2008,5139958909
+Kyrgyztan,2009,4690061381
+Kyrgyztan,2010,4794361863
+Kyrgyztan,2011,6197765984
+Kyrgyztan,2012,6605142884
+Kyrgyztan,2013,7335033801
+Kyrgyztan,2014,7468102413
+Kyrgyztan,2015,6678177512
+Kyrgyztan,2016,6813095379
+Kyrgyztan,2017,7702938379
+Kyrgyztan,2018,8271106235
+Kyrgyztan,2019,9371275264
+Kyrgyztan,2020,8270468614
+Kyrgyztan,2021,9249133946
+Kyrgyztan,2022,12134931018
+Kyrgyztan,2023,13987627909
+Laos,2000,1731198022
+Laos,2001,1768619058
+Laos,2002,1758176653
+Laos,2003,2023324407
+Laos,2004,2366398120
+Laos,2005,2735558735
+Laos,2006,3455030061
+Laos,2007,4223152739
+Laos,2008,5446433157
+Laos,2009,5836137330
+Laos,2010,7131771015
+Laos,2011,8750104617
+Laos,2012,10192846339
+Laos,2013,11983252627
+Laos,2014,13279245886
+Laos,2015,14426380126
+Laos,2016,15912501723
+Laos,2017,17071155481
+Laos,2018,18141641090
+Laos,2019,18740561513
+Laos,2020,18981805250
+Laos,2021,18827148531
+Laos,2022,15468785204
+Laos,2023,15843155731
+Latin America and the Caribbean,2000,2326170000000
+Latin America and the Caribbean,2001,2281660000000
+Latin America and the Caribbean,2002,2051650000000
+Latin America and the Caribbean,2003,2090650000000
+Latin America and the Caribbean,2004,2404140000000
+Latin America and the Caribbean,2005,2901840000000
+Latin America and the Caribbean,2006,3395770000000
+Latin America and the Caribbean,2007,3997430000000
+Latin America and the Caribbean,2008,4642690000000
+Latin America and the Caribbean,2009,4355870000000
+Latin America and the Caribbean,2010,5395520000000
+Latin America and the Caribbean,2011,6137300000000
+Latin America and the Caribbean,2012,6209020000000
+Latin America and the Caribbean,2013,6362330000000
+Latin America and the Caribbean,2014,6483200000000
+Latin America and the Caribbean,2015,5418290000000
+Latin America and the Caribbean,2016,5283310000000
+Latin America and the Caribbean,2017,5866480000000
+Latin America and the Caribbean,2018,5742640000000
+Latin America and the Caribbean,2019,5659970000000
+Latin America and the Caribbean,2020,4804920000000
+Latin America and the Caribbean,2021,5578000000000
+Latin America and the Caribbean,2022,6341680000000
+Latin America and the Caribbean,2023,7094330000000
 Latvia,2000,7958852839
 Latvia,2001,8362398702
 Latvia,2002,9557031605
@@ -3124,30 +2692,6 @@ Latvia,2020,34390910339
 Latvia,2021,39443126174
 Latvia,2022,40422521943
 Latvia,2023,43627078481
-Least developed countries: UN classification,2000,224221000000
-Least developed countries: UN classification,2001,215386000000
-Least developed countries: UN classification,2002,235507000000
-Least developed countries: UN classification,2003,266569000000
-Least developed countries: UN classification,2004,306201000000
-Least developed countries: UN classification,2005,360879000000
-Least developed countries: UN classification,2006,417525000000
-Least developed countries: UN classification,2007,501270000000
-Least developed countries: UN classification,2008,614415000000
-Least developed countries: UN classification,2009,608427000000
-Least developed countries: UN classification,2010,687433000000
-Least developed countries: UN classification,2011,783931000000
-Least developed countries: UN classification,2012,819266000000
-Least developed countries: UN classification,2013,892429000000
-Least developed countries: UN classification,2014,959618000000
-Least developed countries: UN classification,2015,920865000000
-Least developed countries: UN classification,2016,936562000000
-Least developed countries: UN classification,2017,1025060000000
-Least developed countries: UN classification,2018,1090420000000
-Least developed countries: UN classification,2019,1150500000000
-Least developed countries: UN classification,2020,1162020000000
-Least developed countries: UN classification,2021,1266740000000
-Least developed countries: UN classification,2022,1424620000000
-Least developed countries: UN classification,2023,1504250000000
 Lebanon,2000,17260364842
 Lebanon,2001,17649751244
 Lebanon,2002,19152238806
@@ -3290,78 +2834,6 @@ Lithuania,2020,56964942999
 Lithuania,2021,66798933786
 Lithuania,2022,71013953448
 Lithuania,2023,77836396963
-Low & middle income,2000,5680270000000
-Low & middle income,2001,5687810000000
-Low & middle income,2002,5796550000000
-Low & middle income,2003,6487370000000
-Low & middle income,2004,7609730000000
-Low & middle income,2005,8985210000000
-Low & middle income,2006,10575600000000
-Low & middle income,2007,12982500000000
-Low & middle income,2008,15416300000000
-Low & middle income,2009,15446600000000
-Low & middle income,2010,18779500000000
-Low & middle income,2011,22115500000000
-Low & middle income,2012,23512200000000
-Low & middle income,2013,24940300000000
-Low & middle income,2014,26101800000000
-Low & middle income,2015,25326500000000
-Low & middle income,2016,25586600000000
-Low & middle income,2017,27933300000000
-Low & middle income,2018,29703700000000
-Low & middle income,2019,30424500000000
-Low & middle income,2020,29491900000000
-Low & middle income,2021,34735000000000
-Low & middle income,2022,36438600000000
-Low & middle income,2023,37425200000000
-Low income,2000,123909000000
-Low income,2001,116418000000
-Low income,2002,128028000000
-Low income,2003,142979000000
-Low income,2004,167197000000
-Low income,2005,199723000000
-Low income,2006,232209000000
-Low income,2007,282894000000
-Low income,2008,340460000000
-Low income,2009,338898000000
-Low income,2010,372941000000
-Low income,2011,404515000000
-Low income,2012,381702000000
-Low income,2013,394195000000
-Low income,2014,422084000000
-Low income,2015,416121000000
-Low income,2016,383742000000
-Low income,2017,401921000000
-Low income,2018,418228000000
-Low income,2019,445278000000
-Low income,2020,439782000000
-Low income,2021,466421000000
-Low income,2022,530579000000
-Low income,2023,646798000000
-Lower middle income,2000,1185530000000
-Lower middle income,2001,1197960000000
-Lower middle income,2002,1264000000000
-Lower middle income,2003,1433890000000
-Lower middle income,2004,1649440000000
-Lower middle income,2005,1900260000000
-Lower middle income,2006,2225370000000
-Lower middle income,2007,2723530000000
-Lower middle income,2008,3012630000000
-Lower middle income,2009,3141140000000
-Lower middle income,2010,3780030000000
-Lower middle income,2011,4217830000000
-Lower middle income,2012,4456530000000
-Lower middle income,2013,4712910000000
-Lower middle income,2014,5090400000000
-Lower middle income,2015,5083700000000
-Lower middle income,2016,5297560000000
-Lower middle income,2017,5693070000000
-Lower middle income,2018,5979740000000
-Lower middle income,2019,6278110000000
-Lower middle income,2020,6081790000000
-Lower middle income,2021,6894340000000
-Lower middle income,2022,7341100000000
-Lower middle income,2023,7384750000000
 Luxembourg,2000,21230182989
 Luxembourg,2001,21387533703
 Luxembourg,2002,23649833332
@@ -3386,30 +2858,30 @@ Luxembourg,2020,73699366700
 Luxembourg,2021,85584105994
 Luxembourg,2022,81641807866
 Luxembourg,2023,85755006124
-"Macao SAR, China",2000,6774193548
-"Macao SAR, China",2001,6860272608
-"Macao SAR, China",2002,7371692774
-"Macao SAR, China",2003,8246479566
-"Macao SAR, China",2004,10643253553
-"Macao SAR, China",2005,12160056122
-"Macao SAR, China",2006,14874098692
-"Macao SAR, China",2007,18439981612
-"Macao SAR, China",2008,21027018333
-"Macao SAR, China",2009,21587786906
-"Macao SAR, China",2010,28241798492
-"Macao SAR, China",2011,36845888757
-"Macao SAR, China",2012,43189721377
-"Macao SAR, China",2013,51536595089
-"Macao SAR, China",2014,54902831794
-"Macao SAR, China",2015,45048190598
-"Macao SAR, China",2016,45070808689
-"Macao SAR, China",2017,50383871121
-"Macao SAR, China",2018,55190661340
-"Macao SAR, China",2019,55082293844
-"Macao SAR, China",2020,25343525936
-"Macao SAR, China",2021,30969334705
-"Macao SAR, China",2022,24464719190
-"Macao SAR, China",2023,47061843716
+Macao,2000,6774193548
+Macao,2001,6860272608
+Macao,2002,7371692774
+Macao,2003,8246479566
+Macao,2004,10643253553
+Macao,2005,12160056122
+Macao,2006,14874098692
+Macao,2007,18439981612
+Macao,2008,21027018333
+Macao,2009,21587786906
+Macao,2010,28241798492
+Macao,2011,36845888757
+Macao,2012,43189721377
+Macao,2013,51536595089
+Macao,2014,54902831794
+Macao,2015,45048190598
+Macao,2016,45070808689
+Macao,2017,50383871121
+Macao,2018,55190661340
+Macao,2019,55082293844
+Macao,2020,25343525936
+Macao,2021,30969334705
+Macao,2022,24464719190
+Macao,2023,47061843716
 Madagascar,2000,4629247204
 Madagascar,2001,5438332602
 Madagascar,2002,5351701663
@@ -3650,126 +3122,30 @@ Mexico,2020,1120830000000
 Mexico,2021,1313070000000
 Mexico,2022,1463320000000
 Mexico,2023,1788890000000
-"Micronesia, Fed. Sts.",2000,233271800
-"Micronesia, Fed. Sts.",2001,240970900
-"Micronesia, Fed. Sts.",2002,242517200
-"Micronesia, Fed. Sts.",2003,245432900
-"Micronesia, Fed. Sts.",2004,240236000
-"Micronesia, Fed. Sts.",2005,250281900
-"Micronesia, Fed. Sts.",2006,253541900
-"Micronesia, Fed. Sts.",2007,256787200
-"Micronesia, Fed. Sts.",2008,263145100
-"Micronesia, Fed. Sts.",2009,280284600
-"Micronesia, Fed. Sts.",2010,296944100
-"Micronesia, Fed. Sts.",2011,311301600
-"Micronesia, Fed. Sts.",2012,327248700
-"Micronesia, Fed. Sts.",2013,317214400
-"Micronesia, Fed. Sts.",2014,319271200
-"Micronesia, Fed. Sts.",2015,316489900
-"Micronesia, Fed. Sts.",2016,325000000
-"Micronesia, Fed. Sts.",2017,359000000
-"Micronesia, Fed. Sts.",2018,392000000
-"Micronesia, Fed. Sts.",2019,394000000
-"Micronesia, Fed. Sts.",2020,372000000
-"Micronesia, Fed. Sts.",2021,390000000
-"Micronesia, Fed. Sts.",2022,430000000
-"Micronesia, Fed. Sts.",2023,460000000
-Middle East & North Africa,2000,992556000000
-Middle East & North Africa,2001,987484000000
-Middle East & North Africa,2002,979352000000
-Middle East & North Africa,2003,1090480000000
-Middle East & North Africa,2004,1286310000000
-Middle East & North Africa,2005,1542090000000
-Middle East & North Africa,2006,1810950000000
-Middle East & North Africa,2007,2140270000000
-Middle East & North Africa,2008,2674260000000
-Middle East & North Africa,2009,2399660000000
-Middle East & North Africa,2010,2820270000000
-Middle East & North Africa,2011,3396710000000
-Middle East & North Africa,2012,3660140000000
-Middle East & North Africa,2013,3601730000000
-Middle East & North Africa,2014,3627620000000
-Middle East & North Africa,2015,3201010000000
-Middle East & North Africa,2016,3234260000000
-Middle East & North Africa,2017,3372000000000
-Middle East & North Africa,2018,3538060000000
-Middle East & North Africa,2019,3549950000000
-Middle East & North Africa,2020,3199080000000
-Middle East & North Africa,2021,3780280000000
-Middle East & North Africa,2022,4497120000000
-Middle East & North Africa,2023,4287680000000
-Middle East & North Africa (IDA & IBRD countries),2000,470236000000
-Middle East & North Africa (IDA & IBRD countries),2001,476451000000
-Middle East & North Africa (IDA & IBRD countries),2002,459607000000
-Middle East & North Africa (IDA & IBRD countries),2003,505492000000
-Middle East & North Africa (IDA & IBRD countries),2004,599986000000
-Middle East & North Africa (IDA & IBRD countries),2005,702010000000
-Middle East & North Africa (IDA & IBRD countries),2006,822975000000
-Middle East & North Africa (IDA & IBRD countries),2007,1010440000000
-Middle East & North Africa (IDA & IBRD countries),2008,1252790000000
-Middle East & North Africa (IDA & IBRD countries),2009,1213170000000
-Middle East & North Africa (IDA & IBRD countries),2010,1403550000000
-Middle East & North Africa (IDA & IBRD countries),2011,1643530000000
-Middle East & North Africa (IDA & IBRD countries),2012,1770680000000
-Middle East & North Africa (IDA & IBRD countries),2013,1630480000000
-Middle East & North Africa (IDA & IBRD countries),2014,1612000000000
-Middle East & North Africa (IDA & IBRD countries),2015,1446610000000
-Middle East & North Africa (IDA & IBRD countries),2016,1481310000000
-Middle East & North Africa (IDA & IBRD countries),2017,1480560000000
-Middle East & North Africa (IDA & IBRD countries),2018,1405210000000
-Middle East & North Africa (IDA & IBRD countries),2019,1416000000000
-Middle East & North Africa (IDA & IBRD countries),2020,1308830000000
-Middle East & North Africa (IDA & IBRD countries),2021,1517190000000
-Middle East & North Africa (IDA & IBRD countries),2022,1740950000000
-Middle East & North Africa (IDA & IBRD countries),2023,1629170000000
-Middle East & North Africa (excluding high income),2000,474549000000
-Middle East & North Africa (excluding high income),2001,480454000000
-Middle East & North Africa (excluding high income),2002,463163000000
-Middle East & North Africa (excluding high income),2003,509460000000
-Middle East & North Africa (excluding high income),2004,604589000000
-Middle East & North Africa (excluding high income),2005,707135000000
-Middle East & North Africa (excluding high income),2006,828323000000
-Middle East & North Africa (excluding high income),2007,1016250000000
-Middle East & North Africa (excluding high income),2008,1260100000000
-Middle East & North Africa (excluding high income),2009,1221250000000
-Middle East & North Africa (excluding high income),2010,1413230000000
-Middle East & North Africa (excluding high income),2011,1654720000000
-Middle East & North Africa (excluding high income),2012,1782890000000
-Middle East & North Africa (excluding high income),2013,1643990000000
-Middle East & North Africa (excluding high income),2014,1625990000000
-Middle East & North Africa (excluding high income),2015,1460580000000
-Middle East & North Africa (excluding high income),2016,1496710000000
-Middle East & North Africa (excluding high income),2017,1496690000000
-Middle East & North Africa (excluding high income),2018,1421480000000
-Middle East & North Africa (excluding high income),2019,1433130000000
-Middle East & North Africa (excluding high income),2020,1324360000000
-Middle East & North Africa (excluding high income),2021,1535300000000
-Middle East & North Africa (excluding high income),2022,1760100000000
-Middle East & North Africa (excluding high income),2023,1646550000000
-Middle income,2000,5557880000000
-Middle income,2001,5572270000000
-Middle income,2002,5670210000000
-Middle income,2003,6346260000000
-Middle income,2004,7444670000000
-Middle income,2005,8788210000000
-Middle income,2006,10346300000000
-Middle income,2007,12703100000000
-Middle income,2008,15080300000000
-Middle income,2009,15112100000000
-Middle income,2010,18410300000000
-Middle income,2011,21713900000000
-Middle income,2012,23131500000000
-Middle income,2013,24546700000000
-Middle income,2014,25680700000000
-Middle income,2015,24911700000000
-Middle income,2016,25202600000000
-Middle income,2017,27530300000000
-Middle income,2018,29284000000000
-Middle income,2019,29978500000000
-Middle income,2020,29051700000000
-Middle income,2021,34266100000000
-Middle income,2022,35907900000000
-Middle income,2023,36786900000000
+Micronesia,2000,233271800
+Micronesia,2001,240970900
+Micronesia,2002,242517200
+Micronesia,2003,245432900
+Micronesia,2004,240236000
+Micronesia,2005,250281900
+Micronesia,2006,253541900
+Micronesia,2007,256787200
+Micronesia,2008,263145100
+Micronesia,2009,280284600
+Micronesia,2010,296944100
+Micronesia,2011,311301600
+Micronesia,2012,327248700
+Micronesia,2013,317214400
+Micronesia,2014,319271200
+Micronesia,2015,316489900
+Micronesia,2016,325000000
+Micronesia,2017,359000000
+Micronesia,2018,392000000
+Micronesia,2019,394000000
+Micronesia,2020,372000000
+Micronesia,2021,390000000
+Micronesia,2022,430000000
+Micronesia,2023,460000000
 Moldova,2000,1288429392
 Moldova,2001,1480673594
 Moldova,2002,1661818168
@@ -4243,30 +3619,6 @@ Norway,2020,367633000000
 Norway,2021,503368000000
 Norway,2022,593727000000
 Norway,2023,485513000000
-OECD members,2000,27669600000000
-OECD members,2001,27415400000000
-OECD members,2002,28601700000000
-OECD members,2003,31985400000000
-OECD members,2004,35608800000000
-OECD members,2005,37648200000000
-OECD members,2006,39718300000000
-OECD members,2007,43483800000000
-OECD members,2008,46172700000000
-OECD members,2009,43184000000000
-OECD members,2010,45297200000000
-OECD members,2011,48721200000000
-OECD members,2012,48676800000000
-OECD members,2013,49360200000000
-OECD members,2014,50386900000000
-OECD members,2015,47536700000000
-OECD members,2016,48460600000000
-OECD members,2017,50610700000000
-OECD members,2018,53526000000000
-OECD members,2019,54053000000000
-OECD members,2020,52852900000000
-OECD members,2021,58899800000000
-OECD members,2022,60170100000000
-OECD members,2023,64098900000000
 Oman,2000,19507452536
 Oman,2001,19452000520
 Oman,2002,20142756047
@@ -4291,54 +3643,6 @@ Oman,2020,75909397659
 Oman,2021,88191977373
 Oman,2022,114667000000
 Oman,2023,108192000000
-Other small states,2000,55909436459
-Other small states,2001,56104114432
-Other small states,2002,61196326389
-Other small states,2003,75225425146
-Other small states,2004,89281970467
-Other small states,2005,101042000000
-Other small states,2006,113036000000
-Other small states,2007,135646000000
-Other small states,2008,148959000000
-Other small states,2009,129390000000
-Other small states,2010,138174000000
-Other small states,2011,157064000000
-Other small states,2012,155913000000
-Other small states,2013,162812000000
-Other small states,2014,167893000000
-Other small states,2015,151722000000
-Other small states,2016,159200000000
-Other small states,2017,176977000000
-Other small states,2018,193850000000
-Other small states,2019,195442000000
-Other small states,2020,178185000000
-Other small states,2021,208007000000
-Other small states,2022,223331000000
-Other small states,2023,234402000000
-Pacific island small states,2000,3448222601
-Pacific island small states,2001,3391891585
-Pacific island small states,2002,3556817548
-Pacific island small states,2003,4239645994
-Pacific island small states,2004,4876721916
-Pacific island small states,2005,5412748920
-Pacific island small states,2006,5680719028
-Pacific island small states,2007,6259150036
-Pacific island small states,2008,6702842278
-Pacific island small states,2009,6042995506
-Pacific island small states,2010,6646636169
-Pacific island small states,2011,7754564667
-Pacific island small states,2012,8219726546
-Pacific island small states,2013,8544636536
-Pacific island small states,2014,9290027187
-Pacific island small states,2015,9082590663
-Pacific island small states,2016,9532201526
-Pacific island small states,2017,10290482444
-Pacific island small states,2018,10791457053
-Pacific island small states,2019,10729092905
-Pacific island small states,2020,9505064736
-Pacific island small states,2021,9493809707
-Pacific island small states,2022,10316299127
-Pacific island small states,2023,11232231820
 Pakistan,2000,99484802345
 Pakistan,2001,97145618480
 Pakistan,2002,97923302809
@@ -4555,54 +3859,6 @@ Portugal,2020,229032000000
 Portugal,2021,255535000000
 Portugal,2022,255197000000
 Portugal,2023,287080000000
-Post-demographic dividend,2000,26398800000000
-Post-demographic dividend,2001,26143700000000
-Post-demographic dividend,2002,27268500000000
-Post-demographic dividend,2003,30570500000000
-Post-demographic dividend,2004,33970500000000
-Post-demographic dividend,2005,35741600000000
-Post-demographic dividend,2006,37604200000000
-Post-demographic dividend,2007,41042500000000
-Post-demographic dividend,2008,43475400000000
-Post-demographic dividend,2009,40925500000000
-Post-demographic dividend,2010,42685600000000
-Post-demographic dividend,2011,45847700000000
-Post-demographic dividend,2012,45779700000000
-Post-demographic dividend,2013,46270700000000
-Post-demographic dividend,2014,47207300000000
-Post-demographic dividend,2015,44669800000000
-Post-demographic dividend,2016,45693400000000
-Post-demographic dividend,2017,47667100000000
-Post-demographic dividend,2018,50504300000000
-Post-demographic dividend,2019,51018800000000
-Post-demographic dividend,2020,50004900000000
-Post-demographic dividend,2021,55588800000000
-Post-demographic dividend,2022,56564200000000
-Post-demographic dividend,2023,59851800000000
-Pre-demographic dividend,2000,282743000000
-Pre-demographic dividend,2001,268398000000
-Pre-demographic dividend,2002,308709000000
-Pre-demographic dividend,2003,336311000000
-Pre-demographic dividend,2004,419004000000
-Pre-demographic dividend,2005,521960000000
-Pre-demographic dividend,2006,656227000000
-Pre-demographic dividend,2007,793488000000
-Pre-demographic dividend,2008,989251000000
-Pre-demographic dividend,2009,896733000000
-Pre-demographic dividend,2010,1047590000000
-Pre-demographic dividend,2011,1213700000000
-Pre-demographic dividend,2012,1319410000000
-Pre-demographic dividend,2013,1448620000000
-Pre-demographic dividend,2014,1535540000000
-Pre-demographic dividend,2015,1305830000000
-Pre-demographic dividend,2016,1163170000000
-Pre-demographic dividend,2017,1214610000000
-Pre-demographic dividend,2018,1353360000000
-Pre-demographic dividend,2019,1427160000000
-Pre-demographic dividend,2020,1309580000000
-Pre-demographic dividend,2021,1435820000000
-Pre-demographic dividend,2022,1639590000000
-Pre-demographic dividend,2023,1562530000000
 Puerto Rico,2000,61701800000
 Puerto Rico,2001,69208400000
 Puerto Rico,2002,71623500000
@@ -4674,30 +3930,30 @@ Romania,2020,251363000000
 Romania,2021,285810000000
 Romania,2022,298892000000
 Romania,2023,351003000000
-Russian Federation,2000,259710000000
-Russian Federation,2001,306602000000
-Russian Federation,2002,345470000000
-Russian Federation,2003,430347000000
-Russian Federation,2004,591017000000
-Russian Federation,2005,764016000000
-Russian Federation,2006,989932000000
-Russian Federation,2007,1299700000000
-Russian Federation,2008,1660850000000
-Russian Federation,2009,1222650000000
-Russian Federation,2010,1524920000000
-Russian Federation,2011,2045920000000
-Russian Federation,2012,2208290000000
-Russian Federation,2013,2292470000000
-Russian Federation,2014,2059240000000
-Russian Federation,2015,1363480000000
-Russian Federation,2016,1276790000000
-Russian Federation,2017,1574200000000
-Russian Federation,2018,1657330000000
-Russian Federation,2019,1693120000000
-Russian Federation,2020,1493080000000
-Russian Federation,2021,1843390000000
-Russian Federation,2022,2266030000000
-Russian Federation,2023,2021420000000
+Russia,2000,259710000000
+Russia,2001,306602000000
+Russia,2002,345470000000
+Russia,2003,430347000000
+Russia,2004,591017000000
+Russia,2005,764016000000
+Russia,2006,989932000000
+Russia,2007,1299700000000
+Russia,2008,1660850000000
+Russia,2009,1222650000000
+Russia,2010,1524920000000
+Russia,2011,2045920000000
+Russia,2012,2208290000000
+Russia,2013,2292470000000
+Russia,2014,2059240000000
+Russia,2015,1363480000000
+Russia,2016,1276790000000
+Russia,2017,1574200000000
+Russia,2018,1657330000000
+Russia,2019,1693120000000
+Russia,2020,1493080000000
+Russia,2021,1843390000000
+Russia,2022,2266030000000
+Russia,2023,2021420000000
 Rwanda,2000,2068837212
 Rwanda,2001,1966600292
 Rwanda,2002,1966004243
@@ -4997,30 +4253,6 @@ Slovenia,2020,53734526854
 Slovenia,2021,61832201544
 Slovenia,2022,60063475466
 Slovenia,2023,68216781411
-Small states,2000,76825026680
-Small states,2001,77134382258
-Small states,2002,83440932717
-Small states,2003,98713950503
-Small states,2004,114441000000
-Small states,2005,128663000000
-Small states,2006,144640000000
-Small states,2007,169973000000
-Small states,2008,185058000000
-Small states,2009,164141000000
-Small states,2010,174536000000
-Small states,2011,195164000000
-Small states,2012,196185000000
-Small states,2013,203748000000
-Small states,2014,210645000000
-Small states,2015,195343000000
-Small states,2016,202184000000
-Small states,2017,222190000000
-Small states,2018,240867000000
-Small states,2019,243792000000
-Small states,2020,219068000000
-Small states,2021,254207000000
-Small states,2022,281851000000
-Small states,2023,298978000000
 Solomon Islands,2000,419842674
 Solomon Islands,2001,409508553
 Solomon Islands,2002,346406738
@@ -5117,30 +4349,6 @@ South Asia,2020,3493120000000
 South Asia,2021,4079880000000
 South Asia,2022,4327290000000
 South Asia,2023,4475570000000
-South Asia (IDA & IBRD),2000,647682000000
-South Asia (IDA & IBRD),2001,662514000000
-South Asia (IDA & IBRD),2002,695456000000
-South Asia (IDA & IBRD),2003,811669000000
-South Asia (IDA & IBRD),2004,941601000000
-South Asia (IDA & IBRD),2005,1075830000000
-South Asia (IDA & IBRD),2006,1220740000000
-South Asia (IDA & IBRD),2007,1536040000000
-South Asia (IDA & IBRD),2008,1559690000000
-South Asia (IDA & IBRD),2009,1702710000000
-South Asia (IDA & IBRD),2010,2082360000000
-South Asia (IDA & IBRD),2011,2294090000000
-South Asia (IDA & IBRD),2012,2327940000000
-South Asia (IDA & IBRD),2013,2389900000000
-South Asia (IDA & IBRD),2014,2614920000000
-South Asia (IDA & IBRD),2015,2733620000000
-South Asia (IDA & IBRD),2016,3011040000000
-South Asia (IDA & IBRD),2017,3433920000000
-South Asia (IDA & IBRD),2018,3534070000000
-South Asia (IDA & IBRD),2019,3658210000000
-South Asia (IDA & IBRD),2020,3493120000000
-South Asia (IDA & IBRD),2021,4079880000000
-South Asia (IDA & IBRD),2022,4327290000000
-South Asia (IDA & IBRD),2023,4475570000000
 South Sudan,2008,14586253383
 South Sudan,2009,12231264525
 South Sudan,2010,14602072411
@@ -5197,82 +4405,82 @@ Sri Lanka,2020,84304298771
 Sri Lanka,2021,88609332762
 Sri Lanka,2022,74144875098
 Sri Lanka,2023,84356860421
-St. Kitts and Nevis,2000,421695769
-St. Kitts and Nevis,2001,458643829
-St. Kitts and Nevis,2002,481077373
-St. Kitts and Nevis,2003,469869869
-St. Kitts and Nevis,2004,506900000
-St. Kitts and Nevis,2005,547203703
-St. Kitts and Nevis,2006,644414814
-St. Kitts and Nevis,2007,689285185
-St. Kitts and Nevis,2008,777691333
-St. Kitts and Nevis,2009,774273111
-St. Kitts and Nevis,2010,778718518
-St. Kitts and Nevis,2011,836092592
-St. Kitts and Nevis,2012,825381481
-St. Kitts and Nevis,2013,874896296
-St. Kitts and Nevis,2014,952111111
-St. Kitts and Nevis,2015,957222222
-St. Kitts and Nevis,2016,1006818519
-St. Kitts and Nevis,2017,1056977778
-St. Kitts and Nevis,2018,1076548148
-St. Kitts and Nevis,2019,1107855556
-St. Kitts and Nevis,2020,883922222
-St. Kitts and Nevis,2021,858622222
-St. Kitts and Nevis,2022,981429629
-St. Kitts and Nevis,2023,1077033111
-St. Lucia,2000,932592592
-St. Lucia,2001,892592592
-St. Lucia,2002,900000000
-St. Lucia,2003,987407407
-St. Lucia,2004,1066666667
-St. Lucia,2005,1135555556
-St. Lucia,2006,1268319185
-St. Lucia,2007,1336088815
-St. Lucia,2008,1437731111
-St. Lucia,2009,1401507889
-St. Lucia,2010,1482385185
-St. Lucia,2011,1568370370
-St. Lucia,2012,1598207407
-St. Lucia,2013,1660222222
-St. Lucia,2014,1749185185
-St. Lucia,2015,1807640741
-St. Lucia,2016,1868544444
-St. Lucia,2017,1998503704
-St. Lucia,2018,2060955556
-St. Lucia,2019,2092081549
-St. Lucia,2020,1497825994
-St. Lucia,2021,1834796402
-St. Lucia,2022,2343703788
-St. Lucia,2023,2519925939
-St. Martin (French part),2011,775875748
-St. Martin (French part),2014,772921958
-St. Martin (French part),2019,652206037
-St. Martin (French part),2021,649206262
-St. Vincent and the Grenadines,2000,427946037
-St. Vincent and the Grenadines,2001,462072333
-St. Vincent and the Grenadines,2002,487763851
-St. Vincent and the Grenadines,2003,509090888
-St. Vincent and the Grenadines,2004,549900185
-St. Vincent and the Grenadines,2005,579948925
-St. Vincent and the Grenadines,2006,643501148
-St. Vincent and the Grenadines,2007,713596666
-St. Vincent and the Grenadines,2008,732663259
-St. Vincent and the Grenadines,2009,714300259
-St. Vincent and the Grenadines,2010,720447888
-St. Vincent and the Grenadines,2011,713796370
-St. Vincent and the Grenadines,2012,730032592
-St. Vincent and the Grenadines,2013,764781259
-St. Vincent and the Grenadines,2014,770900000
-St. Vincent and the Grenadines,2015,786555555
-St. Vincent and the Grenadines,2016,814303703
-St. Vincent and the Grenadines,2017,844040740
-St. Vincent and the Grenadines,2018,884329629
-St. Vincent and the Grenadines,2019,910766666
-St. Vincent and the Grenadines,2020,869111111
-St. Vincent and the Grenadines,2021,872225925
-St. Vincent and the Grenadines,2022,966492592
-St. Vincent and the Grenadines,2023,1065962963
+Saint Kitts and Nevis,2000,421695769
+Saint Kitts and Nevis,2001,458643829
+Saint Kitts and Nevis,2002,481077373
+Saint Kitts and Nevis,2003,469869869
+Saint Kitts and Nevis,2004,506900000
+Saint Kitts and Nevis,2005,547203703
+Saint Kitts and Nevis,2006,644414814
+Saint Kitts and Nevis,2007,689285185
+Saint Kitts and Nevis,2008,777691333
+Saint Kitts and Nevis,2009,774273111
+Saint Kitts and Nevis,2010,778718518
+Saint Kitts and Nevis,2011,836092592
+Saint Kitts and Nevis,2012,825381481
+Saint Kitts and Nevis,2013,874896296
+Saint Kitts and Nevis,2014,952111111
+Saint Kitts and Nevis,2015,957222222
+Saint Kitts and Nevis,2016,1006818519
+Saint Kitts and Nevis,2017,1056977778
+Saint Kitts and Nevis,2018,1076548148
+Saint Kitts and Nevis,2019,1107855556
+Saint Kitts and Nevis,2020,883922222
+Saint Kitts and Nevis,2021,858622222
+Saint Kitts and Nevis,2022,981429629
+Saint Kitts and Nevis,2023,1077033111
+Saint Lucia,2000,932592592
+Saint Lucia,2001,892592592
+Saint Lucia,2002,900000000
+Saint Lucia,2003,987407407
+Saint Lucia,2004,1066666667
+Saint Lucia,2005,1135555556
+Saint Lucia,2006,1268319185
+Saint Lucia,2007,1336088815
+Saint Lucia,2008,1437731111
+Saint Lucia,2009,1401507889
+Saint Lucia,2010,1482385185
+Saint Lucia,2011,1568370370
+Saint Lucia,2012,1598207407
+Saint Lucia,2013,1660222222
+Saint Lucia,2014,1749185185
+Saint Lucia,2015,1807640741
+Saint Lucia,2016,1868544444
+Saint Lucia,2017,1998503704
+Saint Lucia,2018,2060955556
+Saint Lucia,2019,2092081549
+Saint Lucia,2020,1497825994
+Saint Lucia,2021,1834796402
+Saint Lucia,2022,2343703788
+Saint Lucia,2023,2519925939
+,2011,775875748
+,2014,772921958
+,2019,652206037
+,2021,649206262
+Saint Vincent and the Grenadines,2000,427946037
+Saint Vincent and the Grenadines,2001,462072333
+Saint Vincent and the Grenadines,2002,487763851
+Saint Vincent and the Grenadines,2003,509090888
+Saint Vincent and the Grenadines,2004,549900185
+Saint Vincent and the Grenadines,2005,579948925
+Saint Vincent and the Grenadines,2006,643501148
+Saint Vincent and the Grenadines,2007,713596666
+Saint Vincent and the Grenadines,2008,732663259
+Saint Vincent and the Grenadines,2009,714300259
+Saint Vincent and the Grenadines,2010,720447888
+Saint Vincent and the Grenadines,2011,713796370
+Saint Vincent and the Grenadines,2012,730032592
+Saint Vincent and the Grenadines,2013,764781259
+Saint Vincent and the Grenadines,2014,770900000
+Saint Vincent and the Grenadines,2015,786555555
+Saint Vincent and the Grenadines,2016,814303703
+Saint Vincent and the Grenadines,2017,844040740
+Saint Vincent and the Grenadines,2018,884329629
+Saint Vincent and the Grenadines,2019,910766666
+Saint Vincent and the Grenadines,2020,869111111
+Saint Vincent and the Grenadines,2021,872225925
+Saint Vincent and the Grenadines,2022,966492592
+Saint Vincent and the Grenadines,2023,1065962963
 Sub-Saharan Africa,2000,428346000000
 Sub-Saharan Africa,2001,409773000000
 Sub-Saharan Africa,2002,446110000000
@@ -5297,54 +4505,6 @@ Sub-Saharan Africa,2020,1716220000000
 Sub-Saharan Africa,2021,1932770000000
 Sub-Saharan Africa,2022,2061100000000
 Sub-Saharan Africa,2023,2032750000000
-Sub-Saharan Africa (IDA & IBRD countries),2000,428346000000
-Sub-Saharan Africa (IDA & IBRD countries),2001,409773000000
-Sub-Saharan Africa (IDA & IBRD countries),2002,446110000000
-Sub-Saharan Africa (IDA & IBRD countries),2003,561821000000
-Sub-Saharan Africa (IDA & IBRD countries),2004,697688000000
-Sub-Saharan Africa (IDA & IBRD countries),2005,827932000000
-Sub-Saharan Africa (IDA & IBRD countries),2006,976584000000
-Sub-Saharan Africa (IDA & IBRD countries),2007,1130540000000
-Sub-Saharan Africa (IDA & IBRD countries),2008,1281440000000
-Sub-Saharan Africa (IDA & IBRD countries),2009,1224040000000
-Sub-Saharan Africa (IDA & IBRD countries),2010,1448110000000
-Sub-Saharan Africa (IDA & IBRD countries),2011,1627670000000
-Sub-Saharan Africa (IDA & IBRD countries),2012,1690480000000
-Sub-Saharan Africa (IDA & IBRD countries),2013,1797510000000
-Sub-Saharan Africa (IDA & IBRD countries),2014,1874280000000
-Sub-Saharan Africa (IDA & IBRD countries),2015,1668660000000
-Sub-Saharan Africa (IDA & IBRD countries),2016,1522010000000
-Sub-Saharan Africa (IDA & IBRD countries),2017,1625860000000
-Sub-Saharan Africa (IDA & IBRD countries),2018,1780910000000
-Sub-Saharan Africa (IDA & IBRD countries),2019,1830460000000
-Sub-Saharan Africa (IDA & IBRD countries),2020,1716220000000
-Sub-Saharan Africa (IDA & IBRD countries),2021,1932770000000
-Sub-Saharan Africa (IDA & IBRD countries),2022,2061100000000
-Sub-Saharan Africa (IDA & IBRD countries),2023,2032750000000
-Sub-Saharan Africa (excluding high income),2000,427688000000
-Sub-Saharan Africa (excluding high income),2001,409107000000
-Sub-Saharan Africa (excluding high income),2002,445364000000
-Sub-Saharan Africa (excluding high income),2003,561067000000
-Sub-Saharan Africa (excluding high income),2004,696791000000
-Sub-Saharan Africa (excluding high income),2005,826950000000
-Sub-Saharan Africa (excluding high income),2006,975498000000
-Sub-Saharan Africa (excluding high income),2007,1129460000000
-Sub-Saharan Africa (excluding high income),2008,1280460000000
-Sub-Saharan Africa (excluding high income),2009,1223190000000
-Sub-Saharan Africa (excluding high income),2010,1447130000000
-Sub-Saharan Africa (excluding high income),2011,1626610000000
-Sub-Saharan Africa (excluding high income),2012,1689390000000
-Sub-Saharan Africa (excluding high income),2013,1796170000000
-Sub-Saharan Africa (excluding high income),2014,1872890000000
-Sub-Saharan Africa (excluding high income),2015,1667230000000
-Sub-Saharan Africa (excluding high income),2016,1520440000000
-Sub-Saharan Africa (excluding high income),2017,1624180000000
-Sub-Saharan Africa (excluding high income),2018,1779120000000
-Sub-Saharan Africa (excluding high income),2019,1828590000000
-Sub-Saharan Africa (excluding high income),2020,1714840000000
-Sub-Saharan Africa (excluding high income),2021,1931280000000
-Sub-Saharan Africa (excluding high income),2022,2059040000000
-Sub-Saharan Africa (excluding high income),2023,2030610000000
 Sudan,2000,12257299147
 Sudan,2001,15716361792
 Sudan,2002,18137128388
@@ -5441,28 +4601,28 @@ Switzerland,2020,741999000000
 Switzerland,2021,813409000000
 Switzerland,2022,818427000000
 Switzerland,2023,884940000000
-Syrian Arab Republic,2000,18937052543
-Syrian Arab Republic,2001,20237024725
-Syrian Arab Republic,2002,20669357462
-Syrian Arab Republic,2003,21828144686
-Syrian Arab Republic,2004,25086950495
-Syrian Arab Republic,2005,28858965517
-Syrian Arab Republic,2006,33751788856
-Syrian Arab Republic,2007,40465318382
-Syrian Arab Republic,2008,52557913193
-Syrian Arab Republic,2009,54111735242
-Syrian Arab Republic,2010,61390831318
-Syrian Arab Republic,2011,67539427671
-Syrian Arab Republic,2012,43190317725
-Syrian Arab Republic,2013,21361254648
-Syrian Arab Republic,2014,21502061462
-Syrian Arab Republic,2015,16466863097
-Syrian Arab Republic,2016,12597854884
-Syrian Arab Republic,2017,16369843341
-Syrian Arab Republic,2018,21497782881
-Syrian Arab Republic,2019,22583045053
-Syrian Arab Republic,2020,11155888304
-Syrian Arab Republic,2021,8980060819
+Syria,2000,18937052543
+Syria,2001,20237024725
+Syria,2002,20669357462
+Syria,2003,21828144686
+Syria,2004,25086950495
+Syria,2005,28858965517
+Syria,2006,33751788856
+Syria,2007,40465318382
+Syria,2008,52557913193
+Syria,2009,54111735242
+Syria,2010,61390831318
+Syria,2011,67539427671
+Syria,2012,43190317725
+Syria,2013,21361254648
+Syria,2014,21502061462
+Syria,2015,16466863097
+Syria,2016,12597854884
+Syria,2017,16369843341
+Syria,2018,21497782881
+Syria,2019,22583045053
+Syria,2020,11155888304
+Syria,2021,8980060819
 Tajikistan,2000,860541842
 Tajikistan,2001,1080772551
 Tajikistan,2002,1221106220
@@ -5535,30 +4695,30 @@ Thailand,2020,500462000000
 Thailand,2021,506256000000
 Thailand,2022,495645000000
 Thailand,2023,514945000000
-Timor-Leste,2000,366924300
-Timor-Leste,2001,477443500
-Timor-Leste,2002,469455500
-Timor-Leste,2003,490439100
-Timor-Leste,2004,440772000
-Timor-Leste,2005,462268000
-Timor-Leste,2006,453792400
-Timor-Leste,2007,542795400
-Timor-Leste,2008,648523600
-Timor-Leste,2009,726937800
-Timor-Leste,2010,881909300
-Timor-Leste,2011,1042534600
-Timor-Leste,2012,1160555000
-Timor-Leste,2013,1395727400
-Timor-Leste,2014,1447535200
-Timor-Leste,2015,1595205100
-Timor-Leste,2016,1652603700
-Timor-Leste,2017,1598208400
-Timor-Leste,2018,1566157200
-Timor-Leste,2019,2027034000
-Timor-Leste,2020,2162619200
-Timor-Leste,2021,3621958000
-Timor-Leste,2022,3204753000
-Timor-Leste,2023,2243142908
+East Timor,2000,366924300
+East Timor,2001,477443500
+East Timor,2002,469455500
+East Timor,2003,490439100
+East Timor,2004,440772000
+East Timor,2005,462268000
+East Timor,2006,453792400
+East Timor,2007,542795400
+East Timor,2008,648523600
+East Timor,2009,726937800
+East Timor,2010,881909300
+East Timor,2011,1042534600
+East Timor,2012,1160555000
+East Timor,2013,1395727400
+East Timor,2014,1447535200
+East Timor,2015,1595205100
+East Timor,2016,1652603700
+East Timor,2017,1598208400
+East Timor,2018,1566157200
+East Timor,2019,2027034000
+East Timor,2020,2162619200
+East Timor,2021,3621958000
+East Timor,2022,3204753000
+East Timor,2023,2243142908
 Togo,2000,2106848752
 Togo,2001,2093498674
 Togo,2002,2410199032
@@ -5869,30 +5029,6 @@ United States,2020,21323000000000
 United States,2021,23594000000000
 United States,2022,25744100000000
 United States,2023,27360900000000
-Upper middle income,2000,4372320000000
-Upper middle income,2001,4374280000000
-Upper middle income,2002,4406150000000
-Upper middle income,2003,4912290000000
-Upper middle income,2004,5795160000000
-Upper middle income,2005,6887890000000
-Upper middle income,2006,8120870000000
-Upper middle income,2007,9979460000000
-Upper middle income,2008,12067700000000
-Upper middle income,2009,11971000000000
-Upper middle income,2010,14630300000000
-Upper middle income,2011,17496100000000
-Upper middle income,2012,18675000000000
-Upper middle income,2013,19833800000000
-Upper middle income,2014,20590300000000
-Upper middle income,2015,19828000000000
-Upper middle income,2016,19905000000000
-Upper middle income,2017,21837300000000
-Upper middle income,2018,23304300000000
-Upper middle income,2019,23700400000000
-Upper middle income,2020,22969900000000
-Upper middle income,2021,27373000000000
-Upper middle income,2022,28567600000000
-Upper middle income,2023,29403700000000
 Uruguay,2000,22823270892
 Uruguay,2001,20898761742
 Uruguay,2002,13606515723
@@ -5965,21 +5101,21 @@ Vanuatu,2020,909421043
 Vanuatu,2021,950394006
 Vanuatu,2022,1022219298
 Vanuatu,2023,1126313359
-"Venezuela, RB",2000,117146000000
-"Venezuela, RB",2001,122911000000
-"Venezuela, RB",2002,92893587734
-"Venezuela, RB",2003,83620628582
-"Venezuela, RB",2004,112451000000
-"Venezuela, RB",2005,145513000000
-"Venezuela, RB",2006,183478000000
-"Venezuela, RB",2007,230364000000
-"Venezuela, RB",2008,315953000000
-"Venezuela, RB",2009,329788000000
-"Venezuela, RB",2010,393192000000
-"Venezuela, RB",2011,316482000000
-"Venezuela, RB",2012,381286000000
-"Venezuela, RB",2013,371005000000
-"Venezuela, RB",2014,482359000000
+Venezuela,2000,117146000000
+Venezuela,2001,122911000000
+Venezuela,2002,92893587734
+Venezuela,2003,83620628582
+Venezuela,2004,112451000000
+Venezuela,2005,145513000000
+Venezuela,2006,183478000000
+Venezuela,2007,230364000000
+Venezuela,2008,315953000000
+Venezuela,2009,329788000000
+Venezuela,2010,393192000000
+Venezuela,2011,316482000000
+Venezuela,2012,381286000000
+Venezuela,2013,371005000000
+Venezuela,2014,482359000000
 Viet Nam,2000,31172518403
 Viet Nam,2001,32685198809
 Viet Nam,2002,35064105501
@@ -6004,50 +5140,26 @@ Viet Nam,2020,346616000000
 Viet Nam,2021,366475000000
 Viet Nam,2022,410324000000
 Viet Nam,2023,429717000000
-Virgin Islands (U.S.),2002,3262000000
-Virgin Islands (U.S.),2003,3443000000
-Virgin Islands (U.S.),2004,3797000000
-Virgin Islands (U.S.),2005,4428000000
-Virgin Islands (U.S.),2006,4484000000
-Virgin Islands (U.S.),2007,4784000000
-Virgin Islands (U.S.),2008,4244000000
-Virgin Islands (U.S.),2009,4201000000
-Virgin Islands (U.S.),2010,4324000000
-Virgin Islands (U.S.),2011,4223000000
-Virgin Islands (U.S.),2012,4089000000
-Virgin Islands (U.S.),2013,3738000000
-Virgin Islands (U.S.),2014,3565000000
-Virgin Islands (U.S.),2015,3663000000
-Virgin Islands (U.S.),2016,3798000000
-Virgin Islands (U.S.),2017,3794000000
-Virgin Islands (U.S.),2018,3923000000
-Virgin Islands (U.S.),2019,4121000000
-Virgin Islands (U.S.),2020,4189000000
-Virgin Islands (U.S.),2021,4444000000
-West Bank and Gaza,2000,4313600000
-West Bank and Gaza,2001,4003700000
-West Bank and Gaza,2002,3555800000
-West Bank and Gaza,2003,3968000000
-West Bank and Gaza,2004,4603100000
-West Bank and Gaza,2005,5125700000
-West Bank and Gaza,2006,5348300000
-West Bank and Gaza,2007,5815700000
-West Bank and Gaza,2008,7310400000
-West Bank and Gaza,2009,8085700000
-West Bank and Gaza,2010,9681500000
-West Bank and Gaza,2011,11186100000
-West Bank and Gaza,2012,12208400000
-West Bank and Gaza,2013,13515500000
-West Bank and Gaza,2014,13989700000
-West Bank and Gaza,2015,13972400000
-West Bank and Gaza,2016,15405400000
-West Bank and Gaza,2017,16128000000
-West Bank and Gaza,2018,16276600000
-West Bank and Gaza,2019,17133500000
-West Bank and Gaza,2020,15531700000
-West Bank and Gaza,2021,18109000000
-West Bank and Gaza,2022,19165500000
-West Bank and Gaza,2023,17396300000
+US Virgin Islands,2002,3262000000
+US Virgin Islands,2003,3443000000
+US Virgin Islands,2004,3797000000
+US Virgin Islands,2005,4428000000
+US Virgin Islands,2006,4484000000
+US Virgin Islands,2007,4784000000
+US Virgin Islands,2008,4244000000
+US Virgin Islands,2009,4201000000
+US Virgin Islands,2010,4324000000
+US Virgin Islands,2011,4223000000
+US Virgin Islands,2012,4089000000
+US Virgin Islands,2013,3738000000
+US Virgin Islands,2014,3565000000
+US Virgin Islands,2015,3663000000
+US Virgin Islands,2016,3798000000
+US Virgin Islands,2017,3794000000
+US Virgin Islands,2018,3923000000
+US Virgin Islands,2019,4121000000
+US Virgin Islands,2020,4189000000
+US Virgin Islands,2021,4444000000
 World,2000,33839400000000
 World,2001,33627000000000
 World,2002,34917700000000
@@ -6072,25 +5184,25 @@ World,2020,85577700000000
 World,2021,97527000000000
 World,2022,101225000000000
 World,2023,105435000000000
-"Yemen, Rep.",2000,9679316770
-"Yemen, Rep.",2001,9852990693
-"Yemen, Rep.",2002,10693430511
-"Yemen, Rep.",2003,11777532662
-"Yemen, Rep.",2004,13867634371
-"Yemen, Rep.",2005,16731566717
-"Yemen, Rep.",2006,19063143370
-"Yemen, Rep.",2007,21650528674
-"Yemen, Rep.",2008,26910855807
-"Yemen, Rep.",2009,25130278213
-"Yemen, Rep.",2010,30906749533
-"Yemen, Rep.",2011,32726417878
-"Yemen, Rep.",2012,35401331610
-"Yemen, Rep.",2013,40415233436
-"Yemen, Rep.",2014,43228585321
-"Yemen, Rep.",2015,42444490074
-"Yemen, Rep.",2016,31317825274
-"Yemen, Rep.",2017,26842229045
-"Yemen, Rep.",2018,21606160663
+Yemen,2000,9679316770
+Yemen,2001,9852990693
+Yemen,2002,10693430511
+Yemen,2003,11777532662
+Yemen,2004,13867634371
+Yemen,2005,16731566717
+Yemen,2006,19063143370
+Yemen,2007,21650528674
+Yemen,2008,26910855807
+Yemen,2009,25130278213
+Yemen,2010,30906749533
+Yemen,2011,32726417878
+Yemen,2012,35401331610
+Yemen,2013,40415233436
+Yemen,2014,43228585321
+Yemen,2015,42444490074
+Yemen,2016,31317825274
+Yemen,2017,26842229045
+Yemen,2018,21606160663
 Zambia,2000,3600632111
 Zambia,2001,4094441301
 Zambia,2002,4193850445

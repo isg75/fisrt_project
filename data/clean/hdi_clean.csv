@@ -1,4 +1,4 @@
-iso3,country,human_development_groups,undp_developing_regions,year,human_development_index_(hdi)
+iso3,area,human_development_groups,undp_developing_regions,year,human_development_index_(hdi)
 AFG,Afghanistan,Low,SA,2000,0.335
 AGO,Angola,Medium,SSA,2000,0.375
 ALB,Albania,High,ECA,2000,0.677
@@ -34,7 +34,7 @@ CHL,Chile,Very High,LAC,2000,0.763
 CHN,China,High,EAP,2000,0.584
 CIV,Ivory Coast,Medium,SSA,2000,0.457
 CMR,Cameroon,Medium,SSA,2000,0.442
-COD,The Democratic Republic of the Congo,Low,SSA,2000,0.376
+COD,Democratic Republic of the Congo,Low,SSA,2000,0.376
 COG,Congo,Medium,SSA,2000,0.491
 COL,Colombia,High,LAC,2000,0.666
 COM,Comoros,Medium,SSA,2000,0.464
@@ -144,10 +144,10 @@ POL,Poland,Very High,,2000,0.793
 PRK,North Korea,,EAP,2000,
 PRT,Portugal,Very High,,2000,0.791
 PRY,Paraguay,High,LAC,2000,0.649
-PSE,"Palestine, State of",High,AS,2000,
+PSE,Palestine,High,AS,2000,
 QAT,Qatar,Very High,AS,2000,0.801
 ROU,Romania,Very High,,2000,0.715
-RUS,Russian Federation,Very High,,2000,0.732
+RUS,Russia,Very High,,2000,0.732
 RWA,Rwanda,Low,SSA,2000,0.34
 SAU,Saudi Arabia,Very High,AS,2000,0.737
 SDN,Sudan,Low,AS,2000,0.424
@@ -167,13 +167,13 @@ SVN,Slovenia,Very High,,2000,0.821
 SWE,Sweden,Very High,,2000,0.904
 SWZ,Eswatini,Medium,SSA,2000,0.471
 SYC,Seychelles,High,SSA,2000,0.744
-SYR,Syrian Arab Republic,Medium,AS,2000,0.587
+SYR,Syria,Medium,AS,2000,0.587
 TCD,Chad,Low,SSA,2000,0.291
 TGO,Togo,Low,SSA,2000,0.446
 THA,Thailand,Very High,EAP,2000,0.653
 TJK,Tajikistan,Medium,ECA,2000,0.56
 TKM,Turkmenistan,High,ECA,2000,
-TLS,Timor-Leste,Medium,EAP,2000,
+TLS,East Timor,Medium,EAP,2000,
 TON,Tonga,High,EAP,2000,0.685
 TTO,Trinidad and Tobago,Very High,LAC,2000,0.712
 TUN,Tunisia,High,AS,2000,0.658
@@ -229,7 +229,7 @@ CHL,Chile,Very High,LAC,2001,0.768
 CHN,China,High,EAP,2001,0.593
 CIV,Ivory Coast,Medium,SSA,2001,0.456
 CMR,Cameroon,Medium,SSA,2001,0.46
-COD,The Democratic Republic of the Congo,Low,SSA,2001,0.374
+COD,Democratic Republic of the Congo,Low,SSA,2001,0.374
 COG,Congo,Medium,SSA,2001,0.497
 COL,Colombia,High,LAC,2001,0.667
 COM,Comoros,Medium,SSA,2001,0.47
@@ -339,10 +339,10 @@ POL,Poland,Very High,,2001,0.799
 PRK,North Korea,,EAP,2001,
 PRT,Portugal,Very High,,2001,0.797
 PRY,Paraguay,High,LAC,2001,0.655
-PSE,"Palestine, State of",High,AS,2001,
+PSE,Palestine,High,AS,2001,
 QAT,Qatar,Very High,AS,2001,0.803
 ROU,Romania,Very High,,2001,0.722
-RUS,Russian Federation,Very High,,2001,0.74
+RUS,Russia,Very High,,2001,0.74
 RWA,Rwanda,Low,SSA,2001,0.35
 SAU,Saudi Arabia,Very High,AS,2001,0.744
 SDN,Sudan,Low,AS,2001,0.431
@@ -362,13 +362,13 @@ SVN,Slovenia,Very High,,2001,0.837
 SWE,Sweden,Very High,,2001,0.907
 SWZ,Eswatini,Medium,SSA,2001,0.463
 SYC,Seychelles,High,SSA,2001,0.741
-SYR,Syrian Arab Republic,Medium,AS,2001,0.596
+SYR,Syria,Medium,AS,2001,0.596
 TCD,Chad,Low,SSA,2001,0.301
 TGO,Togo,Low,SSA,2001,0.449
 THA,Thailand,Very High,EAP,2001,0.664
 TJK,Tajikistan,Medium,ECA,2001,0.569
 TKM,Turkmenistan,High,ECA,2001,
-TLS,Timor-Leste,Medium,EAP,2001,
+TLS,East Timor,Medium,EAP,2001,
 TON,Tonga,High,EAP,2001,0.688
 TTO,Trinidad and Tobago,Very High,LAC,2001,0.721
 TUN,Tunisia,High,AS,2001,0.665
@@ -424,7 +424,7 @@ CHL,Chile,Very High,LAC,2002,0.775
 CHN,China,High,EAP,2002,0.604
 CIV,Ivory Coast,Medium,SSA,2002,0.454
 CMR,Cameroon,Medium,SSA,2002,0.461
-COD,The Democratic Republic of the Congo,Low,SSA,2002,0.378
+COD,Democratic Republic of the Congo,Low,SSA,2002,0.378
 COG,Congo,Medium,SSA,2002,0.5
 COL,Colombia,High,LAC,2002,0.67
 COM,Comoros,Medium,SSA,2002,0.474
@@ -534,10 +534,10 @@ POL,Poland,Very High,,2002,0.806
 PRK,North Korea,,EAP,2002,
 PRT,Portugal,Very High,,2002,0.798
 PRY,Paraguay,High,LAC,2002,0.662
-PSE,"Palestine, State of",High,AS,2002,
+PSE,Palestine,High,AS,2002,
 QAT,Qatar,Very High,AS,2002,0.809
 ROU,Romania,Very High,,2002,0.729
-RUS,Russian Federation,Very High,,2002,0.746
+RUS,Russia,Very High,,2002,0.746
 RWA,Rwanda,Low,SSA,2002,0.369
 SAU,Saudi Arabia,Very High,AS,2002,0.75
 SDN,Sudan,Low,AS,2002,0.436
@@ -557,13 +557,13 @@ SVN,Slovenia,Very High,,2002,0.848
 SWE,Sweden,Very High,,2002,0.91
 SWZ,Eswatini,Medium,SSA,2002,0.451
 SYC,Seychelles,High,SSA,2002,0.742
-SYR,Syrian Arab Republic,Medium,AS,2002,0.603
+SYR,Syria,Medium,AS,2002,0.603
 TCD,Chad,Low,SSA,2002,0.307
 TGO,Togo,Low,SSA,2002,0.454
 THA,Thailand,Very High,EAP,2002,0.676
 TJK,Tajikistan,Medium,ECA,2002,0.579
 TKM,Turkmenistan,High,ECA,2002,
-TLS,Timor-Leste,Medium,EAP,2002,0.508
+TLS,East Timor,Medium,EAP,2002,0.508
 TON,Tonga,High,EAP,2002,0.694
 TTO,Trinidad and Tobago,Very High,LAC,2002,0.732
 TUN,Tunisia,High,AS,2002,0.67
@@ -619,7 +619,7 @@ CHL,Chile,Very High,LAC,2003,0.779
 CHN,China,High,EAP,2003,0.615
 CIV,Ivory Coast,Medium,SSA,2003,0.453
 CMR,Cameroon,Medium,SSA,2003,0.468
-COD,The Democratic Republic of the Congo,Low,SSA,2003,0.384
+COD,Democratic Republic of the Congo,Low,SSA,2003,0.384
 COG,Congo,Medium,SSA,2003,0.5
 COL,Colombia,High,LAC,2003,0.677
 COM,Comoros,Medium,SSA,2003,0.479
@@ -729,10 +729,10 @@ POL,Poland,Very High,,2003,0.811
 PRK,North Korea,,EAP,2003,
 PRT,Portugal,Very High,,2003,0.802
 PRY,Paraguay,High,LAC,2003,0.655
-PSE,"Palestine, State of",High,AS,2003,
+PSE,Palestine,High,AS,2003,
 QAT,Qatar,Very High,AS,2003,0.819
 ROU,Romania,Very High,,2003,0.732
-RUS,Russian Federation,Very High,,2003,0.754
+RUS,Russia,Very High,,2003,0.754
 RWA,Rwanda,Low,SSA,2003,0.385
 SAU,Saudi Arabia,Very High,AS,2003,0.76
 SDN,Sudan,Low,AS,2003,0.439
@@ -752,13 +752,13 @@ SVN,Slovenia,Very High,,2003,0.858
 SWE,Sweden,Very High,,2003,0.915
 SWZ,Eswatini,Medium,SSA,2003,0.446
 SYC,Seychelles,High,SSA,2003,0.746
-SYR,Syrian Arab Republic,Medium,AS,2003,0.615
+SYR,Syria,Medium,AS,2003,0.615
 TCD,Chad,Low,SSA,2003,0.307
 TGO,Togo,Low,SSA,2003,0.46
 THA,Thailand,Very High,EAP,2003,0.687
 TJK,Tajikistan,Medium,ECA,2003,0.594
 TKM,Turkmenistan,High,ECA,2003,
-TLS,Timor-Leste,Medium,EAP,2003,0.508
+TLS,East Timor,Medium,EAP,2003,0.508
 TON,Tonga,High,EAP,2003,0.701
 TTO,Trinidad and Tobago,Very High,LAC,2003,0.737
 TUN,Tunisia,High,AS,2003,0.677
@@ -814,7 +814,7 @@ CHL,Chile,Very High,LAC,2004,0.787
 CHN,China,High,EAP,2004,0.626
 CIV,Ivory Coast,Medium,SSA,2004,0.455
 CMR,Cameroon,Medium,SSA,2004,0.474
-COD,The Democratic Republic of the Congo,Low,SSA,2004,0.39
+COD,Democratic Republic of the Congo,Low,SSA,2004,0.39
 COG,Congo,Medium,SSA,2004,0.505
 COL,Colombia,High,LAC,2004,0.683
 COM,Comoros,Medium,SSA,2004,0.482
@@ -924,10 +924,10 @@ POL,Poland,Very High,,2004,0.809
 PRK,North Korea,,EAP,2004,
 PRT,Portugal,Very High,,2004,0.805
 PRY,Paraguay,High,LAC,2004,0.662
-PSE,"Palestine, State of",High,AS,2004,0.651
+PSE,Palestine,High,AS,2004,0.651
 QAT,Qatar,Very High,AS,2004,0.822
 ROU,Romania,Very High,,2004,0.742
-RUS,Russian Federation,Very High,,2004,0.761
+RUS,Russia,Very High,,2004,0.761
 RWA,Rwanda,Low,SSA,2004,0.406
 SAU,Saudi Arabia,Very High,AS,2004,0.77
 SDN,Sudan,Low,AS,2004,0.441
@@ -947,13 +947,13 @@ SVN,Slovenia,Very High,,2004,0.865
 SWE,Sweden,Very High,,2004,0.9
 SWZ,Eswatini,Medium,SSA,2004,0.444
 SYC,Seychelles,High,SSA,2004,0.747
-SYR,Syrian Arab Republic,Medium,AS,2004,0.627
+SYR,Syria,Medium,AS,2004,0.627
 TCD,Chad,Low,SSA,2004,0.325
 TGO,Togo,Low,SSA,2004,0.459
 THA,Thailand,Very High,EAP,2004,0.697
 TJK,Tajikistan,Medium,ECA,2004,0.606
 TKM,Turkmenistan,High,ECA,2004,
-TLS,Timor-Leste,Medium,EAP,2004,0.521
+TLS,East Timor,Medium,EAP,2004,0.521
 TON,Tonga,High,EAP,2004,0.702
 TTO,Trinidad and Tobago,Very High,LAC,2004,0.752
 TUN,Tunisia,High,AS,2004,0.687
@@ -1009,7 +1009,7 @@ CHL,Chile,Very High,LAC,2005,0.795
 CHN,China,High,EAP,2005,0.638
 CIV,Ivory Coast,Medium,SSA,2005,0.456
 CMR,Cameroon,Medium,SSA,2005,0.475
-COD,The Democratic Republic of the Congo,Low,SSA,2005,0.395
+COD,Democratic Republic of the Congo,Low,SSA,2005,0.395
 COG,Congo,Medium,SSA,2005,0.519
 COL,Colombia,High,LAC,2005,0.696
 COM,Comoros,Medium,SSA,2005,0.488
@@ -1119,10 +1119,10 @@ POL,Poland,Very High,,2005,0.815
 PRK,North Korea,,EAP,2005,
 PRT,Portugal,Very High,,2005,0.806
 PRY,Paraguay,High,LAC,2005,0.664
-PSE,"Palestine, State of",High,AS,2005,0.662
+PSE,Palestine,High,AS,2005,0.662
 QAT,Qatar,Very High,AS,2005,0.827
 ROU,Romania,Very High,,2005,0.756
-RUS,Russian Federation,Very High,,2005,0.764
+RUS,Russia,Very High,,2005,0.764
 RWA,Rwanda,Low,SSA,2005,0.422
 SAU,Saudi Arabia,Very High,AS,2005,0.78
 SDN,Sudan,Low,AS,2005,0.448
@@ -1142,13 +1142,13 @@ SVN,Slovenia,Very High,,2005,0.869
 SWE,Sweden,Very High,,2005,0.902
 SWZ,Eswatini,Medium,SSA,2005,0.446
 SYC,Seychelles,High,SSA,2005,0.762
-SYR,Syrian Arab Republic,Medium,AS,2005,0.64
+SYR,Syria,Medium,AS,2005,0.64
 TCD,Chad,Low,SSA,2005,0.327
 TGO,Togo,Low,SSA,2005,0.458
 THA,Thailand,Very High,EAP,2005,0.706
 TJK,Tajikistan,Medium,ECA,2005,0.612
 TKM,Turkmenistan,High,ECA,2005,0.66
-TLS,Timor-Leste,Medium,EAP,2005,0.538
+TLS,East Timor,Medium,EAP,2005,0.538
 TON,Tonga,High,EAP,2005,0.702
 TTO,Trinidad and Tobago,Very High,LAC,2005,0.758
 TUN,Tunisia,High,AS,2005,0.694
@@ -1204,7 +1204,7 @@ CHL,Chile,Very High,LAC,2006,0.796
 CHN,China,High,EAP,2006,0.65
 CIV,Ivory Coast,Medium,SSA,2006,0.458
 CMR,Cameroon,Medium,SSA,2006,0.477
-COD,The Democratic Republic of the Congo,Low,SSA,2006,0.401
+COD,Democratic Republic of the Congo,Low,SSA,2006,0.401
 COG,Congo,Medium,SSA,2006,0.532
 COL,Colombia,High,LAC,2006,0.698
 COM,Comoros,Medium,SSA,2006,0.494
@@ -1314,10 +1314,10 @@ POL,Poland,Very High,,2006,0.82
 PRK,North Korea,,EAP,2006,
 PRT,Portugal,Very High,,2006,0.811
 PRY,Paraguay,High,LAC,2006,0.664
-PSE,"Palestine, State of",High,AS,2006,0.663
+PSE,Palestine,High,AS,2006,0.663
 QAT,Qatar,Very High,AS,2006,0.825
 ROU,Romania,Very High,,2006,0.77
-RUS,Russian Federation,Very High,,2006,0.775
+RUS,Russia,Very High,,2006,0.775
 RWA,Rwanda,Low,SSA,2006,0.442
 SAU,Saudi Arabia,Very High,AS,2006,0.787
 SDN,Sudan,Low,AS,2006,0.465
@@ -1337,13 +1337,13 @@ SVN,Slovenia,Very High,,2006,0.878
 SWE,Sweden,Very High,,2006,0.906
 SWZ,Eswatini,Medium,SSA,2006,0.462
 SYC,Seychelles,High,SSA,2006,0.753
-SYR,Syrian Arab Republic,Medium,AS,2006,0.65
+SYR,Syria,Medium,AS,2006,0.65
 TCD,Chad,Low,SSA,2006,0.327
 TGO,Togo,Low,SSA,2006,0.464
 THA,Thailand,Very High,EAP,2006,0.712
 TJK,Tajikistan,Medium,ECA,2006,0.622
 TKM,Turkmenistan,High,ECA,2006,0.67
-TLS,Timor-Leste,Medium,EAP,2006,0.563
+TLS,East Timor,Medium,EAP,2006,0.563
 TON,Tonga,High,EAP,2006,0.703
 TTO,Trinidad and Tobago,Very High,LAC,2006,0.767
 TUN,Tunisia,High,AS,2006,0.7
@@ -1399,7 +1399,7 @@ CHL,Chile,Very High,LAC,2007,0.801
 CHN,China,High,EAP,2007,0.663
 CIV,Ivory Coast,Medium,SSA,2007,0.461
 CMR,Cameroon,Medium,SSA,2007,0.489
-COD,The Democratic Republic of the Congo,Low,SSA,2007,0.406
+COD,Democratic Republic of the Congo,Low,SSA,2007,0.406
 COG,Congo,Medium,SSA,2007,0.533
 COL,Colombia,High,LAC,2007,0.71
 COM,Comoros,Medium,SSA,2007,0.5
@@ -1509,10 +1509,10 @@ POL,Poland,Very High,,2007,0.825
 PRK,North Korea,,EAP,2007,
 PRT,Portugal,Very High,,2007,0.818
 PRY,Paraguay,High,LAC,2007,0.669
-PSE,"Palestine, State of",High,AS,2007,0.672
+PSE,Palestine,High,AS,2007,0.672
 QAT,Qatar,Very High,AS,2007,0.834
 ROU,Romania,Very High,,2007,0.786
-RUS,Russian Federation,Very High,,2007,0.786
+RUS,Russia,Very High,,2007,0.786
 RWA,Rwanda,Low,SSA,2007,0.456
 SAU,Saudi Arabia,Very High,AS,2007,0.794
 SDN,Sudan,Low,AS,2007,0.47
@@ -1532,13 +1532,13 @@ SVN,Slovenia,Very High,,2007,0.882
 SWE,Sweden,Very High,,2007,0.908
 SWZ,Eswatini,Medium,SSA,2007,0.471
 SYC,Seychelles,High,SSA,2007,0.77
-SYR,Syrian Arab Republic,Medium,AS,2007,0.659
+SYR,Syria,Medium,AS,2007,0.659
 TCD,Chad,Low,SSA,2007,0.337
 TGO,Togo,Low,SSA,2007,0.457
 THA,Thailand,Very High,EAP,2007,0.724
 TJK,Tajikistan,Medium,ECA,2007,0.625
 TKM,Turkmenistan,High,ECA,2007,0.682
-TLS,Timor-Leste,Medium,EAP,2007,0.585
+TLS,East Timor,Medium,EAP,2007,0.585
 TON,Tonga,High,EAP,2007,0.704
 TTO,Trinidad and Tobago,Very High,LAC,2007,0.773
 TUN,Tunisia,High,AS,2007,0.706
@@ -1594,7 +1594,7 @@ CHL,Chile,Very High,LAC,2008,0.813
 CHN,China,High,EAP,2008,0.672
 CIV,Ivory Coast,Medium,SSA,2008,0.464
 CMR,Cameroon,Medium,SSA,2008,0.497
-COD,The Democratic Republic of the Congo,Low,SSA,2008,0.416
+COD,Democratic Republic of the Congo,Low,SSA,2008,0.416
 COG,Congo,Medium,SSA,2008,0.541
 COL,Colombia,High,LAC,2008,0.716
 COM,Comoros,Medium,SSA,2008,0.507
@@ -1704,10 +1704,10 @@ POL,Poland,Very High,,2008,0.831
 PRK,North Korea,,EAP,2008,
 PRT,Portugal,Very High,,2008,0.822
 PRY,Paraguay,High,LAC,2008,0.679
-PSE,"Palestine, State of",High,AS,2008,0.677
+PSE,Palestine,High,AS,2008,0.677
 QAT,Qatar,Very High,AS,2008,0.84
 ROU,Romania,Very High,,2008,0.806
-RUS,Russian Federation,Very High,,2008,0.791
+RUS,Russia,Very High,,2008,0.791
 RWA,Rwanda,Low,SSA,2008,0.467
 SAU,Saudi Arabia,Very High,AS,2008,0.802
 SDN,Sudan,Low,AS,2008,0.478
@@ -1727,13 +1727,13 @@ SVN,Slovenia,Very High,,2008,0.888
 SWE,Sweden,Very High,,2008,0.905
 SWZ,Eswatini,Medium,SSA,2008,0.479
 SYC,Seychelles,High,SSA,2008,0.771
-SYR,Syrian Arab Republic,Medium,AS,2008,0.653
+SYR,Syria,Medium,AS,2008,0.653
 TCD,Chad,Low,SSA,2008,0.341
 TGO,Togo,Low,SSA,2008,0.464
 THA,Thailand,Very High,EAP,2008,0.727
 TJK,Tajikistan,Medium,ECA,2008,0.639
 TKM,Turkmenistan,High,ECA,2008,0.693
-TLS,Timor-Leste,Medium,EAP,2008,0.611
+TLS,East Timor,Medium,EAP,2008,0.611
 TON,Tonga,High,EAP,2008,0.709
 TTO,Trinidad and Tobago,Very High,LAC,2008,0.777
 TUN,Tunisia,High,AS,2008,0.711
@@ -1789,7 +1789,7 @@ CHL,Chile,Very High,LAC,2009,0.811
 CHN,China,High,EAP,2009,0.682
 CIV,Ivory Coast,Medium,SSA,2009,0.469
 CMR,Cameroon,Medium,SSA,2009,0.506
-COD,The Democratic Republic of the Congo,Low,SSA,2009,0.421
+COD,Democratic Republic of the Congo,Low,SSA,2009,0.421
 COG,Congo,Medium,SSA,2009,0.554
 COL,Colombia,High,LAC,2009,0.722
 COM,Comoros,Medium,SSA,2009,0.513
@@ -1899,10 +1899,10 @@ POL,Poland,Very High,,2009,0.835
 PRK,North Korea,,EAP,2009,
 PRT,Portugal,Very High,,2009,0.825
 PRY,Paraguay,High,LAC,2009,0.677
-PSE,"Palestine, State of",High,AS,2009,0.682
+PSE,Palestine,High,AS,2009,0.682
 QAT,Qatar,Very High,AS,2009,0.838
 ROU,Romania,Very High,,2009,0.809
-RUS,Russian Federation,Very High,,2009,0.789
+RUS,Russia,Very High,,2009,0.789
 RWA,Rwanda,Low,SSA,2009,0.48
 SAU,Saudi Arabia,Very High,AS,2009,0.807
 SDN,Sudan,Low,AS,2009,0.486
@@ -1922,13 +1922,13 @@ SVN,Slovenia,Very High,,2009,0.887
 SWE,Sweden,Very High,,2009,0.904
 SWZ,Eswatini,Medium,SSA,2009,0.486
 SYC,Seychelles,High,SSA,2009,0.77
-SYR,Syrian Arab Republic,Medium,AS,2009,0.659
+SYR,Syria,Medium,AS,2009,0.659
 TCD,Chad,Low,SSA,2009,0.355
 TGO,Togo,Low,SSA,2009,0.472
 THA,Thailand,Very High,EAP,2009,0.73
 TJK,Tajikistan,Medium,ECA,2009,0.633
 TKM,Turkmenistan,High,ECA,2009,0.701
-TLS,Timor-Leste,Medium,EAP,2009,0.609
+TLS,East Timor,Medium,EAP,2009,0.609
 TON,Tonga,High,EAP,2009,0.708
 TTO,Trinidad and Tobago,Very High,LAC,2009,0.787
 TUN,Tunisia,High,AS,2009,0.715
@@ -1984,7 +1984,7 @@ CHL,Chile,Very High,LAC,2010,0.813
 CHN,China,High,EAP,2010,0.691
 CIV,Ivory Coast,Medium,SSA,2010,0.473
 CMR,Cameroon,Medium,SSA,2010,0.513
-COD,The Democratic Republic of the Congo,Low,SSA,2010,0.429
+COD,Democratic Republic of the Congo,Low,SSA,2010,0.429
 COG,Congo,Medium,SSA,2010,0.561
 COL,Colombia,High,LAC,2010,0.726
 COM,Comoros,Medium,SSA,2010,0.52
@@ -2094,10 +2094,10 @@ POL,Poland,Very High,,2010,0.841
 PRK,North Korea,,EAP,2010,
 PRT,Portugal,Very High,,2010,0.829
 PRY,Paraguay,High,LAC,2010,0.685
-PSE,"Palestine, State of",High,AS,2010,0.687
+PSE,Palestine,High,AS,2010,0.687
 QAT,Qatar,Very High,AS,2010,0.834
 ROU,Romania,Very High,,2010,0.807
-RUS,Russian Federation,Very High,,2010,0.796
+RUS,Russia,Very High,,2010,0.796
 RWA,Rwanda,Low,SSA,2010,0.489
 SAU,Saudi Arabia,Very High,AS,2010,0.816
 SDN,Sudan,Low,AS,2010,0.486
@@ -2117,13 +2117,13 @@ SVN,Slovenia,Very High,,2010,0.89
 SWE,Sweden,Very High,,2010,0.91
 SWZ,Eswatini,Medium,SSA,2010,0.503
 SYC,Seychelles,High,SSA,2010,0.776
-SYR,Syrian Arab Republic,Medium,AS,2010,0.66
+SYR,Syria,Medium,AS,2010,0.66
 TCD,Chad,Low,SSA,2010,0.362
 TGO,Togo,Low,SSA,2010,0.477
 THA,Thailand,Very High,EAP,2010,0.737
 TJK,Tajikistan,Medium,ECA,2010,0.636
 TKM,Turkmenistan,High,ECA,2010,0.711
-TLS,Timor-Leste,Medium,EAP,2010,0.619
+TLS,East Timor,Medium,EAP,2010,0.619
 TON,Tonga,High,EAP,2010,0.713
 TTO,Trinidad and Tobago,Very High,LAC,2010,0.79
 TUN,Tunisia,High,AS,2010,0.72
@@ -2179,7 +2179,7 @@ CHL,Chile,Very High,LAC,2011,0.817
 CHN,China,High,EAP,2011,0.7
 CIV,Ivory Coast,Medium,SSA,2011,0.472
 CMR,Cameroon,Medium,SSA,2011,0.521
-COD,The Democratic Republic of the Congo,Low,SSA,2011,0.438
+COD,Democratic Republic of the Congo,Low,SSA,2011,0.438
 COG,Congo,Medium,SSA,2011,0.564
 COL,Colombia,High,LAC,2011,0.733
 COM,Comoros,Medium,SSA,2011,0.527
@@ -2289,10 +2289,10 @@ POL,Poland,Very High,,2011,0.847
 PRK,North Korea,,EAP,2011,
 PRT,Portugal,Very High,,2011,0.835
 PRY,Paraguay,High,LAC,2011,0.696
-PSE,"Palestine, State of",High,AS,2011,0.694
+PSE,Palestine,High,AS,2011,0.694
 QAT,Qatar,Very High,AS,2011,0.844
 ROU,Romania,Very High,,2011,0.808
-RUS,Russian Federation,Very High,,2011,0.808
+RUS,Russia,Very High,,2011,0.808
 RWA,Rwanda,Low,SSA,2011,0.497
 SAU,Saudi Arabia,Very High,AS,2011,0.828
 SDN,Sudan,Low,AS,2011,0.487
@@ -2312,13 +2312,13 @@ SVN,Slovenia,Very High,,2011,0.892
 SWE,Sweden,Very High,,2011,0.911
 SWZ,Eswatini,Medium,SSA,2011,0.517
 SYC,Seychelles,High,SSA,2011,0.766
-SYR,Syrian Arab Republic,Medium,AS,2011,0.691
+SYR,Syria,Medium,AS,2011,0.691
 TCD,Chad,Low,SSA,2011,0.372
 TGO,Togo,Low,SSA,2011,0.487
 THA,Thailand,Very High,EAP,2011,0.743
 TJK,Tajikistan,Medium,ECA,2011,0.635
 TKM,Turkmenistan,High,ECA,2011,0.72
-TLS,Timor-Leste,Medium,EAP,2011,0.638
+TLS,East Timor,Medium,EAP,2011,0.638
 TON,Tonga,High,EAP,2011,0.72
 TTO,Trinidad and Tobago,Very High,LAC,2011,0.794
 TUN,Tunisia,High,AS,2011,0.722
@@ -2374,7 +2374,7 @@ CHL,Chile,Very High,LAC,2012,0.824
 CHN,China,High,EAP,2012,0.709
 CIV,Ivory Coast,Medium,SSA,2012,0.477
 CMR,Cameroon,Medium,SSA,2012,0.533
-COD,The Democratic Republic of the Congo,Low,SSA,2012,0.44
+COD,Democratic Republic of the Congo,Low,SSA,2012,0.44
 COG,Congo,Medium,SSA,2012,0.575
 COL,Colombia,High,LAC,2012,0.734
 COM,Comoros,Medium,SSA,2012,0.533
@@ -2484,10 +2484,10 @@ POL,Poland,Very High,,2012,0.852
 PRK,North Korea,,EAP,2012,
 PRT,Portugal,Very High,,2012,0.836
 PRY,Paraguay,High,LAC,2012,0.702
-PSE,"Palestine, State of",High,AS,2012,0.701
+PSE,Palestine,High,AS,2012,0.701
 QAT,Qatar,Very High,AS,2012,0.829
 ROU,Romania,Very High,,2012,0.805
-RUS,Russian Federation,Very High,,2012,0.811
+RUS,Russia,Very High,,2012,0.811
 RWA,Rwanda,Low,SSA,2012,0.506
 SAU,Saudi Arabia,Very High,AS,2012,0.837
 SDN,Sudan,Low,AS,2012,0.493
@@ -2507,13 +2507,13 @@ SVN,Slovenia,Very High,,2012,0.891
 SWE,Sweden,Very High,,2012,0.911
 SWZ,Eswatini,Medium,SSA,2012,0.531
 SYC,Seychelles,High,SSA,2012,0.786
-SYR,Syrian Arab Republic,Medium,AS,2012,0.65
+SYR,Syria,Medium,AS,2012,0.65
 TCD,Chad,Low,SSA,2012,0.381
 TGO,Togo,Low,SSA,2012,0.491
 THA,Thailand,Very High,EAP,2012,0.746
 TJK,Tajikistan,Medium,ECA,2012,0.643
 TKM,Turkmenistan,High,ECA,2012,0.727
-TLS,Timor-Leste,Medium,EAP,2012,0.635
+TLS,East Timor,Medium,EAP,2012,0.635
 TON,Tonga,High,EAP,2012,0.723
 TTO,Trinidad and Tobago,Very High,LAC,2012,0.8
 TUN,Tunisia,High,AS,2012,0.724
@@ -2569,7 +2569,7 @@ CHL,Chile,Very High,LAC,2013,0.836
 CHN,China,High,EAP,2013,0.717
 CIV,Ivory Coast,Medium,SSA,2013,0.483
 CMR,Cameroon,Medium,SSA,2013,0.542
-COD,The Democratic Republic of the Congo,Low,SSA,2013,0.446
+COD,Democratic Republic of the Congo,Low,SSA,2013,0.446
 COG,Congo,Medium,SSA,2013,0.58
 COL,Colombia,High,LAC,2013,0.746
 COM,Comoros,Medium,SSA,2013,0.539
@@ -2679,10 +2679,10 @@ POL,Poland,Very High,,2013,0.863
 PRK,North Korea,,EAP,2013,
 PRT,Portugal,Very High,,2013,0.845
 PRY,Paraguay,High,LAC,2013,0.715
-PSE,"Palestine, State of",High,AS,2013,0.703
+PSE,Palestine,High,AS,2013,0.703
 QAT,Qatar,Very High,AS,2013,0.834
 ROU,Romania,Very High,,2013,0.81
-RUS,Russian Federation,Very High,,2013,0.817
+RUS,Russia,Very High,,2013,0.817
 RWA,Rwanda,Low,SSA,2013,0.508
 SAU,Saudi Arabia,Very High,AS,2013,0.845
 SDN,Sudan,Low,AS,2013,0.497
@@ -2702,13 +2702,13 @@ SVN,Slovenia,Very High,,2013,0.9
 SWE,Sweden,Very High,,2013,0.932
 SWZ,Eswatini,Medium,SSA,2013,0.546
 SYC,Seychelles,High,SSA,2013,0.787
-SYR,Syrian Arab Republic,Medium,AS,2013,0.573
+SYR,Syria,Medium,AS,2013,0.573
 TCD,Chad,Low,SSA,2013,0.386
 TGO,Togo,Low,SSA,2013,0.499
 THA,Thailand,Very High,EAP,2013,0.747
 TJK,Tajikistan,Medium,ECA,2013,0.656
 TKM,Turkmenistan,High,ECA,2013,0.73
-TLS,Timor-Leste,Medium,EAP,2013,0.63
+TLS,East Timor,Medium,EAP,2013,0.63
 TON,Tonga,High,EAP,2013,0.725
 TTO,Trinidad and Tobago,Very High,LAC,2013,0.806
 TUN,Tunisia,High,AS,2013,0.727
@@ -2764,7 +2764,7 @@ CHL,Chile,Very High,LAC,2014,0.841
 CHN,China,High,EAP,2014,0.725
 CIV,Ivory Coast,Medium,SSA,2014,0.502
 CMR,Cameroon,Medium,SSA,2014,0.551
-COD,The Democratic Republic of the Congo,Low,SSA,2014,0.455
+COD,Democratic Republic of the Congo,Low,SSA,2014,0.455
 COG,Congo,Medium,SSA,2014,0.589
 COL,Colombia,High,LAC,2014,0.75
 COM,Comoros,Medium,SSA,2014,0.54
@@ -2874,10 +2874,10 @@ POL,Poland,Very High,,2014,0.865
 PRK,North Korea,,EAP,2014,
 PRT,Portugal,Very High,,2014,0.848
 PRY,Paraguay,High,LAC,2014,0.716
-PSE,"Palestine, State of",High,AS,2014,0.698
+PSE,Palestine,High,AS,2014,0.698
 QAT,Qatar,Very High,AS,2014,0.839
 ROU,Romania,Very High,,2014,0.811
-RUS,Russian Federation,Very High,,2014,0.818
+RUS,Russia,Very High,,2014,0.818
 RWA,Rwanda,Low,SSA,2014,0.513
 SAU,Saudi Arabia,Very High,AS,2014,0.852
 SDN,Sudan,Low,AS,2014,0.504
@@ -2897,13 +2897,13 @@ SVN,Slovenia,Very High,,2014,0.902
 SWE,Sweden,Very High,,2014,0.935
 SWZ,Eswatini,Medium,SSA,2014,0.559
 SYC,Seychelles,High,SSA,2014,0.796
-SYR,Syrian Arab Republic,Medium,AS,2014,0.553
+SYR,Syria,Medium,AS,2014,0.553
 TCD,Chad,Low,SSA,2014,0.393
 TGO,Togo,Low,SSA,2014,0.505
 THA,Thailand,Very High,EAP,2014,0.778
 TJK,Tajikistan,Medium,ECA,2014,0.656
 TKM,Turkmenistan,High,ECA,2014,0.734
-TLS,Timor-Leste,Medium,EAP,2014,0.622
+TLS,East Timor,Medium,EAP,2014,0.622
 TON,Tonga,High,EAP,2014,0.727
 TTO,Trinidad and Tobago,Very High,LAC,2014,0.809
 TUN,Tunisia,High,AS,2014,0.73
@@ -2959,7 +2959,7 @@ CHL,Chile,Very High,LAC,2015,0.846
 CHN,China,High,EAP,2015,0.733
 CIV,Ivory Coast,Medium,SSA,2015,0.513
 CMR,Cameroon,Medium,SSA,2015,0.56
-COD,The Democratic Republic of the Congo,Low,SSA,2015,0.463
+COD,Democratic Republic of the Congo,Low,SSA,2015,0.463
 COG,Congo,Medium,SSA,2015,0.59
 COL,Colombia,High,LAC,2015,0.754
 COM,Comoros,Medium,SSA,2015,0.544
@@ -3069,10 +3069,10 @@ POL,Poland,Very High,,2015,0.868
 PRK,North Korea,,EAP,2015,
 PRT,Portugal,Very High,,2015,0.85
 PRY,Paraguay,High,LAC,2015,0.723
-PSE,"Palestine, State of",High,AS,2015,0.71
+PSE,Palestine,High,AS,2015,0.71
 QAT,Qatar,Very High,AS,2015,0.846
 ROU,Romania,Very High,,2015,0.813
-RUS,Russian Federation,Very High,,2015,0.824
+RUS,Russia,Very High,,2015,0.824
 RWA,Rwanda,Low,SSA,2015,0.515
 SAU,Saudi Arabia,Very High,AS,2015,0.859
 SDN,Sudan,Low,AS,2015,0.508
@@ -3092,13 +3092,13 @@ SVN,Slovenia,Very High,,2015,0.903
 SWE,Sweden,Very High,,2015,0.937
 SWZ,Eswatini,Medium,SSA,2015,0.575
 SYC,Seychelles,High,SSA,2015,0.796
-SYR,Syrian Arab Republic,Medium,AS,2015,0.556
+SYR,Syria,Medium,AS,2015,0.556
 TCD,Chad,Low,SSA,2015,0.389
 TGO,Togo,Low,SSA,2015,0.514
 THA,Thailand,Very High,EAP,2015,0.781
 TJK,Tajikistan,Medium,ECA,2015,0.657
 TKM,Turkmenistan,High,ECA,2015,0.74
-TLS,Timor-Leste,Medium,EAP,2015,0.614
+TLS,East Timor,Medium,EAP,2015,0.614
 TON,Tonga,High,EAP,2015,0.73
 TTO,Trinidad and Tobago,Very High,LAC,2015,0.816
 TUN,Tunisia,High,AS,2015,0.733
@@ -3154,7 +3154,7 @@ CHL,Chile,Very High,LAC,2016,0.85
 CHN,China,High,EAP,2016,0.74
 CIV,Ivory Coast,Medium,SSA,2016,0.524
 CMR,Cameroon,Medium,SSA,2016,0.564
-COD,The Democratic Republic of the Congo,Low,SSA,2016,0.472
+COD,Democratic Republic of the Congo,Low,SSA,2016,0.472
 COG,Congo,Medium,SSA,2016,0.586
 COL,Colombia,High,LAC,2016,0.759
 COM,Comoros,Medium,SSA,2016,0.548
@@ -3264,10 +3264,10 @@ POL,Poland,Very High,,2016,0.872
 PRK,North Korea,,EAP,2016,
 PRT,Portugal,Very High,,2016,0.853
 PRY,Paraguay,High,LAC,2016,0.721
-PSE,"Palestine, State of",High,AS,2016,0.715
+PSE,Palestine,High,AS,2016,0.715
 QAT,Qatar,Very High,AS,2016,0.85
 ROU,Romania,Very High,,2016,0.816
-RUS,Russian Federation,Very High,,2016,0.828
+RUS,Russia,Very High,,2016,0.828
 RWA,Rwanda,Low,SSA,2016,0.524
 SAU,Saudi Arabia,Very High,AS,2016,0.864
 SDN,Sudan,Low,AS,2016,0.511
@@ -3287,13 +3287,13 @@ SVN,Slovenia,Very High,,2016,0.91
 SWE,Sweden,Very High,,2016,0.939
 SWZ,Eswatini,Medium,SSA,2016,0.586
 SYC,Seychelles,High,SSA,2016,0.796
-SYR,Syrian Arab Republic,Medium,AS,2016,0.56
+SYR,Syria,Medium,AS,2016,0.56
 TCD,Chad,Low,SSA,2016,0.391
 TGO,Togo,Low,SSA,2016,0.518
 THA,Thailand,Very High,EAP,2016,0.785
 TJK,Tajikistan,Medium,ECA,2016,0.66
 TKM,Turkmenistan,High,ECA,2016,0.742
-TLS,Timor-Leste,Medium,EAP,2016,0.604
+TLS,East Timor,Medium,EAP,2016,0.604
 TON,Tonga,High,EAP,2016,0.735
 TTO,Trinidad and Tobago,Very High,LAC,2016,0.815
 TUN,Tunisia,High,AS,2016,0.737
@@ -3349,7 +3349,7 @@ CHL,Chile,Very High,LAC,2017,0.853
 CHN,China,High,EAP,2017,0.747
 CIV,Ivory Coast,Medium,SSA,2017,0.534
 CMR,Cameroon,Medium,SSA,2017,0.571
-COD,The Democratic Republic of the Congo,Low,SSA,2017,0.475
+COD,Democratic Republic of the Congo,Low,SSA,2017,0.475
 COG,Congo,Medium,SSA,2017,0.58
 COL,Colombia,High,LAC,2017,0.761
 COM,Comoros,Medium,SSA,2017,0.553
@@ -3459,10 +3459,10 @@ POL,Poland,Very High,,2017,0.875
 PRK,North Korea,,EAP,2017,
 PRT,Portugal,Very High,,2017,0.859
 PRY,Paraguay,High,LAC,2017,0.724
-PSE,"Palestine, State of",High,AS,2017,0.719
+PSE,Palestine,High,AS,2017,0.719
 QAT,Qatar,Very High,AS,2017,0.849
 ROU,Romania,Very High,,2017,0.823
-RUS,Russian Federation,Very High,,2017,0.833
+RUS,Russia,Very High,,2017,0.833
 RWA,Rwanda,Low,SSA,2017,0.526
 SAU,Saudi Arabia,Very High,AS,2017,0.86
 SDN,Sudan,Low,AS,2017,0.514
@@ -3482,13 +3482,13 @@ SVN,Slovenia,Very High,,2017,0.913
 SWE,Sweden,Very High,,2017,0.941
 SWZ,Eswatini,Medium,SSA,2017,0.596
 SYC,Seychelles,High,SSA,2017,0.796
-SYR,Syrian Arab Republic,Medium,AS,2017,0.572
+SYR,Syria,Medium,AS,2017,0.572
 TCD,Chad,Low,SSA,2017,0.393
 TGO,Togo,Low,SSA,2017,0.524
 THA,Thailand,Very High,EAP,2017,0.79
 TJK,Tajikistan,Medium,ECA,2017,0.665
 TKM,Turkmenistan,High,ECA,2017,0.741
-TLS,Timor-Leste,Medium,EAP,2017,0.606
+TLS,East Timor,Medium,EAP,2017,0.606
 TON,Tonga,High,EAP,2017,0.74
 TTO,Trinidad and Tobago,Very High,LAC,2017,0.817
 TUN,Tunisia,High,AS,2017,0.74
@@ -3544,7 +3544,7 @@ CHL,Chile,Very High,LAC,2018,0.856
 CHN,China,High,EAP,2018,0.755
 CIV,Ivory Coast,Medium,SSA,2018,0.542
 CMR,Cameroon,Medium,SSA,2018,0.577
-COD,The Democratic Republic of the Congo,Low,SSA,2018,0.48
+COD,Democratic Republic of the Congo,Low,SSA,2018,0.48
 COG,Congo,Medium,SSA,2018,0.578
 COL,Colombia,High,LAC,2018,0.763
 COM,Comoros,Medium,SSA,2018,0.557
@@ -3654,10 +3654,10 @@ POL,Poland,Very High,,2018,0.877
 PRK,North Korea,,EAP,2018,
 PRT,Portugal,Very High,,2018,0.86
 PRY,Paraguay,High,LAC,2018,0.727
-PSE,"Palestine, State of",High,AS,2018,0.723
+PSE,Palestine,High,AS,2018,0.723
 QAT,Qatar,Very High,AS,2018,0.853
 ROU,Romania,Very High,,2018,0.827
-RUS,Russian Federation,Very High,,2018,0.841
+RUS,Russia,Very High,,2018,0.841
 RWA,Rwanda,Low,SSA,2018,0.528
 SAU,Saudi Arabia,Very High,AS,2018,0.865
 SDN,Sudan,Low,AS,2018,0.514
@@ -3677,13 +3677,13 @@ SVN,Slovenia,Very High,,2018,0.917
 SWE,Sweden,Very High,,2018,0.942
 SWZ,Eswatini,Medium,SSA,2018,0.607
 SYC,Seychelles,High,SSA,2018,0.8
-SYR,Syrian Arab Republic,Medium,AS,2018,0.58
+SYR,Syria,Medium,AS,2018,0.58
 TCD,Chad,Low,SSA,2018,0.398
 TGO,Togo,Low,SSA,2018,0.528
 THA,Thailand,Very High,EAP,2018,0.795
 TJK,Tajikistan,Medium,ECA,2018,0.671
 TKM,Turkmenistan,High,ECA,2018,0.746
-TLS,Timor-Leste,Medium,EAP,2018,0.605
+TLS,East Timor,Medium,EAP,2018,0.605
 TON,Tonga,High,EAP,2018,0.742
 TTO,Trinidad and Tobago,Very High,LAC,2018,0.815
 TUN,Tunisia,High,AS,2018,0.743
@@ -3739,7 +3739,7 @@ CHL,Chile,Very High,LAC,2019,0.861
 CHN,China,High,EAP,2019,0.762
 CIV,Ivory Coast,Medium,SSA,2019,0.55
 CMR,Cameroon,Medium,SSA,2019,0.583
-COD,The Democratic Republic of the Congo,Low,SSA,2019,0.482
+COD,Democratic Republic of the Congo,Low,SSA,2019,0.482
 COG,Congo,Medium,SSA,2019,0.57
 COL,Colombia,High,LAC,2019,0.768
 COM,Comoros,Medium,SSA,2019,0.56
@@ -3849,10 +3849,10 @@ POL,Poland,Very High,,2019,0.881
 PRK,North Korea,,EAP,2019,
 PRT,Portugal,Very High,,2019,0.867
 PRY,Paraguay,High,LAC,2019,0.732
-PSE,"Palestine, State of",High,AS,2019,0.727
+PSE,Palestine,High,AS,2019,0.727
 QAT,Qatar,Very High,AS,2019,0.859
 ROU,Romania,Very High,,2019,0.832
-RUS,Russian Federation,Very High,,2019,0.845
+RUS,Russia,Very High,,2019,0.845
 RWA,Rwanda,Low,SSA,2019,0.534
 SAU,Saudi Arabia,Very High,AS,2019,0.873
 SDN,Sudan,Low,AS,2019,0.514
@@ -3872,13 +3872,13 @@ SVN,Slovenia,Very High,,2019,0.921
 SWE,Sweden,Very High,,2019,0.947
 SWZ,Eswatini,Medium,SSA,2019,0.615
 SYC,Seychelles,High,SSA,2019,0.802
-SYR,Syrian Arab Republic,Medium,AS,2019,0.584
+SYR,Syria,Medium,AS,2019,0.584
 TCD,Chad,Low,SSA,2019,0.403
 TGO,Togo,Low,SSA,2019,0.535
 THA,Thailand,Very High,EAP,2019,0.804
 TJK,Tajikistan,Medium,ECA,2019,0.676
 TKM,Turkmenistan,High,ECA,2019,0.742
-TLS,Timor-Leste,Medium,EAP,2019,0.614
+TLS,East Timor,Medium,EAP,2019,0.614
 TON,Tonga,High,EAP,2019,0.744
 TTO,Trinidad and Tobago,Very High,LAC,2019,0.821
 TUN,Tunisia,High,AS,2019,0.745
@@ -3934,7 +3934,7 @@ CHL,Chile,Very High,LAC,2020,0.852
 CHN,China,High,EAP,2020,0.764
 CIV,Ivory Coast,Medium,SSA,2020,0.551
 CMR,Cameroon,Medium,SSA,2020,0.578
-COD,The Democratic Republic of the Congo,Low,SSA,2020,0.479
+COD,Democratic Republic of the Congo,Low,SSA,2020,0.479
 COG,Congo,Medium,SSA,2020,0.574
 COL,Colombia,High,LAC,2020,0.756
 COM,Comoros,Medium,SSA,2020,0.562
@@ -4044,10 +4044,10 @@ POL,Poland,Very High,,2020,0.876
 PRK,North Korea,,EAP,2020,
 PRT,Portugal,Very High,,2020,0.863
 PRY,Paraguay,High,LAC,2020,0.73
-PSE,"Palestine, State of",High,AS,2020,0.716
+PSE,Palestine,High,AS,2020,0.716
 QAT,Qatar,Very High,AS,2020,0.854
 ROU,Romania,Very High,,2020,0.824
-RUS,Russian Federation,Very High,,2020,0.83
+RUS,Russia,Very High,,2020,0.83
 RWA,Rwanda,Low,SSA,2020,0.532
 SAU,Saudi Arabia,Very High,AS,2020,0.87
 SDN,Sudan,Low,AS,2020,0.51
@@ -4067,13 +4067,13 @@ SVN,Slovenia,Very High,,2020,0.913
 SWE,Sweden,Very High,,2020,0.942
 SWZ,Eswatini,Medium,SSA,2020,0.61
 SYC,Seychelles,High,SSA,2020,0.793
-SYR,Syrian Arab Republic,Medium,AS,2020,0.577
+SYR,Syria,Medium,AS,2020,0.577
 TCD,Chad,Low,SSA,2020,0.397
 TGO,Togo,Low,SSA,2020,0.535
 THA,Thailand,Very High,EAP,2020,0.802
 TJK,Tajikistan,Medium,ECA,2020,0.664
 TKM,Turkmenistan,High,ECA,2020,0.741
-TLS,Timor-Leste,Medium,EAP,2020,0.614
+TLS,East Timor,Medium,EAP,2020,0.614
 TON,Tonga,High,EAP,2020,0.745
 TTO,Trinidad and Tobago,Very High,LAC,2020,0.818
 TUN,Tunisia,High,AS,2020,0.737
@@ -4129,7 +4129,7 @@ CHL,Chile,Very High,LAC,2021,0.855
 CHN,China,High,EAP,2021,0.768
 CIV,Ivory Coast,Medium,SSA,2021,0.55
 CMR,Cameroon,Medium,SSA,2021,0.576
-COD,The Democratic Republic of the Congo,Low,SSA,2021,0.479
+COD,Democratic Republic of the Congo,Low,SSA,2021,0.479
 COG,Congo,Medium,SSA,2021,0.571
 COL,Colombia,High,LAC,2021,0.752
 COM,Comoros,Medium,SSA,2021,0.558
@@ -4239,10 +4239,10 @@ POL,Poland,Very High,,2021,0.876
 PRK,North Korea,,EAP,2021,
 PRT,Portugal,Very High,,2021,0.866
 PRY,Paraguay,High,LAC,2021,0.717
-PSE,"Palestine, State of",High,AS,2021,0.715
+PSE,Palestine,High,AS,2021,0.715
 QAT,Qatar,Very High,AS,2021,0.855
 ROU,Romania,Very High,,2021,0.821
-RUS,Russian Federation,Very High,,2021,0.822
+RUS,Russia,Very High,,2021,0.822
 RWA,Rwanda,Low,SSA,2021,0.534
 SAU,Saudi Arabia,Very High,AS,2021,0.875
 SDN,Sudan,Low,AS,2021,0.508
@@ -4262,13 +4262,13 @@ SVN,Slovenia,Very High,,2021,0.918
 SWE,Sweden,Very High,,2021,0.947
 SWZ,Eswatini,Medium,SSA,2021,0.597
 SYC,Seychelles,High,SSA,2021,0.785
-SYR,Syrian Arab Republic,Medium,AS,2021,0.577
+SYR,Syria,Medium,AS,2021,0.577
 TCD,Chad,Low,SSA,2021,0.394
 TGO,Togo,Low,SSA,2021,0.539
 THA,Thailand,Very High,EAP,2021,0.8
 TJK,Tajikistan,Medium,ECA,2021,0.685
 TKM,Turkmenistan,High,ECA,2021,0.745
-TLS,Timor-Leste,Medium,EAP,2021,0.607
+TLS,East Timor,Medium,EAP,2021,0.607
 TON,Tonga,High,EAP,2021,0.745
 TTO,Trinidad and Tobago,Very High,LAC,2021,0.81
 TUN,Tunisia,High,AS,2021,0.731
