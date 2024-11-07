@@ -1,0 +1,2146 @@
+age,gender,job_role,years_of_experience,work_type,hours_worked_per_week,number_of_virtual_meetings,work_life_balance_rating,stress_level,productivity_change,social_isolation_rating,satisfaction_with_remote_work,company_support_for_remote_work,degree_of_remote_support,degree_of_social_isolation,degree_of_work-life_balance
+40,Female,Data Scientist,3,Remote,52,4,1,Medium,Increase,3,Satisfied,2,Low,Medium,Low
+59,Non-binary,Software Engineer,22,Hybrid,46,11,5,Medium,No Change,4,Unsatisfied,5,High,High,High
+27,Male,Software Engineer,20,Onsite,32,8,4,High,Increase,3,Unsatisfied,3,Medium,Medium,High
+42,Non-binary,Data Scientist,6,Onsite,54,7,3,Medium,Decrease,5,Satisfied,4,High,High,Medium
+56,Prefer not to say,Data Scientist,9,Hybrid,24,4,2,High,Decrease,2,Unsatisfied,4,High,Low,Low
+33,Non-binary,Software Engineer,17,Remote,48,3,3,High,Decrease,4,Satisfied,2,Low,High,Medium
+36,Prefer not to say,Project Manager,23,Remote,59,11,3,High,Decrease,5,Neutral,3,Medium,High,Medium
+45,Non-binary,Data Scientist,20,Onsite,37,8,3,Low,Decrease,5,Neutral,5,High,High,Medium
+49,Non-binary,Software Engineer,30,Remote,36,6,1,High,No Change,3,Satisfied,2,Low,Medium,Low
+59,Male,Software Engineer,13,Remote,59,4,3,Medium,Decrease,4,Neutral,1,Low,High,Medium
+49,Male,Project Manager,23,Onsite,21,14,4,High,No Change,4,Neutral,3,Medium,High,High
+36,Non-binary,Project Manager,30,Onsite,24,12,3,High,Decrease,4,Unsatisfied,4,High,High,Medium
+53,Female,Project Manager,31,Onsite,56,4,4,Low,No Change,4,Unsatisfied,4,High,High,High
+59,Male,Software Engineer,34,Remote,25,15,2,High,No Change,3,Satisfied,1,Low,Medium,Low
+22,Female,Data Scientist,22,Onsite,20,11,1,Low,No Change,5,Neutral,2,Low,High,Low
+45,Prefer not to say,Project Manager,29,Remote,20,14,2,Medium,Decrease,5,Satisfied,5,High,High,Low
+48,Male,Software Engineer,27,Remote,26,9,3,Medium,No Change,5,Neutral,4,High,High,Medium
+30,Non-binary,Data Scientist,22,Remote,44,15,4,High,Decrease,1,Neutral,5,High,Low,High
+53,Male,Project Manager,14,Onsite,29,13,2,Low,No Change,1,Unsatisfied,5,High,Low,Low
+54,Prefer not to say,Project Manager,26,Remote,58,6,3,High,Increase,3,Unsatisfied,3,Medium,Medium,Medium
+33,Male,Data Scientist,33,Remote,35,15,1,Medium,Decrease,1,Unsatisfied,5,High,Low,Low
+35,Male,Project Manager,11,Onsite,37,3,4,Medium,No Change,1,Satisfied,3,Medium,Low,High
+42,Female,Software Engineer,3,Onsite,26,14,3,Medium,Decrease,2,Satisfied,2,Low,Low,Medium
+60,Prefer not to say,Project Manager,34,Onsite,46,15,2,Medium,No Change,1,Neutral,1,Low,Low,Low
+26,Female,Software Engineer,5,Hybrid,55,6,1,Medium,Decrease,4,Satisfied,1,Low,High,Low
+30,Non-binary,Project Manager,8,Hybrid,47,12,3,Low,Increase,3,Neutral,5,High,Medium,Medium
+42,Male,Software Engineer,14,Remote,48,13,5,Low,Increase,4,Neutral,5,High,High,High
+26,Prefer not to say,Data Scientist,17,Remote,57,13,2,Medium,No Change,1,Satisfied,5,High,Low,Low
+25,Non-binary,Project Manager,20,Hybrid,28,4,3,Medium,No Change,3,Satisfied,2,Low,Medium,Medium
+22,Female,Software Engineer,5,Onsite,31,15,3,Medium,No Change,2,Satisfied,5,High,Low,Medium
+60,Prefer not to say,Data Scientist,18,Hybrid,37,0,4,Medium,No Change,2,Unsatisfied,2,Low,Low,High
+45,Non-binary,Software Engineer,6,Hybrid,46,3,1,Medium,Increase,3,Satisfied,2,Low,Medium,Low
+23,Non-binary,Software Engineer,29,Hybrid,53,7,3,High,Decrease,1,Neutral,1,Low,Low,Medium
+38,Prefer not to say,Project Manager,35,Onsite,57,10,2,Medium,No Change,3,Neutral,3,Medium,Medium,Low
+29,Male,Data Scientist,15,Remote,51,5,2,High,Increase,2,Neutral,1,Low,Low,Low
+27,Male,Project Manager,21,Hybrid,21,7,5,Low,No Change,4,Unsatisfied,3,Medium,High,High
+54,Female,Data Scientist,5,Hybrid,21,10,3,High,Decrease,4,Satisfied,4,High,High,Medium
+42,Non-binary,Software Engineer,33,Onsite,44,9,4,High,Increase,3,Neutral,2,Low,Medium,High
+26,Female,Project Manager,15,Hybrid,43,6,4,High,Increase,5,Unsatisfied,3,Medium,High,High
+55,Prefer not to say,Project Manager,10,Onsite,27,0,1,Low,Decrease,1,Satisfied,1,Low,Low,Low
+22,Prefer not to say,Data Scientist,26,Hybrid,43,5,1,Medium,Increase,2,Unsatisfied,2,Low,Low,Low
+57,Female,Data Scientist,2,Onsite,57,4,4,Medium,No Change,4,Unsatisfied,2,Low,High,High
+22,Female,Software Engineer,9,Onsite,60,3,1,High,Decrease,3,Satisfied,5,High,Medium,Low
+41,Male,Data Scientist,31,Onsite,29,0,5,Medium,Increase,3,Satisfied,5,High,Medium,High
+46,Non-binary,Data Scientist,34,Remote,54,12,4,High,Decrease,2,Satisfied,4,High,Low,High
+60,Non-binary,Project Manager,11,Onsite,31,11,5,High,Decrease,2,Neutral,4,High,Low,High
+44,Female,Project Manager,2,Remote,54,8,5,Low,Decrease,1,Satisfied,3,Medium,Low,High
+35,Male,Data Scientist,31,Hybrid,33,11,1,High,Decrease,5,Neutral,5,High,High,Low
+31,Prefer not to say,Data Scientist,19,Onsite,21,15,1,Low,No Change,4,Satisfied,5,High,High,Low
+53,Male,Project Manager,12,Hybrid,45,10,2,Medium,Decrease,3,Satisfied,4,High,Medium,Low
+50,Male,Software Engineer,18,Hybrid,60,12,4,High,Increase,4,Satisfied,5,High,High,High
+43,Non-binary,Data Scientist,18,Onsite,60,2,3,High,Increase,3,Neutral,3,Medium,Medium,Medium
+44,Prefer not to say,Software Engineer,27,Hybrid,44,2,2,High,Decrease,2,Satisfied,5,High,Low,Low
+50,Prefer not to say,Software Engineer,2,Remote,50,2,4,Medium,No Change,1,Satisfied,2,Low,Low,High
+36,Male,Data Scientist,4,Remote,22,7,5,Low,No Change,1,Neutral,5,High,Low,High
+34,Female,Data Scientist,29,Hybrid,29,13,3,High,Increase,5,Unsatisfied,5,High,High,Medium
+45,Prefer not to say,Data Scientist,21,Onsite,53,0,3,Low,Decrease,1,Neutral,5,High,Low,Medium
+34,Prefer not to say,Project Manager,5,Onsite,44,14,3,Medium,Increase,5,Satisfied,3,Medium,High,Medium
+58,Female,Data Scientist,25,Remote,42,13,2,High,Increase,5,Satisfied,3,Medium,High,Low
+38,Female,Data Scientist,1,Hybrid,22,4,2,Medium,Increase,5,Satisfied,3,Medium,High,Low
+40,Prefer not to say,Project Manager,27,Hybrid,34,13,2,Medium,Decrease,2,Unsatisfied,5,High,Low,Low
+45,Prefer not to say,Project Manager,29,Onsite,51,13,2,High,Decrease,2,Neutral,5,High,Low,Low
+50,Male,Software Engineer,35,Onsite,30,10,2,High,No Change,3,Unsatisfied,1,Low,Medium,Low
+53,Prefer not to say,Data Scientist,27,Hybrid,60,1,3,Low,Increase,5,Unsatisfied,4,High,High,Medium
+51,Female,Project Manager,21,Remote,34,0,5,High,Decrease,2,Unsatisfied,2,Low,Low,High
+44,Male,Data Scientist,14,Remote,26,9,2,High,No Change,4,Neutral,5,High,High,Low
+57,Non-binary,Data Scientist,34,Remote,30,11,3,High,Increase,3,Unsatisfied,5,High,Medium,Medium
+49,Non-binary,Project Manager,11,Hybrid,48,3,5,Low,Decrease,5,Satisfied,1,Low,High,High
+32,Non-binary,Project Manager,12,Onsite,44,13,1,High,Decrease,1,Satisfied,5,High,Low,Low
+49,Female,Project Manager,29,Hybrid,49,15,5,Low,Decrease,5,Neutral,4,High,High,High
+36,Prefer not to say,Software Engineer,3,Hybrid,34,12,2,Low,Increase,4,Neutral,3,Medium,High,Low
+41,Female,Software Engineer,34,Remote,32,15,3,High,Decrease,2,Unsatisfied,3,Medium,Low,Medium
+30,Male,Software Engineer,29,Hybrid,58,15,1,Medium,Increase,2,Unsatisfied,2,Low,Low,Low
+23,Female,Data Scientist,31,Remote,26,9,1,Medium,No Change,2,Unsatisfied,2,Low,Low,Low
+30,Male,Software Engineer,17,Remote,57,5,1,Low,No Change,2,Unsatisfied,4,High,Low,Low
+47,Female,Project Manager,31,Onsite,20,8,1,Low,Decrease,4,Neutral,1,Low,High,Low
+33,Prefer not to say,Project Manager,23,Hybrid,26,0,4,High,Decrease,1,Satisfied,2,Low,Low,High
+32,Male,Data Scientist,21,Hybrid,43,15,3,High,No Change,4,Neutral,3,Medium,High,Medium
+43,Non-binary,Software Engineer,14,Onsite,52,0,5,High,Increase,2,Satisfied,3,Medium,Low,High
+40,Female,Data Scientist,24,Hybrid,38,0,3,High,No Change,4,Neutral,1,Low,High,Medium
+24,Non-binary,Data Scientist,5,Hybrid,53,14,1,Medium,Increase,3,Neutral,1,Low,Medium,Low
+40,Male,Software Engineer,11,Onsite,20,13,1,Medium,Increase,5,Neutral,1,Low,High,Low
+22,Female,Software Engineer,10,Hybrid,46,1,2,Low,Increase,1,Neutral,5,High,Low,Low
+48,Non-binary,Software Engineer,35,Onsite,30,8,2,Low,No Change,3,Satisfied,2,Low,Medium,Low
+60,Non-binary,Software Engineer,27,Remote,50,8,2,High,No Change,3,Satisfied,3,Medium,Medium,Low
+50,Prefer not to say,Project Manager,10,Hybrid,50,0,1,Low,Increase,5,Satisfied,3,Medium,High,Low
+36,Male,Data Scientist,33,Onsite,45,3,4,Medium,Decrease,3,Unsatisfied,4,High,Medium,High
+35,Non-binary,Software Engineer,11,Hybrid,25,4,1,Medium,No Change,4,Satisfied,3,Medium,High,Low
+32,Prefer not to say,Project Manager,12,Remote,35,7,3,Low,No Change,5,Satisfied,4,High,High,Medium
+40,Female,Project Manager,31,Onsite,47,10,1,Medium,Decrease,3,Neutral,2,Low,Medium,Low
+30,Non-binary,Data Scientist,22,Remote,43,5,1,Medium,Decrease,5,Neutral,2,Low,High,Low
+52,Male,Data Scientist,22,Onsite,46,14,3,High,No Change,3,Neutral,2,Low,Medium,Medium
+23,Prefer not to say,Software Engineer,17,Onsite,60,13,5,High,No Change,5,Neutral,5,High,High,High
+40,Prefer not to say,Data Scientist,35,Hybrid,43,4,5,High,No Change,2,Unsatisfied,3,Medium,Low,High
+45,Male,Data Scientist,15,Remote,33,8,1,Low,No Change,4,Satisfied,2,Low,High,Low
+46,Female,Data Scientist,11,Hybrid,20,14,3,Low,Decrease,5,Satisfied,2,Low,High,Medium
+37,Female,Software Engineer,16,Hybrid,27,2,1,Medium,No Change,4,Unsatisfied,3,Medium,High,Low
+51,Female,Software Engineer,4,Onsite,43,1,5,Medium,No Change,4,Unsatisfied,2,Low,High,High
+53,Male,Data Scientist,22,Onsite,29,0,1,Medium,No Change,4,Neutral,4,High,High,Low
+28,Male,Project Manager,7,Remote,47,0,4,High,Decrease,1,Unsatisfied,3,Medium,Low,High
+36,Female,Data Scientist,3,Remote,53,7,3,High,Decrease,2,Unsatisfied,2,Low,Low,Medium
+55,Female,Project Manager,32,Hybrid,28,8,5,Low,Decrease,2,Satisfied,1,Low,Low,High
+51,Prefer not to say,Software Engineer,14,Onsite,41,5,5,Medium,No Change,4,Unsatisfied,2,Low,High,High
+52,Male,Data Scientist,5,Onsite,21,3,5,Low,Increase,4,Satisfied,5,High,High,High
+54,Non-binary,Project Manager,12,Onsite,34,11,3,Low,No Change,2,Unsatisfied,5,High,Low,Medium
+49,Male,Project Manager,31,Onsite,56,3,5,High,No Change,1,Satisfied,4,High,Low,High
+47,Female,Software Engineer,11,Onsite,35,8,1,High,No Change,2,Satisfied,4,High,Low,Low
+27,Prefer not to say,Project Manager,22,Hybrid,52,3,1,Low,Decrease,4,Satisfied,5,High,High,Low
+25,Non-binary,Software Engineer,22,Remote,47,9,2,Medium,Decrease,1,Neutral,4,High,Low,Low
+38,Prefer not to say,Data Scientist,35,Onsite,33,4,2,Low,Increase,2,Neutral,2,Low,Low,Low
+42,Prefer not to say,Project Manager,18,Hybrid,48,9,5,Medium,Decrease,1,Satisfied,5,High,Low,High
+33,Male,Software Engineer,6,Onsite,23,6,3,High,No Change,5,Unsatisfied,2,Low,High,Medium
+44,Male,Software Engineer,4,Onsite,35,3,1,Low,Increase,3,Neutral,1,Low,Medium,Low
+40,Female,Data Scientist,6,Remote,22,0,5,Medium,Increase,4,Satisfied,4,High,High,High
+23,Male,Project Manager,8,Onsite,28,15,2,Medium,Increase,3,Satisfied,3,Medium,Medium,Low
+31,Prefer not to say,Software Engineer,18,Remote,31,6,3,High,Increase,3,Neutral,2,Low,Medium,Medium
+37,Male,Data Scientist,18,Remote,23,11,2,Low,No Change,4,Unsatisfied,4,High,High,Low
+55,Female,Software Engineer,13,Remote,32,11,5,Medium,No Change,1,Satisfied,4,High,Low,High
+51,Prefer not to say,Software Engineer,24,Hybrid,46,10,1,Low,No Change,1,Neutral,1,Low,Low,Low
+34,Non-binary,Project Manager,10,Remote,40,1,1,Medium,Decrease,5,Neutral,4,High,High,Low
+59,Prefer not to say,Software Engineer,17,Onsite,47,11,2,High,No Change,1,Neutral,3,Medium,Low,Low
+53,Female,Project Manager,25,Hybrid,38,2,2,Low,Increase,2,Satisfied,3,Medium,Low,Low
+38,Male,Data Scientist,25,Remote,59,12,5,Low,Increase,3,Neutral,1,Low,Medium,High
+32,Male,Project Manager,17,Onsite,47,4,1,Medium,Increase,2,Unsatisfied,4,High,Low,Low
+29,Female,Project Manager,18,Hybrid,20,6,5,Low,No Change,4,Satisfied,2,Low,High,High
+38,Non-binary,Project Manager,26,Hybrid,50,9,1,High,Increase,2,Satisfied,2,Low,Low,Low
+32,Male,Project Manager,21,Hybrid,32,0,4,High,No Change,3,Unsatisfied,1,Low,Medium,High
+42,Prefer not to say,Data Scientist,4,Hybrid,33,11,5,Medium,Decrease,2,Neutral,2,Low,Low,High
+27,Male,Project Manager,25,Hybrid,32,13,3,Medium,Decrease,5,Unsatisfied,5,High,High,Medium
+31,Female,Data Scientist,9,Remote,30,9,1,Medium,No Change,1,Satisfied,3,Medium,Low,Low
+53,Non-binary,Software Engineer,11,Remote,25,9,2,Medium,Increase,2,Neutral,5,High,Low,Low
+57,Non-binary,Software Engineer,3,Onsite,40,12,4,High,Increase,3,Neutral,3,Medium,Medium,High
+50,Non-binary,Project Manager,20,Onsite,32,13,1,Low,No Change,1,Neutral,1,Low,Low,Low
+58,Female,Project Manager,8,Hybrid,35,5,5,Medium,Decrease,3,Neutral,5,High,Medium,High
+48,Male,Project Manager,33,Hybrid,58,13,3,Medium,Decrease,3,Satisfied,5,High,Medium,Medium
+37,Prefer not to say,Software Engineer,25,Hybrid,33,11,1,Medium,No Change,4,Satisfied,5,High,High,Low
+41,Female,Software Engineer,2,Hybrid,48,4,1,Low,No Change,3,Unsatisfied,1,Low,Medium,Low
+49,Male,Data Scientist,35,Remote,24,1,1,Medium,Decrease,5,Neutral,4,High,High,Low
+23,Non-binary,Data Scientist,18,Remote,28,7,5,High,Increase,1,Unsatisfied,3,Medium,Low,High
+24,Non-binary,Project Manager,12,Hybrid,20,14,2,Low,Decrease,2,Neutral,2,Low,Low,Low
+41,Prefer not to say,Project Manager,35,Onsite,28,14,4,Medium,Decrease,1,Unsatisfied,1,Low,Low,High
+39,Prefer not to say,Data Scientist,33,Hybrid,20,4,3,Low,Decrease,2,Satisfied,3,Medium,Low,Medium
+47,Female,Data Scientist,6,Hybrid,28,0,1,Low,Decrease,3,Satisfied,2,Low,Medium,Low
+60,Non-binary,Software Engineer,13,Hybrid,25,10,3,High,Increase,3,Satisfied,2,Low,Medium,Medium
+41,Non-binary,Software Engineer,20,Remote,21,0,1,High,No Change,2,Neutral,2,Low,Low,Low
+49,Prefer not to say,Project Manager,17,Remote,50,2,4,Medium,Decrease,5,Satisfied,5,High,High,High
+27,Prefer not to say,Data Scientist,16,Onsite,50,3,5,High,No Change,2,Unsatisfied,5,High,Low,High
+23,Male,Software Engineer,3,Onsite,31,14,4,Medium,Increase,1,Satisfied,2,Low,Low,High
+43,Female,Data Scientist,16,Onsite,37,8,1,Medium,Decrease,2,Neutral,4,High,Low,Low
+51,Prefer not to say,Project Manager,6,Onsite,42,4,2,Low,No Change,1,Satisfied,5,High,Low,Low
+25,Prefer not to say,Software Engineer,28,Remote,55,12,5,Low,Increase,3,Satisfied,3,Medium,Medium,High
+31,Female,Software Engineer,21,Onsite,24,7,4,Medium,Decrease,5,Neutral,4,High,High,High
+60,Female,Software Engineer,31,Onsite,22,9,4,High,Decrease,1,Unsatisfied,2,Low,Low,High
+52,Female,Data Scientist,18,Remote,52,0,1,High,No Change,2,Unsatisfied,2,Low,Low,Low
+44,Male,Project Manager,20,Onsite,41,14,5,Medium,Increase,1,Unsatisfied,3,Medium,Low,High
+42,Female,Data Scientist,15,Remote,21,7,3,High,No Change,4,Satisfied,5,High,High,Medium
+53,Male,Software Engineer,3,Hybrid,49,15,2,Low,Decrease,2,Satisfied,4,High,Low,Low
+52,Female,Software Engineer,29,Remote,32,7,4,High,Decrease,3,Unsatisfied,5,High,Medium,High
+41,Prefer not to say,Project Manager,34,Hybrid,44,9,3,Low,Decrease,2,Neutral,5,High,Low,Medium
+33,Non-binary,Software Engineer,3,Onsite,31,3,1,Low,Decrease,2,Satisfied,2,Low,Low,Low
+43,Prefer not to say,Data Scientist,14,Hybrid,53,13,2,Medium,Decrease,5,Unsatisfied,5,High,High,Low
+59,Male,Project Manager,20,Remote,23,13,5,Medium,Increase,4,Satisfied,3,Medium,High,High
+40,Male,Project Manager,9,Onsite,32,4,3,High,No Change,2,Unsatisfied,2,Low,Low,Medium
+56,Non-binary,Project Manager,23,Hybrid,28,9,1,Low,No Change,2,Neutral,2,Low,Low,Low
+39,Female,Data Scientist,33,Remote,34,5,1,High,No Change,4,Satisfied,2,Low,High,Low
+58,Non-binary,Software Engineer,2,Remote,50,0,4,Low,No Change,1,Neutral,5,High,Low,High
+41,Non-binary,Data Scientist,33,Onsite,28,1,1,Medium,Decrease,1,Satisfied,5,High,Low,Low
+31,Female,Software Engineer,12,Remote,35,0,5,High,No Change,5,Neutral,4,High,High,High
+39,Prefer not to say,Software Engineer,8,Hybrid,58,14,1,High,Increase,1,Unsatisfied,3,Medium,Low,Low
+59,Male,Project Manager,18,Remote,34,14,2,Medium,No Change,5,Neutral,4,High,High,Low
+31,Non-binary,Project Manager,4,Remote,25,9,1,High,Increase,5,Unsatisfied,2,Low,High,Low
+37,Male,Software Engineer,31,Onsite,54,8,5,Medium,No Change,3,Satisfied,1,Low,Medium,High
+50,Prefer not to say,Project Manager,9,Hybrid,55,12,3,Medium,Decrease,1,Satisfied,3,Medium,Low,Medium
+43,Prefer not to say,Project Manager,3,Hybrid,55,12,2,Medium,No Change,3,Neutral,5,High,Medium,Low
+30,Female,Data Scientist,9,Hybrid,33,11,5,Low,No Change,4,Unsatisfied,1,Low,High,High
+36,Male,Project Manager,4,Hybrid,21,4,1,High,Increase,3,Neutral,1,Low,Medium,Low
+53,Prefer not to say,Data Scientist,34,Remote,22,6,5,High,Decrease,1,Satisfied,3,Medium,Low,High
+57,Male,Project Manager,19,Remote,39,0,4,Low,Decrease,1,Satisfied,1,Low,Low,High
+58,Male,Data Scientist,8,Onsite,35,15,2,Low,Decrease,2,Neutral,2,Low,Low,Low
+46,Non-binary,Data Scientist,14,Remote,29,13,4,Medium,Increase,2,Unsatisfied,1,Low,Low,High
+24,Prefer not to say,Project Manager,30,Onsite,60,4,3,High,Decrease,3,Satisfied,3,Medium,Medium,Medium
+24,Female,Data Scientist,35,Remote,50,10,1,Low,Decrease,5,Satisfied,5,High,High,Low
+30,Non-binary,Project Manager,20,Remote,27,14,2,Medium,No Change,3,Unsatisfied,3,Medium,Medium,Low
+22,Prefer not to say,Software Engineer,6,Remote,43,3,2,Medium,No Change,4,Unsatisfied,4,High,High,Low
+47,Prefer not to say,Project Manager,21,Onsite,47,7,1,Medium,Decrease,3,Satisfied,1,Low,Medium,Low
+30,Male,Data Scientist,14,Onsite,56,14,3,Medium,Increase,4,Satisfied,5,High,High,Medium
+26,Male,Project Manager,21,Hybrid,24,13,2,High,Decrease,2,Unsatisfied,4,High,Low,Low
+32,Prefer not to say,Software Engineer,28,Onsite,41,13,1,Medium,Decrease,1,Neutral,1,Low,Low,Low
+33,Female,Project Manager,25,Hybrid,33,7,1,High,No Change,3,Neutral,1,Low,Medium,Low
+33,Male,Project Manager,10,Hybrid,42,12,3,High,Increase,2,Unsatisfied,2,Low,Low,Medium
+57,Non-binary,Project Manager,26,Hybrid,28,4,5,High,Decrease,1,Neutral,2,Low,Low,High
+50,Female,Data Scientist,25,Onsite,33,9,5,High,Decrease,3,Satisfied,2,Low,Medium,High
+48,Prefer not to say,Project Manager,7,Onsite,55,1,2,Medium,Decrease,5,Neutral,1,Low,High,Low
+22,Non-binary,Software Engineer,7,Onsite,47,10,1,Medium,Decrease,3,Neutral,1,Low,Medium,Low
+23,Female,Data Scientist,34,Hybrid,35,14,2,Low,Decrease,2,Satisfied,4,High,Low,Low
+25,Prefer not to say,Software Engineer,18,Remote,22,4,3,Low,Increase,1,Neutral,4,High,Low,Medium
+22,Non-binary,Project Manager,2,Onsite,40,5,3,Medium,Increase,4,Satisfied,2,Low,High,Medium
+57,Male,Project Manager,8,Hybrid,56,15,1,High,Decrease,1,Unsatisfied,4,High,Low,Low
+58,Prefer not to say,Data Scientist,32,Onsite,57,9,5,Low,No Change,4,Satisfied,5,High,High,High
+32,Prefer not to say,Data Scientist,21,Remote,36,5,3,High,No Change,4,Satisfied,5,High,High,Medium
+41,Female,Data Scientist,15,Hybrid,32,5,4,Low,Increase,4,Unsatisfied,1,Low,High,High
+51,Non-binary,Data Scientist,2,Remote,58,14,3,Low,Decrease,4,Satisfied,4,High,High,Medium
+40,Female,Project Manager,12,Remote,22,5,2,Medium,Decrease,2,Satisfied,2,Low,Low,Low
+43,Prefer not to say,Project Manager,17,Hybrid,58,2,2,Medium,Increase,2,Neutral,2,Low,Low,Low
+37,Non-binary,Project Manager,26,Hybrid,27,9,1,Medium,Decrease,5,Satisfied,1,Low,High,Low
+53,Non-binary,Project Manager,7,Onsite,51,9,3,Low,No Change,3,Satisfied,5,High,Medium,Medium
+49,Non-binary,Project Manager,2,Onsite,53,10,4,Low,No Change,1,Unsatisfied,1,Low,Low,High
+23,Female,Software Engineer,13,Hybrid,56,12,2,High,Decrease,3,Neutral,5,High,Medium,Low
+29,Female,Project Manager,21,Remote,25,14,2,Low,Increase,1,Satisfied,3,Medium,Low,Low
+24,Female,Data Scientist,20,Remote,33,14,1,Low,Increase,1,Satisfied,5,High,Low,Low
+58,Male,Software Engineer,12,Onsite,35,5,5,Low,No Change,2,Neutral,2,Low,Low,High
+42,Male,Project Manager,1,Hybrid,34,4,1,Low,Increase,5,Neutral,4,High,High,Low
+53,Non-binary,Project Manager,27,Onsite,33,5,2,High,No Change,4,Satisfied,5,High,High,Low
+39,Prefer not to say,Software Engineer,16,Remote,24,4,4,Medium,Decrease,5,Neutral,5,High,High,High
+23,Male,Data Scientist,23,Remote,41,13,4,Low,No Change,2,Neutral,2,Low,Low,High
+53,Female,Software Engineer,14,Onsite,40,13,4,Low,Increase,5,Unsatisfied,5,High,High,High
+52,Non-binary,Project Manager,10,Onsite,47,3,3,Medium,Decrease,2,Neutral,3,Medium,Low,Medium
+58,Female,Data Scientist,7,Onsite,53,2,5,Low,Decrease,4,Unsatisfied,1,Low,High,High
+56,Prefer not to say,Data Scientist,25,Hybrid,27,13,1,High,No Change,4,Unsatisfied,5,High,High,Low
+34,Female,Software Engineer,21,Hybrid,33,13,3,High,Increase,3,Unsatisfied,2,Low,Medium,Medium
+50,Male,Software Engineer,29,Remote,40,5,3,Low,No Change,1,Neutral,4,High,Low,Medium
+41,Male,Software Engineer,14,Remote,56,8,4,Medium,No Change,2,Satisfied,4,High,Low,High
+49,Female,Data Scientist,6,Remote,37,13,4,Medium,Increase,1,Unsatisfied,3,Medium,Low,High
+35,Female,Project Manager,32,Remote,36,0,1,Medium,Decrease,4,Unsatisfied,5,High,High,Low
+60,Prefer not to say,Data Scientist,8,Onsite,51,14,4,Medium,No Change,4,Neutral,5,High,High,High
+42,Female,Project Manager,29,Hybrid,42,14,5,Low,No Change,3,Satisfied,4,High,Medium,High
+60,Female,Data Scientist,33,Hybrid,60,0,1,Medium,Increase,3,Neutral,4,High,Medium,Low
+33,Non-binary,Software Engineer,6,Onsite,45,2,3,Medium,Increase,4,Unsatisfied,5,High,High,Medium
+60,Male,Project Manager,6,Hybrid,33,11,2,Medium,Decrease,4,Satisfied,3,Medium,High,Low
+25,Male,Software Engineer,10,Remote,24,0,2,Low,No Change,1,Unsatisfied,1,Low,Low,Low
+30,Prefer not to say,Project Manager,26,Hybrid,28,4,3,High,Increase,1,Unsatisfied,5,High,Low,Medium
+28,Female,Software Engineer,14,Hybrid,56,1,3,Medium,Increase,3,Unsatisfied,3,Medium,Medium,Medium
+28,Non-binary,Project Manager,5,Onsite,22,5,2,Medium,No Change,4,Satisfied,1,Low,High,Low
+36,Female,Software Engineer,14,Onsite,34,1,3,High,No Change,4,Unsatisfied,3,Medium,High,Medium
+39,Prefer not to say,Software Engineer,32,Hybrid,51,10,1,High,Increase,4,Neutral,4,High,High,Low
+59,Prefer not to say,Project Manager,27,Remote,25,11,4,High,No Change,1,Neutral,1,Low,Low,High
+48,Male,Data Scientist,30,Remote,42,1,4,Medium,Increase,5,Unsatisfied,3,Medium,High,High
+55,Prefer not to say,Data Scientist,8,Remote,49,10,5,Medium,No Change,2,Satisfied,5,High,Low,High
+60,Prefer not to say,Software Engineer,20,Onsite,44,6,1,Low,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+22,Male,Project Manager,35,Onsite,26,12,3,High,Decrease,5,Neutral,3,Medium,High,Medium
+38,Male,Project Manager,26,Hybrid,39,0,4,High,Increase,1,Neutral,3,Medium,Low,High
+50,Female,Project Manager,18,Remote,45,1,5,Low,Decrease,5,Unsatisfied,2,Low,High,High
+34,Female,Software Engineer,2,Hybrid,25,9,5,Medium,Decrease,2,Neutral,1,Low,Low,High
+35,Female,Project Manager,8,Hybrid,25,14,5,High,No Change,3,Unsatisfied,4,High,Medium,High
+54,Prefer not to say,Software Engineer,8,Remote,23,6,2,High,Decrease,4,Neutral,1,Low,High,Low
+33,Male,Project Manager,18,Onsite,39,10,2,High,Decrease,4,Satisfied,5,High,High,Low
+22,Male,Project Manager,26,Hybrid,23,0,5,High,Increase,4,Neutral,4,High,High,High
+48,Prefer not to say,Software Engineer,25,Remote,39,3,1,High,Increase,2,Unsatisfied,2,Low,Low,Low
+51,Male,Software Engineer,11,Onsite,33,5,1,Medium,Decrease,2,Unsatisfied,4,High,Low,Low
+41,Female,Software Engineer,8,Remote,45,0,4,Medium,Increase,4,Satisfied,3,Medium,High,High
+28,Male,Project Manager,23,Hybrid,46,6,2,Medium,Decrease,4,Satisfied,4,High,High,Low
+43,Prefer not to say,Project Manager,35,Hybrid,29,4,3,Low,Increase,4,Unsatisfied,1,Low,High,Medium
+31,Prefer not to say,Data Scientist,6,Hybrid,20,2,1,Low,No Change,5,Neutral,4,High,High,Low
+56,Prefer not to say,Software Engineer,27,Hybrid,53,2,3,Low,Increase,1,Satisfied,2,Low,Low,Medium
+31,Male,Project Manager,6,Hybrid,49,11,5,Low,Decrease,4,Unsatisfied,4,High,High,High
+31,Prefer not to say,Project Manager,30,Remote,28,0,5,High,Decrease,3,Neutral,3,Medium,Medium,High
+45,Non-binary,Software Engineer,31,Hybrid,20,1,1,Low,Decrease,4,Neutral,5,High,High,Low
+55,Prefer not to say,Project Manager,11,Onsite,37,3,1,Medium,Decrease,1,Satisfied,1,Low,Low,Low
+47,Female,Data Scientist,1,Hybrid,25,10,3,High,Decrease,3,Satisfied,3,Medium,Medium,Medium
+33,Female,Software Engineer,13,Hybrid,36,2,5,Medium,No Change,2,Satisfied,5,High,Low,High
+54,Non-binary,Software Engineer,26,Onsite,42,14,2,Low,Decrease,1,Satisfied,4,High,Low,Low
+29,Non-binary,Software Engineer,21,Hybrid,28,5,3,High,Decrease,3,Neutral,3,Medium,Medium,Medium
+34,Non-binary,Project Manager,30,Remote,56,15,5,Low,Increase,1,Unsatisfied,1,Low,Low,High
+28,Female,Project Manager,20,Remote,38,6,1,Low,Decrease,3,Unsatisfied,1,Low,Medium,Low
+23,Non-binary,Software Engineer,1,Onsite,47,8,2,Medium,Decrease,3,Satisfied,3,Medium,Medium,Low
+53,Prefer not to say,Data Scientist,28,Hybrid,48,6,1,High,No Change,1,Satisfied,3,Medium,Low,Low
+29,Male,Project Manager,18,Onsite,49,14,5,Low,Decrease,2,Satisfied,4,High,Low,High
+42,Non-binary,Project Manager,7,Hybrid,32,3,1,High,Increase,4,Unsatisfied,3,Medium,High,Low
+45,Male,Software Engineer,16,Onsite,52,1,2,High,Increase,1,Neutral,2,Low,Low,Low
+40,Female,Software Engineer,19,Remote,38,0,3,High,Increase,5,Unsatisfied,4,High,High,Medium
+52,Non-binary,Software Engineer,16,Hybrid,25,2,3,High,Decrease,3,Satisfied,1,Low,Medium,Medium
+38,Non-binary,Data Scientist,31,Hybrid,28,3,2,High,No Change,1,Unsatisfied,5,High,Low,Low
+36,Female,Project Manager,20,Onsite,54,15,3,Medium,No Change,4,Satisfied,2,Low,High,Medium
+25,Female,Software Engineer,1,Remote,39,6,4,Low,Decrease,2,Unsatisfied,5,High,Low,High
+23,Male,Project Manager,21,Remote,57,5,1,Low,No Change,4,Unsatisfied,4,High,High,Low
+45,Male,Data Scientist,5,Remote,27,9,3,High,No Change,2,Neutral,5,High,Low,Medium
+55,Male,Software Engineer,1,Hybrid,44,5,2,High,Increase,2,Satisfied,1,Low,Low,Low
+27,Female,Software Engineer,14,Hybrid,46,5,1,Medium,Decrease,3,Unsatisfied,4,High,Medium,Low
+47,Non-binary,Software Engineer,9,Onsite,54,14,4,High,Decrease,5,Neutral,3,Medium,High,High
+48,Prefer not to say,Software Engineer,3,Onsite,34,11,3,High,Increase,4,Satisfied,3,Medium,High,Medium
+43,Male,Software Engineer,32,Remote,23,10,5,Low,Increase,4,Satisfied,5,High,High,High
+38,Non-binary,Project Manager,29,Onsite,50,3,5,Low,No Change,4,Neutral,1,Low,High,High
+41,Non-binary,Data Scientist,33,Remote,39,13,4,Medium,No Change,5,Neutral,3,Medium,High,High
+42,Prefer not to say,Software Engineer,5,Remote,57,12,5,Medium,Decrease,1,Unsatisfied,4,High,Low,High
+42,Prefer not to say,Software Engineer,30,Remote,37,15,2,Medium,Increase,2,Neutral,3,Medium,Low,Low
+43,Male,Data Scientist,32,Hybrid,40,7,4,Medium,No Change,5,Unsatisfied,1,Low,High,High
+39,Male,Project Manager,1,Hybrid,60,5,5,High,No Change,4,Satisfied,3,Medium,High,High
+53,Prefer not to say,Data Scientist,10,Onsite,53,15,4,Medium,Increase,3,Neutral,4,High,Medium,High
+53,Prefer not to say,Data Scientist,28,Remote,60,5,1,Medium,Decrease,2,Satisfied,2,Low,Low,Low
+39,Prefer not to say,Data Scientist,20,Remote,39,1,4,Low,Increase,5,Unsatisfied,2,Low,High,High
+57,Non-binary,Data Scientist,31,Remote,31,1,3,Low,Increase,1,Satisfied,1,Low,Low,Medium
+45,Prefer not to say,Software Engineer,5,Hybrid,21,10,1,Medium,Decrease,4,Satisfied,4,High,High,Low
+48,Male,Software Engineer,18,Remote,43,1,3,Low,Increase,1,Unsatisfied,1,Low,Low,Medium
+43,Female,Project Manager,21,Hybrid,24,13,1,High,Decrease,4,Neutral,2,Low,High,Low
+43,Prefer not to say,Data Scientist,12,Hybrid,28,6,3,High,Increase,3,Satisfied,5,High,Medium,Medium
+36,Male,Project Manager,1,Onsite,45,4,1,Medium,Increase,5,Neutral,4,High,High,Low
+59,Female,Software Engineer,7,Remote,22,10,2,Medium,Decrease,2,Neutral,4,High,Low,Low
+59,Male,Project Manager,35,Remote,48,0,4,Medium,Decrease,3,Unsatisfied,1,Low,Medium,High
+31,Female,Project Manager,3,Onsite,60,15,4,High,Decrease,1,Satisfied,1,Low,Low,High
+54,Prefer not to say,Software Engineer,8,Hybrid,30,9,4,Low,Increase,1,Neutral,4,High,Low,High
+29,Male,Software Engineer,19,Remote,43,5,5,Medium,No Change,1,Satisfied,5,High,Low,High
+51,Male,Software Engineer,7,Remote,27,0,1,High,Increase,2,Unsatisfied,3,Medium,Low,Low
+38,Non-binary,Software Engineer,23,Onsite,57,14,3,Medium,Decrease,2,Neutral,1,Low,Low,Medium
+56,Male,Data Scientist,4,Onsite,35,9,2,High,Decrease,3,Satisfied,3,Medium,Medium,Low
+55,Non-binary,Software Engineer,16,Onsite,35,10,2,Low,Increase,1,Unsatisfied,4,High,Low,Low
+60,Prefer not to say,Software Engineer,12,Hybrid,51,2,2,High,Decrease,5,Satisfied,5,High,High,Low
+52,Female,Data Scientist,1,Onsite,28,12,3,Low,Increase,5,Unsatisfied,1,Low,High,Medium
+53,Non-binary,Project Manager,19,Onsite,45,6,1,Medium,Decrease,3,Satisfied,2,Low,Medium,Low
+43,Prefer not to say,Data Scientist,14,Hybrid,34,9,2,High,No Change,2,Neutral,4,High,Low,Low
+40,Female,Software Engineer,3,Onsite,31,6,5,High,Decrease,3,Satisfied,4,High,Medium,High
+30,Prefer not to say,Software Engineer,12,Hybrid,45,4,4,Medium,No Change,5,Satisfied,4,High,High,High
+28,Prefer not to say,Project Manager,21,Hybrid,37,7,5,Low,Decrease,2,Satisfied,2,Low,Low,High
+53,Non-binary,Software Engineer,19,Onsite,39,14,2,High,No Change,4,Satisfied,2,Low,High,Low
+43,Female,Project Manager,23,Remote,23,0,1,High,Decrease,5,Satisfied,1,Low,High,Low
+51,Non-binary,Data Scientist,22,Remote,32,11,3,Medium,Increase,4,Neutral,5,High,High,Medium
+43,Female,Data Scientist,26,Remote,54,7,5,Medium,No Change,3,Satisfied,1,Low,Medium,High
+56,Female,Data Scientist,33,Remote,44,4,2,High,Decrease,3,Satisfied,4,High,Medium,Low
+49,Male,Software Engineer,19,Onsite,24,9,2,Low,No Change,2,Unsatisfied,5,High,Low,Low
+58,Non-binary,Software Engineer,15,Hybrid,21,3,5,Medium,Increase,3,Neutral,1,Low,Medium,High
+22,Female,Data Scientist,13,Onsite,59,14,2,High,No Change,1,Neutral,1,Low,Low,Low
+33,Male,Project Manager,26,Hybrid,44,4,1,High,Decrease,2,Unsatisfied,1,Low,Low,Low
+29,Non-binary,Software Engineer,31,Onsite,56,7,1,Medium,Decrease,3,Neutral,4,High,Medium,Low
+39,Male,Software Engineer,5,Hybrid,51,0,1,Medium,Decrease,3,Neutral,3,Medium,Medium,Low
+36,Male,Software Engineer,8,Remote,50,0,4,Low,No Change,2,Satisfied,1,Low,Low,High
+40,Non-binary,Project Manager,9,Remote,27,6,5,Medium,Increase,2,Neutral,5,High,Low,High
+58,Female,Project Manager,26,Onsite,25,5,1,Medium,Decrease,1,Unsatisfied,3,Medium,Low,Low
+45,Female,Project Manager,6,Hybrid,40,1,2,High,Increase,2,Unsatisfied,3,Medium,Low,Low
+29,Male,Project Manager,30,Hybrid,21,15,5,Medium,Increase,1,Neutral,4,High,Low,High
+24,Non-binary,Data Scientist,8,Onsite,26,8,1,Low,Increase,1,Satisfied,4,High,Low,Low
+30,Non-binary,Project Manager,19,Hybrid,58,7,2,Medium,No Change,2,Unsatisfied,3,Medium,Low,Low
+28,Prefer not to say,Software Engineer,15,Remote,42,7,3,High,Decrease,3,Satisfied,3,Medium,Medium,Medium
+26,Prefer not to say,Data Scientist,5,Onsite,26,8,5,Low,Decrease,5,Satisfied,2,Low,High,High
+46,Non-binary,Data Scientist,5,Hybrid,59,10,5,Medium,No Change,2,Neutral,1,Low,Low,High
+60,Prefer not to say,Data Scientist,8,Hybrid,50,12,1,High,No Change,2,Satisfied,5,High,Low,Low
+42,Female,Software Engineer,28,Hybrid,39,13,4,Low,No Change,4,Unsatisfied,1,Low,High,High
+30,Non-binary,Software Engineer,13,Onsite,42,10,3,Low,No Change,5,Unsatisfied,4,High,High,Medium
+58,Male,Data Scientist,14,Remote,50,1,4,Medium,No Change,4,Unsatisfied,1,Low,High,High
+46,Male,Data Scientist,23,Onsite,59,6,4,High,Decrease,3,Satisfied,4,High,Medium,High
+24,Male,Data Scientist,24,Hybrid,45,7,2,High,No Change,1,Unsatisfied,4,High,Low,Low
+39,Prefer not to say,Data Scientist,6,Onsite,39,7,1,Low,No Change,5,Unsatisfied,5,High,High,Low
+40,Non-binary,Data Scientist,23,Hybrid,32,11,4,High,Increase,5,Neutral,4,High,High,High
+46,Male,Project Manager,14,Onsite,59,14,5,High,Increase,4,Unsatisfied,5,High,High,High
+45,Prefer not to say,Software Engineer,21,Remote,38,12,5,Medium,Decrease,2,Neutral,1,Low,Low,High
+33,Female,Software Engineer,4,Onsite,38,7,4,Medium,Increase,4,Neutral,1,Low,High,High
+34,Non-binary,Software Engineer,33,Hybrid,35,7,5,High,No Change,4,Neutral,5,High,High,High
+25,Non-binary,Project Manager,10,Onsite,22,9,5,Medium,Decrease,2,Unsatisfied,5,High,Low,High
+46,Female,Software Engineer,12,Remote,40,10,5,Low,Increase,2,Neutral,2,Low,Low,High
+58,Female,Software Engineer,31,Hybrid,22,6,1,Medium,No Change,2,Neutral,3,Medium,Low,Low
+39,Prefer not to say,Software Engineer,8,Hybrid,41,13,5,Medium,Decrease,3,Unsatisfied,4,High,Medium,High
+28,Non-binary,Software Engineer,6,Hybrid,57,15,2,Low,No Change,2,Satisfied,1,Low,Low,Low
+30,Female,Software Engineer,2,Remote,58,4,4,High,No Change,1,Neutral,4,High,Low,High
+24,Male,Data Scientist,10,Remote,52,3,2,High,Decrease,1,Satisfied,3,Medium,Low,Low
+43,Female,Data Scientist,4,Hybrid,57,12,3,High,Increase,3,Unsatisfied,1,Low,Medium,Medium
+50,Prefer not to say,Project Manager,22,Hybrid,55,14,3,Medium,Increase,2,Neutral,2,Low,Low,Medium
+60,Prefer not to say,Project Manager,12,Onsite,40,7,2,High,Decrease,1,Unsatisfied,3,Medium,Low,Low
+39,Male,Project Manager,5,Hybrid,31,5,5,Low,Decrease,3,Unsatisfied,1,Low,Medium,High
+43,Non-binary,Software Engineer,10,Remote,53,15,2,Medium,Increase,4,Neutral,1,Low,High,Low
+58,Prefer not to say,Data Scientist,32,Onsite,25,15,1,High,No Change,4,Neutral,4,High,High,Low
+27,Non-binary,Software Engineer,2,Hybrid,60,2,1,Low,Increase,3,Unsatisfied,4,High,Medium,Low
+46,Female,Project Manager,29,Hybrid,26,8,5,High,No Change,3,Neutral,4,High,Medium,High
+48,Prefer not to say,Data Scientist,15,Onsite,21,8,1,High,No Change,3,Satisfied,2,Low,Medium,Low
+32,Male,Data Scientist,26,Onsite,58,9,1,Low,Increase,3,Neutral,4,High,Medium,Low
+24,Non-binary,Data Scientist,6,Onsite,43,11,2,High,No Change,4,Satisfied,1,Low,High,Low
+26,Prefer not to say,Project Manager,5,Hybrid,51,0,4,Low,Decrease,2,Unsatisfied,1,Low,Low,High
+50,Non-binary,Data Scientist,29,Remote,29,14,1,Medium,No Change,2,Neutral,1,Low,Low,Low
+59,Female,Software Engineer,22,Hybrid,29,2,1,Medium,Increase,5,Neutral,2,Low,High,Low
+37,Non-binary,Software Engineer,2,Remote,34,14,3,Low,No Change,2,Satisfied,2,Low,Low,Medium
+53,Non-binary,Project Manager,17,Onsite,30,10,2,Low,Increase,2,Satisfied,4,High,Low,Low
+29,Male,Software Engineer,28,Onsite,29,9,5,Low,Increase,4,Unsatisfied,5,High,High,High
+31,Female,Project Manager,25,Remote,21,10,1,High,Increase,5,Unsatisfied,5,High,High,Low
+47,Non-binary,Project Manager,30,Remote,23,14,1,High,Increase,4,Unsatisfied,1,Low,High,Low
+57,Male,Software Engineer,34,Remote,53,1,2,High,Increase,3,Unsatisfied,2,Low,Medium,Low
+30,Female,Software Engineer,20,Onsite,50,5,2,Low,Increase,2,Neutral,5,High,Low,Low
+39,Female,Software Engineer,19,Hybrid,49,0,4,Medium,Decrease,2,Satisfied,5,High,Low,High
+60,Prefer not to say,Project Manager,3,Onsite,30,10,1,Medium,Decrease,1,Unsatisfied,5,High,Low,Low
+38,Prefer not to say,Data Scientist,21,Remote,25,6,4,High,Increase,3,Neutral,2,Low,Medium,High
+57,Non-binary,Software Engineer,10,Onsite,41,9,3,High,Increase,4,Neutral,3,Medium,High,Medium
+33,Male,Data Scientist,11,Onsite,58,2,4,High,Increase,1,Satisfied,2,Low,Low,High
+33,Female,Project Manager,5,Remote,51,0,3,Medium,Decrease,1,Unsatisfied,1,Low,Low,Medium
+39,Non-binary,Software Engineer,22,Onsite,26,7,3,Medium,Increase,4,Satisfied,5,High,High,Medium
+58,Male,Data Scientist,20,Remote,25,11,4,High,No Change,1,Neutral,1,Low,Low,High
+43,Male,Project Manager,30,Remote,54,3,5,Low,No Change,1,Neutral,1,Low,Low,High
+60,Male,Software Engineer,9,Hybrid,28,12,5,Medium,Increase,1,Unsatisfied,3,Medium,Low,High
+45,Female,Software Engineer,15,Onsite,37,12,2,Low,Increase,3,Satisfied,5,High,Medium,Low
+58,Prefer not to say,Software Engineer,5,Remote,50,8,3,Low,Decrease,3,Neutral,2,Low,Medium,Medium
+42,Non-binary,Data Scientist,3,Remote,32,0,5,Medium,No Change,2,Satisfied,5,High,Low,High
+43,Prefer not to say,Data Scientist,34,Onsite,42,7,5,Medium,No Change,3,Satisfied,3,Medium,Medium,High
+47,Prefer not to say,Software Engineer,23,Remote,28,10,5,Low,Decrease,2,Satisfied,1,Low,Low,High
+49,Non-binary,Project Manager,9,Hybrid,31,8,5,Medium,Increase,3,Neutral,5,High,Medium,High
+49,Female,Software Engineer,34,Hybrid,59,0,5,High,Decrease,1,Neutral,1,Low,Low,High
+40,Non-binary,Data Scientist,30,Remote,22,13,5,Low,Increase,1,Unsatisfied,3,Medium,Low,High
+34,Male,Software Engineer,25,Remote,54,8,4,Medium,Increase,1,Neutral,1,Low,Low,High
+27,Female,Data Scientist,9,Hybrid,48,3,3,High,Decrease,3,Satisfied,4,High,Medium,Medium
+23,Non-binary,Data Scientist,24,Onsite,59,9,5,Medium,No Change,2,Unsatisfied,3,Medium,Low,High
+27,Male,Project Manager,22,Hybrid,42,6,4,Low,Increase,1,Satisfied,4,High,Low,High
+22,Male,Project Manager,15,Remote,39,10,4,Low,No Change,4,Neutral,1,Low,High,High
+22,Prefer not to say,Project Manager,15,Remote,52,15,2,Medium,Increase,1,Satisfied,5,High,Low,Low
+34,Male,Software Engineer,8,Remote,51,5,2,Medium,Decrease,4,Satisfied,2,Low,High,Low
+48,Female,Software Engineer,25,Onsite,31,10,1,Low,No Change,2,Satisfied,5,High,Low,Low
+29,Non-binary,Data Scientist,10,Hybrid,47,5,3,Medium,Increase,3,Unsatisfied,4,High,Medium,Medium
+60,Female,Software Engineer,24,Remote,40,13,4,Medium,Increase,5,Neutral,3,Medium,High,High
+35,Non-binary,Project Manager,34,Hybrid,20,12,5,Medium,No Change,2,Satisfied,2,Low,Low,High
+30,Male,Data Scientist,31,Remote,36,6,1,High,Increase,5,Neutral,2,Low,High,Low
+29,Male,Software Engineer,30,Hybrid,48,2,2,Medium,No Change,4,Satisfied,5,High,High,Low
+45,Non-binary,Software Engineer,5,Remote,33,12,4,Low,Decrease,4,Neutral,2,Low,High,High
+41,Female,Software Engineer,30,Remote,45,12,4,Low,Decrease,1,Satisfied,5,High,Low,High
+49,Non-binary,Software Engineer,5,Remote,59,3,5,Low,Decrease,2,Neutral,2,Low,Low,High
+42,Prefer not to say,Data Scientist,22,Hybrid,50,2,2,High,Increase,5,Neutral,1,Low,High,Low
+34,Female,Project Manager,14,Remote,44,7,3,High,Increase,1,Unsatisfied,2,Low,Low,Medium
+40,Non-binary,Project Manager,4,Hybrid,44,2,3,Low,Decrease,3,Satisfied,3,Medium,Medium,Medium
+28,Prefer not to say,Data Scientist,5,Hybrid,45,3,2,Medium,No Change,2,Neutral,3,Medium,Low,Low
+30,Female,Software Engineer,22,Remote,48,5,4,Medium,Decrease,4,Unsatisfied,3,Medium,High,High
+57,Male,Software Engineer,9,Onsite,29,11,1,Medium,Increase,3,Satisfied,3,Medium,Medium,Low
+33,Male,Software Engineer,30,Remote,26,9,3,Low,Increase,2,Unsatisfied,4,High,Low,Medium
+38,Female,Software Engineer,9,Remote,60,2,2,High,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+25,Male,Project Manager,12,Hybrid,26,1,3,Low,Increase,1,Satisfied,3,Medium,Low,Medium
+28,Female,Project Manager,19,Remote,50,13,5,Low,No Change,1,Unsatisfied,3,Medium,Low,High
+26,Non-binary,Data Scientist,5,Onsite,26,10,2,High,Decrease,2,Neutral,4,High,Low,Low
+28,Female,Data Scientist,14,Onsite,30,9,2,High,No Change,1,Unsatisfied,3,Medium,Low,Low
+32,Prefer not to say,Project Manager,33,Onsite,50,7,3,High,No Change,4,Satisfied,2,Low,High,Medium
+25,Non-binary,Project Manager,24,Hybrid,60,10,4,Medium,No Change,3,Unsatisfied,3,Medium,Medium,High
+57,Non-binary,Software Engineer,17,Onsite,49,6,5,Low,No Change,2,Unsatisfied,5,High,Low,High
+49,Female,Software Engineer,8,Remote,23,5,3,Medium,Increase,3,Satisfied,4,High,Medium,Medium
+30,Male,Software Engineer,1,Hybrid,51,8,4,Medium,Decrease,5,Unsatisfied,5,High,High,High
+45,Non-binary,Software Engineer,21,Onsite,22,15,5,Low,No Change,3,Neutral,1,Low,Medium,High
+42,Non-binary,Project Manager,13,Remote,50,1,3,Medium,No Change,2,Satisfied,3,Medium,Low,Medium
+38,Non-binary,Software Engineer,24,Remote,21,13,3,Low,Increase,4,Satisfied,3,Medium,High,Medium
+23,Female,Project Manager,12,Onsite,21,14,3,Low,No Change,4,Neutral,5,High,High,Medium
+41,Non-binary,Project Manager,8,Hybrid,58,15,4,Low,Decrease,2,Satisfied,2,Low,Low,High
+37,Female,Data Scientist,8,Onsite,35,6,4,High,Decrease,1,Neutral,5,High,Low,High
+36,Male,Project Manager,2,Hybrid,35,2,2,Low,Decrease,3,Unsatisfied,4,High,Medium,Low
+34,Non-binary,Software Engineer,16,Onsite,41,14,3,High,No Change,4,Neutral,5,High,High,Medium
+43,Male,Software Engineer,20,Remote,60,4,3,High,No Change,4,Unsatisfied,3,Medium,High,Medium
+25,Prefer not to say,Software Engineer,26,Remote,40,10,1,High,No Change,2,Satisfied,4,High,Low,Low
+58,Non-binary,Software Engineer,21,Onsite,58,15,3,Low,Decrease,4,Unsatisfied,5,High,High,Medium
+38,Female,Project Manager,33,Remote,26,12,2,Low,No Change,4,Satisfied,3,Medium,High,Low
+37,Male,Software Engineer,24,Onsite,48,13,3,High,No Change,5,Satisfied,3,Medium,High,Medium
+24,Female,Data Scientist,35,Hybrid,34,8,4,Medium,Increase,5,Satisfied,3,Medium,High,High
+53,Non-binary,Data Scientist,34,Remote,22,8,3,High,Decrease,3,Satisfied,4,High,Medium,Medium
+47,Female,Software Engineer,15,Remote,46,12,4,Medium,Increase,2,Neutral,4,High,Low,High
+59,Male,Project Manager,27,Remote,30,5,4,High,No Change,2,Neutral,3,Medium,Low,High
+28,Non-binary,Software Engineer,7,Hybrid,59,15,4,High,Increase,2,Unsatisfied,2,Low,Low,High
+52,Male,Project Manager,6,Hybrid,23,10,4,Medium,Decrease,2,Unsatisfied,4,High,Low,High
+57,Male,Software Engineer,3,Remote,48,7,3,Medium,No Change,3,Unsatisfied,1,Low,Medium,Medium
+45,Non-binary,Project Manager,7,Onsite,51,2,2,High,Decrease,2,Unsatisfied,2,Low,Low,Low
+29,Male,Project Manager,4,Remote,41,12,3,Medium,No Change,4,Unsatisfied,4,High,High,Medium
+24,Female,Data Scientist,19,Hybrid,29,6,2,High,No Change,1,Satisfied,2,Low,Low,Low
+34,Female,Data Scientist,7,Remote,25,4,1,High,Decrease,3,Satisfied,1,Low,Medium,Low
+27,Non-binary,Software Engineer,12,Remote,28,10,4,Medium,Decrease,2,Unsatisfied,1,Low,Low,High
+24,Male,Software Engineer,14,Onsite,35,13,5,High,No Change,2,Unsatisfied,4,High,Low,High
+23,Non-binary,Project Manager,35,Hybrid,45,11,1,Low,Decrease,1,Unsatisfied,1,Low,Low,Low
+54,Male,Data Scientist,10,Remote,41,0,5,Low,No Change,3,Unsatisfied,5,High,Medium,High
+38,Prefer not to say,Data Scientist,16,Onsite,42,2,5,Low,No Change,2,Unsatisfied,1,Low,Low,High
+52,Male,Project Manager,10,Hybrid,41,0,1,Medium,Decrease,5,Unsatisfied,2,Low,High,Low
+56,Female,Software Engineer,5,Remote,53,6,4,Medium,No Change,4,Unsatisfied,1,Low,High,High
+23,Prefer not to say,Software Engineer,11,Hybrid,41,15,2,Low,Decrease,2,Neutral,2,Low,Low,Low
+50,Non-binary,Software Engineer,5,Remote,48,2,3,Medium,No Change,2,Neutral,2,Low,Low,Medium
+28,Male,Project Manager,10,Onsite,49,15,3,High,Decrease,4,Neutral,2,Low,High,Medium
+41,Female,Software Engineer,30,Hybrid,40,15,4,High,No Change,2,Unsatisfied,2,Low,Low,High
+23,Non-binary,Project Manager,27,Hybrid,48,5,2,Medium,Increase,2,Neutral,5,High,Low,Low
+25,Male,Data Scientist,32,Onsite,45,15,3,Low,No Change,3,Unsatisfied,4,High,Medium,Medium
+25,Male,Project Manager,10,Onsite,43,12,4,Low,Decrease,3,Neutral,1,Low,Medium,High
+24,Female,Data Scientist,24,Remote,40,9,1,Low,Increase,3,Satisfied,5,High,Medium,Low
+52,Prefer not to say,Project Manager,1,Onsite,34,13,4,High,Decrease,3,Unsatisfied,5,High,Medium,High
+49,Prefer not to say,Data Scientist,25,Remote,35,11,1,Low,No Change,5,Satisfied,5,High,High,Low
+58,Male,Software Engineer,20,Onsite,28,15,1,Low,Decrease,2,Neutral,4,High,Low,Low
+51,Female,Software Engineer,4,Hybrid,50,1,2,Low,Decrease,2,Satisfied,5,High,Low,Low
+27,Female,Software Engineer,19,Hybrid,60,7,3,High,No Change,4,Neutral,4,High,High,Medium
+47,Male,Data Scientist,19,Remote,50,2,4,Medium,Decrease,2,Unsatisfied,4,High,Low,High
+26,Non-binary,Software Engineer,33,Hybrid,23,4,3,High,Decrease,5,Satisfied,4,High,High,Medium
+43,Female,Data Scientist,10,Onsite,26,11,1,Medium,No Change,5,Satisfied,2,Low,High,Low
+46,Prefer not to say,Project Manager,35,Remote,46,1,4,Medium,No Change,4,Satisfied,2,Low,High,High
+32,Non-binary,Data Scientist,13,Remote,42,5,1,Medium,Decrease,4,Unsatisfied,4,High,High,Low
+48,Male,Data Scientist,18,Onsite,43,5,2,Medium,Increase,4,Satisfied,4,High,High,Low
+42,Non-binary,Data Scientist,19,Onsite,33,7,4,Low,Increase,4,Neutral,2,Low,High,High
+60,Male,Project Manager,33,Remote,30,8,2,Medium,Increase,3,Neutral,5,High,Medium,Low
+35,Male,Data Scientist,20,Hybrid,23,2,5,Low,Increase,2,Satisfied,2,Low,Low,High
+51,Female,Project Manager,28,Onsite,58,10,4,Medium,Decrease,4,Unsatisfied,5,High,High,High
+53,Non-binary,Data Scientist,11,Onsite,49,8,5,Medium,No Change,2,Satisfied,5,High,Low,High
+26,Prefer not to say,Data Scientist,30,Hybrid,36,1,5,High,Increase,2,Unsatisfied,4,High,Low,High
+23,Female,Data Scientist,17,Hybrid,47,12,4,High,No Change,4,Satisfied,3,Medium,High,High
+57,Male,Project Manager,35,Remote,25,9,2,High,Increase,2,Unsatisfied,3,Medium,Low,Low
+57,Male,Software Engineer,6,Remote,51,1,5,Low,No Change,5,Satisfied,3,Medium,High,High
+50,Male,Project Manager,10,Hybrid,58,12,3,High,Increase,1,Unsatisfied,5,High,Low,Medium
+48,Prefer not to say,Data Scientist,6,Remote,27,7,2,High,Increase,4,Neutral,4,High,High,Low
+34,Prefer not to say,Data Scientist,18,Remote,59,1,2,Medium,No Change,4,Neutral,5,High,High,Low
+28,Male,Software Engineer,15,Onsite,42,7,2,Medium,No Change,3,Neutral,5,High,Medium,Low
+31,Male,Software Engineer,3,Remote,45,5,1,Medium,Increase,3,Neutral,2,Low,Medium,Low
+22,Male,Project Manager,20,Onsite,59,7,3,Medium,Decrease,4,Unsatisfied,2,Low,High,Medium
+54,Prefer not to say,Data Scientist,14,Onsite,41,15,5,Low,Decrease,2,Unsatisfied,5,High,Low,High
+48,Non-binary,Project Manager,18,Remote,30,6,3,Low,No Change,5,Satisfied,2,Low,High,Medium
+28,Female,Software Engineer,25,Hybrid,31,11,4,High,No Change,5,Satisfied,3,Medium,High,High
+27,Prefer not to say,Data Scientist,24,Remote,39,7,5,High,Increase,2,Neutral,4,High,Low,High
+23,Female,Project Manager,5,Hybrid,49,15,3,Medium,Decrease,2,Satisfied,4,High,Low,Medium
+30,Female,Software Engineer,25,Onsite,34,13,5,High,No Change,1,Unsatisfied,3,Medium,Low,High
+51,Prefer not to say,Software Engineer,19,Remote,55,0,3,Low,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+39,Female,Data Scientist,30,Remote,44,2,4,Medium,Increase,4,Satisfied,4,High,High,High
+44,Female,Data Scientist,33,Remote,29,9,5,Medium,No Change,5,Unsatisfied,5,High,High,High
+26,Non-binary,Software Engineer,23,Hybrid,59,0,5,High,Decrease,3,Satisfied,5,High,Medium,High
+49,Prefer not to say,Project Manager,13,Remote,36,2,5,High,Decrease,3,Unsatisfied,4,High,Medium,High
+32,Male,Software Engineer,23,Hybrid,29,5,2,High,Increase,5,Neutral,1,Low,High,Low
+32,Prefer not to say,Project Manager,34,Onsite,43,15,2,Medium,No Change,2,Neutral,3,Medium,Low,Low
+35,Non-binary,Data Scientist,14,Onsite,52,11,4,Medium,Increase,2,Neutral,2,Low,Low,High
+53,Male,Project Manager,21,Hybrid,54,15,1,Low,No Change,2,Neutral,4,High,Low,Low
+41,Male,Project Manager,3,Hybrid,33,11,5,Medium,No Change,3,Satisfied,3,Medium,Medium,High
+46,Male,Software Engineer,27,Remote,31,9,1,Medium,Decrease,3,Satisfied,4,High,Medium,Low
+30,Non-binary,Project Manager,33,Remote,45,10,2,Medium,No Change,1,Unsatisfied,3,Medium,Low,Low
+51,Non-binary,Project Manager,17,Remote,52,4,4,Low,Increase,4,Unsatisfied,4,High,High,High
+39,Female,Project Manager,9,Onsite,28,3,2,Low,Increase,2,Neutral,2,Low,Low,Low
+50,Male,Project Manager,11,Hybrid,56,0,3,High,No Change,4,Unsatisfied,4,High,High,Medium
+57,Male,Software Engineer,21,Hybrid,51,0,1,Medium,Increase,2,Satisfied,3,Medium,Low,Low
+25,Prefer not to say,Project Manager,29,Remote,58,14,1,Low,Increase,2,Neutral,1,Low,Low,Low
+49,Prefer not to say,Software Engineer,1,Onsite,45,6,3,Low,Decrease,1,Satisfied,5,High,Low,Medium
+33,Female,Data Scientist,26,Onsite,27,3,1,Medium,Decrease,3,Neutral,5,High,Medium,Low
+43,Prefer not to say,Project Manager,29,Onsite,21,7,3,Medium,No Change,2,Satisfied,3,Medium,Low,Medium
+48,Non-binary,Software Engineer,4,Onsite,50,11,1,Medium,Decrease,2,Satisfied,5,High,Low,Low
+30,Prefer not to say,Software Engineer,10,Remote,41,0,1,Low,Increase,2,Satisfied,2,Low,Low,Low
+59,Prefer not to say,Data Scientist,4,Hybrid,56,1,2,Low,Increase,4,Neutral,3,Medium,High,Low
+51,Non-binary,Data Scientist,34,Remote,32,7,4,High,Decrease,5,Satisfied,1,Low,High,High
+41,Prefer not to say,Data Scientist,29,Remote,48,12,5,High,No Change,1,Neutral,5,High,Low,High
+30,Female,Data Scientist,2,Remote,60,8,5,High,Increase,3,Satisfied,2,Low,Medium,High
+48,Female,Data Scientist,32,Hybrid,38,9,2,Medium,Decrease,5,Satisfied,5,High,High,Low
+31,Non-binary,Data Scientist,27,Remote,34,9,1,High,No Change,5,Unsatisfied,2,Low,High,Low
+44,Prefer not to say,Software Engineer,9,Onsite,23,14,4,High,Decrease,1,Satisfied,3,Medium,Low,High
+42,Non-binary,Software Engineer,10,Hybrid,24,14,2,Medium,No Change,4,Neutral,5,High,High,Low
+23,Non-binary,Software Engineer,23,Remote,31,2,4,High,Increase,5,Satisfied,5,High,High,High
+23,Male,Project Manager,7,Hybrid,20,10,3,High,Increase,1,Neutral,2,Low,Low,Medium
+46,Female,Software Engineer,9,Hybrid,42,5,2,Low,No Change,3,Neutral,4,High,Medium,Low
+25,Prefer not to say,Software Engineer,28,Hybrid,40,4,1,Low,No Change,3,Neutral,4,High,Medium,Low
+54,Prefer not to say,Software Engineer,20,Hybrid,22,10,4,Low,Decrease,1,Satisfied,1,Low,Low,High
+33,Male,Data Scientist,11,Hybrid,45,8,4,High,Increase,4,Neutral,2,Low,High,High
+30,Prefer not to say,Data Scientist,31,Remote,41,11,5,High,Decrease,3,Neutral,4,High,Medium,High
+40,Prefer not to say,Data Scientist,23,Remote,49,11,2,Low,Increase,2,Unsatisfied,2,Low,Low,Low
+27,Male,Project Manager,10,Remote,49,12,4,High,Decrease,1,Unsatisfied,5,High,Low,High
+41,Male,Project Manager,14,Hybrid,59,4,5,Medium,Increase,3,Unsatisfied,2,Low,Medium,High
+32,Non-binary,Project Manager,25,Remote,34,14,1,Medium,Decrease,4,Neutral,4,High,High,Low
+52,Female,Software Engineer,14,Remote,55,10,2,Low,Decrease,4,Neutral,3,Medium,High,Low
+26,Male,Project Manager,13,Remote,39,0,3,Medium,Decrease,1,Satisfied,5,High,Low,Medium
+59,Non-binary,Project Manager,34,Remote,43,6,1,Medium,No Change,2,Neutral,2,Low,Low,Low
+55,Non-binary,Software Engineer,28,Onsite,32,1,1,Low,No Change,3,Satisfied,4,High,Medium,Low
+36,Prefer not to say,Data Scientist,9,Remote,25,15,1,Medium,Decrease,4,Neutral,2,Low,High,Low
+41,Prefer not to say,Software Engineer,32,Onsite,59,15,2,Low,No Change,4,Satisfied,2,Low,High,Low
+29,Non-binary,Software Engineer,21,Onsite,22,6,3,Low,No Change,2,Unsatisfied,2,Low,Low,Medium
+41,Male,Project Manager,33,Remote,46,8,3,Medium,No Change,3,Satisfied,5,High,Medium,Medium
+59,Male,Project Manager,8,Onsite,39,15,4,High,Increase,3,Unsatisfied,3,Medium,Medium,High
+32,Prefer not to say,Project Manager,7,Remote,49,15,1,High,Decrease,3,Neutral,1,Low,Medium,Low
+25,Prefer not to say,Data Scientist,14,Hybrid,32,10,2,Low,No Change,3,Satisfied,4,High,Medium,Low
+40,Male,Data Scientist,1,Hybrid,47,9,3,Medium,No Change,4,Satisfied,2,Low,High,Medium
+48,Prefer not to say,Data Scientist,14,Hybrid,25,13,3,Low,Increase,4,Neutral,4,High,High,Medium
+57,Female,Data Scientist,19,Hybrid,55,7,2,High,No Change,2,Neutral,3,Medium,Low,Low
+31,Male,Data Scientist,27,Onsite,57,2,4,High,Increase,4,Satisfied,5,High,High,High
+56,Non-binary,Project Manager,35,Hybrid,58,13,4,Medium,Decrease,5,Satisfied,3,Medium,High,High
+56,Non-binary,Data Scientist,22,Hybrid,28,4,2,Medium,Decrease,2,Satisfied,1,Low,Low,Low
+55,Female,Data Scientist,31,Onsite,58,15,3,Low,No Change,1,Unsatisfied,2,Low,Low,Medium
+28,Non-binary,Project Manager,2,Onsite,48,0,2,High,No Change,4,Unsatisfied,1,Low,High,Low
+43,Non-binary,Data Scientist,28,Onsite,43,3,1,Medium,No Change,3,Satisfied,5,High,Medium,Low
+52,Non-binary,Software Engineer,19,Hybrid,30,9,2,Low,Decrease,3,Satisfied,2,Low,Medium,Low
+53,Male,Data Scientist,1,Onsite,29,1,1,Medium,Increase,3,Neutral,1,Low,Medium,Low
+42,Prefer not to say,Project Manager,3,Remote,31,0,3,High,No Change,4,Neutral,3,Medium,High,Medium
+58,Non-binary,Data Scientist,15,Onsite,58,9,2,High,Decrease,5,Unsatisfied,4,High,High,Low
+27,Female,Software Engineer,23,Hybrid,60,8,1,High,Increase,3,Neutral,4,High,Medium,Low
+24,Non-binary,Software Engineer,7,Remote,33,15,4,Low,Decrease,5,Satisfied,4,High,High,High
+60,Female,Data Scientist,21,Hybrid,50,7,5,Low,Increase,3,Unsatisfied,2,Low,Medium,High
+59,Non-binary,Data Scientist,7,Remote,38,10,5,High,Decrease,5,Unsatisfied,1,Low,High,High
+23,Prefer not to say,Project Manager,13,Remote,51,14,3,Medium,No Change,3,Neutral,1,Low,Medium,Medium
+40,Female,Project Manager,16,Onsite,54,0,4,Medium,Increase,5,Neutral,4,High,High,High
+39,Non-binary,Project Manager,17,Remote,34,8,3,High,Increase,4,Satisfied,3,Medium,High,Medium
+34,Female,Project Manager,1,Remote,60,0,2,Medium,Decrease,2,Satisfied,2,Low,Low,Low
+48,Non-binary,Software Engineer,4,Remote,41,13,3,Low,Decrease,2,Neutral,3,Medium,Low,Medium
+40,Non-binary,Project Manager,3,Remote,54,15,2,High,No Change,2,Neutral,2,Low,Low,Low
+25,Prefer not to say,Software Engineer,35,Remote,54,5,1,High,No Change,5,Satisfied,2,Low,High,Low
+57,Non-binary,Project Manager,8,Onsite,22,15,5,Medium,No Change,5,Satisfied,3,Medium,High,High
+26,Prefer not to say,Software Engineer,2,Onsite,26,0,1,Low,No Change,2,Satisfied,3,Medium,Low,Low
+57,Non-binary,Project Manager,32,Remote,53,9,3,Medium,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+44,Prefer not to say,Data Scientist,23,Remote,32,15,3,High,Increase,3,Unsatisfied,5,High,Medium,Medium
+32,Male,Data Scientist,23,Hybrid,35,1,5,High,Increase,4,Unsatisfied,5,High,High,High
+42,Non-binary,Software Engineer,20,Hybrid,44,6,5,High,No Change,3,Neutral,3,Medium,Medium,High
+43,Non-binary,Software Engineer,25,Onsite,24,5,3,High,Decrease,5,Unsatisfied,4,High,High,Medium
+27,Female,Project Manager,18,Hybrid,32,1,5,Low,Decrease,3,Unsatisfied,1,Low,Medium,High
+44,Female,Data Scientist,7,Remote,49,11,2,Medium,Increase,2,Satisfied,3,Medium,Low,Low
+56,Male,Software Engineer,6,Remote,39,11,4,Medium,Increase,5,Unsatisfied,3,Medium,High,High
+45,Male,Data Scientist,17,Remote,26,13,3,High,No Change,3,Unsatisfied,5,High,Medium,Medium
+47,Prefer not to say,Data Scientist,1,Onsite,46,6,5,Medium,Increase,1,Satisfied,4,High,Low,High
+32,Male,Data Scientist,20,Hybrid,22,7,2,Low,No Change,3,Neutral,2,Low,Medium,Low
+56,Non-binary,Project Manager,33,Hybrid,56,13,5,Low,No Change,1,Unsatisfied,5,High,Low,High
+42,Non-binary,Software Engineer,25,Onsite,54,15,3,Low,No Change,3,Satisfied,4,High,Medium,Medium
+36,Non-binary,Data Scientist,6,Hybrid,51,5,5,Medium,Increase,4,Neutral,3,Medium,High,High
+32,Female,Project Manager,20,Hybrid,55,9,3,Low,No Change,3,Satisfied,4,High,Medium,Medium
+60,Male,Data Scientist,28,Onsite,23,10,5,High,Decrease,4,Neutral,4,High,High,High
+34,Prefer not to say,Project Manager,11,Onsite,58,10,3,High,Increase,5,Unsatisfied,3,Medium,High,Medium
+46,Male,Data Scientist,7,Hybrid,45,15,4,High,No Change,4,Unsatisfied,2,Low,High,High
+35,Non-binary,Software Engineer,23,Hybrid,35,11,1,Medium,Increase,3,Unsatisfied,5,High,Medium,Low
+27,Male,Data Scientist,11,Hybrid,21,12,2,Low,Decrease,4,Unsatisfied,2,Low,High,Low
+53,Female,Software Engineer,32,Hybrid,32,13,4,High,Decrease,5,Neutral,5,High,High,High
+41,Prefer not to say,Data Scientist,4,Onsite,27,8,1,High,No Change,1,Neutral,5,High,Low,Low
+46,Non-binary,Software Engineer,16,Onsite,28,5,3,High,No Change,1,Satisfied,4,High,Low,Medium
+36,Prefer not to say,Data Scientist,33,Remote,33,0,2,Medium,Increase,3,Unsatisfied,3,Medium,Medium,Low
+37,Male,Software Engineer,1,Remote,60,0,5,High,No Change,5,Satisfied,4,High,High,High
+37,Non-binary,Software Engineer,1,Onsite,28,3,2,Low,Increase,3,Satisfied,4,High,Medium,Low
+33,Non-binary,Data Scientist,19,Remote,41,5,3,Medium,No Change,4,Neutral,2,Low,High,Medium
+53,Prefer not to say,Software Engineer,7,Onsite,51,13,1,Low,No Change,1,Satisfied,1,Low,Low,Low
+23,Female,Data Scientist,5,Remote,52,9,5,Low,No Change,2,Unsatisfied,5,High,Low,High
+45,Non-binary,Project Manager,6,Remote,51,3,4,Low,Decrease,1,Neutral,4,High,Low,High
+44,Male,Project Manager,14,Onsite,59,10,3,High,Increase,4,Neutral,1,Low,High,Medium
+45,Male,Project Manager,30,Hybrid,43,7,2,Medium,Decrease,2,Unsatisfied,4,High,Low,Low
+48,Female,Software Engineer,7,Remote,22,2,5,High,No Change,5,Satisfied,4,High,High,High
+58,Non-binary,Project Manager,29,Remote,27,3,4,High,No Change,2,Unsatisfied,1,Low,Low,High
+50,Female,Project Manager,35,Remote,45,1,1,Medium,Decrease,1,Neutral,3,Medium,Low,Low
+27,Male,Project Manager,20,Onsite,46,6,4,Medium,Increase,5,Neutral,3,Medium,High,High
+22,Prefer not to say,Data Scientist,34,Hybrid,24,4,3,Medium,Decrease,1,Satisfied,1,Low,Low,Medium
+37,Non-binary,Software Engineer,27,Hybrid,28,13,1,Low,No Change,2,Neutral,1,Low,Low,Low
+29,Non-binary,Data Scientist,23,Remote,56,7,3,High,Decrease,4,Neutral,5,High,High,Medium
+43,Prefer not to say,Data Scientist,32,Hybrid,35,1,2,Medium,No Change,4,Satisfied,1,Low,High,Low
+32,Male,Project Manager,22,Hybrid,51,11,3,Low,No Change,5,Neutral,2,Low,High,Medium
+40,Non-binary,Data Scientist,21,Remote,26,2,1,Low,Decrease,1,Neutral,3,Medium,Low,Low
+55,Male,Project Manager,11,Hybrid,38,14,5,Medium,Decrease,4,Unsatisfied,4,High,High,High
+54,Male,Project Manager,26,Onsite,57,2,4,Low,Increase,2,Satisfied,5,High,Low,High
+54,Non-binary,Project Manager,14,Remote,26,15,4,Medium,Increase,2,Neutral,2,Low,Low,High
+26,Non-binary,Project Manager,24,Remote,41,11,1,Low,Increase,2,Satisfied,4,High,Low,Low
+48,Male,Project Manager,23,Remote,41,5,4,High,Increase,5,Satisfied,1,Low,High,High
+32,Male,Software Engineer,6,Hybrid,25,9,4,Medium,No Change,4,Satisfied,2,Low,High,High
+52,Male,Project Manager,35,Remote,56,10,4,Medium,No Change,1,Unsatisfied,3,Medium,Low,High
+57,Prefer not to say,Software Engineer,7,Remote,43,8,2,Medium,No Change,2,Unsatisfied,3,Medium,Low,Low
+40,Prefer not to say,Data Scientist,6,Onsite,53,4,2,High,Increase,5,Neutral,3,Medium,High,Low
+49,Non-binary,Data Scientist,29,Remote,27,6,2,Medium,Decrease,4,Neutral,2,Low,High,Low
+24,Prefer not to say,Software Engineer,31,Onsite,47,10,1,Low,No Change,3,Neutral,2,Low,Medium,Low
+35,Male,Software Engineer,24,Remote,41,4,5,Low,No Change,2,Satisfied,5,High,Low,High
+55,Non-binary,Project Manager,11,Remote,22,7,1,Low,No Change,1,Neutral,5,High,Low,Low
+43,Male,Software Engineer,29,Onsite,44,14,1,Medium,Decrease,3,Unsatisfied,4,High,Medium,Low
+48,Female,Software Engineer,6,Onsite,20,4,1,High,Increase,4,Unsatisfied,3,Medium,High,Low
+54,Prefer not to say,Project Manager,35,Hybrid,44,15,4,High,No Change,2,Unsatisfied,2,Low,Low,High
+37,Male,Software Engineer,27,Remote,43,11,3,Low,Increase,5,Neutral,2,Low,High,Medium
+39,Male,Project Manager,4,Onsite,57,2,3,Medium,Increase,2,Unsatisfied,5,High,Low,Medium
+46,Female,Project Manager,17,Onsite,51,3,2,Low,Decrease,4,Unsatisfied,5,High,High,Low
+44,Male,Data Scientist,35,Onsite,39,12,3,High,Decrease,4,Unsatisfied,1,Low,High,Medium
+28,Non-binary,Data Scientist,30,Hybrid,53,6,1,Medium,No Change,1,Satisfied,3,Medium,Low,Low
+55,Prefer not to say,Project Manager,35,Hybrid,42,2,3,Medium,Decrease,2,Unsatisfied,5,High,Low,Medium
+30,Prefer not to say,Software Engineer,17,Onsite,58,4,5,High,Decrease,1,Neutral,3,Medium,Low,High
+44,Male,Data Scientist,10,Onsite,29,7,3,Medium,Decrease,5,Satisfied,1,Low,High,Medium
+49,Prefer not to say,Software Engineer,26,Onsite,32,13,4,Medium,No Change,2,Unsatisfied,5,High,Low,High
+36,Female,Software Engineer,4,Onsite,49,12,4,High,Decrease,5,Neutral,3,Medium,High,High
+40,Female,Software Engineer,27,Onsite,24,7,5,Low,Decrease,5,Neutral,2,Low,High,High
+26,Female,Software Engineer,22,Onsite,41,4,3,Low,Increase,2,Satisfied,5,High,Low,Medium
+49,Prefer not to say,Software Engineer,8,Hybrid,27,0,5,High,Increase,5,Neutral,5,High,High,High
+45,Prefer not to say,Software Engineer,19,Remote,49,11,3,Low,Decrease,1,Unsatisfied,2,Low,Low,Medium
+27,Prefer not to say,Software Engineer,17,Remote,39,1,3,Low,Increase,5,Unsatisfied,2,Low,High,Medium
+44,Female,Software Engineer,12,Hybrid,56,15,3,Medium,Increase,4,Unsatisfied,3,Medium,High,Medium
+53,Female,Data Scientist,31,Onsite,42,13,3,Medium,Increase,3,Satisfied,2,Low,Medium,Medium
+41,Prefer not to say,Data Scientist,4,Remote,22,4,1,Low,No Change,5,Unsatisfied,2,Low,High,Low
+59,Male,Data Scientist,8,Onsite,42,11,1,Low,Decrease,2,Satisfied,1,Low,Low,Low
+45,Female,Data Scientist,20,Remote,31,14,3,Low,No Change,4,Neutral,2,Low,High,Medium
+52,Prefer not to say,Software Engineer,17,Remote,20,5,4,High,Increase,2,Satisfied,1,Low,Low,High
+48,Prefer not to say,Software Engineer,25,Onsite,28,1,3,High,Decrease,5,Neutral,4,High,High,Medium
+22,Prefer not to say,Data Scientist,23,Onsite,35,13,1,Medium,No Change,2,Neutral,1,Low,Low,Low
+50,Non-binary,Project Manager,9,Onsite,58,7,3,High,Decrease,4,Unsatisfied,4,High,High,Medium
+29,Female,Data Scientist,16,Remote,28,0,3,High,Increase,5,Neutral,3,Medium,High,Medium
+27,Male,Software Engineer,29,Remote,44,14,2,Low,Decrease,4,Unsatisfied,1,Low,High,Low
+43,Prefer not to say,Project Manager,14,Onsite,50,4,5,Medium,No Change,4,Neutral,4,High,High,High
+47,Female,Project Manager,6,Hybrid,53,5,5,High,Increase,5,Unsatisfied,3,Medium,High,High
+44,Male,Software Engineer,17,Remote,36,7,4,Low,Increase,5,Satisfied,2,Low,High,High
+34,Non-binary,Project Manager,10,Hybrid,40,11,5,High,Decrease,4,Neutral,5,High,High,High
+59,Female,Software Engineer,22,Onsite,39,11,1,Low,No Change,2,Neutral,4,High,Low,Low
+26,Female,Project Manager,2,Onsite,54,12,4,High,No Change,5,Neutral,3,Medium,High,High
+40,Male,Software Engineer,24,Hybrid,44,9,3,High,No Change,3,Neutral,4,High,Medium,Medium
+47,Female,Data Scientist,2,Remote,33,3,2,High,Increase,4,Neutral,5,High,High,Low
+26,Male,Software Engineer,3,Onsite,33,8,2,High,Increase,2,Unsatisfied,4,High,Low,Low
+39,Prefer not to say,Project Manager,22,Remote,24,12,2,Low,No Change,4,Satisfied,2,Low,High,Low
+60,Non-binary,Project Manager,33,Hybrid,50,7,3,High,Increase,5,Unsatisfied,5,High,High,Medium
+28,Male,Project Manager,19,Remote,40,9,3,Medium,No Change,4,Unsatisfied,1,Low,High,Medium
+34,Female,Data Scientist,1,Remote,29,2,5,High,No Change,1,Neutral,2,Low,Low,High
+47,Prefer not to say,Software Engineer,4,Remote,23,13,4,Low,No Change,2,Unsatisfied,3,Medium,Low,High
+51,Prefer not to say,Data Scientist,6,Remote,31,10,3,High,Increase,3,Neutral,1,Low,Medium,Medium
+36,Female,Data Scientist,2,Hybrid,27,6,4,Low,Increase,1,Satisfied,2,Low,Low,High
+47,Female,Software Engineer,26,Remote,59,15,3,Medium,Increase,4,Satisfied,3,Medium,High,Medium
+60,Male,Software Engineer,33,Onsite,36,4,3,Medium,No Change,4,Unsatisfied,1,Low,High,Medium
+25,Female,Data Scientist,13,Hybrid,26,8,4,Medium,No Change,5,Unsatisfied,4,High,High,High
+36,Male,Data Scientist,1,Onsite,24,0,5,Medium,Decrease,3,Unsatisfied,4,High,Medium,High
+56,Male,Data Scientist,8,Onsite,41,15,1,High,Decrease,1,Unsatisfied,2,Low,Low,Low
+33,Female,Project Manager,16,Remote,34,9,3,Medium,Decrease,4,Neutral,5,High,High,Medium
+51,Female,Data Scientist,24,Hybrid,50,5,1,Low,Increase,1,Neutral,3,Medium,Low,Low
+55,Prefer not to say,Data Scientist,22,Hybrid,36,8,2,High,Decrease,3,Neutral,3,Medium,Medium,Low
+52,Prefer not to say,Project Manager,16,Remote,26,12,4,High,Decrease,3,Satisfied,5,High,Medium,High
+47,Prefer not to say,Data Scientist,14,Onsite,55,14,4,Medium,Decrease,2,Neutral,4,High,Low,High
+57,Prefer not to say,Software Engineer,17,Hybrid,44,13,3,Medium,Decrease,4,Satisfied,5,High,High,Medium
+26,Female,Software Engineer,18,Remote,36,9,5,Low,Increase,2,Satisfied,2,Low,Low,High
+34,Non-binary,Project Manager,30,Remote,54,11,4,Low,No Change,4,Unsatisfied,5,High,High,High
+54,Prefer not to say,Software Engineer,26,Onsite,35,13,1,Medium,No Change,5,Satisfied,3,Medium,High,Low
+45,Prefer not to say,Data Scientist,24,Onsite,22,0,1,High,Increase,4,Neutral,3,Medium,High,Low
+40,Male,Project Manager,16,Hybrid,59,9,5,Medium,No Change,2,Unsatisfied,3,Medium,Low,High
+26,Prefer not to say,Project Manager,29,Hybrid,56,1,4,Low,Decrease,4,Satisfied,5,High,High,High
+37,Male,Software Engineer,20,Onsite,45,7,1,Medium,Increase,5,Unsatisfied,3,Medium,High,Low
+23,Female,Project Manager,13,Hybrid,27,0,2,Low,Decrease,4,Neutral,3,Medium,High,Low
+53,Non-binary,Data Scientist,20,Remote,23,13,3,Medium,Increase,2,Neutral,4,High,Low,Medium
+37,Male,Project Manager,24,Remote,60,5,4,Medium,Decrease,5,Neutral,3,Medium,High,High
+51,Prefer not to say,Software Engineer,26,Hybrid,60,1,2,Medium,Increase,1,Satisfied,4,High,Low,Low
+51,Prefer not to say,Project Manager,29,Onsite,26,13,5,Low,Decrease,4,Unsatisfied,5,High,High,High
+44,Female,Data Scientist,23,Remote,52,12,5,Low,Decrease,5,Unsatisfied,4,High,High,High
+41,Female,Project Manager,29,Hybrid,24,2,2,High,Decrease,2,Neutral,4,High,Low,Low
+34,Non-binary,Project Manager,21,Onsite,41,6,2,Low,No Change,1,Unsatisfied,4,High,Low,Low
+57,Male,Software Engineer,26,Onsite,37,11,4,Medium,No Change,5,Unsatisfied,3,Medium,High,High
+38,Prefer not to say,Data Scientist,26,Remote,54,15,5,Low,No Change,5,Unsatisfied,3,Medium,High,High
+53,Prefer not to say,Project Manager,2,Remote,21,1,4,Low,Increase,1,Neutral,5,High,Low,High
+30,Male,Data Scientist,7,Onsite,25,2,4,Medium,Increase,2,Neutral,2,Low,Low,High
+55,Male,Software Engineer,3,Remote,51,2,4,Low,Decrease,5,Satisfied,4,High,High,High
+34,Male,Project Manager,30,Onsite,46,9,4,Medium,No Change,4,Satisfied,3,Medium,High,High
+44,Non-binary,Software Engineer,20,Remote,32,4,3,Medium,Decrease,4,Unsatisfied,3,Medium,High,Medium
+28,Prefer not to say,Data Scientist,7,Remote,51,10,1,High,Decrease,1,Neutral,1,Low,Low,Low
+37,Non-binary,Project Manager,29,Remote,53,5,1,High,Increase,3,Neutral,1,Low,Medium,Low
+60,Male,Software Engineer,15,Hybrid,60,15,1,Low,No Change,1,Neutral,4,High,Low,Low
+58,Male,Software Engineer,8,Remote,47,13,5,Low,No Change,3,Neutral,3,Medium,Medium,High
+49,Female,Data Scientist,16,Remote,37,3,2,Low,No Change,1,Neutral,3,Medium,Low,Low
+25,Female,Software Engineer,26,Onsite,38,8,5,Low,Increase,3,Neutral,3,Medium,Medium,High
+53,Non-binary,Data Scientist,6,Onsite,44,6,3,High,Decrease,5,Satisfied,4,High,High,Medium
+32,Female,Software Engineer,23,Hybrid,24,9,4,Medium,Decrease,5,Neutral,5,High,High,High
+40,Male,Software Engineer,29,Hybrid,26,3,3,Low,Increase,2,Unsatisfied,3,Medium,Low,Medium
+58,Female,Project Manager,22,Hybrid,24,13,3,High,Decrease,5,Neutral,3,Medium,High,Medium
+39,Female,Project Manager,31,Hybrid,41,14,4,Low,Increase,2,Satisfied,3,Medium,Low,High
+41,Female,Software Engineer,24,Onsite,22,4,3,Medium,Decrease,5,Neutral,2,Low,High,Medium
+28,Prefer not to say,Data Scientist,23,Remote,24,11,5,Medium,No Change,2,Neutral,4,High,Low,High
+30,Prefer not to say,Data Scientist,4,Hybrid,50,2,3,Low,No Change,2,Neutral,2,Low,Low,Medium
+38,Male,Project Manager,19,Remote,40,8,4,High,No Change,2,Unsatisfied,2,Low,Low,High
+37,Non-binary,Data Scientist,30,Onsite,51,15,4,High,No Change,5,Satisfied,3,Medium,High,High
+44,Non-binary,Data Scientist,24,Hybrid,52,2,2,Low,No Change,4,Satisfied,4,High,High,Low
+41,Non-binary,Software Engineer,14,Onsite,23,15,1,High,No Change,2,Unsatisfied,4,High,Low,Low
+45,Male,Project Manager,11,Onsite,26,12,5,Medium,Increase,4,Unsatisfied,2,Low,High,High
+35,Non-binary,Project Manager,7,Onsite,56,11,5,Low,Decrease,2,Unsatisfied,1,Low,Low,High
+52,Non-binary,Software Engineer,7,Hybrid,29,4,5,Low,Decrease,4,Satisfied,4,High,High,High
+47,Male,Software Engineer,33,Onsite,23,9,3,High,Decrease,1,Neutral,1,Low,Low,Medium
+44,Prefer not to say,Software Engineer,24,Remote,34,4,5,Medium,Decrease,5,Satisfied,4,High,High,High
+60,Prefer not to say,Software Engineer,8,Hybrid,53,10,3,High,No Change,3,Neutral,2,Low,Medium,Medium
+35,Female,Software Engineer,10,Hybrid,44,0,4,Medium,Decrease,5,Neutral,1,Low,High,High
+50,Prefer not to say,Software Engineer,32,Remote,34,4,5,Medium,Increase,3,Neutral,2,Low,Medium,High
+36,Female,Project Manager,12,Onsite,29,5,1,Low,Decrease,3,Neutral,2,Low,Medium,Low
+57,Prefer not to say,Project Manager,13,Remote,38,13,1,High,Decrease,4,Neutral,2,Low,High,Low
+41,Non-binary,Project Manager,13,Remote,38,1,5,Low,Increase,5,Neutral,5,High,High,High
+24,Male,Data Scientist,23,Onsite,43,1,3,Medium,No Change,4,Satisfied,5,High,High,Medium
+46,Male,Software Engineer,28,Remote,50,2,4,Low,No Change,3,Unsatisfied,4,High,Medium,High
+56,Non-binary,Project Manager,3,Remote,47,15,2,High,Increase,1,Unsatisfied,4,High,Low,Low
+34,Prefer not to say,Software Engineer,6,Hybrid,36,15,3,High,No Change,5,Neutral,4,High,High,Medium
+47,Non-binary,Data Scientist,33,Remote,41,8,3,High,Decrease,5,Neutral,5,High,High,Medium
+51,Non-binary,Software Engineer,32,Hybrid,32,4,1,Medium,Decrease,5,Satisfied,5,High,High,Low
+27,Prefer not to say,Software Engineer,3,Remote,40,6,5,High,No Change,4,Neutral,5,High,High,High
+45,Male,Software Engineer,28,Remote,30,13,5,High,No Change,4,Neutral,4,High,High,High
+38,Female,Project Manager,10,Hybrid,25,0,3,Low,Decrease,3,Unsatisfied,4,High,Medium,Medium
+33,Female,Software Engineer,13,Onsite,59,4,1,Medium,Decrease,4,Unsatisfied,3,Medium,High,Low
+34,Female,Data Scientist,3,Hybrid,45,5,4,High,Decrease,3,Neutral,4,High,Medium,High
+54,Female,Data Scientist,25,Onsite,36,3,1,High,Increase,2,Satisfied,1,Low,Low,Low
+39,Non-binary,Data Scientist,12,Onsite,39,6,4,High,Increase,4,Satisfied,2,Low,High,High
+55,Prefer not to say,Software Engineer,16,Onsite,36,10,5,Medium,Decrease,5,Neutral,4,High,High,High
+32,Prefer not to say,Project Manager,32,Hybrid,38,12,3,High,Decrease,2,Satisfied,4,High,Low,Medium
+34,Prefer not to say,Data Scientist,31,Remote,42,7,3,High,No Change,2,Satisfied,1,Low,Low,Medium
+29,Male,Project Manager,5,Hybrid,53,1,4,Medium,Decrease,4,Satisfied,3,Medium,High,High
+59,Non-binary,Software Engineer,26,Remote,56,13,3,High,Decrease,2,Satisfied,2,Low,Low,Medium
+48,Prefer not to say,Project Manager,9,Hybrid,28,3,1,High,Decrease,3,Unsatisfied,5,High,Medium,Low
+45,Male,Software Engineer,24,Remote,34,13,5,High,Increase,5,Unsatisfied,1,Low,High,High
+38,Female,Software Engineer,18,Hybrid,24,12,4,Low,No Change,4,Unsatisfied,5,High,High,High
+24,Male,Software Engineer,26,Onsite,35,10,1,High,Increase,5,Neutral,2,Low,High,Low
+33,Non-binary,Project Manager,17,Remote,33,9,4,High,Increase,2,Neutral,5,High,Low,High
+52,Male,Project Manager,23,Hybrid,28,13,3,Low,Increase,1,Unsatisfied,1,Low,Low,Medium
+45,Female,Software Engineer,24,Hybrid,28,2,1,High,Decrease,5,Unsatisfied,2,Low,High,Low
+50,Non-binary,Project Manager,16,Onsite,30,6,2,High,Decrease,3,Satisfied,5,High,Medium,Low
+58,Non-binary,Software Engineer,6,Remote,30,12,5,Medium,Decrease,2,Satisfied,3,Medium,Low,High
+43,Male,Project Manager,30,Onsite,49,10,4,High,No Change,4,Satisfied,2,Low,High,High
+24,Female,Project Manager,23,Onsite,25,15,2,High,Increase,4,Neutral,1,Low,High,Low
+36,Prefer not to say,Software Engineer,9,Hybrid,28,0,3,Low,Increase,5,Satisfied,2,Low,High,Medium
+24,Female,Project Manager,3,Hybrid,53,3,4,Low,No Change,4,Satisfied,2,Low,High,High
+24,Prefer not to say,Project Manager,21,Remote,60,6,2,Medium,No Change,5,Neutral,5,High,High,Low
+40,Female,Software Engineer,28,Onsite,60,9,4,Medium,Decrease,4,Satisfied,3,Medium,High,High
+23,Prefer not to say,Data Scientist,31,Hybrid,27,8,1,Low,No Change,2,Satisfied,3,Medium,Low,Low
+24,Non-binary,Data Scientist,29,Hybrid,40,0,4,High,Decrease,5,Unsatisfied,4,High,High,High
+33,Male,Data Scientist,4,Hybrid,28,14,5,Medium,Decrease,1,Unsatisfied,3,Medium,Low,High
+44,Male,Project Manager,30,Onsite,35,10,5,High,No Change,2,Satisfied,4,High,Low,High
+44,Male,Data Scientist,6,Onsite,30,1,5,Low,Decrease,2,Neutral,4,High,Low,High
+52,Prefer not to say,Software Engineer,20,Onsite,23,10,3,Medium,Increase,4,Satisfied,2,Low,High,Medium
+38,Non-binary,Software Engineer,7,Onsite,38,13,1,Low,Increase,3,Neutral,3,Medium,Medium,Low
+28,Prefer not to say,Data Scientist,9,Remote,25,2,3,High,Decrease,2,Satisfied,3,Medium,Low,Medium
+41,Non-binary,Software Engineer,11,Remote,42,8,1,Medium,Decrease,5,Neutral,5,High,High,Low
+25,Non-binary,Data Scientist,15,Hybrid,27,14,1,Low,No Change,5,Neutral,5,High,High,Low
+39,Prefer not to say,Data Scientist,4,Hybrid,33,12,3,Medium,Decrease,1,Unsatisfied,1,Low,Low,Medium
+25,Female,Data Scientist,8,Remote,35,11,4,High,Decrease,4,Neutral,5,High,High,High
+34,Female,Project Manager,12,Onsite,36,2,1,High,No Change,1,Unsatisfied,3,Medium,Low,Low
+34,Non-binary,Project Manager,3,Remote,53,14,1,Low,No Change,3,Satisfied,5,High,Medium,Low
+43,Male,Project Manager,28,Onsite,28,12,3,Medium,Decrease,1,Satisfied,1,Low,Low,Medium
+35,Female,Project Manager,14,Hybrid,25,1,1,Low,No Change,1,Unsatisfied,1,Low,Low,Low
+58,Male,Software Engineer,21,Remote,48,11,5,High,Increase,1,Neutral,5,High,Low,High
+48,Male,Software Engineer,33,Hybrid,54,8,2,Low,No Change,3,Satisfied,2,Low,Medium,Low
+25,Prefer not to say,Data Scientist,31,Hybrid,55,13,2,Low,Increase,4,Satisfied,3,Medium,High,Low
+53,Male,Project Manager,33,Hybrid,41,7,2,Low,Increase,4,Satisfied,5,High,High,Low
+49,Female,Project Manager,30,Hybrid,41,0,2,Medium,Increase,4,Neutral,5,High,High,Low
+38,Male,Data Scientist,30,Hybrid,27,15,3,High,Decrease,5,Satisfied,3,Medium,High,Medium
+50,Prefer not to say,Software Engineer,18,Hybrid,36,5,3,Low,Increase,4,Unsatisfied,2,Low,High,Medium
+22,Non-binary,Data Scientist,11,Onsite,24,13,4,Low,No Change,3,Satisfied,4,High,Medium,High
+49,Non-binary,Software Engineer,5,Onsite,29,5,2,Medium,Decrease,3,Neutral,1,Low,Medium,Low
+29,Non-binary,Data Scientist,23,Remote,46,1,4,High,Decrease,2,Satisfied,3,Medium,Low,High
+36,Female,Project Manager,29,Remote,30,12,2,High,Decrease,1,Neutral,3,Medium,Low,Low
+39,Non-binary,Software Engineer,5,Onsite,52,15,5,High,Increase,4,Neutral,3,Medium,High,High
+60,Female,Project Manager,9,Hybrid,33,11,4,High,No Change,5,Neutral,2,Low,High,High
+29,Female,Software Engineer,28,Hybrid,41,9,5,Medium,Decrease,3,Satisfied,4,High,Medium,High
+40,Non-binary,Project Manager,35,Onsite,34,3,3,Low,Increase,2,Neutral,5,High,Low,Medium
+34,Male,Project Manager,8,Remote,21,1,5,High,Decrease,4,Neutral,5,High,High,High
+50,Female,Software Engineer,13,Remote,42,5,1,Low,Decrease,3,Neutral,1,Low,Medium,Low
+44,Male,Data Scientist,9,Remote,30,3,5,Medium,Increase,2,Satisfied,5,High,Low,High
+47,Prefer not to say,Project Manager,13,Remote,57,14,2,Medium,Increase,1,Satisfied,3,Medium,Low,Low
+47,Male,Software Engineer,15,Onsite,28,12,1,Low,Decrease,1,Unsatisfied,3,Medium,Low,Low
+38,Female,Data Scientist,4,Hybrid,22,14,4,High,Decrease,2,Satisfied,2,Low,Low,High
+28,Prefer not to say,Software Engineer,14,Hybrid,29,15,5,High,Increase,5,Unsatisfied,1,Low,High,High
+39,Female,Project Manager,29,Onsite,31,11,5,Low,Decrease,1,Unsatisfied,4,High,Low,High
+38,Non-binary,Data Scientist,2,Hybrid,45,8,3,High,No Change,1,Unsatisfied,2,Low,Low,Medium
+50,Non-binary,Software Engineer,3,Remote,48,14,2,Low,No Change,4,Neutral,3,Medium,High,Low
+44,Non-binary,Data Scientist,23,Remote,23,6,5,Medium,No Change,1,Neutral,5,High,Low,High
+49,Prefer not to say,Software Engineer,14,Hybrid,60,8,2,Medium,Decrease,4,Neutral,2,Low,High,Low
+48,Prefer not to say,Software Engineer,33,Onsite,45,13,3,High,Decrease,2,Neutral,4,High,Low,Medium
+57,Male,Software Engineer,19,Hybrid,60,3,3,Low,No Change,3,Neutral,1,Low,Medium,Medium
+31,Non-binary,Project Manager,31,Onsite,55,13,4,High,No Change,5,Neutral,5,High,High,High
+50,Prefer not to say,Software Engineer,29,Onsite,23,4,2,Medium,No Change,2,Unsatisfied,4,High,Low,Low
+49,Female,Software Engineer,25,Remote,25,11,4,Medium,No Change,5,Satisfied,2,Low,High,High
+31,Non-binary,Project Manager,28,Hybrid,22,6,3,High,Decrease,4,Satisfied,3,Medium,High,Medium
+24,Male,Data Scientist,18,Hybrid,43,11,2,Low,No Change,4,Neutral,3,Medium,High,Low
+30,Female,Data Scientist,34,Remote,21,0,3,Low,Decrease,4,Neutral,4,High,High,Medium
+55,Non-binary,Software Engineer,13,Remote,38,8,2,Low,No Change,2,Satisfied,4,High,Low,Low
+59,Male,Software Engineer,8,Remote,53,3,2,Medium,Increase,5,Satisfied,5,High,High,Low
+57,Female,Software Engineer,29,Onsite,24,7,5,Medium,Increase,3,Satisfied,1,Low,Medium,High
+53,Male,Data Scientist,1,Remote,57,15,2,Low,No Change,5,Unsatisfied,2,Low,High,Low
+33,Male,Data Scientist,19,Onsite,33,10,3,Low,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+30,Prefer not to say,Data Scientist,9,Hybrid,58,14,3,Medium,Decrease,4,Satisfied,1,Low,High,Medium
+27,Male,Data Scientist,34,Hybrid,47,0,5,Medium,Decrease,5,Satisfied,3,Medium,High,High
+38,Female,Data Scientist,14,Hybrid,38,1,5,Low,No Change,2,Neutral,3,Medium,Low,High
+22,Female,Software Engineer,12,Onsite,30,6,5,Low,Decrease,2,Neutral,5,High,Low,High
+24,Male,Software Engineer,32,Hybrid,39,1,2,High,Increase,4,Neutral,1,Low,High,Low
+53,Female,Data Scientist,26,Remote,22,5,1,High,No Change,2,Neutral,1,Low,Low,Low
+34,Female,Software Engineer,34,Hybrid,22,4,4,Low,Decrease,4,Satisfied,4,High,High,High
+55,Female,Data Scientist,10,Hybrid,23,7,5,Low,Decrease,5,Unsatisfied,2,Low,High,High
+31,Female,Software Engineer,34,Onsite,31,8,4,Low,No Change,4,Satisfied,1,Low,High,High
+46,Non-binary,Data Scientist,1,Onsite,48,11,2,Low,Decrease,3,Satisfied,3,Medium,Medium,Low
+53,Male,Software Engineer,27,Remote,32,9,4,Low,No Change,4,Neutral,3,Medium,High,High
+52,Prefer not to say,Data Scientist,23,Remote,26,4,3,Medium,Decrease,3,Unsatisfied,3,Medium,Medium,Medium
+49,Non-binary,Project Manager,12,Remote,50,7,4,Medium,Decrease,5,Unsatisfied,3,Medium,High,High
+29,Non-binary,Project Manager,2,Hybrid,45,8,5,Medium,Decrease,3,Unsatisfied,5,High,Medium,High
+36,Non-binary,Data Scientist,18,Hybrid,35,12,4,High,No Change,5,Neutral,5,High,High,High
+35,Prefer not to say,Software Engineer,11,Hybrid,30,0,1,High,Increase,2,Unsatisfied,4,High,Low,Low
+60,Prefer not to say,Data Scientist,19,Hybrid,57,3,5,High,Increase,2,Unsatisfied,4,High,Low,High
+40,Female,Data Scientist,3,Onsite,21,11,4,Medium,No Change,4,Unsatisfied,3,Medium,High,High
+51,Female,Data Scientist,6,Hybrid,20,15,5,High,No Change,3,Neutral,1,Low,Medium,High
+22,Male,Project Manager,27,Onsite,43,7,2,High,Decrease,5,Neutral,5,High,High,Low
+56,Non-binary,Software Engineer,6,Hybrid,45,5,5,Low,Decrease,1,Unsatisfied,4,High,Low,High
+50,Non-binary,Data Scientist,26,Hybrid,50,5,3,High,No Change,3,Unsatisfied,4,High,Medium,Medium
+27,Male,Project Manager,14,Hybrid,43,4,3,Low,Increase,5,Unsatisfied,2,Low,High,Medium
+56,Female,Data Scientist,32,Remote,41,6,3,Low,Increase,1,Neutral,2,Low,Low,Medium
+45,Female,Data Scientist,32,Remote,25,5,3,Medium,Increase,1,Satisfied,5,High,Low,Medium
+26,Female,Project Manager,19,Onsite,55,1,1,Low,Decrease,1,Unsatisfied,2,Low,Low,Low
+57,Male,Project Manager,12,Hybrid,34,6,1,Medium,No Change,4,Unsatisfied,4,High,High,Low
+59,Female,Project Manager,23,Remote,34,14,1,High,Increase,2,Unsatisfied,4,High,Low,Low
+47,Non-binary,Data Scientist,31,Remote,47,6,5,High,Increase,1,Unsatisfied,4,High,Low,High
+50,Prefer not to say,Software Engineer,2,Onsite,40,6,2,Low,No Change,1,Satisfied,4,High,Low,Low
+38,Prefer not to say,Software Engineer,30,Hybrid,24,5,5,High,Decrease,1,Neutral,4,High,Low,High
+59,Prefer not to say,Project Manager,13,Hybrid,38,0,1,Medium,Decrease,1,Satisfied,5,High,Low,Low
+28,Non-binary,Data Scientist,13,Hybrid,25,5,1,Medium,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+39,Female,Software Engineer,7,Onsite,32,12,5,High,No Change,3,Unsatisfied,4,High,Medium,High
+47,Male,Software Engineer,13,Hybrid,45,15,4,Low,No Change,4,Unsatisfied,2,Low,High,High
+47,Non-binary,Software Engineer,1,Hybrid,55,10,2,High,Increase,3,Neutral,1,Low,Medium,Low
+30,Female,Data Scientist,30,Hybrid,28,1,3,Low,Decrease,5,Unsatisfied,5,High,High,Medium
+56,Prefer not to say,Software Engineer,19,Hybrid,59,8,5,High,Increase,5,Unsatisfied,1,Low,High,High
+40,Prefer not to say,Software Engineer,19,Hybrid,43,13,2,Low,Increase,5,Neutral,5,High,High,Low
+31,Male,Software Engineer,8,Remote,33,10,1,High,Decrease,5,Neutral,4,High,High,Low
+46,Female,Software Engineer,23,Remote,22,9,3,High,No Change,2,Satisfied,5,High,Low,Medium
+50,Female,Data Scientist,5,Remote,48,5,2,High,Decrease,5,Unsatisfied,2,Low,High,Low
+42,Male,Project Manager,7,Onsite,30,4,1,High,Decrease,1,Unsatisfied,3,Medium,Low,Low
+25,Non-binary,Software Engineer,26,Remote,46,2,5,Low,No Change,4,Neutral,2,Low,High,High
+22,Female,Software Engineer,6,Remote,53,5,5,Low,No Change,3,Unsatisfied,5,High,Medium,High
+39,Male,Software Engineer,24,Remote,55,3,1,Low,Increase,3,Unsatisfied,2,Low,Medium,Low
+38,Prefer not to say,Software Engineer,27,Remote,49,13,3,High,Increase,5,Unsatisfied,2,Low,High,Medium
+54,Prefer not to say,Project Manager,25,Onsite,37,7,2,Low,Increase,3,Neutral,1,Low,Medium,Low
+56,Female,Project Manager,29,Onsite,28,6,4,High,Decrease,4,Neutral,3,Medium,High,High
+42,Prefer not to say,Project Manager,2,Onsite,52,7,4,High,Decrease,4,Unsatisfied,3,Medium,High,High
+24,Male,Data Scientist,12,Onsite,35,11,5,Medium,Decrease,1,Unsatisfied,2,Low,Low,High
+24,Male,Data Scientist,19,Onsite,22,10,1,Low,No Change,5,Unsatisfied,3,Medium,High,Low
+60,Female,Software Engineer,21,Onsite,21,11,2,Medium,No Change,5,Unsatisfied,4,High,High,Low
+25,Male,Software Engineer,31,Hybrid,60,5,1,High,No Change,1,Unsatisfied,3,Medium,Low,Low
+22,Female,Data Scientist,9,Remote,38,3,4,Medium,Decrease,2,Unsatisfied,1,Low,Low,High
+22,Prefer not to say,Project Manager,13,Remote,58,3,1,Medium,Increase,4,Satisfied,5,High,High,Low
+43,Non-binary,Software Engineer,16,Onsite,49,9,2,Medium,No Change,2,Neutral,4,High,Low,Low
+32,Male,Software Engineer,15,Onsite,60,8,3,High,Increase,4,Satisfied,5,High,High,Medium
+23,Female,Software Engineer,9,Remote,44,14,1,Medium,Decrease,3,Satisfied,1,Low,Medium,Low
+58,Female,Project Manager,2,Hybrid,54,6,5,Low,Increase,1,Unsatisfied,1,Low,Low,High
+48,Female,Data Scientist,21,Onsite,38,11,2,High,Decrease,5,Neutral,5,High,High,Low
+45,Prefer not to say,Data Scientist,26,Hybrid,32,7,3,Medium,Decrease,2,Neutral,1,Low,Low,Medium
+55,Female,Software Engineer,10,Remote,22,11,4,High,Increase,5,Satisfied,3,Medium,High,High
+45,Female,Data Scientist,8,Hybrid,41,12,3,Low,No Change,4,Satisfied,3,Medium,High,Medium
+39,Prefer not to say,Data Scientist,3,Hybrid,24,14,1,Medium,Increase,1,Satisfied,1,Low,Low,Low
+43,Prefer not to say,Software Engineer,25,Onsite,52,10,1,High,Increase,2,Neutral,4,High,Low,Low
+33,Prefer not to say,Data Scientist,6,Onsite,38,4,3,Medium,Decrease,4,Unsatisfied,5,High,High,Medium
+47,Male,Project Manager,18,Onsite,50,7,3,High,Increase,1,Satisfied,2,Low,Low,Medium
+44,Female,Data Scientist,26,Remote,59,13,5,Medium,Increase,2,Unsatisfied,1,Low,Low,High
+29,Non-binary,Project Manager,34,Remote,32,6,2,Medium,Increase,1,Neutral,3,Medium,Low,Low
+50,Prefer not to say,Data Scientist,12,Onsite,59,9,3,High,Increase,5,Unsatisfied,3,Medium,High,Medium
+33,Male,Software Engineer,3,Hybrid,26,5,5,Medium,Increase,4,Neutral,4,High,High,High
+56,Male,Software Engineer,6,Remote,56,15,2,Low,Increase,3,Unsatisfied,2,Low,Medium,Low
+24,Prefer not to say,Project Manager,8,Hybrid,27,13,1,Low,Decrease,3,Neutral,1,Low,Medium,Low
+30,Female,Software Engineer,15,Hybrid,29,2,2,Low,Decrease,5,Neutral,4,High,High,Low
+37,Female,Data Scientist,10,Onsite,31,12,5,Low,Increase,4,Unsatisfied,5,High,High,High
+36,Female,Data Scientist,16,Onsite,25,0,4,High,Increase,5,Unsatisfied,5,High,High,High
+58,Male,Software Engineer,15,Hybrid,54,1,5,High,Increase,1,Unsatisfied,1,Low,Low,High
+23,Prefer not to say,Software Engineer,12,Remote,58,6,5,High,Increase,1,Neutral,1,Low,Low,High
+46,Male,Software Engineer,2,Remote,29,11,5,Low,No Change,5,Neutral,5,High,High,High
+46,Male,Software Engineer,13,Onsite,50,13,1,Medium,Decrease,4,Neutral,3,Medium,High,Low
+59,Female,Software Engineer,16,Onsite,21,4,1,Medium,Increase,2,Satisfied,2,Low,Low,Low
+55,Non-binary,Software Engineer,26,Onsite,28,8,1,Medium,No Change,2,Neutral,4,High,Low,Low
+52,Prefer not to say,Project Manager,28,Remote,57,11,1,High,Increase,5,Unsatisfied,1,Low,High,Low
+44,Non-binary,Data Scientist,12,Onsite,43,11,5,Medium,Increase,5,Satisfied,2,Low,High,High
+58,Prefer not to say,Project Manager,4,Remote,48,15,1,High,No Change,1,Neutral,3,Medium,Low,Low
+26,Male,Data Scientist,18,Onsite,55,7,3,Low,No Change,4,Unsatisfied,2,Low,High,Medium
+29,Prefer not to say,Data Scientist,27,Onsite,44,14,3,Medium,No Change,3,Unsatisfied,1,Low,Medium,Medium
+51,Non-binary,Data Scientist,22,Remote,25,4,3,Low,Increase,4,Unsatisfied,3,Medium,High,Medium
+23,Prefer not to say,Data Scientist,4,Hybrid,28,5,5,Medium,No Change,5,Satisfied,5,High,High,High
+30,Non-binary,Data Scientist,10,Onsite,27,6,1,High,Decrease,3,Unsatisfied,4,High,Medium,Low
+59,Prefer not to say,Data Scientist,18,Hybrid,37,2,3,Low,Increase,2,Neutral,3,Medium,Low,Medium
+27,Male,Software Engineer,25,Remote,41,6,3,Low,Increase,4,Neutral,4,High,High,Medium
+26,Male,Data Scientist,34,Hybrid,55,0,2,Medium,No Change,2,Satisfied,5,High,Low,Low
+25,Female,Data Scientist,22,Onsite,46,9,5,Medium,Decrease,1,Neutral,2,Low,Low,High
+56,Female,Software Engineer,28,Remote,59,15,4,Medium,Increase,1,Satisfied,4,High,Low,High
+25,Prefer not to say,Data Scientist,14,Remote,22,12,1,Medium,No Change,3,Neutral,3,Medium,Medium,Low
+36,Non-binary,Project Manager,32,Hybrid,49,0,3,Low,Increase,2,Neutral,5,High,Low,Medium
+58,Female,Data Scientist,25,Hybrid,43,8,2,High,Decrease,1,Satisfied,4,High,Low,Low
+59,Non-binary,Project Manager,13,Hybrid,35,7,3,Medium,Decrease,5,Satisfied,3,Medium,High,Medium
+43,Prefer not to say,Data Scientist,30,Hybrid,40,1,3,High,Decrease,5,Neutral,1,Low,High,Medium
+23,Female,Project Manager,24,Hybrid,25,5,1,High,Decrease,3,Unsatisfied,4,High,Medium,Low
+30,Non-binary,Data Scientist,29,Onsite,58,8,3,Medium,Increase,5,Neutral,5,High,High,Medium
+25,Female,Data Scientist,10,Onsite,58,0,1,Low,Decrease,5,Unsatisfied,4,High,High,Low
+35,Prefer not to say,Project Manager,4,Onsite,48,1,4,Medium,No Change,2,Satisfied,2,Low,Low,High
+57,Prefer not to say,Project Manager,18,Remote,35,12,5,High,Decrease,3,Neutral,4,High,Medium,High
+48,Non-binary,Data Scientist,3,Remote,54,2,3,High,Increase,2,Neutral,4,High,Low,Medium
+38,Non-binary,Project Manager,33,Remote,26,15,4,Low,Increase,4,Unsatisfied,4,High,High,High
+44,Prefer not to say,Project Manager,20,Onsite,44,15,1,High,Increase,2,Neutral,5,High,Low,Low
+57,Male,Software Engineer,7,Remote,46,1,3,Medium,No Change,1,Unsatisfied,5,High,Low,Medium
+42,Non-binary,Software Engineer,25,Onsite,59,3,4,Low,Increase,1,Unsatisfied,4,High,Low,High
+38,Prefer not to say,Project Manager,22,Onsite,58,0,4,Medium,Decrease,3,Neutral,2,Low,Medium,High
+27,Non-binary,Project Manager,34,Onsite,38,11,2,Medium,Decrease,1,Unsatisfied,1,Low,Low,Low
+42,Male,Software Engineer,31,Remote,51,10,4,High,Increase,4,Neutral,3,Medium,High,High
+35,Male,Data Scientist,18,Remote,47,9,4,Low,No Change,5,Unsatisfied,4,High,High,High
+48,Prefer not to say,Software Engineer,20,Hybrid,27,11,2,Medium,Increase,2,Unsatisfied,3,Medium,Low,Low
+26,Non-binary,Project Manager,2,Hybrid,28,7,4,Low,Decrease,4,Satisfied,1,Low,High,High
+42,Prefer not to say,Project Manager,33,Remote,29,7,5,Medium,Decrease,1,Unsatisfied,4,High,Low,High
+41,Prefer not to say,Project Manager,7,Onsite,51,2,1,Low,Increase,3,Unsatisfied,4,High,Medium,Low
+31,Male,Software Engineer,24,Onsite,22,11,3,Medium,No Change,1,Neutral,4,High,Low,Medium
+43,Prefer not to say,Project Manager,19,Hybrid,52,6,2,Medium,No Change,2,Neutral,2,Low,Low,Low
+45,Non-binary,Project Manager,16,Remote,20,7,5,Medium,Decrease,4,Neutral,3,Medium,High,High
+48,Male,Software Engineer,13,Onsite,55,8,2,Medium,No Change,2,Unsatisfied,5,High,Low,Low
+57,Female,Software Engineer,12,Hybrid,21,1,5,Low,Decrease,1,Neutral,1,Low,Low,High
+52,Male,Software Engineer,17,Remote,31,3,5,Medium,Decrease,2,Unsatisfied,3,Medium,Low,High
+27,Female,Data Scientist,27,Onsite,53,3,3,Low,Decrease,2,Satisfied,3,Medium,Low,Medium
+48,Female,Data Scientist,14,Onsite,56,7,5,Medium,No Change,5,Satisfied,3,Medium,High,High
+56,Prefer not to say,Project Manager,25,Hybrid,40,9,2,Medium,Decrease,2,Satisfied,1,Low,Low,Low
+57,Non-binary,Project Manager,28,Hybrid,47,2,3,Medium,Increase,2,Unsatisfied,2,Low,Low,Medium
+52,Male,Data Scientist,34,Onsite,32,8,2,High,No Change,5,Neutral,5,High,High,Low
+25,Female,Project Manager,34,Onsite,20,10,4,Low,No Change,5,Unsatisfied,3,Medium,High,High
+26,Prefer not to say,Data Scientist,10,Onsite,24,3,1,Medium,Increase,5,Unsatisfied,4,High,High,Low
+47,Prefer not to say,Data Scientist,4,Remote,45,10,3,Low,Decrease,4,Satisfied,5,High,High,Medium
+43,Prefer not to say,Project Manager,5,Hybrid,45,10,3,High,Increase,4,Satisfied,3,Medium,High,Medium
+55,Non-binary,Project Manager,34,Hybrid,52,7,5,Medium,Increase,4,Satisfied,3,Medium,High,High
+23,Male,Project Manager,30,Hybrid,28,12,1,Medium,Increase,1,Satisfied,2,Low,Low,Low
+49,Prefer not to say,Project Manager,13,Onsite,39,15,2,Medium,Increase,1,Satisfied,2,Low,Low,Low
+40,Prefer not to say,Software Engineer,8,Remote,49,0,1,Low,Decrease,4,Satisfied,1,Low,High,Low
+50,Male,Project Manager,26,Onsite,36,13,1,High,Decrease,3,Unsatisfied,5,High,Medium,Low
+53,Non-binary,Software Engineer,8,Onsite,53,12,5,High,Increase,1,Unsatisfied,5,High,Low,High
+39,Female,Software Engineer,15,Hybrid,52,7,5,Medium,Decrease,4,Neutral,3,Medium,High,High
+35,Prefer not to say,Project Manager,25,Remote,34,3,1,Low,Increase,1,Unsatisfied,2,Low,Low,Low
+29,Male,Software Engineer,23,Remote,42,11,2,Medium,Increase,5,Satisfied,4,High,High,Low
+51,Prefer not to say,Software Engineer,13,Onsite,50,14,1,Medium,Decrease,2,Unsatisfied,5,High,Low,Low
+56,Non-binary,Software Engineer,34,Onsite,20,4,4,Medium,Increase,3,Neutral,1,Low,Medium,High
+51,Female,Project Manager,26,Hybrid,26,1,5,High,Increase,2,Unsatisfied,5,High,Low,High
+42,Female,Project Manager,1,Onsite,33,10,2,High,No Change,3,Satisfied,4,High,Medium,Low
+24,Non-binary,Project Manager,17,Onsite,26,13,2,Low,Increase,1,Satisfied,1,Low,Low,Low
+47,Female,Software Engineer,32,Hybrid,52,2,1,Low,No Change,4,Neutral,5,High,High,Low
+50,Female,Project Manager,17,Onsite,26,14,2,High,No Change,5,Satisfied,1,Low,High,Low
+37,Prefer not to say,Data Scientist,29,Remote,57,4,4,High,Increase,1,Neutral,1,Low,Low,High
+45,Male,Project Manager,19,Onsite,22,4,4,High,Decrease,1,Satisfied,2,Low,Low,High
+59,Female,Data Scientist,25,Onsite,29,14,2,Low,No Change,4,Satisfied,1,Low,High,Low
+31,Male,Project Manager,33,Onsite,37,3,4,High,No Change,4,Neutral,1,Low,High,High
+60,Male,Data Scientist,19,Onsite,31,5,1,Medium,No Change,2,Unsatisfied,5,High,Low,Low
+35,Female,Project Manager,31,Hybrid,57,13,5,High,No Change,2,Unsatisfied,2,Low,Low,High
+25,Prefer not to say,Project Manager,21,Onsite,49,2,3,Medium,No Change,4,Unsatisfied,1,Low,High,Medium
+39,Prefer not to say,Data Scientist,27,Remote,29,6,4,Medium,Increase,5,Satisfied,3,Medium,High,High
+30,Female,Project Manager,24,Hybrid,24,0,1,Low,No Change,5,Neutral,2,Low,High,Low
+41,Female,Data Scientist,8,Hybrid,47,15,4,Low,Increase,5,Satisfied,5,High,High,High
+48,Female,Data Scientist,12,Remote,33,2,5,High,No Change,5,Satisfied,2,Low,High,High
+46,Male,Project Manager,24,Hybrid,45,4,4,High,Increase,3,Satisfied,5,High,Medium,High
+59,Male,Software Engineer,23,Onsite,47,5,2,Low,No Change,2,Unsatisfied,1,Low,Low,Low
+41,Prefer not to say,Data Scientist,33,Onsite,21,9,3,High,Increase,4,Unsatisfied,2,Low,High,Medium
+34,Prefer not to say,Project Manager,4,Onsite,31,3,2,High,Decrease,3,Satisfied,2,Low,Medium,Low
+29,Male,Data Scientist,33,Remote,56,15,2,High,Decrease,5,Satisfied,2,Low,High,Low
+46,Female,Data Scientist,8,Onsite,54,10,3,Low,Decrease,4,Satisfied,5,High,High,Medium
+42,Male,Project Manager,7,Remote,38,5,3,Low,Decrease,3,Neutral,5,High,Medium,Medium
+32,Prefer not to say,Data Scientist,4,Onsite,22,5,4,Medium,No Change,5,Satisfied,5,High,High,High
+59,Male,Project Manager,31,Hybrid,48,11,1,Low,Increase,3,Neutral,4,High,Medium,Low
+39,Male,Project Manager,23,Hybrid,30,14,2,Medium,No Change,2,Unsatisfied,2,Low,Low,Low
+36,Non-binary,Software Engineer,9,Remote,32,10,5,Medium,No Change,4,Neutral,1,Low,High,High
+42,Male,Software Engineer,8,Remote,35,0,1,High,No Change,3,Satisfied,2,Low,Medium,Low
+57,Female,Software Engineer,4,Hybrid,32,1,5,High,Increase,1,Neutral,4,High,Low,High
+33,Prefer not to say,Software Engineer,22,Onsite,25,8,3,High,Decrease,3,Satisfied,1,Low,Medium,Medium
+51,Prefer not to say,Project Manager,7,Onsite,31,15,3,High,Decrease,5,Satisfied,2,Low,High,Medium
+29,Prefer not to say,Software Engineer,24,Remote,28,7,5,Low,No Change,1,Unsatisfied,2,Low,Low,High
+48,Non-binary,Data Scientist,14,Remote,58,14,2,Medium,Decrease,3,Satisfied,4,High,Medium,Low
+42,Prefer not to say,Data Scientist,30,Onsite,33,1,5,High,Decrease,5,Unsatisfied,4,High,High,High
+28,Female,Software Engineer,27,Remote,54,5,2,Low,Decrease,3,Unsatisfied,5,High,Medium,Low
+32,Male,Data Scientist,21,Hybrid,37,8,1,Medium,Increase,1,Neutral,1,Low,Low,Low
+55,Male,Project Manager,29,Hybrid,52,5,1,Medium,Decrease,3,Satisfied,4,High,Medium,Low
+25,Prefer not to say,Software Engineer,15,Onsite,56,1,4,High,No Change,3,Neutral,4,High,Medium,High
+47,Non-binary,Software Engineer,12,Hybrid,45,9,2,Medium,Decrease,4,Neutral,5,High,High,Low
+24,Female,Project Manager,3,Hybrid,53,5,2,Medium,Decrease,4,Satisfied,1,Low,High,Low
+39,Prefer not to say,Project Manager,13,Hybrid,43,3,5,High,Decrease,1,Satisfied,3,Medium,Low,High
+22,Prefer not to say,Project Manager,28,Hybrid,58,5,2,Low,Increase,2,Neutral,5,High,Low,Low
+56,Prefer not to say,Software Engineer,3,Remote,44,0,5,Low,Decrease,3,Neutral,2,Low,Medium,High
+33,Male,Software Engineer,24,Onsite,53,7,3,Low,No Change,2,Satisfied,5,High,Low,Medium
+51,Male,Project Manager,21,Hybrid,33,11,5,Low,Decrease,3,Unsatisfied,1,Low,Medium,High
+22,Non-binary,Data Scientist,17,Hybrid,56,4,3,High,Increase,1,Satisfied,2,Low,Low,Medium
+32,Male,Data Scientist,11,Remote,35,12,3,High,No Change,5,Satisfied,1,Low,High,Medium
+43,Male,Software Engineer,24,Onsite,48,6,4,High,Increase,2,Neutral,4,High,Low,High
+39,Female,Software Engineer,32,Onsite,20,14,2,High,Increase,3,Unsatisfied,1,Low,Medium,Low
+24,Female,Project Manager,8,Onsite,33,5,4,Low,No Change,3,Unsatisfied,2,Low,Medium,High
+23,Non-binary,Software Engineer,1,Hybrid,27,7,2,High,Increase,4,Neutral,1,Low,High,Low
+57,Prefer not to say,Software Engineer,17,Hybrid,28,6,5,Low,Decrease,4,Neutral,3,Medium,High,High
+40,Non-binary,Project Manager,27,Hybrid,43,5,1,Low,No Change,5,Neutral,2,Low,High,Low
+58,Prefer not to say,Project Manager,34,Remote,25,3,4,Medium,Decrease,2,Unsatisfied,1,Low,Low,High
+56,Non-binary,Project Manager,2,Remote,20,7,2,High,No Change,2,Unsatisfied,1,Low,Low,Low
+29,Female,Project Manager,12,Remote,42,2,2,Low,Increase,2,Neutral,2,Low,Low,Low
+37,Non-binary,Software Engineer,10,Remote,35,0,4,Medium,Increase,4,Unsatisfied,1,Low,High,High
+32,Prefer not to say,Project Manager,24,Onsite,60,4,3,Low,No Change,4,Satisfied,1,Low,High,Medium
+43,Male,Project Manager,25,Remote,58,10,3,Low,Decrease,1,Satisfied,5,High,Low,Medium
+29,Prefer not to say,Project Manager,30,Remote,34,0,1,Low,Decrease,1,Unsatisfied,5,High,Low,Low
+33,Non-binary,Software Engineer,31,Remote,44,8,5,Low,No Change,2,Neutral,5,High,Low,High
+29,Prefer not to say,Software Engineer,14,Hybrid,23,8,1,Medium,No Change,3,Unsatisfied,1,Low,Medium,Low
+56,Non-binary,Software Engineer,22,Onsite,52,6,2,Low,No Change,4,Satisfied,5,High,High,Low
+59,Female,Data Scientist,24,Remote,48,3,3,Medium,Increase,5,Satisfied,5,High,High,Medium
+24,Non-binary,Data Scientist,5,Remote,42,2,3,High,Decrease,4,Satisfied,5,High,High,Medium
+26,Non-binary,Project Manager,12,Remote,49,6,5,Medium,Increase,5,Satisfied,4,High,High,High
+32,Male,Software Engineer,7,Remote,47,10,5,Medium,No Change,5,Satisfied,2,Low,High,High
+56,Non-binary,Software Engineer,19,Onsite,32,1,2,High,No Change,2,Satisfied,4,High,Low,Low
+43,Female,Data Scientist,16,Remote,24,10,3,Medium,No Change,5,Unsatisfied,4,High,High,Medium
+57,Female,Software Engineer,29,Remote,52,0,3,High,Decrease,1,Satisfied,3,Medium,Low,Medium
+27,Male,Software Engineer,11,Onsite,43,14,3,Medium,No Change,5,Satisfied,5,High,High,Medium
+48,Female,Software Engineer,31,Hybrid,45,9,3,Medium,Decrease,2,Satisfied,1,Low,Low,Medium
+58,Female,Data Scientist,26,Remote,36,8,5,Low,No Change,2,Satisfied,5,High,Low,High
+50,Non-binary,Project Manager,17,Hybrid,42,4,4,High,No Change,1,Neutral,3,Medium,Low,High
+28,Prefer not to say,Project Manager,14,Hybrid,45,9,2,Low,Increase,2,Satisfied,3,Medium,Low,Low
+57,Prefer not to say,Data Scientist,27,Hybrid,59,15,1,Medium,Increase,5,Satisfied,5,High,High,Low
+38,Non-binary,Software Engineer,27,Hybrid,40,2,5,Low,Increase,4,Satisfied,4,High,High,High
+52,Non-binary,Data Scientist,12,Remote,44,0,1,High,Decrease,2,Satisfied,4,High,Low,Low
+30,Female,Data Scientist,20,Remote,57,7,5,High,Decrease,5,Unsatisfied,3,Medium,High,High
+32,Prefer not to say,Project Manager,26,Hybrid,53,14,2,High,Decrease,3,Satisfied,5,High,Medium,Low
+22,Male,Software Engineer,18,Onsite,22,5,2,High,Decrease,1,Neutral,3,Medium,Low,Low
+48,Female,Project Manager,33,Remote,46,15,1,High,No Change,4,Unsatisfied,4,High,High,Low
+43,Prefer not to say,Software Engineer,18,Onsite,59,3,1,Medium,Increase,1,Satisfied,2,Low,Low,Low
+30,Prefer not to say,Software Engineer,1,Hybrid,36,0,3,Medium,No Change,2,Neutral,5,High,Low,Medium
+45,Male,Data Scientist,15,Remote,46,0,2,High,Decrease,5,Unsatisfied,5,High,High,Low
+30,Female,Software Engineer,4,Hybrid,57,14,3,Medium,Increase,2,Unsatisfied,3,Medium,Low,Medium
+60,Female,Data Scientist,33,Remote,23,7,4,Medium,No Change,2,Satisfied,3,Medium,Low,High
+41,Non-binary,Project Manager,31,Remote,21,12,2,High,Increase,2,Satisfied,1,Low,Low,Low
+30,Female,Project Manager,10,Onsite,36,2,2,High,Increase,2,Satisfied,3,Medium,Low,Low
+44,Prefer not to say,Software Engineer,13,Onsite,52,7,3,High,No Change,5,Unsatisfied,5,High,High,Medium
+48,Female,Data Scientist,26,Onsite,50,0,3,Medium,Increase,5,Satisfied,5,High,High,Medium
+56,Female,Data Scientist,17,Onsite,45,15,4,Low,No Change,4,Satisfied,3,Medium,High,High
+37,Male,Software Engineer,8,Remote,49,3,2,High,Increase,3,Neutral,4,High,Medium,Low
+43,Female,Software Engineer,11,Hybrid,31,12,2,Low,Decrease,5,Satisfied,5,High,High,Low
+49,Prefer not to say,Project Manager,5,Remote,51,7,1,Medium,Decrease,2,Unsatisfied,4,High,Low,Low
+24,Female,Data Scientist,28,Hybrid,20,15,1,Low,No Change,1,Unsatisfied,4,High,Low,Low
+48,Prefer not to say,Software Engineer,7,Remote,36,9,5,Low,No Change,4,Satisfied,1,Low,High,High
+28,Female,Project Manager,18,Hybrid,39,15,1,Medium,No Change,4,Neutral,1,Low,High,Low
+45,Male,Software Engineer,31,Hybrid,53,12,1,High,No Change,5,Neutral,2,Low,High,Low
+45,Prefer not to say,Project Manager,16,Onsite,42,0,2,Low,No Change,2,Satisfied,4,High,Low,Low
+31,Male,Data Scientist,20,Onsite,48,0,1,High,Increase,5,Unsatisfied,3,Medium,High,Low
+55,Prefer not to say,Software Engineer,15,Onsite,41,15,3,Low,No Change,4,Unsatisfied,5,High,High,Medium
+47,Male,Project Manager,19,Onsite,27,7,3,Low,Increase,4,Neutral,4,High,High,Medium
+56,Female,Data Scientist,18,Remote,21,13,2,Medium,Increase,4,Neutral,3,Medium,High,Low
+34,Male,Project Manager,23,Remote,48,0,1,Medium,No Change,4,Neutral,2,Low,High,Low
+57,Male,Project Manager,25,Hybrid,44,0,3,Medium,Increase,2,Neutral,5,High,Low,Medium
+49,Female,Project Manager,27,Onsite,35,15,1,Medium,No Change,5,Unsatisfied,4,High,High,Low
+24,Male,Software Engineer,6,Onsite,43,6,1,High,Increase,2,Neutral,4,High,Low,Low
+23,Non-binary,Project Manager,26,Onsite,29,9,4,Medium,Increase,2,Unsatisfied,3,Medium,Low,High
+28,Male,Software Engineer,26,Hybrid,26,9,5,High,Decrease,5,Neutral,4,High,High,High
+26,Female,Software Engineer,33,Remote,29,5,4,High,Increase,3,Satisfied,2,Low,Medium,High
+56,Male,Data Scientist,20,Remote,53,3,5,Low,Decrease,2,Satisfied,3,Medium,Low,High
+40,Non-binary,Software Engineer,34,Remote,48,1,4,Medium,No Change,5,Neutral,1,Low,High,High
+30,Non-binary,Data Scientist,25,Remote,20,15,3,Low,Increase,1,Satisfied,3,Medium,Low,Medium
+33,Female,Project Manager,4,Hybrid,33,5,5,High,No Change,5,Unsatisfied,2,Low,High,High
+25,Female,Software Engineer,25,Remote,21,15,3,Low,Decrease,5,Neutral,1,Low,High,Medium
+33,Female,Data Scientist,6,Remote,24,12,4,Low,No Change,3,Unsatisfied,1,Low,Medium,High
+55,Non-binary,Software Engineer,16,Remote,27,11,2,Medium,Decrease,3,Satisfied,4,High,Medium,Low
+32,Female,Project Manager,11,Hybrid,29,8,2,Medium,Increase,5,Satisfied,3,Medium,High,Low
+23,Non-binary,Software Engineer,26,Onsite,25,11,1,High,Increase,5,Unsatisfied,3,Medium,High,Low
+40,Non-binary,Software Engineer,24,Hybrid,57,4,2,Medium,No Change,4,Satisfied,3,Medium,High,Low
+54,Prefer not to say,Data Scientist,21,Remote,27,7,2,Medium,Increase,2,Unsatisfied,1,Low,Low,Low
+58,Non-binary,Software Engineer,8,Onsite,47,2,2,High,Decrease,4,Neutral,3,Medium,High,Low
+48,Male,Software Engineer,9,Remote,50,13,2,Low,No Change,2,Satisfied,5,High,Low,Low
+23,Female,Data Scientist,25,Onsite,28,2,2,Low,Increase,4,Satisfied,4,High,High,Low
+37,Prefer not to say,Software Engineer,18,Remote,47,14,1,High,Increase,1,Unsatisfied,4,High,Low,Low
+23,Female,Data Scientist,1,Onsite,39,0,4,High,No Change,2,Satisfied,4,High,Low,High
+51,Female,Data Scientist,1,Onsite,24,13,4,High,Decrease,5,Neutral,1,Low,High,High
+47,Male,Data Scientist,22,Onsite,27,14,2,Low,Increase,5,Neutral,4,High,High,Low
+30,Prefer not to say,Data Scientist,29,Onsite,23,4,4,High,Decrease,5,Satisfied,1,Low,High,High
+47,Male,Project Manager,6,Onsite,52,10,2,Medium,No Change,3,Neutral,5,High,Medium,Low
+42,Male,Project Manager,5,Onsite,39,2,3,Medium,No Change,3,Neutral,4,High,Medium,Medium
+33,Male,Project Manager,9,Hybrid,59,0,5,Medium,Decrease,1,Unsatisfied,4,High,Low,High
+54,Male,Data Scientist,2,Hybrid,32,1,4,Medium,No Change,1,Unsatisfied,5,High,Low,High
+59,Non-binary,Project Manager,21,Remote,59,6,4,High,Increase,1,Neutral,5,High,Low,High
+50,Prefer not to say,Data Scientist,16,Remote,38,0,1,High,Decrease,3,Neutral,4,High,Medium,Low
+26,Prefer not to say,Software Engineer,27,Hybrid,37,10,5,Medium,No Change,3,Unsatisfied,4,High,Medium,High
+59,Prefer not to say,Data Scientist,18,Hybrid,26,9,2,High,Increase,5,Unsatisfied,3,Medium,High,Low
+29,Male,Data Scientist,19,Hybrid,33,5,1,Medium,Increase,2,Satisfied,2,Low,Low,Low
+48,Male,Data Scientist,3,Onsite,21,2,1,Low,Decrease,5,Satisfied,3,Medium,High,Low
+49,Prefer not to say,Project Manager,29,Onsite,41,5,3,High,Increase,2,Satisfied,5,High,Low,Medium
+57,Male,Project Manager,21,Remote,29,0,4,Low,Decrease,1,Neutral,3,Medium,Low,High
+25,Non-binary,Project Manager,14,Onsite,55,0,2,Low,Increase,5,Unsatisfied,3,Medium,High,Low
+26,Male,Project Manager,3,Onsite,51,0,4,Medium,No Change,2,Unsatisfied,3,Medium,Low,High
+41,Prefer not to say,Data Scientist,1,Onsite,53,14,1,Medium,Increase,2,Unsatisfied,4,High,Low,Low
+27,Male,Data Scientist,11,Onsite,47,6,5,Medium,No Change,1,Satisfied,3,Medium,Low,High
+35,Female,Project Manager,23,Remote,20,14,5,Low,Increase,1,Satisfied,4,High,Low,High
+39,Prefer not to say,Data Scientist,21,Hybrid,29,1,4,Low,Increase,5,Unsatisfied,4,High,High,High
+42,Male,Data Scientist,13,Onsite,54,6,4,Medium,No Change,2,Satisfied,1,Low,Low,High
+46,Male,Data Scientist,11,Hybrid,41,13,1,Low,Decrease,3,Neutral,4,High,Medium,Low
+48,Non-binary,Project Manager,32,Onsite,47,12,5,Medium,Increase,4,Neutral,1,Low,High,High
+53,Male,Data Scientist,4,Onsite,30,1,5,Low,No Change,1,Satisfied,2,Low,Low,High
+25,Male,Data Scientist,1,Onsite,40,1,1,Medium,No Change,3,Neutral,5,High,Medium,Low
+23,Male,Project Manager,15,Remote,34,15,4,Medium,No Change,4,Neutral,5,High,High,High
+27,Non-binary,Project Manager,9,Remote,52,2,3,High,Decrease,3,Unsatisfied,5,High,Medium,Medium
+59,Female,Project Manager,27,Remote,38,7,2,Low,Increase,4,Neutral,4,High,High,Low
+56,Female,Project Manager,5,Onsite,48,4,5,Medium,Decrease,1,Neutral,3,Medium,Low,High
+47,Non-binary,Project Manager,24,Hybrid,50,7,2,High,Decrease,4,Neutral,3,Medium,High,Low
+53,Female,Project Manager,2,Hybrid,59,0,5,Low,Decrease,1,Neutral,3,Medium,Low,High
+55,Male,Data Scientist,31,Hybrid,31,10,5,Low,No Change,3,Neutral,5,High,Medium,High
+50,Female,Software Engineer,16,Hybrid,38,11,3,Medium,Decrease,1,Unsatisfied,2,Low,Low,Medium
+56,Non-binary,Software Engineer,1,Hybrid,37,10,2,Medium,Increase,1,Satisfied,2,Low,Low,Low
+22,Female,Data Scientist,14,Onsite,40,3,4,Low,Decrease,3,Satisfied,5,High,Medium,High
+53,Female,Project Manager,14,Hybrid,22,0,1,High,No Change,2,Satisfied,5,High,Low,Low
+34,Male,Project Manager,21,Onsite,57,10,3,Medium,No Change,1,Neutral,3,Medium,Low,Medium
+40,Prefer not to say,Project Manager,6,Onsite,60,0,2,High,Increase,4,Neutral,2,Low,High,Low
+46,Female,Data Scientist,30,Hybrid,40,8,4,High,Increase,4,Satisfied,5,High,High,High
+53,Female,Project Manager,35,Hybrid,23,13,3,Low,Increase,3,Satisfied,5,High,Medium,Medium
+25,Female,Data Scientist,28,Onsite,54,15,1,Medium,Increase,2,Satisfied,2,Low,Low,Low
+38,Female,Software Engineer,6,Onsite,48,8,4,Low,Decrease,1,Unsatisfied,4,High,Low,High
+23,Non-binary,Data Scientist,27,Hybrid,22,6,1,Low,Decrease,4,Satisfied,3,Medium,High,Low
+46,Non-binary,Data Scientist,1,Hybrid,49,5,5,Medium,Decrease,5,Satisfied,4,High,High,High
+51,Male,Software Engineer,4,Remote,20,10,2,Medium,Decrease,3,Satisfied,1,Low,Medium,Low
+51,Non-binary,Software Engineer,5,Onsite,47,2,3,Medium,Decrease,5,Unsatisfied,2,Low,High,Medium
+43,Prefer not to say,Project Manager,1,Hybrid,30,13,2,Medium,Increase,3,Unsatisfied,5,High,Medium,Low
+43,Female,Data Scientist,29,Remote,55,7,2,Medium,No Change,4,Neutral,4,High,High,Low
+35,Female,Software Engineer,16,Onsite,45,12,3,Medium,Increase,1,Unsatisfied,2,Low,Low,Medium
+52,Male,Project Manager,19,Onsite,20,3,2,Medium,Decrease,2,Satisfied,4,High,Low,Low
+30,Non-binary,Software Engineer,16,Remote,55,12,4,Medium,No Change,4,Satisfied,1,Low,High,High
+51,Male,Software Engineer,21,Onsite,36,15,4,Low,Decrease,1,Satisfied,3,Medium,Low,High
+32,Non-binary,Software Engineer,8,Onsite,42,2,3,Medium,Decrease,5,Satisfied,5,High,High,Medium
+31,Non-binary,Software Engineer,27,Onsite,53,6,5,High,Increase,3,Unsatisfied,1,Low,Medium,High
+27,Prefer not to say,Data Scientist,27,Hybrid,37,11,3,High,Decrease,5,Unsatisfied,1,Low,High,Medium
+31,Prefer not to say,Data Scientist,29,Onsite,55,4,2,Low,Decrease,2,Satisfied,1,Low,Low,Low
+40,Female,Project Manager,12,Remote,42,4,1,High,Decrease,5,Neutral,4,High,High,Low
+58,Non-binary,Software Engineer,24,Hybrid,42,13,5,Low,No Change,5,Unsatisfied,4,High,High,High
+53,Non-binary,Software Engineer,6,Hybrid,39,10,4,Low,Decrease,2,Unsatisfied,3,Medium,Low,High
+47,Prefer not to say,Data Scientist,15,Onsite,28,0,4,High,No Change,1,Satisfied,1,Low,Low,High
+41,Non-binary,Project Manager,27,Onsite,44,13,4,Low,Increase,2,Neutral,5,High,Low,High
+48,Female,Data Scientist,20,Onsite,36,11,2,Low,Decrease,1,Neutral,1,Low,Low,Low
+34,Prefer not to say,Project Manager,10,Hybrid,30,13,4,Low,No Change,1,Satisfied,4,High,Low,High
+25,Non-binary,Data Scientist,3,Hybrid,25,3,1,Medium,Decrease,1,Neutral,3,Medium,Low,Low
+46,Prefer not to say,Software Engineer,6,Hybrid,30,15,5,Low,Increase,2,Satisfied,4,High,Low,High
+30,Non-binary,Project Manager,16,Hybrid,27,9,2,Medium,Decrease,3,Neutral,5,High,Medium,Low
+38,Non-binary,Project Manager,26,Hybrid,27,15,1,Low,No Change,3,Unsatisfied,3,Medium,Medium,Low
+41,Prefer not to say,Project Manager,3,Hybrid,56,5,2,Medium,No Change,1,Unsatisfied,2,Low,Low,Low
+58,Prefer not to say,Project Manager,31,Onsite,40,1,4,Medium,No Change,4,Unsatisfied,2,Low,High,High
+30,Male,Data Scientist,21,Remote,38,15,5,High,Decrease,4,Neutral,2,Low,High,High
+40,Non-binary,Project Manager,4,Onsite,34,8,4,Low,Decrease,3,Neutral,4,High,Medium,High
+33,Male,Data Scientist,35,Hybrid,46,2,5,Low,Increase,2,Unsatisfied,5,High,Low,High
+31,Prefer not to say,Data Scientist,19,Onsite,28,0,3,Medium,No Change,2,Satisfied,1,Low,Low,Medium
+54,Non-binary,Software Engineer,27,Onsite,35,1,5,Low,Increase,5,Unsatisfied,4,High,High,High
+25,Prefer not to say,Project Manager,17,Remote,39,9,1,High,No Change,2,Neutral,2,Low,Low,Low
+30,Male,Software Engineer,34,Remote,51,6,1,Medium,No Change,1,Satisfied,3,Medium,Low,Low
+24,Non-binary,Data Scientist,13,Remote,20,4,5,Low,Increase,1,Satisfied,2,Low,Low,High
+28,Prefer not to say,Project Manager,30,Hybrid,52,10,3,High,Decrease,5,Neutral,1,Low,High,Medium
+58,Prefer not to say,Data Scientist,34,Onsite,20,15,3,Low,Increase,5,Unsatisfied,5,High,High,Medium
+46,Prefer not to say,Software Engineer,33,Remote,52,10,4,High,Increase,4,Unsatisfied,1,Low,High,High
+47,Male,Data Scientist,28,Hybrid,42,8,5,Medium,No Change,3,Unsatisfied,5,High,Medium,High
+23,Non-binary,Software Engineer,26,Remote,32,9,5,High,Increase,4,Satisfied,4,High,High,High
+33,Prefer not to say,Data Scientist,16,Hybrid,27,1,3,High,Increase,5,Neutral,3,Medium,High,Medium
+60,Prefer not to say,Project Manager,12,Remote,59,2,3,Medium,Increase,1,Unsatisfied,4,High,Low,Medium
+23,Male,Data Scientist,19,Onsite,53,3,3,Low,Decrease,5,Satisfied,3,Medium,High,Medium
+45,Non-binary,Software Engineer,25,Onsite,56,11,4,Low,No Change,3,Neutral,1,Low,Medium,High
+24,Female,Software Engineer,10,Hybrid,45,7,1,High,Decrease,5,Unsatisfied,4,High,High,Low
+52,Female,Data Scientist,17,Remote,28,10,3,Low,Decrease,4,Satisfied,5,High,High,Medium
+31,Non-binary,Data Scientist,31,Onsite,24,5,3,Low,Increase,1,Satisfied,4,High,Low,Medium
+52,Male,Software Engineer,4,Remote,41,10,4,Medium,No Change,2,Neutral,4,High,Low,High
+27,Female,Data Scientist,35,Hybrid,23,15,5,Medium,No Change,2,Unsatisfied,5,High,Low,High
+49,Prefer not to say,Project Manager,6,Hybrid,44,0,2,Medium,Decrease,5,Unsatisfied,5,High,High,Low
+54,Female,Project Manager,27,Remote,38,12,3,Low,No Change,3,Neutral,5,High,Medium,Medium
+22,Non-binary,Software Engineer,14,Hybrid,39,15,2,Low,No Change,3,Satisfied,1,Low,Medium,Low
+31,Non-binary,Data Scientist,22,Remote,52,6,4,Medium,No Change,3,Neutral,4,High,Medium,High
+38,Female,Project Manager,22,Remote,23,13,1,Low,Decrease,1,Unsatisfied,3,Medium,Low,Low
+47,Male,Project Manager,7,Hybrid,49,8,2,High,Decrease,1,Unsatisfied,5,High,Low,Low
+37,Non-binary,Data Scientist,26,Remote,27,7,1,High,Increase,4,Unsatisfied,5,High,High,Low
+38,Non-binary,Project Manager,16,Onsite,27,7,4,Medium,Decrease,2,Satisfied,2,Low,Low,High
+39,Non-binary,Project Manager,3,Hybrid,26,8,3,High,No Change,4,Neutral,1,Low,High,Medium
+29,Male,Project Manager,11,Onsite,39,12,1,Low,Decrease,4,Satisfied,2,Low,High,Low
+38,Prefer not to say,Data Scientist,26,Hybrid,55,2,5,High,Increase,1,Neutral,2,Low,Low,High
+40,Non-binary,Data Scientist,3,Remote,59,7,5,Medium,No Change,3,Unsatisfied,2,Low,Medium,High
+26,Female,Data Scientist,7,Onsite,33,4,4,Medium,No Change,1,Neutral,5,High,Low,High
+40,Female,Data Scientist,12,Onsite,37,5,4,Low,No Change,4,Unsatisfied,4,High,High,High
+28,Prefer not to say,Data Scientist,19,Remote,35,15,3,Medium,Increase,4,Neutral,3,Medium,High,Medium
+40,Male,Project Manager,9,Hybrid,22,3,2,Low,No Change,4,Unsatisfied,3,Medium,High,Low
+46,Male,Project Manager,26,Remote,41,6,5,Medium,Increase,4,Neutral,3,Medium,High,High
+53,Non-binary,Software Engineer,6,Hybrid,41,2,5,Medium,Decrease,5,Satisfied,1,Low,High,High
+39,Male,Software Engineer,13,Onsite,48,13,5,Low,Decrease,1,Unsatisfied,3,Medium,Low,High
+51,Male,Software Engineer,4,Onsite,56,9,5,Low,Decrease,2,Unsatisfied,1,Low,Low,High
+48,Female,Project Manager,33,Onsite,45,0,5,Low,No Change,1,Neutral,2,Low,Low,High
+34,Non-binary,Project Manager,21,Remote,32,6,2,Low,Increase,2,Satisfied,5,High,Low,Low
+47,Female,Project Manager,30,Hybrid,57,10,5,Low,Decrease,4,Unsatisfied,1,Low,High,High
+60,Male,Project Manager,21,Onsite,23,14,1,High,No Change,2,Satisfied,5,High,Low,Low
+32,Male,Data Scientist,7,Onsite,57,8,4,Medium,No Change,5,Neutral,1,Low,High,High
+31,Male,Software Engineer,28,Hybrid,42,1,3,High,Increase,3,Neutral,5,High,Medium,Medium
+60,Female,Software Engineer,27,Onsite,49,2,5,Medium,No Change,1,Unsatisfied,5,High,Low,High
+24,Prefer not to say,Project Manager,11,Remote,47,8,2,Low,Increase,1,Satisfied,5,High,Low,Low
+44,Male,Software Engineer,34,Hybrid,56,7,5,Low,No Change,3,Satisfied,1,Low,Medium,High
+28,Male,Project Manager,16,Remote,36,3,1,High,Decrease,5,Satisfied,1,Low,High,Low
+48,Non-binary,Software Engineer,16,Remote,56,10,1,High,Increase,1,Neutral,5,High,Low,Low
+49,Female,Data Scientist,3,Remote,36,10,5,Medium,Increase,1,Unsatisfied,2,Low,Low,High
+26,Male,Data Scientist,20,Onsite,46,4,5,Low,No Change,2,Neutral,3,Medium,Low,High
+30,Prefer not to say,Software Engineer,13,Onsite,41,7,4,High,No Change,1,Neutral,1,Low,Low,High
+39,Female,Data Scientist,18,Onsite,38,15,2,High,Increase,5,Satisfied,4,High,High,Low
+42,Female,Data Scientist,17,Onsite,60,2,4,Medium,Increase,3,Satisfied,2,Low,Medium,High
+27,Male,Project Manager,5,Onsite,48,1,4,Medium,Increase,2,Unsatisfied,3,Medium,Low,High
+42,Non-binary,Data Scientist,14,Onsite,57,6,3,Medium,Decrease,5,Neutral,3,Medium,High,Medium
+57,Male,Data Scientist,11,Remote,42,14,1,High,No Change,4,Neutral,2,Low,High,Low
+50,Female,Data Scientist,23,Onsite,51,11,5,High,Decrease,2,Satisfied,1,Low,Low,High
+56,Male,Software Engineer,15,Hybrid,60,14,4,Low,No Change,2,Unsatisfied,1,Low,Low,High
+31,Female,Project Manager,15,Onsite,35,0,1,Medium,Increase,3,Neutral,2,Low,Medium,Low
+27,Non-binary,Software Engineer,15,Onsite,59,12,2,Low,No Change,5,Neutral,5,High,High,Low
+51,Prefer not to say,Project Manager,25,Remote,58,1,4,Medium,No Change,1,Neutral,4,High,Low,High
+35,Female,Software Engineer,12,Onsite,41,13,5,Medium,Increase,3,Unsatisfied,3,Medium,Medium,High
+26,Female,Project Manager,15,Remote,31,8,3,Medium,No Change,3,Unsatisfied,5,High,Medium,Medium
+45,Non-binary,Data Scientist,9,Hybrid,24,12,4,Low,Increase,5,Satisfied,2,Low,High,High
+41,Female,Data Scientist,30,Hybrid,49,13,5,Low,Decrease,2,Neutral,4,High,Low,High
+30,Male,Project Manager,25,Remote,52,3,1,Low,Decrease,1,Neutral,2,Low,Low,Low
+23,Prefer not to say,Project Manager,35,Remote,55,15,4,Low,No Change,5,Unsatisfied,2,Low,High,High
+25,Male,Data Scientist,17,Remote,35,7,3,Medium,Increase,2,Unsatisfied,1,Low,Low,Medium
+33,Female,Software Engineer,26,Onsite,45,15,2,High,Decrease,3,Satisfied,5,High,Medium,Low
+59,Male,Data Scientist,6,Hybrid,30,3,3,Low,Decrease,2,Satisfied,3,Medium,Low,Medium
+54,Male,Data Scientist,7,Remote,21,2,1,High,No Change,5,Unsatisfied,1,Low,High,Low
+54,Female,Project Manager,29,Hybrid,56,0,1,High,Decrease,3,Neutral,1,Low,Medium,Low
+51,Male,Data Scientist,2,Hybrid,25,9,2,Low,No Change,3,Unsatisfied,5,High,Medium,Low
+44,Female,Project Manager,6,Remote,27,15,4,Medium,No Change,2,Neutral,4,High,Low,High
+28,Prefer not to say,Software Engineer,24,Hybrid,60,11,4,Medium,Increase,1,Neutral,4,High,Low,High
+34,Prefer not to say,Project Manager,28,Hybrid,21,3,5,Low,No Change,5,Satisfied,4,High,High,High
+41,Prefer not to say,Data Scientist,30,Hybrid,52,1,3,Low,Increase,5,Neutral,5,High,High,Medium
+54,Prefer not to say,Project Manager,1,Remote,41,8,3,Medium,No Change,2,Neutral,1,Low,Low,Medium
+60,Prefer not to say,Project Manager,10,Remote,56,2,4,Low,No Change,4,Unsatisfied,5,High,High,High
+54,Male,Data Scientist,22,Hybrid,38,6,1,Low,Decrease,1,Unsatisfied,3,Medium,Low,Low
+25,Prefer not to say,Software Engineer,5,Remote,21,4,2,Medium,Decrease,5,Unsatisfied,5,High,High,Low
+22,Female,Software Engineer,25,Onsite,38,5,3,Medium,Decrease,1,Neutral,4,High,Low,Medium
+48,Prefer not to say,Data Scientist,22,Remote,39,15,3,High,No Change,5,Unsatisfied,1,Low,High,Medium
+33,Male,Project Manager,3,Remote,53,8,2,Low,No Change,1,Unsatisfied,2,Low,Low,Low
+41,Non-binary,Data Scientist,26,Onsite,58,7,3,Medium,No Change,4,Unsatisfied,4,High,High,Medium
+38,Non-binary,Software Engineer,11,Onsite,60,13,2,Medium,Decrease,4,Neutral,5,High,High,Low
+43,Female,Data Scientist,32,Hybrid,34,13,2,Medium,No Change,3,Neutral,1,Low,Medium,Low
+29,Male,Project Manager,6,Remote,20,11,1,Medium,Decrease,5,Satisfied,3,Medium,High,Low
+56,Prefer not to say,Data Scientist,29,Onsite,53,5,5,High,Decrease,4,Satisfied,5,High,High,High
+39,Prefer not to say,Project Manager,3,Onsite,49,13,5,Medium,No Change,5,Neutral,1,Low,High,High
+49,Male,Data Scientist,25,Remote,30,2,5,Low,No Change,5,Satisfied,5,High,High,High
+58,Male,Data Scientist,19,Remote,34,5,2,Medium,Increase,5,Satisfied,3,Medium,High,Low
+54,Male,Project Manager,12,Remote,41,11,3,Medium,No Change,2,Satisfied,2,Low,Low,Medium
+25,Female,Data Scientist,19,Remote,22,12,4,Medium,No Change,4,Unsatisfied,2,Low,High,High
+37,Non-binary,Project Manager,15,Hybrid,57,9,2,Low,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+37,Female,Software Engineer,30,Remote,47,7,4,Medium,Increase,2,Unsatisfied,1,Low,Low,High
+45,Non-binary,Project Manager,6,Remote,33,11,3,Low,Increase,1,Neutral,2,Low,Low,Medium
+48,Prefer not to say,Project Manager,17,Remote,28,13,4,Medium,Increase,5,Unsatisfied,3,Medium,High,High
+41,Non-binary,Data Scientist,16,Onsite,22,14,4,Low,No Change,2,Neutral,3,Medium,Low,High
+45,Male,Project Manager,29,Remote,37,12,5,Medium,No Change,5,Neutral,2,Low,High,High
+29,Prefer not to say,Software Engineer,14,Onsite,51,14,2,High,No Change,5,Satisfied,3,Medium,High,Low
+35,Male,Software Engineer,20,Remote,60,14,5,High,No Change,4,Neutral,2,Low,High,High
+22,Prefer not to say,Software Engineer,15,Onsite,27,4,1,High,Decrease,4,Satisfied,1,Low,High,Low
+44,Prefer not to say,Software Engineer,18,Hybrid,44,3,2,Medium,Decrease,1,Unsatisfied,4,High,Low,Low
+42,Male,Project Manager,35,Remote,58,14,2,Medium,No Change,5,Neutral,2,Low,High,Low
+30,Non-binary,Data Scientist,5,Hybrid,27,4,1,High,Decrease,1,Neutral,1,Low,Low,Low
+28,Non-binary,Project Manager,3,Remote,22,0,1,Medium,No Change,3,Unsatisfied,3,Medium,Medium,Low
+55,Male,Project Manager,28,Onsite,50,13,1,Medium,No Change,1,Satisfied,3,Medium,Low,Low
+46,Prefer not to say,Project Manager,29,Remote,20,12,3,Medium,Increase,4,Neutral,4,High,High,Medium
+27,Male,Software Engineer,22,Remote,36,1,1,Low,Decrease,3,Unsatisfied,4,High,Medium,Low
+23,Male,Data Scientist,21,Onsite,38,10,5,Medium,No Change,1,Satisfied,5,High,Low,High
+22,Female,Data Scientist,23,Onsite,56,4,3,Low,No Change,1,Unsatisfied,4,High,Low,Medium
+30,Female,Software Engineer,35,Hybrid,54,8,1,Low,No Change,3,Unsatisfied,5,High,Medium,Low
+47,Female,Software Engineer,29,Hybrid,23,2,1,High,Increase,2,Neutral,1,Low,Low,Low
+54,Male,Software Engineer,5,Remote,46,11,1,High,Increase,2,Satisfied,5,High,Low,Low
+47,Female,Project Manager,13,Hybrid,46,15,1,High,Decrease,3,Neutral,3,Medium,Medium,Low
+33,Female,Data Scientist,18,Remote,55,0,5,High,Increase,2,Unsatisfied,4,High,Low,High
+46,Non-binary,Project Manager,18,Onsite,38,1,1,Medium,Decrease,1,Satisfied,3,Medium,Low,Low
+36,Female,Software Engineer,29,Remote,43,13,3,High,No Change,2,Satisfied,3,Medium,Low,Medium
+33,Female,Data Scientist,1,Onsite,47,12,2,Low,No Change,1,Neutral,2,Low,Low,Low
+40,Non-binary,Data Scientist,15,Hybrid,49,1,1,Medium,Increase,5,Neutral,1,Low,High,Low
+39,Prefer not to say,Data Scientist,20,Hybrid,59,10,2,Medium,No Change,4,Satisfied,5,High,High,Low
+44,Male,Data Scientist,25,Onsite,35,10,2,Medium,Decrease,1,Satisfied,2,Low,Low,Low
+52,Female,Data Scientist,31,Remote,42,9,5,High,No Change,3,Unsatisfied,5,High,Medium,High
+39,Female,Data Scientist,21,Onsite,53,14,4,Medium,Increase,4,Unsatisfied,5,High,High,High
+24,Male,Data Scientist,1,Remote,21,10,3,Medium,No Change,1,Satisfied,1,Low,Low,Medium
+33,Female,Project Manager,26,Hybrid,25,11,3,Medium,No Change,2,Unsatisfied,5,High,Low,Medium
+39,Non-binary,Project Manager,6,Onsite,49,15,1,Low,No Change,2,Unsatisfied,5,High,Low,Low
+59,Prefer not to say,Project Manager,9,Onsite,37,6,4,High,No Change,2,Neutral,3,Medium,Low,High
+34,Non-binary,Data Scientist,5,Remote,27,14,1,High,Decrease,5,Satisfied,3,Medium,High,Low
+58,Male,Data Scientist,21,Hybrid,51,7,5,High,Decrease,4,Satisfied,1,Low,High,High
+42,Prefer not to say,Data Scientist,20,Remote,22,4,5,Low,No Change,4,Neutral,2,Low,High,High
+22,Male,Software Engineer,2,Onsite,31,0,1,Medium,No Change,1,Satisfied,3,Medium,Low,Low
+56,Prefer not to say,Data Scientist,17,Remote,30,9,3,Low,No Change,3,Satisfied,5,High,Medium,Medium
+33,Non-binary,Project Manager,32,Remote,47,12,2,Medium,Decrease,4,Neutral,1,Low,High,Low
+52,Prefer not to say,Software Engineer,30,Hybrid,39,2,4,Medium,No Change,5,Satisfied,4,High,High,High
+24,Non-binary,Data Scientist,4,Onsite,35,8,1,Low,No Change,3,Neutral,5,High,Medium,Low
+27,Non-binary,Software Engineer,29,Onsite,24,0,1,High,Increase,5,Neutral,2,Low,High,Low
+53,Female,Software Engineer,30,Onsite,48,3,5,Low,No Change,2,Satisfied,3,Medium,Low,High
+23,Male,Software Engineer,15,Onsite,30,1,2,Medium,No Change,1,Satisfied,2,Low,Low,Low
+52,Non-binary,Data Scientist,7,Hybrid,21,5,5,Medium,No Change,5,Neutral,3,Medium,High,High
+51,Male,Data Scientist,4,Hybrid,52,4,3,Low,Decrease,3,Unsatisfied,4,High,Medium,Medium
+43,Male,Data Scientist,29,Onsite,52,1,3,High,Increase,4,Unsatisfied,4,High,High,Medium
+28,Male,Data Scientist,15,Hybrid,56,5,2,High,Increase,1,Unsatisfied,2,Low,Low,Low
+32,Male,Project Manager,15,Onsite,26,6,4,High,Decrease,1,Unsatisfied,1,Low,Low,High
+34,Male,Software Engineer,19,Onsite,26,13,5,Medium,No Change,5,Neutral,3,Medium,High,High
+29,Prefer not to say,Project Manager,28,Remote,32,7,1,High,Increase,1,Unsatisfied,2,Low,Low,Low
+29,Female,Project Manager,25,Onsite,33,15,4,Low,Increase,2,Unsatisfied,1,Low,Low,High
+31,Female,Data Scientist,27,Hybrid,46,6,1,Medium,Increase,4,Satisfied,4,High,High,Low
+52,Prefer not to say,Software Engineer,6,Hybrid,45,6,4,Medium,Increase,5,Unsatisfied,1,Low,High,High
+25,Male,Software Engineer,32,Hybrid,35,10,4,Medium,Increase,5,Unsatisfied,2,Low,High,High
+36,Female,Data Scientist,12,Remote,34,12,4,Low,Increase,5,Neutral,3,Medium,High,High
+40,Female,Software Engineer,16,Remote,20,11,4,High,Decrease,1,Neutral,5,High,Low,High
+33,Male,Data Scientist,25,Remote,37,3,4,Low,Decrease,2,Neutral,5,High,Low,High
+59,Prefer not to say,Data Scientist,30,Hybrid,49,0,2,High,Increase,2,Unsatisfied,2,Low,Low,Low
+50,Male,Data Scientist,3,Remote,45,15,4,Low,Decrease,5,Neutral,4,High,High,High
+28,Male,Software Engineer,33,Onsite,53,8,2,Medium,Decrease,1,Neutral,2,Low,Low,Low
+32,Prefer not to say,Project Manager,29,Onsite,55,4,3,Medium,No Change,4,Neutral,2,Low,High,Medium
+45,Female,Software Engineer,29,Onsite,29,6,3,High,Increase,1,Satisfied,1,Low,Low,Medium
+22,Male,Project Manager,9,Remote,42,11,5,High,Decrease,5,Neutral,2,Low,High,High
+54,Female,Project Manager,34,Onsite,26,7,3,High,Decrease,2,Neutral,2,Low,Low,Medium
+52,Prefer not to say,Software Engineer,16,Remote,36,14,3,Medium,Increase,3,Satisfied,1,Low,Medium,Medium
+35,Female,Data Scientist,2,Remote,35,13,5,High,Decrease,3,Neutral,3,Medium,Medium,High
+51,Non-binary,Data Scientist,6,Onsite,47,10,3,High,No Change,2,Neutral,1,Low,Low,Medium
+26,Non-binary,Software Engineer,12,Hybrid,55,5,4,Medium,Decrease,2,Unsatisfied,4,High,Low,High
+29,Male,Software Engineer,9,Hybrid,36,10,2,Low,No Change,1,Unsatisfied,1,Low,Low,Low
+38,Female,Project Manager,19,Hybrid,21,0,4,Low,Decrease,2,Unsatisfied,3,Medium,Low,High
+34,Male,Data Scientist,21,Remote,47,11,1,Medium,Decrease,3,Unsatisfied,1,Low,Medium,Low
+36,Female,Data Scientist,34,Hybrid,33,5,1,Low,Decrease,3,Unsatisfied,5,High,Medium,Low
+41,Female,Project Manager,7,Onsite,47,0,1,Low,Increase,4,Neutral,3,Medium,High,Low
+37,Male,Data Scientist,6,Hybrid,53,0,3,High,Increase,1,Unsatisfied,5,High,Low,Medium
+58,Non-binary,Data Scientist,2,Remote,48,15,1,High,Increase,2,Neutral,2,Low,Low,Low
+34,Female,Project Manager,10,Hybrid,21,7,4,Medium,Increase,4,Neutral,2,Low,High,High
+49,Female,Software Engineer,6,Remote,40,8,1,Medium,No Change,4,Unsatisfied,5,High,High,Low
+53,Female,Data Scientist,17,Remote,32,11,4,High,No Change,4,Unsatisfied,3,Medium,High,High
+47,Non-binary,Data Scientist,22,Hybrid,30,13,2,Low,Decrease,2,Unsatisfied,4,High,Low,Low
+41,Non-binary,Project Manager,6,Onsite,48,4,3,High,Decrease,4,Neutral,1,Low,High,Medium
+22,Non-binary,Project Manager,3,Hybrid,23,8,4,High,Increase,5,Unsatisfied,4,High,High,High
+24,Prefer not to say,Software Engineer,4,Onsite,42,5,1,High,Increase,3,Satisfied,1,Low,Medium,Low
+38,Female,Software Engineer,21,Hybrid,26,1,3,High,Increase,4,Satisfied,5,High,High,Medium
+27,Male,Software Engineer,15,Remote,60,6,1,Low,Decrease,4,Satisfied,3,Medium,High,Low
+46,Female,Data Scientist,20,Remote,28,5,1,Low,No Change,5,Neutral,5,High,High,Low
+57,Female,Software Engineer,9,Remote,60,14,5,Medium,Increase,2,Satisfied,4,High,Low,High
+51,Non-binary,Data Scientist,7,Onsite,26,7,2,Low,Increase,4,Unsatisfied,4,High,High,Low
+31,Female,Project Manager,2,Onsite,44,13,2,High,Decrease,2,Satisfied,1,Low,Low,Low
+22,Prefer not to say,Data Scientist,34,Onsite,41,2,5,Low,Decrease,5,Unsatisfied,2,Low,High,High
+28,Prefer not to say,Project Manager,11,Onsite,39,12,1,Low,No Change,2,Unsatisfied,5,High,Low,Low
+36,Non-binary,Software Engineer,12,Remote,51,4,3,Low,Decrease,2,Satisfied,4,High,Low,Medium
+48,Female,Project Manager,13,Hybrid,52,12,1,Low,Increase,4,Neutral,2,Low,High,Low
+28,Female,Data Scientist,15,Remote,54,4,5,Low,Decrease,5,Neutral,5,High,High,High
+43,Non-binary,Data Scientist,2,Onsite,41,2,1,Low,Decrease,4,Satisfied,5,High,High,Low
+31,Non-binary,Data Scientist,4,Hybrid,27,1,2,Medium,No Change,4,Satisfied,3,Medium,High,Low
+23,Female,Data Scientist,10,Onsite,60,14,5,High,Increase,4,Unsatisfied,5,High,High,High
+23,Prefer not to say,Software Engineer,10,Hybrid,25,13,3,High,No Change,1,Satisfied,4,High,Low,Medium
+31,Male,Data Scientist,4,Remote,44,6,1,High,Increase,1,Neutral,5,High,Low,Low
+23,Female,Data Scientist,14,Hybrid,46,9,3,Medium,Decrease,2,Unsatisfied,4,High,Low,Medium
+30,Male,Software Engineer,34,Hybrid,52,4,3,Medium,No Change,4,Neutral,1,Low,High,Medium
+28,Male,Project Manager,26,Onsite,22,15,2,Medium,Decrease,5,Unsatisfied,3,Medium,High,Low
+22,Non-binary,Project Manager,30,Remote,50,10,1,High,No Change,3,Satisfied,3,Medium,Medium,Low
+23,Female,Software Engineer,5,Hybrid,47,9,2,High,Increase,2,Neutral,4,High,Low,Low
+44,Prefer not to say,Project Manager,12,Remote,23,1,1,Medium,No Change,4,Satisfied,5,High,High,Low
+31,Prefer not to say,Data Scientist,24,Hybrid,35,8,2,High,Decrease,4,Satisfied,5,High,High,Low
+32,Male,Project Manager,18,Onsite,30,2,4,Low,Increase,5,Neutral,3,Medium,High,High
+26,Female,Project Manager,11,Remote,32,15,5,Low,Decrease,4,Neutral,3,Medium,High,High
+28,Non-binary,Data Scientist,33,Onsite,40,12,3,Medium,No Change,3,Unsatisfied,3,Medium,Medium,Medium
+23,Non-binary,Software Engineer,10,Onsite,43,4,5,Medium,Decrease,4,Unsatisfied,5,High,High,High
+30,Non-binary,Software Engineer,21,Remote,23,9,2,Low,Decrease,4,Unsatisfied,2,Low,High,Low
+56,Prefer not to say,Project Manager,21,Hybrid,32,15,3,Medium,Increase,4,Satisfied,3,Medium,High,Medium
+57,Prefer not to say,Project Manager,22,Remote,46,14,3,High,No Change,1,Satisfied,3,Medium,Low,Medium
+53,Non-binary,Data Scientist,20,Onsite,55,6,5,High,Increase,3,Unsatisfied,1,Low,Medium,High
+25,Female,Software Engineer,13,Hybrid,57,3,2,High,Increase,1,Satisfied,2,Low,Low,Low
+32,Prefer not to say,Data Scientist,29,Onsite,33,10,1,Low,No Change,1,Satisfied,3,Medium,Low,Low
+37,Non-binary,Project Manager,34,Hybrid,31,7,5,High,Decrease,3,Neutral,3,Medium,Medium,High
+51,Non-binary,Data Scientist,15,Hybrid,46,3,4,Medium,No Change,4,Satisfied,5,High,High,High
+24,Male,Project Manager,10,Onsite,23,10,2,High,Decrease,5,Neutral,4,High,High,Low
+55,Prefer not to say,Data Scientist,26,Remote,31,6,3,Low,No Change,1,Satisfied,3,Medium,Low,Medium
+22,Female,Software Engineer,9,Remote,39,4,3,Medium,Increase,2,Unsatisfied,1,Low,Low,Medium
+48,Male,Software Engineer,21,Onsite,20,5,2,Medium,Decrease,4,Satisfied,1,Low,High,Low
+57,Non-binary,Project Manager,17,Onsite,21,12,5,High,Decrease,2,Neutral,1,Low,Low,High
+49,Non-binary,Data Scientist,13,Remote,22,2,2,Low,Decrease,4,Satisfied,4,High,High,Low
+50,Female,Data Scientist,26,Onsite,40,15,1,Low,Increase,5,Satisfied,1,Low,High,Low
+45,Female,Project Manager,15,Remote,58,13,4,Medium,Decrease,3,Satisfied,2,Low,Medium,High
+53,Non-binary,Data Scientist,6,Onsite,40,0,4,Low,Decrease,3,Satisfied,2,Low,Medium,High
+31,Non-binary,Project Manager,20,Remote,40,2,5,High,No Change,1,Satisfied,1,Low,Low,High
+51,Prefer not to say,Project Manager,7,Remote,35,2,2,Medium,Increase,2,Unsatisfied,2,Low,Low,Low
+31,Non-binary,Data Scientist,18,Onsite,31,4,2,High,No Change,4,Satisfied,4,High,High,Low
+32,Prefer not to say,Data Scientist,15,Onsite,52,7,1,High,Increase,3,Neutral,5,High,Medium,Low
+35,Male,Data Scientist,21,Hybrid,36,15,2,Low,No Change,3,Unsatisfied,4,High,Medium,Low
+53,Non-binary,Project Manager,16,Remote,21,9,1,High,No Change,3,Unsatisfied,5,High,Medium,Low
+31,Male,Project Manager,24,Remote,60,4,2,Low,No Change,1,Unsatisfied,4,High,Low,Low
+57,Non-binary,Project Manager,16,Onsite,53,13,3,High,Decrease,2,Satisfied,4,High,Low,Medium
+43,Male,Project Manager,32,Remote,40,15,4,Medium,Increase,1,Neutral,3,Medium,Low,High
+49,Prefer not to say,Data Scientist,20,Remote,30,10,2,High,Increase,4,Unsatisfied,4,High,High,Low
+42,Female,Software Engineer,24,Hybrid,21,0,4,Low,Decrease,5,Satisfied,5,High,High,High
+39,Non-binary,Project Manager,11,Remote,43,1,4,Low,Decrease,4,Unsatisfied,4,High,High,High
+53,Female,Data Scientist,29,Onsite,47,0,3,High,No Change,5,Unsatisfied,5,High,High,Medium
+41,Male,Project Manager,32,Hybrid,27,0,2,Medium,No Change,2,Unsatisfied,5,High,Low,Low
+33,Male,Software Engineer,35,Onsite,37,1,3,Medium,Increase,2,Unsatisfied,1,Low,Low,Medium
+39,Non-binary,Project Manager,1,Remote,23,2,3,Low,No Change,2,Unsatisfied,1,Low,Low,Medium
+52,Non-binary,Data Scientist,25,Hybrid,27,10,2,Low,Increase,2,Satisfied,3,Medium,Low,Low
+54,Female,Software Engineer,20,Hybrid,27,8,2,Low,No Change,1,Neutral,5,High,Low,Low
+31,Prefer not to say,Data Scientist,4,Hybrid,50,0,1,Low,Decrease,2,Unsatisfied,1,Low,Low,Low
+52,Female,Data Scientist,24,Remote,57,14,3,Medium,Increase,4,Satisfied,4,High,High,Medium
+35,Female,Data Scientist,13,Hybrid,41,9,1,Low,Increase,1,Satisfied,2,Low,Low,Low
+37,Female,Project Manager,25,Hybrid,53,8,5,High,No Change,3,Neutral,1,Low,Medium,High
+30,Female,Data Scientist,14,Onsite,33,9,3,High,Increase,3,Neutral,3,Medium,Medium,Medium
+50,Prefer not to say,Data Scientist,16,Hybrid,59,7,5,Low,No Change,4,Neutral,3,Medium,High,High
+39,Non-binary,Software Engineer,17,Onsite,44,0,1,Medium,Increase,4,Unsatisfied,3,Medium,High,Low
+55,Prefer not to say,Project Manager,31,Remote,59,6,1,High,No Change,2,Satisfied,3,Medium,Low,Low
+44,Male,Data Scientist,23,Onsite,29,7,1,Low,Increase,3,Satisfied,3,Medium,Medium,Low
+23,Prefer not to say,Data Scientist,17,Hybrid,38,10,4,Low,No Change,2,Unsatisfied,4,High,Low,High
+51,Female,Software Engineer,21,Hybrid,53,15,3,High,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+32,Male,Software Engineer,22,Onsite,33,7,5,Medium,Decrease,1,Unsatisfied,3,Medium,Low,High
+50,Prefer not to say,Software Engineer,30,Onsite,43,0,3,High,No Change,3,Neutral,1,Low,Medium,Medium
+55,Male,Data Scientist,29,Hybrid,41,15,5,Low,Decrease,2,Neutral,3,Medium,Low,High
+33,Male,Software Engineer,9,Onsite,23,12,2,High,No Change,1,Unsatisfied,2,Low,Low,Low
+50,Female,Project Manager,2,Onsite,53,3,4,High,Increase,5,Unsatisfied,4,High,High,High
+34,Non-binary,Data Scientist,13,Hybrid,31,9,4,Medium,No Change,3,Unsatisfied,5,High,Medium,High
+55,Male,Project Manager,14,Onsite,41,14,1,High,No Change,5,Satisfied,1,Low,High,Low
+32,Prefer not to say,Project Manager,7,Remote,38,6,4,Medium,Decrease,1,Satisfied,1,Low,Low,High
+29,Male,Project Manager,28,Hybrid,49,2,2,High,Increase,4,Neutral,2,Low,High,Low
+35,Prefer not to say,Project Manager,7,Remote,57,7,2,High,Increase,5,Neutral,5,High,High,Low
+50,Female,Project Manager,12,Remote,57,4,1,High,Decrease,2,Unsatisfied,3,Medium,Low,Low
+45,Male,Data Scientist,6,Hybrid,54,6,1,High,No Change,3,Neutral,1,Low,Medium,Low
+37,Female,Software Engineer,12,Remote,23,15,3,High,Increase,5,Satisfied,3,Medium,High,Medium
+40,Male,Project Manager,30,Remote,44,9,5,Medium,Decrease,2,Neutral,2,Low,Low,High
+25,Male,Project Manager,12,Remote,20,10,3,Medium,No Change,1,Unsatisfied,2,Low,Low,Medium
+41,Female,Software Engineer,5,Onsite,31,13,4,High,Decrease,5,Unsatisfied,2,Low,High,High
+34,Non-binary,Project Manager,3,Onsite,57,5,2,High,Decrease,1,Satisfied,1,Low,Low,Low
+50,Male,Software Engineer,1,Remote,45,3,2,Low,Decrease,5,Neutral,4,High,High,Low
+47,Non-binary,Data Scientist,2,Onsite,25,0,3,High,No Change,3,Neutral,2,Low,Medium,Medium
+35,Male,Software Engineer,26,Onsite,23,12,5,High,Decrease,1,Unsatisfied,1,Low,Low,High
+32,Female,Project Manager,18,Remote,25,8,4,Medium,Decrease,3,Unsatisfied,3,Medium,Medium,High
+30,Female,Data Scientist,11,Hybrid,54,0,4,Low,Decrease,3,Satisfied,1,Low,Medium,High
+33,Non-binary,Project Manager,12,Onsite,35,5,2,Low,Decrease,3,Satisfied,2,Low,Medium,Low
+28,Prefer not to say,Project Manager,20,Remote,56,9,2,Low,Increase,1,Unsatisfied,5,High,Low,Low
+36,Prefer not to say,Software Engineer,9,Remote,58,9,1,Medium,Increase,2,Satisfied,4,High,Low,Low
+54,Prefer not to say,Project Manager,6,Remote,57,3,5,High,No Change,5,Neutral,5,High,High,High
+44,Male,Data Scientist,29,Onsite,40,5,5,Medium,Decrease,3,Neutral,3,Medium,Medium,High
+53,Female,Software Engineer,24,Onsite,35,10,5,Low,Decrease,4,Unsatisfied,2,Low,High,High
+56,Male,Software Engineer,3,Remote,27,9,5,High,Increase,4,Satisfied,4,High,High,High
+42,Non-binary,Project Manager,2,Remote,47,1,3,Medium,No Change,2,Satisfied,1,Low,Low,Medium
+46,Male,Software Engineer,30,Remote,52,4,3,Medium,No Change,4,Satisfied,4,High,High,Medium
+40,Non-binary,Data Scientist,27,Hybrid,47,11,1,High,No Change,5,Neutral,5,High,High,Low
+52,Prefer not to say,Data Scientist,3,Remote,41,12,5,Low,Increase,1,Unsatisfied,4,High,Low,High
+43,Female,Data Scientist,11,Remote,52,5,2,Medium,Decrease,2,Unsatisfied,5,High,Low,Low
+37,Male,Software Engineer,3,Onsite,48,0,2,High,Increase,5,Satisfied,5,High,High,Low
+40,Non-binary,Software Engineer,14,Hybrid,53,4,3,Low,No Change,5,Neutral,3,Medium,High,Medium
+38,Female,Software Engineer,22,Remote,49,9,5,High,Increase,5,Unsatisfied,3,Medium,High,High
+46,Male,Data Scientist,13,Remote,47,10,1,High,Increase,2,Satisfied,3,Medium,Low,Low
+37,Prefer not to say,Software Engineer,12,Remote,47,7,3,Medium,No Change,4,Satisfied,2,Low,High,Medium
+27,Non-binary,Project Manager,28,Onsite,42,8,3,Low,No Change,1,Neutral,2,Low,Low,Medium
+46,Female,Project Manager,9,Hybrid,22,13,2,High,No Change,1,Satisfied,4,High,Low,Low
+41,Prefer not to say,Project Manager,30,Onsite,59,4,4,Medium,Increase,4,Satisfied,3,Medium,High,High
+55,Male,Software Engineer,27,Hybrid,52,6,4,Medium,Decrease,2,Satisfied,1,Low,Low,High
+43,Female,Data Scientist,14,Hybrid,45,8,5,High,Increase,1,Neutral,5,High,Low,High
+34,Female,Data Scientist,8,Onsite,27,15,4,Medium,Decrease,1,Unsatisfied,5,High,Low,High
+52,Male,Data Scientist,26,Remote,54,3,4,Low,Increase,2,Unsatisfied,1,Low,Low,High
+57,Female,Project Manager,24,Hybrid,30,9,3,High,No Change,4,Neutral,1,Low,High,Medium
+44,Male,Data Scientist,12,Hybrid,47,6,4,High,Increase,2,Unsatisfied,3,Medium,Low,High
+25,Male,Data Scientist,2,Hybrid,38,14,4,Low,Increase,1,Unsatisfied,2,Low,Low,High
+25,Prefer not to say,Project Manager,10,Onsite,39,12,3,High,No Change,2,Neutral,3,Medium,Low,Medium
+42,Male,Software Engineer,33,Remote,46,12,5,High,No Change,4,Unsatisfied,3,Medium,High,High
+23,Prefer not to say,Software Engineer,9,Onsite,36,0,2,High,No Change,3,Satisfied,1,Low,Medium,Low
+38,Non-binary,Project Manager,13,Hybrid,35,7,1,Low,No Change,4,Neutral,1,Low,High,Low
+25,Male,Data Scientist,29,Hybrid,58,15,5,Medium,Increase,5,Satisfied,3,Medium,High,High
+60,Female,Software Engineer,24,Hybrid,49,9,2,Medium,No Change,4,Neutral,3,Medium,High,Low
+39,Non-binary,Software Engineer,35,Onsite,34,1,5,High,No Change,2,Unsatisfied,1,Low,Low,High
+37,Male,Software Engineer,9,Remote,45,11,2,High,Decrease,4,Neutral,3,Medium,High,Low
+41,Non-binary,Data Scientist,31,Remote,30,1,2,Medium,No Change,1,Neutral,2,Low,Low,Low
+51,Female,Software Engineer,10,Hybrid,59,4,3,Low,Increase,2,Unsatisfied,4,High,Low,Medium
+49,Female,Software Engineer,20,Onsite,39,10,3,Low,Decrease,4,Unsatisfied,1,Low,High,Medium
+22,Non-binary,Data Scientist,33,Hybrid,27,5,1,Medium,Decrease,3,Unsatisfied,1,Low,Medium,Low
+48,Prefer not to say,Software Engineer,3,Remote,46,9,4,High,Decrease,3,Satisfied,4,High,Medium,High
+23,Prefer not to say,Data Scientist,29,Remote,50,12,3,High,No Change,2,Satisfied,4,High,Low,Medium
+58,Female,Data Scientist,8,Onsite,40,1,3,High,Increase,3,Unsatisfied,1,Low,Medium,Medium
+25,Female,Software Engineer,14,Remote,35,7,2,Low,No Change,4,Unsatisfied,2,Low,High,Low
+33,Prefer not to say,Data Scientist,26,Remote,28,14,2,Medium,Increase,4,Neutral,2,Low,High,Low
+41,Non-binary,Data Scientist,31,Hybrid,51,0,5,Medium,Increase,5,Satisfied,4,High,High,High
+33,Female,Project Manager,30,Hybrid,53,14,2,Medium,No Change,4,Unsatisfied,4,High,High,Low
+43,Non-binary,Software Engineer,33,Remote,25,2,1,Low,No Change,2,Neutral,5,High,Low,Low
+30,Female,Software Engineer,28,Hybrid,35,3,5,Medium,Decrease,1,Satisfied,4,High,Low,High
+52,Female,Project Manager,14,Hybrid,21,6,5,Medium,No Change,4,Satisfied,4,High,High,High
+38,Prefer not to say,Project Manager,7,Remote,58,4,2,High,Decrease,3,Satisfied,3,Medium,Medium,Low
+30,Non-binary,Software Engineer,33,Onsite,39,2,3,Medium,No Change,5,Neutral,3,Medium,High,Medium
+42,Female,Software Engineer,18,Remote,47,3,1,Medium,Increase,2,Satisfied,5,High,Low,Low
+40,Male,Project Manager,9,Hybrid,56,9,3,Medium,Increase,2,Neutral,1,Low,Low,Medium
+39,Non-binary,Data Scientist,22,Hybrid,33,11,5,Low,Decrease,3,Neutral,4,High,Medium,High
+41,Female,Data Scientist,1,Onsite,23,1,2,Low,Increase,1,Unsatisfied,1,Low,Low,Low
+47,Male,Data Scientist,28,Onsite,54,7,3,High,No Change,5,Satisfied,4,High,High,Medium
+45,Female,Data Scientist,33,Hybrid,31,3,2,High,No Change,1,Satisfied,4,High,Low,Low
+42,Non-binary,Software Engineer,8,Remote,35,4,5,High,Increase,4,Neutral,5,High,High,High
+42,Male,Software Engineer,34,Remote,49,14,2,High,Increase,3,Satisfied,5,High,Medium,Low
+44,Non-binary,Software Engineer,4,Hybrid,35,7,5,Medium,No Change,2,Neutral,3,Medium,Low,High
+26,Prefer not to say,Data Scientist,6,Hybrid,38,10,3,Low,Increase,2,Neutral,1,Low,Low,Medium
+57,Male,Software Engineer,17,Hybrid,20,14,1,Low,Increase,1,Satisfied,3,Medium,Low,Low
+41,Prefer not to say,Project Manager,9,Onsite,50,8,2,High,No Change,5,Neutral,5,High,High,Low
+49,Prefer not to say,Data Scientist,12,Onsite,30,6,2,Medium,Increase,2,Satisfied,4,High,Low,Low
+27,Non-binary,Software Engineer,23,Hybrid,50,11,5,Medium,No Change,4,Unsatisfied,5,High,High,High
+24,Female,Project Manager,33,Remote,24,6,2,Medium,Decrease,5,Satisfied,4,High,High,Low
+48,Non-binary,Project Manager,14,Hybrid,33,1,5,High,No Change,3,Neutral,3,Medium,Medium,High
+59,Female,Software Engineer,20,Hybrid,23,5,3,Medium,Increase,5,Satisfied,5,High,High,Medium
+31,Non-binary,Data Scientist,12,Hybrid,51,7,3,High,Increase,1,Satisfied,5,High,Low,Medium
+33,Male,Software Engineer,10,Onsite,36,3,3,Medium,No Change,1,Neutral,5,High,Low,Medium
+53,Female,Software Engineer,19,Hybrid,49,14,4,High,Increase,5,Unsatisfied,1,Low,High,High
+51,Female,Data Scientist,14,Remote,53,3,3,Medium,No Change,3,Satisfied,1,Low,Medium,Medium
+45,Non-binary,Project Manager,7,Onsite,49,3,3,Medium,No Change,4,Unsatisfied,2,Low,High,Medium
+39,Non-binary,Software Engineer,11,Hybrid,37,4,4,Low,Decrease,3,Satisfied,1,Low,Medium,High
+29,Male,Software Engineer,29,Remote,53,6,4,High,Increase,4,Satisfied,5,High,High,High
+58,Male,Data Scientist,8,Onsite,43,2,1,High,No Change,3,Neutral,4,High,Medium,Low
+49,Female,Software Engineer,33,Remote,53,8,4,Low,No Change,2,Neutral,3,Medium,Low,High
+22,Female,Project Manager,35,Remote,50,0,5,Medium,Increase,2,Neutral,3,Medium,Low,High
+43,Non-binary,Software Engineer,33,Hybrid,51,8,1,Medium,No Change,5,Unsatisfied,5,High,High,Low
+48,Male,Software Engineer,17,Remote,44,12,3,Low,Decrease,5,Satisfied,1,Low,High,Medium
+25,Female,Project Manager,35,Hybrid,47,0,5,High,Increase,5,Unsatisfied,1,Low,High,High
+40,Female,Data Scientist,10,Remote,43,12,3,High,Increase,3,Unsatisfied,2,Low,Medium,Medium
+28,Non-binary,Project Manager,2,Remote,50,0,3,Low,No Change,1,Neutral,1,Low,Low,Medium
+57,Prefer not to say,Data Scientist,7,Remote,54,0,2,High,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+58,Male,Data Scientist,9,Remote,24,11,4,High,No Change,5,Unsatisfied,3,Medium,High,High
+24,Non-binary,Software Engineer,25,Hybrid,41,8,2,High,No Change,2,Neutral,1,Low,Low,Low
+45,Female,Project Manager,32,Remote,54,3,5,Low,No Change,5,Unsatisfied,3,Medium,High,High
+60,Female,Project Manager,25,Remote,34,1,1,High,Increase,3,Satisfied,3,Medium,Medium,Low
+51,Non-binary,Data Scientist,10,Hybrid,24,5,3,Low,Increase,3,Neutral,5,High,Medium,Medium
+26,Prefer not to say,Data Scientist,15,Remote,54,4,1,Low,No Change,1,Neutral,3,Medium,Low,Low
+53,Male,Project Manager,31,Onsite,51,7,1,Medium,Increase,2,Satisfied,4,High,Low,Low
+35,Non-binary,Software Engineer,18,Remote,33,6,2,Low,Decrease,3,Satisfied,5,High,Medium,Low
+49,Female,Data Scientist,29,Hybrid,55,9,4,Low,Decrease,1,Satisfied,3,Medium,Low,High
+44,Non-binary,Software Engineer,6,Hybrid,40,3,3,Low,No Change,1,Neutral,2,Low,Low,Medium
+36,Male,Software Engineer,34,Remote,48,10,4,Low,No Change,2,Neutral,1,Low,Low,High
+38,Non-binary,Data Scientist,4,Remote,34,12,5,High,Increase,1,Neutral,3,Medium,Low,High
+58,Non-binary,Software Engineer,3,Hybrid,48,3,2,Medium,Increase,4,Unsatisfied,2,Low,High,Low
+39,Female,Project Manager,25,Remote,30,4,4,Medium,Decrease,3,Satisfied,5,High,Medium,High
+47,Prefer not to say,Project Manager,34,Remote,21,7,1,High,Decrease,1,Neutral,3,Medium,Low,Low
+60,Non-binary,Software Engineer,14,Hybrid,24,8,4,Medium,No Change,1,Neutral,1,Low,Low,High
+59,Male,Software Engineer,27,Remote,27,14,5,High,Decrease,2,Unsatisfied,5,High,Low,High
+34,Female,Data Scientist,8,Onsite,51,2,5,Low,Increase,5,Satisfied,1,Low,High,High
+33,Prefer not to say,Software Engineer,11,Remote,56,7,1,High,No Change,2,Satisfied,1,Low,Low,Low
+32,Female,Software Engineer,30,Remote,44,2,3,Medium,Increase,1,Neutral,3,Medium,Low,Medium
+36,Female,Project Manager,26,Hybrid,22,1,2,Medium,No Change,1,Satisfied,2,Low,Low,Low
+47,Prefer not to say,Project Manager,28,Remote,38,6,2,Medium,Increase,2,Unsatisfied,3,Medium,Low,Low
+23,Prefer not to say,Project Manager,22,Onsite,29,10,4,Low,Decrease,4,Satisfied,1,Low,High,High
+28,Prefer not to say,Project Manager,19,Onsite,40,8,1,High,Increase,5,Unsatisfied,3,Medium,High,Low
+48,Male,Project Manager,24,Hybrid,29,1,4,Low,Increase,2,Satisfied,1,Low,Low,High
+40,Prefer not to say,Project Manager,34,Hybrid,23,11,2,Medium,No Change,1,Satisfied,1,Low,Low,Low
+50,Prefer not to say,Project Manager,4,Remote,41,12,5,Medium,Increase,3,Satisfied,3,Medium,Medium,High
+47,Non-binary,Data Scientist,8,Hybrid,44,10,5,Medium,Increase,2,Neutral,1,Low,Low,High
+45,Non-binary,Project Manager,18,Onsite,22,7,5,Low,Decrease,5,Unsatisfied,4,High,High,High
+45,Prefer not to say,Software Engineer,4,Remote,59,5,2,Medium,Increase,3,Unsatisfied,4,High,Medium,Low
+35,Non-binary,Software Engineer,27,Remote,47,8,2,Low,Increase,3,Unsatisfied,2,Low,Medium,Low
+40,Female,Data Scientist,8,Remote,53,13,5,Low,No Change,3,Satisfied,2,Low,Medium,High
+45,Non-binary,Software Engineer,28,Onsite,60,9,3,Medium,Decrease,2,Neutral,3,Medium,Low,Medium
+53,Female,Project Manager,5,Remote,34,2,2,High,No Change,5,Satisfied,2,Low,High,Low
+60,Non-binary,Data Scientist,20,Remote,34,13,1,Low,Decrease,3,Unsatisfied,3,Medium,Medium,Low
+55,Prefer not to say,Data Scientist,13,Onsite,52,5,3,High,No Change,1,Neutral,5,High,Low,Medium
+23,Prefer not to say,Project Manager,34,Remote,50,3,5,Low,No Change,3,Neutral,1,Low,Medium,High
+34,Non-binary,Project Manager,27,Hybrid,39,10,1,Medium,Decrease,1,Neutral,4,High,Low,Low
+23,Male,Data Scientist,23,Hybrid,50,11,4,Low,Decrease,3,Satisfied,2,Low,Medium,High
+45,Male,Data Scientist,26,Hybrid,46,4,1,High,Increase,1,Unsatisfied,5,High,Low,Low
+35,Prefer not to say,Software Engineer,4,Remote,36,3,3,Medium,Increase,2,Satisfied,3,Medium,Low,Medium
+34,Prefer not to say,Software Engineer,32,Remote,49,0,5,High,Decrease,2,Unsatisfied,2,Low,Low,High
+31,Female,Software Engineer,18,Onsite,24,1,1,High,Increase,3,Unsatisfied,1,Low,Medium,Low
+41,Prefer not to say,Project Manager,29,Onsite,56,13,3,Medium,Increase,1,Satisfied,4,High,Low,Medium
+57,Female,Data Scientist,30,Hybrid,36,3,3,High,No Change,1,Unsatisfied,1,Low,Low,Medium
+27,Non-binary,Data Scientist,9,Hybrid,57,14,4,High,Decrease,1,Neutral,3,Medium,Low,High
+39,Non-binary,Data Scientist,26,Remote,37,11,4,Medium,Decrease,2,Satisfied,1,Low,Low,High
+57,Female,Software Engineer,4,Remote,45,1,5,High,Decrease,3,Neutral,4,High,Medium,High
+53,Female,Data Scientist,29,Remote,59,5,3,High,Decrease,1,Unsatisfied,4,High,Low,Medium
+39,Male,Data Scientist,12,Onsite,36,13,4,Medium,Increase,5,Satisfied,5,High,High,High
+39,Male,Project Manager,29,Onsite,21,8,4,High,Decrease,4,Satisfied,4,High,High,High
+42,Non-binary,Data Scientist,15,Remote,33,12,4,Low,Increase,3,Satisfied,3,Medium,Medium,High
+55,Non-binary,Software Engineer,29,Hybrid,53,9,4,Low,Decrease,4,Satisfied,1,Low,High,High
+49,Male,Data Scientist,23,Onsite,21,0,1,Medium,No Change,3,Satisfied,3,Medium,Medium,Low
+40,Female,Software Engineer,22,Hybrid,48,15,4,High,No Change,5,Unsatisfied,2,Low,High,High
+56,Prefer not to say,Project Manager,1,Onsite,31,2,4,Medium,Decrease,3,Neutral,1,Low,Medium,High
+27,Female,Project Manager,10,Hybrid,33,5,4,Low,Increase,4,Satisfied,1,Low,High,High
+57,Male,Software Engineer,14,Onsite,56,5,5,High,Increase,1,Satisfied,2,Low,Low,High
+53,Female,Software Engineer,26,Remote,60,5,2,Medium,No Change,4,Neutral,4,High,High,Low
+30,Male,Project Manager,7,Remote,58,12,3,Low,Increase,1,Neutral,1,Low,Low,Medium
+45,Female,Data Scientist,34,Remote,56,13,5,High,No Change,1,Neutral,1,Low,Low,High
+41,Prefer not to say,Software Engineer,21,Onsite,50,8,4,Medium,No Change,1,Unsatisfied,3,Medium,Low,High
+28,Non-binary,Data Scientist,28,Onsite,60,14,4,Medium,No Change,1,Neutral,3,Medium,Low,High
+48,Female,Software Engineer,7,Hybrid,25,15,4,Low,Increase,5,Satisfied,4,High,High,High
+36,Male,Software Engineer,33,Remote,55,12,4,High,No Change,4,Unsatisfied,5,High,High,High
+60,Prefer not to say,Software Engineer,29,Remote,36,3,4,Medium,Decrease,2,Unsatisfied,4,High,Low,High
+39,Male,Data Scientist,34,Remote,39,0,5,High,No Change,1,Unsatisfied,2,Low,Low,High
+35,Prefer not to say,Data Scientist,12,Hybrid,24,0,2,Medium,No Change,5,Neutral,3,Medium,High,Low
+46,Male,Project Manager,13,Remote,57,6,1,Medium,No Change,2,Neutral,3,Medium,Low,Low
+51,Non-binary,Data Scientist,8,Onsite,50,12,5,Medium,Decrease,2,Neutral,5,High,Low,High
+35,Female,Project Manager,33,Hybrid,30,9,1,Low,Increase,2,Satisfied,5,High,Low,Low
+41,Non-binary,Project Manager,18,Remote,48,12,5,Low,No Change,1,Satisfied,5,High,Low,High
+44,Prefer not to say,Data Scientist,32,Hybrid,32,1,5,High,Decrease,2,Unsatisfied,4,High,Low,High
+23,Female,Data Scientist,22,Remote,39,14,5,Medium,Decrease,5,Neutral,1,Low,High,High
+27,Female,Data Scientist,26,Onsite,41,9,1,Medium,Increase,4,Satisfied,4,High,High,Low
+36,Male,Software Engineer,13,Remote,34,6,1,High,No Change,1,Satisfied,4,High,Low,Low
+40,Female,Project Manager,3,Remote,57,13,5,High,No Change,4,Unsatisfied,5,High,High,High
+43,Non-binary,Project Manager,9,Onsite,43,4,2,Medium,Increase,5,Satisfied,5,High,High,Low
+45,Prefer not to say,Project Manager,12,Onsite,39,1,2,Low,Decrease,1,Satisfied,3,Medium,Low,Low
+60,Female,Software Engineer,9,Onsite,23,1,4,Medium,Decrease,1,Unsatisfied,2,Low,Low,High
+60,Prefer not to say,Software Engineer,3,Remote,47,12,5,High,No Change,4,Neutral,1,Low,High,High
+57,Non-binary,Software Engineer,21,Onsite,29,14,5,High,Increase,5,Unsatisfied,3,Medium,High,High
+53,Prefer not to say,Project Manager,14,Hybrid,59,3,5,Medium,No Change,3,Satisfied,2,Low,Medium,High
+55,Prefer not to say,Data Scientist,34,Onsite,48,15,3,Low,Decrease,2,Neutral,1,Low,Low,Medium
+28,Female,Project Manager,16,Hybrid,53,6,1,Medium,Decrease,5,Satisfied,2,Low,High,Low
+54,Non-binary,Data Scientist,20,Remote,57,14,1,Medium,No Change,3,Unsatisfied,5,High,Medium,Low
+37,Female,Data Scientist,27,Onsite,21,13,5,High,Decrease,3,Unsatisfied,5,High,Medium,High
+45,Prefer not to say,Data Scientist,23,Hybrid,46,0,2,Low,Decrease,5,Satisfied,1,Low,High,Low
+25,Prefer not to say,Data Scientist,25,Onsite,25,8,3,Medium,Decrease,2,Satisfied,1,Low,Low,Medium
+41,Male,Software Engineer,23,Hybrid,52,9,5,High,Increase,1,Satisfied,4,High,Low,High
+53,Female,Software Engineer,35,Remote,22,6,5,Low,Decrease,2,Neutral,5,High,Low,High
+48,Male,Project Manager,7,Remote,32,8,1,Medium,Increase,3,Neutral,4,High,Medium,Low
+57,Prefer not to say,Software Engineer,25,Onsite,31,14,5,High,No Change,3,Satisfied,4,High,Medium,High
+41,Male,Project Manager,23,Onsite,58,15,5,Low,Decrease,3,Unsatisfied,5,High,Medium,High
+51,Male,Project Manager,35,Remote,55,2,4,Medium,No Change,4,Neutral,5,High,High,High
+40,Non-binary,Project Manager,3,Hybrid,20,4,5,High,Decrease,3,Satisfied,5,High,Medium,High
+43,Prefer not to say,Software Engineer,8,Remote,59,14,3,Low,No Change,5,Neutral,4,High,High,Medium
+60,Female,Data Scientist,32,Onsite,41,5,5,High,Decrease,4,Satisfied,5,High,High,High
+34,Prefer not to say,Project Manager,11,Onsite,32,14,5,High,No Change,4,Neutral,3,Medium,High,High
+55,Male,Project Manager,29,Remote,51,4,2,Medium,No Change,3,Unsatisfied,1,Low,Medium,Low
+23,Male,Project Manager,23,Onsite,21,7,3,Medium,Decrease,1,Neutral,1,Low,Low,Medium
+24,Non-binary,Data Scientist,9,Hybrid,23,7,5,High,Decrease,1,Satisfied,4,High,Low,High
+51,Male,Project Manager,17,Onsite,26,3,1,High,No Change,1,Satisfied,5,High,Low,Low
+36,Prefer not to say,Project Manager,34,Hybrid,49,13,5,Medium,Increase,3,Satisfied,3,Medium,Medium,High
+37,Non-binary,Data Scientist,7,Remote,26,9,1,Medium,Increase,2,Neutral,5,High,Low,Low
+41,Female,Project Manager,13,Onsite,30,6,4,Medium,Increase,3,Unsatisfied,2,Low,Medium,High
+47,Prefer not to say,Data Scientist,27,Onsite,31,1,2,Low,Increase,5,Satisfied,1,Low,High,Low
+49,Prefer not to say,Project Manager,7,Remote,49,4,2,Low,Increase,4,Unsatisfied,2,Low,High,Low
+37,Non-binary,Data Scientist,21,Onsite,38,2,5,Medium,No Change,4,Unsatisfied,3,Medium,High,High
+37,Male,Data Scientist,7,Remote,32,6,3,Medium,Decrease,1,Unsatisfied,4,High,Low,Medium
+32,Male,Software Engineer,19,Remote,37,2,1,Medium,No Change,2,Neutral,2,Low,Low,Low
+39,Male,Project Manager,6,Remote,26,0,1,High,No Change,4,Satisfied,2,Low,High,Low
+42,Non-binary,Project Manager,28,Remote,21,7,4,High,No Change,4,Neutral,3,Medium,High,High
+27,Female,Software Engineer,26,Remote,33,8,4,High,No Change,3,Unsatisfied,2,Low,Medium,High
+26,Non-binary,Data Scientist,5,Remote,44,6,3,High,Decrease,2,Satisfied,2,Low,Low,Medium
+31,Male,Project Manager,29,Onsite,42,9,2,Low,Decrease,4,Unsatisfied,1,Low,High,Low
+39,Prefer not to say,Data Scientist,10,Remote,52,2,1,High,No Change,1,Neutral,2,Low,Low,Low
+34,Female,Software Engineer,13,Remote,24,2,5,Medium,No Change,1,Unsatisfied,1,Low,Low,High
+46,Non-binary,Software Engineer,11,Hybrid,24,12,4,Medium,Decrease,1,Neutral,4,High,Low,High
+25,Female,Software Engineer,24,Hybrid,32,12,2,Medium,Increase,3,Unsatisfied,4,High,Medium,Low
+34,Male,Project Manager,26,Onsite,38,10,1,Low,Decrease,4,Neutral,5,High,High,Low
+54,Prefer not to say,Data Scientist,10,Hybrid,36,5,3,Medium,Increase,3,Unsatisfied,1,Low,Medium,Medium
+57,Non-binary,Software Engineer,5,Onsite,37,5,4,Medium,No Change,3,Unsatisfied,3,Medium,Medium,High
+43,Prefer not to say,Project Manager,34,Hybrid,36,9,5,Medium,Decrease,1,Neutral,3,Medium,Low,High
+48,Prefer not to say,Project Manager,16,Onsite,57,2,4,Medium,Increase,4,Neutral,5,High,High,High
+45,Non-binary,Data Scientist,11,Remote,49,14,5,Low,Decrease,4,Unsatisfied,4,High,High,High
+52,Prefer not to say,Data Scientist,6,Remote,30,12,5,High,Increase,3,Neutral,5,High,Medium,High
+47,Non-binary,Project Manager,34,Onsite,26,1,5,Low,Decrease,1,Neutral,5,High,Low,High
+36,Prefer not to say,Project Manager,17,Remote,27,12,4,Low,Decrease,3,Neutral,4,High,Medium,High
+56,Male,Software Engineer,11,Onsite,31,8,5,Medium,Decrease,2,Satisfied,3,Medium,Low,High
+42,Male,Project Manager,34,Onsite,33,11,4,High,No Change,2,Unsatisfied,5,High,Low,High
+33,Female,Project Manager,23,Onsite,20,13,2,Low,Decrease,1,Neutral,4,High,Low,Low
+52,Male,Project Manager,23,Remote,41,0,5,Low,Increase,1,Satisfied,3,Medium,Low,High
+45,Non-binary,Software Engineer,12,Hybrid,43,9,2,Low,No Change,5,Neutral,4,High,High,Low
+51,Prefer not to say,Software Engineer,22,Hybrid,36,14,2,Medium,Increase,3,Unsatisfied,3,Medium,Medium,Low
+26,Female,Data Scientist,7,Remote,54,5,4,Low,No Change,5,Unsatisfied,2,Low,High,High
+45,Male,Data Scientist,20,Onsite,41,15,5,Low,Decrease,3,Neutral,1,Low,Medium,High
+50,Male,Project Manager,10,Hybrid,46,9,4,Low,Decrease,5,Unsatisfied,3,Medium,High,High
+32,Non-binary,Project Manager,23,Remote,35,1,4,Low,Increase,1,Satisfied,2,Low,Low,High
+28,Female,Project Manager,35,Onsite,44,8,1,High,Decrease,5,Unsatisfied,3,Medium,High,Low
+22,Non-binary,Software Engineer,11,Remote,20,6,2,High,No Change,1,Unsatisfied,4,High,Low,Low
+50,Prefer not to say,Project Manager,22,Remote,37,10,5,High,Decrease,1,Satisfied,3,Medium,Low,High
+31,Male,Project Manager,25,Onsite,57,9,1,Low,Decrease,4,Unsatisfied,4,High,High,Low
+30,Prefer not to say,Data Scientist,9,Remote,28,7,3,Medium,Decrease,5,Satisfied,2,Low,High,Medium
+51,Prefer not to say,Software Engineer,32,Hybrid,57,9,3,Low,Increase,1,Neutral,1,Low,Low,Medium
+57,Female,Data Scientist,8,Onsite,41,0,1,Medium,Increase,5,Satisfied,2,Low,High,Low
+59,Non-binary,Project Manager,15,Hybrid,58,1,5,High,Decrease,3,Neutral,2,Low,Medium,High
+55,Non-binary,Data Scientist,32,Hybrid,43,14,1,High,Decrease,4,Satisfied,1,Low,High,Low
+38,Female,Project Manager,3,Remote,28,3,3,High,Increase,5,Unsatisfied,2,Low,High,Medium
+50,Non-binary,Project Manager,19,Hybrid,52,10,3,High,Decrease,3,Neutral,3,Medium,Medium,Medium
+33,Female,Software Engineer,5,Remote,38,1,5,High,Decrease,4,Satisfied,2,Low,High,High
+58,Non-binary,Software Engineer,14,Remote,37,11,5,Low,Increase,1,Neutral,3,Medium,Low,High
+34,Male,Software Engineer,35,Remote,33,13,4,Low,No Change,1,Unsatisfied,2,Low,Low,High
+59,Male,Software Engineer,24,Onsite,42,0,4,Medium,No Change,3,Satisfied,1,Low,Medium,High
+50,Prefer not to say,Project Manager,34,Onsite,50,10,4,Medium,Decrease,2,Neutral,2,Low,Low,High
+32,Female,Data Scientist,17,Hybrid,59,9,4,Low,No Change,3,Unsatisfied,2,Low,Medium,High
+55,Prefer not to say,Project Manager,10,Hybrid,34,3,2,Low,No Change,5,Unsatisfied,3,Medium,High,Low
+32,Female,Data Scientist,31,Hybrid,34,6,2,Low,Increase,3,Unsatisfied,3,Medium,Medium,Low
+44,Female,Data Scientist,9,Remote,27,5,3,Low,Increase,1,Neutral,1,Low,Low,Medium
+44,Non-binary,Project Manager,8,Remote,29,5,3,Low,No Change,2,Neutral,5,High,Low,Medium
+23,Female,Project Manager,29,Hybrid,28,1,2,Low,Decrease,4,Unsatisfied,2,Low,High,Low
+28,Male,Project Manager,34,Hybrid,22,7,5,High,No Change,2,Unsatisfied,2,Low,Low,High
+23,Male,Data Scientist,18,Remote,54,7,5,Low,No Change,1,Satisfied,2,Low,Low,High
+27,Prefer not to say,Project Manager,9,Remote,23,15,2,Medium,Decrease,3,Neutral,2,Low,Medium,Low
+35,Female,Data Scientist,35,Remote,41,15,4,Medium,No Change,4,Neutral,4,High,High,High
+40,Female,Project Manager,1,Onsite,57,6,3,Medium,Increase,2,Neutral,5,High,Low,Medium
+42,Non-binary,Project Manager,13,Remote,32,8,3,High,Increase,1,Neutral,2,Low,Low,Medium
+45,Male,Project Manager,20,Onsite,54,9,4,Low,No Change,4,Neutral,1,Low,High,High
+45,Prefer not to say,Software Engineer,4,Hybrid,44,11,1,High,No Change,5,Satisfied,3,Medium,High,Low
+49,Female,Project Manager,22,Hybrid,59,1,2,Medium,No Change,5,Satisfied,2,Low,High,Low
+56,Female,Project Manager,35,Onsite,29,2,3,Medium,No Change,5,Satisfied,5,High,High,Medium
+56,Male,Data Scientist,6,Onsite,38,14,1,Low,Decrease,2,Unsatisfied,3,Medium,Low,Low
+53,Non-binary,Data Scientist,21,Hybrid,46,6,1,Medium,Increase,2,Neutral,3,Medium,Low,Low
+49,Female,Software Engineer,8,Hybrid,32,14,4,Medium,Decrease,4,Unsatisfied,4,High,High,High
+59,Non-binary,Project Manager,24,Hybrid,54,1,2,High,Increase,4,Satisfied,2,Low,High,Low
+54,Non-binary,Project Manager,17,Remote,29,10,3,Low,No Change,3,Unsatisfied,2,Low,Medium,Medium
+24,Female,Software Engineer,30,Hybrid,23,13,3,Medium,Decrease,2,Neutral,1,Low,Low,Medium
+36,Male,Data Scientist,14,Onsite,29,8,2,Medium,No Change,2,Neutral,2,Low,Low,Low
+41,Prefer not to say,Data Scientist,10,Remote,46,8,4,High,Decrease,1,Satisfied,2,Low,Low,High
+57,Female,Data Scientist,21,Remote,20,11,4,Low,Decrease,5,Unsatisfied,3,Medium,High,High
+27,Non-binary,Data Scientist,4,Remote,60,15,2,High,Decrease,4,Satisfied,4,High,High,Low
+42,Non-binary,Project Manager,2,Hybrid,58,12,1,Medium,No Change,5,Unsatisfied,3,Medium,High,Low
+22,Non-binary,Data Scientist,1,Hybrid,33,8,3,Low,Decrease,5,Unsatisfied,3,Medium,High,Medium
+50,Male,Project Manager,11,Onsite,56,10,1,Medium,No Change,4,Satisfied,1,Low,High,Low
+43,Male,Software Engineer,21,Onsite,32,15,4,Low,Decrease,4,Unsatisfied,1,Low,High,High
+43,Non-binary,Data Scientist,35,Onsite,47,10,2,High,Decrease,5,Satisfied,2,Low,High,Low
+44,Male,Project Manager,7,Hybrid,57,3,5,Low,Decrease,2,Satisfied,2,Low,Low,High
+31,Male,Software Engineer,14,Onsite,22,8,4,Low,No Change,4,Unsatisfied,1,Low,High,High
+58,Prefer not to say,Project Manager,2,Onsite,53,9,3,High,Increase,2,Satisfied,1,Low,Low,Medium
+47,Prefer not to say,Project Manager,19,Hybrid,60,0,4,High,Increase,4,Satisfied,5,High,High,High
+38,Non-binary,Project Manager,33,Onsite,26,11,1,Low,Increase,2,Neutral,2,Low,Low,Low
+22,Female,Software Engineer,16,Hybrid,36,15,1,High,Decrease,5,Unsatisfied,5,High,High,Low
+40,Female,Data Scientist,8,Onsite,25,11,1,Medium,Increase,4,Unsatisfied,1,Low,High,Low
+47,Prefer not to say,Project Manager,33,Onsite,34,13,4,High,No Change,3,Satisfied,5,High,Medium,High
+35,Non-binary,Project Manager,24,Hybrid,29,5,4,Medium,Increase,5,Neutral,3,Medium,High,High
+27,Prefer not to say,Project Manager,6,Onsite,60,10,2,High,Decrease,5,Neutral,5,High,High,Low
+47,Prefer not to say,Project Manager,12,Onsite,48,11,3,Medium,Increase,5,Unsatisfied,4,High,High,Medium
+52,Non-binary,Software Engineer,3,Onsite,48,2,1,High,No Change,1,Satisfied,4,High,Low,Low
+57,Non-binary,Software Engineer,8,Hybrid,49,9,3,Medium,No Change,3,Satisfied,2,Low,Medium,Medium
+51,Non-binary,Data Scientist,6,Remote,26,14,4,Low,Increase,3,Neutral,2,Low,Medium,High
+53,Prefer not to say,Project Manager,22,Onsite,20,10,5,Medium,Increase,5,Satisfied,3,Medium,High,High
+39,Non-binary,Project Manager,12,Hybrid,23,9,5,Medium,Increase,1,Unsatisfied,3,Medium,Low,High
+47,Female,Project Manager,19,Remote,53,9,3,High,Increase,1,Neutral,2,Low,Low,Medium
+32,Prefer not to say,Project Manager,21,Hybrid,57,1,1,Low,Decrease,4,Neutral,1,Low,High,Low
+29,Male,Project Manager,28,Onsite,41,2,5,Medium,No Change,3,Satisfied,3,Medium,Medium,High
+40,Male,Project Manager,2,Remote,20,12,1,Low,Increase,4,Neutral,5,High,High,Low
+44,Male,Software Engineer,9,Onsite,35,3,2,Medium,No Change,5,Unsatisfied,2,Low,High,Low
+30,Non-binary,Software Engineer,4,Onsite,51,1,3,Medium,Decrease,2,Neutral,5,High,Low,Medium
+24,Male,Project Manager,3,Hybrid,47,10,2,High,No Change,5,Unsatisfied,2,Low,High,Low
+47,Prefer not to say,Software Engineer,15,Remote,28,10,3,High,No Change,3,Neutral,5,High,Medium,Medium
+59,Non-binary,Project Manager,7,Onsite,33,3,3,High,Increase,3,Unsatisfied,3,Medium,Medium,Medium
+58,Female,Project Manager,27,Hybrid,31,8,4,High,Increase,4,Neutral,4,High,High,High
+28,Male,Project Manager,15,Onsite,41,1,1,High,Increase,5,Unsatisfied,3,Medium,High,Low
+23,Male,Software Engineer,22,Hybrid,47,9,4,High,No Change,3,Neutral,3,Medium,Medium,High
+54,Prefer not to say,Software Engineer,32,Hybrid,44,2,1,Low,Decrease,3,Satisfied,3,Medium,Medium,Low
+58,Female,Software Engineer,12,Remote,45,12,2,Low,Increase,4,Unsatisfied,2,Low,High,Low
+28,Female,Software Engineer,15,Onsite,36,12,5,High,Decrease,4,Satisfied,3,Medium,High,High
+49,Male,Project Manager,35,Remote,20,12,3,Medium,Increase,3,Neutral,2,Low,Medium,Medium
+45,Prefer not to say,Data Scientist,31,Onsite,28,12,4,High,Decrease,2,Unsatisfied,5,High,Low,High
+37,Male,Data Scientist,27,Hybrid,45,11,3,Low,No Change,1,Satisfied,2,Low,Low,Medium
+59,Female,Data Scientist,8,Hybrid,34,11,5,High,Increase,1,Unsatisfied,2,Low,Low,High
+50,Non-binary,Software Engineer,14,Onsite,31,15,3,Medium,Increase,2,Unsatisfied,1,Low,Low,Medium
+46,Prefer not to say,Data Scientist,14,Onsite,55,10,1,Medium,Increase,2,Satisfied,1,Low,Low,Low
+54,Female,Data Scientist,20,Onsite,35,12,4,Medium,No Change,5,Unsatisfied,4,High,High,High
+52,Prefer not to say,Project Manager,35,Hybrid,27,15,1,Medium,Decrease,1,Satisfied,5,High,Low,Low
+50,Non-binary,Project Manager,20,Hybrid,20,10,1,Medium,Decrease,5,Neutral,4,High,High,Low
+35,Non-binary,Software Engineer,6,Remote,43,2,3,High,No Change,3,Satisfied,1,Low,Medium,Medium
+33,Male,Project Manager,6,Remote,49,7,4,Low,No Change,3,Neutral,1,Low,Medium,High
+25,Female,Data Scientist,34,Hybrid,52,11,5,High,No Change,3,Unsatisfied,1,Low,Medium,High
+34,Female,Project Manager,31,Hybrid,28,10,1,Medium,Increase,4,Satisfied,3,Medium,High,Low
+23,Male,Data Scientist,24,Hybrid,49,12,2,Medium,No Change,2,Unsatisfied,4,High,Low,Low
+54,Prefer not to say,Data Scientist,2,Remote,21,5,4,Low,Increase,5,Neutral,4,High,High,High
+34,Non-binary,Project Manager,25,Remote,52,6,3,High,No Change,3,Satisfied,4,High,Medium,Medium
+54,Male,Data Scientist,24,Remote,40,9,1,High,No Change,3,Neutral,5,High,Medium,Low
+53,Non-binary,Software Engineer,34,Onsite,48,8,2,High,No Change,2,Satisfied,4,High,Low,Low
+58,Female,Data Scientist,11,Hybrid,51,0,2,Low,No Change,2,Neutral,5,High,Low,Low
+59,Non-binary,Data Scientist,6,Onsite,29,9,1,High,No Change,2,Unsatisfied,5,High,Low,Low
+55,Male,Data Scientist,33,Onsite,39,7,4,Medium,No Change,4,Neutral,5,High,High,High
+46,Prefer not to say,Software Engineer,26,Hybrid,42,5,1,Low,Decrease,1,Satisfied,1,Low,Low,Low
+30,Male,Project Manager,12,Onsite,33,9,3,High,Decrease,5,Unsatisfied,3,Medium,High,Medium
+30,Non-binary,Software Engineer,13,Remote,32,8,3,High,Decrease,1,Unsatisfied,4,High,Low,Medium
+53,Prefer not to say,Data Scientist,32,Hybrid,43,2,4,High,Increase,5,Neutral,2,Low,High,High
+53,Non-binary,Project Manager,25,Onsite,32,6,3,High,Increase,5,Satisfied,2,Low,High,Medium
+47,Non-binary,Project Manager,24,Remote,26,6,2,Medium,Increase,4,Satisfied,5,High,High,Low
+33,Non-binary,Software Engineer,5,Hybrid,22,5,3,Low,Increase,4,Neutral,4,High,High,Medium
+53,Prefer not to say,Project Manager,5,Onsite,57,14,3,High,No Change,4,Unsatisfied,2,Low,High,Medium
+41,Female,Data Scientist,16,Hybrid,32,3,4,Low,Decrease,1,Unsatisfied,1,Low,Low,High
+49,Female,Data Scientist,6,Hybrid,54,3,1,High,No Change,1,Satisfied,2,Low,Low,Low
+27,Non-binary,Software Engineer,10,Onsite,59,4,3,Low,Increase,5,Unsatisfied,2,Low,High,Medium
+36,Male,Data Scientist,34,Hybrid,20,4,4,Low,Increase,3,Unsatisfied,1,Low,Medium,High
+36,Non-binary,Data Scientist,9,Hybrid,33,10,3,High,Increase,1,Unsatisfied,1,Low,Low,Medium
+22,Prefer not to say,Project Manager,23,Onsite,22,8,3,Low,Decrease,3,Unsatisfied,5,High,Medium,Medium
+31,Prefer not to say,Project Manager,21,Remote,60,9,3,Low,No Change,2,Satisfied,3,Medium,Low,Medium
+40,Male,Software Engineer,8,Hybrid,48,3,3,Low,Decrease,4,Unsatisfied,3,Medium,High,Medium
+37,Prefer not to say,Data Scientist,1,Hybrid,23,3,2,High,Decrease,1,Unsatisfied,3,Medium,Low,Low
+44,Non-binary,Data Scientist,21,Onsite,41,9,5,High,Decrease,4,Unsatisfied,3,Medium,High,High
+44,Non-binary,Data Scientist,9,Hybrid,42,15,1,Medium,Increase,1,Unsatisfied,4,High,Low,Low
+45,Female,Software Engineer,25,Hybrid,34,14,1,Low,Increase,1,Unsatisfied,4,High,Low,Low
+44,Prefer not to say,Software Engineer,15,Onsite,59,3,3,High,Increase,5,Neutral,2,Low,High,Medium
+52,Female,Project Manager,22,Onsite,49,3,5,High,No Change,3,Unsatisfied,3,Medium,Medium,High
+26,Female,Project Manager,15,Onsite,58,8,4,Medium,Increase,2,Satisfied,3,Medium,Low,High
+57,Female,Software Engineer,13,Remote,20,0,2,High,No Change,4,Neutral,1,Low,High,Low
+38,Prefer not to say,Data Scientist,12,Hybrid,37,11,4,High,No Change,1,Satisfied,3,Medium,Low,High
+26,Female,Software Engineer,16,Hybrid,40,13,1,Medium,Decrease,3,Unsatisfied,1,Low,Medium,Low
+29,Male,Data Scientist,30,Hybrid,31,14,1,Low,No Change,5,Neutral,1,Low,High,Low
+49,Male,Software Engineer,3,Hybrid,52,13,5,High,No Change,5,Neutral,3,Medium,High,High
+53,Female,Project Manager,33,Hybrid,23,2,3,High,Increase,1,Unsatisfied,1,Low,Low,Medium
+52,Female,Data Scientist,21,Hybrid,34,11,1,Medium,Increase,4,Satisfied,3,Medium,High,Low
+31,Female,Data Scientist,21,Onsite,35,15,3,Medium,Increase,4,Unsatisfied,3,Medium,High,Medium
+43,Male,Software Engineer,11,Hybrid,60,4,4,Low,No Change,3,Unsatisfied,3,Medium,Medium,High
+34,Non-binary,Data Scientist,6,Hybrid,49,0,4,Low,Decrease,3,Unsatisfied,1,Low,Medium,High
+57,Prefer not to say,Software Engineer,21,Onsite,24,13,3,High,No Change,2,Unsatisfied,5,High,Low,Medium
+29,Prefer not to say,Software Engineer,13,Hybrid,41,8,4,Low,No Change,1,Unsatisfied,4,High,Low,High
+24,Prefer not to say,Software Engineer,33,Hybrid,55,1,5,Medium,Decrease,2,Unsatisfied,2,Low,Low,High
+44,Prefer not to say,Project Manager,33,Remote,30,8,1,High,Decrease,2,Neutral,3,Medium,Low,Low
+46,Male,Data Scientist,6,Hybrid,49,0,5,Medium,No Change,4,Satisfied,2,Low,High,High
+35,Female,Project Manager,17,Hybrid,43,14,5,High,No Change,5,Unsatisfied,4,High,High,High
+60,Non-binary,Data Scientist,10,Hybrid,50,14,2,High,Decrease,3,Unsatisfied,2,Low,Medium,Low
+31,Male,Software Engineer,9,Remote,34,2,4,Medium,Increase,4,Neutral,3,Medium,High,High
+47,Prefer not to say,Software Engineer,9,Remote,50,12,4,Low,Decrease,2,Unsatisfied,2,Low,Low,High
+59,Prefer not to say,Software Engineer,17,Remote,40,6,4,Medium,Increase,3,Satisfied,5,High,Medium,High
+30,Male,Project Manager,24,Remote,27,7,3,Low,No Change,5,Neutral,4,High,High,Medium
+49,Prefer not to say,Software Engineer,33,Onsite,21,5,2,Medium,Decrease,1,Unsatisfied,2,Low,Low,Low
+26,Non-binary,Data Scientist,9,Remote,55,8,1,Medium,No Change,3,Unsatisfied,4,High,Medium,Low
+52,Male,Project Manager,23,Onsite,26,5,2,Low,Decrease,5,Satisfied,2,Low,High,Low
+38,Non-binary,Project Manager,31,Remote,55,9,2,Low,Decrease,4,Satisfied,2,Low,High,Low
+29,Male,Project Manager,18,Hybrid,57,15,4,Low,Increase,3,Satisfied,4,High,Medium,High
+36,Male,Project Manager,20,Onsite,36,14,2,High,Decrease,5,Satisfied,5,High,High,Low
+44,Male,Software Engineer,28,Remote,28,5,3,Medium,Decrease,3,Unsatisfied,5,High,Medium,Medium
+31,Female,Data Scientist,30,Hybrid,23,5,1,Medium,Decrease,2,Satisfied,4,High,Low,Low
+56,Male,Data Scientist,19,Onsite,46,5,5,Medium,No Change,5,Satisfied,2,Low,High,High
+29,Male,Data Scientist,10,Hybrid,31,3,4,Medium,Decrease,1,Unsatisfied,4,High,Low,High
+30,Prefer not to say,Data Scientist,14,Remote,47,9,4,Low,No Change,1,Satisfied,2,Low,Low,High
+26,Prefer not to say,Project Manager,28,Onsite,50,14,4,Low,Decrease,1,Satisfied,4,High,Low,High
+45,Prefer not to say,Project Manager,20,Hybrid,55,2,1,Medium,No Change,4,Neutral,5,High,High,Low
+48,Non-binary,Project Manager,34,Onsite,27,14,4,Low,Increase,4,Neutral,2,Low,High,High
+58,Female,Data Scientist,33,Remote,43,11,2,Medium,No Change,5,Neutral,5,High,High,Low
+35,Male,Software Engineer,5,Remote,28,5,5,Low,No Change,2,Satisfied,3,Medium,Low,High
+25,Prefer not to say,Project Manager,27,Remote,36,10,2,High,Increase,2,Satisfied,2,Low,Low,Low
+29,Prefer not to say,Software Engineer,13,Hybrid,36,12,1,Low,No Change,1,Satisfied,1,Low,Low,Low
+25,Non-binary,Software Engineer,26,Hybrid,56,0,5,Low,Decrease,1,Unsatisfied,4,High,Low,High
+47,Non-binary,Project Manager,9,Onsite,38,8,3,High,Decrease,3,Neutral,2,Low,Medium,Medium
+29,Non-binary,Software Engineer,13,Onsite,44,15,5,Low,No Change,2,Satisfied,3,Medium,Low,High
+37,Male,Software Engineer,6,Hybrid,60,9,3,High,Decrease,4,Neutral,4,High,High,Medium
+55,Female,Project Manager,1,Remote,59,6,5,Low,No Change,3,Neutral,1,Low,Medium,High
+38,Non-binary,Software Engineer,32,Onsite,20,3,4,Medium,Decrease,3,Unsatisfied,3,Medium,Medium,High
+22,Female,Data Scientist,6,Remote,28,13,4,Low,Increase,1,Unsatisfied,1,Low,Low,High
+46,Male,Project Manager,8,Onsite,44,10,1,High,No Change,3,Satisfied,3,Medium,Medium,Low
+30,Non-binary,Project Manager,33,Remote,32,7,2,Low,No Change,1,Neutral,2,Low,Low,Low
+51,Prefer not to say,Data Scientist,6,Remote,52,9,1,High,Decrease,4,Satisfied,1,Low,High,Low
+57,Prefer not to say,Data Scientist,16,Remote,26,6,4,High,Decrease,1,Neutral,3,Medium,Low,High
+58,Male,Project Manager,30,Onsite,36,0,3,Medium,Decrease,4,Satisfied,4,High,High,Medium
+28,Female,Software Engineer,31,Remote,35,8,2,High,Increase,2,Unsatisfied,4,High,Low,Low
+22,Non-binary,Software Engineer,31,Remote,57,3,5,High,No Change,5,Unsatisfied,1,Low,High,High
+42,Non-binary,Data Scientist,32,Hybrid,37,10,4,High,Decrease,5,Satisfied,3,Medium,High,High
+30,Male,Data Scientist,13,Remote,27,14,5,Low,Increase,2,Satisfied,5,High,Low,High
+23,Male,Project Manager,4,Hybrid,20,11,4,High,Decrease,3,Neutral,3,Medium,Medium,High
+55,Male,Project Manager,4,Onsite,37,8,3,Medium,Increase,5,Unsatisfied,3,Medium,High,Medium
+55,Non-binary,Project Manager,35,Hybrid,38,9,5,Medium,Decrease,2,Unsatisfied,4,High,Low,High
+22,Prefer not to say,Project Manager,13,Hybrid,29,0,4,Low,Decrease,3,Satisfied,4,High,Medium,High
+47,Prefer not to say,Data Scientist,19,Remote,33,1,2,Medium,Decrease,4,Unsatisfied,2,Low,High,Low
+44,Male,Data Scientist,21,Onsite,53,15,2,Low,Increase,5,Satisfied,5,High,High,Low
+40,Female,Project Manager,27,Remote,41,4,1,High,Decrease,2,Neutral,2,Low,Low,Low
+45,Male,Project Manager,7,Remote,21,15,4,Low,Decrease,1,Unsatisfied,5,High,Low,High
+32,Male,Project Manager,1,Onsite,23,14,2,Low,Decrease,1,Unsatisfied,2,Low,Low,Low
+40,Female,Data Scientist,9,Remote,52,0,2,High,Decrease,1,Neutral,3,Medium,Low,Low
+60,Male,Data Scientist,11,Onsite,26,9,5,High,Increase,1,Neutral,3,Medium,Low,High
+46,Female,Project Manager,15,Hybrid,29,12,4,Medium,Decrease,5,Satisfied,4,High,High,High
+26,Male,Software Engineer,14,Onsite,55,0,3,Medium,Increase,1,Unsatisfied,4,High,Low,Medium
+52,Non-binary,Data Scientist,30,Remote,32,7,3,Medium,No Change,1,Neutral,4,High,Low,Medium
+51,Non-binary,Project Manager,28,Remote,29,3,4,Low,Decrease,1,Neutral,5,High,Low,High
+38,Non-binary,Software Engineer,19,Onsite,23,10,3,High,Increase,1,Satisfied,3,Medium,Low,Medium
+24,Non-binary,Project Manager,30,Onsite,20,2,4,High,Increase,4,Unsatisfied,1,Low,High,High
+26,Female,Software Engineer,21,Hybrid,41,3,3,Medium,Increase,5,Unsatisfied,2,Low,High,Medium
+59,Non-binary,Software Engineer,3,Remote,56,13,2,High,Increase,3,Neutral,1,Low,Medium,Low
+36,Female,Project Manager,34,Onsite,33,5,4,High,Increase,2,Satisfied,3,Medium,Low,High
+31,Female,Data Scientist,27,Remote,39,2,1,Low,Increase,5,Satisfied,4,High,High,Low
+38,Prefer not to say,Project Manager,25,Onsite,37,6,1,Low,Decrease,3,Unsatisfied,5,High,Medium,Low
+56,Male,Software Engineer,30,Remote,60,3,5,Low,Decrease,1,Satisfied,2,Low,Low,High
+25,Prefer not to say,Project Manager,26,Onsite,23,8,5,Low,No Change,2,Neutral,2,Low,Low,High
+35,Prefer not to say,Project Manager,3,Remote,21,6,3,Medium,Decrease,3,Unsatisfied,4,High,Medium,Medium
+50,Female,Software Engineer,22,Onsite,39,1,3,Low,Increase,3,Neutral,3,Medium,Medium,Medium
+30,Prefer not to say,Data Scientist,12,Remote,26,11,3,Low,Increase,2,Satisfied,3,Medium,Low,Medium
+54,Prefer not to say,Project Manager,1,Hybrid,48,11,4,High,No Change,1,Neutral,5,High,Low,High
+23,Female,Data Scientist,26,Onsite,33,6,3,High,Increase,2,Neutral,3,Medium,Low,Medium
+22,Female,Project Manager,22,Onsite,60,3,5,High,No Change,1,Unsatisfied,2,Low,Low,High
+48,Non-binary,Software Engineer,30,Remote,50,8,4,Medium,Decrease,3,Unsatisfied,4,High,Medium,High
+52,Female,Data Scientist,23,Hybrid,21,11,5,High,Increase,1,Neutral,3,Medium,Low,High
+27,Male,Software Engineer,31,Onsite,60,7,1,High,Decrease,2,Unsatisfied,5,High,Low,Low
+47,Prefer not to say,Project Manager,19,Remote,30,4,4,High,Decrease,1,Satisfied,4,High,Low,High
+50,Prefer not to say,Project Manager,29,Hybrid,33,12,4,Low,No Change,3,Neutral,3,Medium,Medium,High
+46,Female,Data Scientist,5,Remote,56,5,3,High,No Change,4,Unsatisfied,3,Medium,High,Medium
+24,Female,Project Manager,15,Remote,46,14,3,Medium,Increase,4,Satisfied,4,High,High,Medium
+45,Female,Project Manager,26,Remote,57,11,4,Medium,No Change,2,Neutral,3,Medium,Low,High
+37,Male,Project Manager,27,Onsite,52,2,1,High,Decrease,4,Neutral,1,Low,High,Low
+29,Male,Software Engineer,26,Remote,34,15,5,Medium,Decrease,5,Neutral,4,High,High,High
+60,Prefer not to say,Project Manager,3,Remote,25,11,4,Medium,No Change,1,Unsatisfied,2,Low,Low,High
+40,Prefer not to say,Data Scientist,10,Hybrid,30,4,5,High,Increase,3,Satisfied,2,Low,Medium,High
+48,Prefer not to say,Project Manager,26,Onsite,40,4,5,High,Decrease,5,Satisfied,1,Low,High,High
+44,Male,Software Engineer,20,Onsite,20,10,5,Low,No Change,5,Satisfied,4,High,High,High
+37,Non-binary,Software Engineer,13,Onsite,50,15,5,High,Increase,4,Neutral,3,Medium,High,High
+37,Female,Software Engineer,25,Hybrid,57,2,3,High,Increase,4,Unsatisfied,1,Low,High,Medium
+57,Prefer not to say,Software Engineer,35,Remote,28,10,2,Medium,No Change,2,Satisfied,3,Medium,Low,Low
+42,Non-binary,Data Scientist,11,Remote,29,12,2,Medium,Decrease,5,Neutral,1,Low,High,Low
+39,Non-binary,Software Engineer,26,Hybrid,26,9,2,High,No Change,4,Neutral,2,Low,High,Low
+40,Prefer not to say,Software Engineer,2,Remote,30,4,2,Low,No Change,3,Satisfied,2,Low,Medium,Low
+56,Prefer not to say,Data Scientist,6,Onsite,43,8,3,Medium,Decrease,4,Satisfied,2,Low,High,Medium
+23,Female,Project Manager,31,Hybrid,51,7,1,High,No Change,5,Unsatisfied,1,Low,High,Low
+55,Female,Project Manager,10,Hybrid,27,0,1,High,Decrease,3,Satisfied,3,Medium,Medium,Low
+40,Female,Data Scientist,31,Remote,56,4,4,Low,No Change,4,Satisfied,2,Low,High,High
+52,Female,Software Engineer,30,Remote,22,6,5,Low,Increase,3,Satisfied,2,Low,Medium,High
+47,Male,Software Engineer,24,Remote,45,1,1,Medium,No Change,3,Satisfied,2,Low,Medium,Low
+39,Non-binary,Project Manager,1,Onsite,45,5,1,High,Decrease,1,Neutral,4,High,Low,Low
+26,Non-binary,Software Engineer,2,Hybrid,56,9,3,Low,Decrease,2,Unsatisfied,3,Medium,Low,Medium
+34,Prefer not to say,Project Manager,26,Onsite,26,15,1,Low,No Change,2,Satisfied,2,Low,Low,Low
+26,Non-binary,Data Scientist,18,Remote,53,4,2,Low,Decrease,5,Unsatisfied,4,High,High,Low
+50,Non-binary,Project Manager,5,Remote,23,0,4,Medium,Increase,4,Unsatisfied,4,High,High,High
+55,Male,Data Scientist,19,Remote,20,6,4,High,No Change,1,Unsatisfied,3,Medium,Low,High
+48,Male,Data Scientist,24,Remote,29,1,2,Low,No Change,1,Neutral,1,Low,Low,Low
+30,Prefer not to say,Software Engineer,13,Remote,60,14,4,Medium,No Change,5,Unsatisfied,5,High,High,High
+54,Female,Project Manager,7,Remote,38,10,3,Low,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+43,Prefer not to say,Software Engineer,27,Onsite,54,0,3,High,Decrease,3,Unsatisfied,2,Low,Medium,Medium
+53,Female,Data Scientist,6,Remote,37,4,1,Low,No Change,4,Unsatisfied,3,Medium,High,Low
+25,Male,Software Engineer,22,Hybrid,58,10,4,High,Decrease,1,Unsatisfied,4,High,Low,High
+52,Prefer not to say,Data Scientist,22,Onsite,56,2,1,Low,Increase,2,Unsatisfied,2,Low,Low,Low
+58,Prefer not to say,Software Engineer,3,Hybrid,59,7,4,High,Increase,1,Satisfied,3,Medium,Low,High
+51,Male,Project Manager,3,Onsite,55,4,1,High,Increase,3,Unsatisfied,1,Low,Medium,Low
+28,Male,Project Manager,18,Onsite,32,10,3,Medium,No Change,1,Unsatisfied,4,High,Low,Medium
+45,Male,Software Engineer,13,Onsite,37,7,4,Medium,Increase,3,Satisfied,4,High,Medium,High
+51,Prefer not to say,Software Engineer,23,Onsite,28,4,5,High,Increase,4,Satisfied,4,High,High,High
+27,Prefer not to say,Software Engineer,28,Onsite,54,12,1,Medium,Increase,2,Satisfied,4,High,Low,Low
+40,Non-binary,Software Engineer,3,Remote,42,10,4,Low,Decrease,2,Unsatisfied,2,Low,Low,High
+22,Female,Data Scientist,30,Hybrid,60,3,4,High,No Change,5,Neutral,3,Medium,High,High
+60,Prefer not to say,Project Manager,23,Onsite,31,4,3,Low,Increase,1,Neutral,3,Medium,Low,Medium
+53,Male,Data Scientist,1,Hybrid,39,6,5,Low,No Change,2,Unsatisfied,3,Medium,Low,High
+56,Male,Project Manager,35,Onsite,25,13,2,Medium,Decrease,1,Unsatisfied,3,Medium,Low,Low
+44,Non-binary,Data Scientist,9,Remote,49,6,4,Medium,Increase,1,Neutral,5,High,Low,High
+55,Male,Software Engineer,9,Onsite,42,9,2,Medium,Decrease,2,Satisfied,1,Low,Low,Low
+58,Prefer not to say,Software Engineer,18,Hybrid,33,13,5,Low,No Change,3,Satisfied,3,Medium,Medium,High
+35,Female,Software Engineer,31,Onsite,58,0,2,Medium,Increase,4,Neutral,5,High,High,Low
+46,Non-binary,Software Engineer,19,Hybrid,22,12,4,Medium,Decrease,2,Neutral,4,High,Low,High
+47,Male,Data Scientist,20,Hybrid,34,5,3,High,Decrease,5,Neutral,1,Low,High,Medium
+59,Prefer not to say,Project Manager,8,Hybrid,22,13,4,High,Decrease,1,Unsatisfied,3,Medium,Low,High
+45,Prefer not to say,Data Scientist,12,Remote,42,14,3,Medium,No Change,1,Unsatisfied,2,Low,Low,Medium
+29,Female,Data Scientist,9,Hybrid,24,9,1,Medium,Decrease,4,Neutral,1,Low,High,Low
+60,Non-binary,Project Manager,15,Onsite,47,4,5,Low,No Change,1,Satisfied,1,Low,Low,High
+57,Prefer not to say,Project Manager,23,Onsite,20,6,5,Medium,No Change,3,Neutral,4,High,Medium,High
+55,Prefer not to say,Software Engineer,25,Remote,59,12,4,Low,No Change,3,Neutral,1,Low,Medium,High
+26,Male,Project Manager,21,Remote,42,5,2,Medium,Increase,2,Neutral,4,High,Low,Low
+52,Female,Data Scientist,20,Onsite,27,1,5,High,No Change,1,Satisfied,4,High,Low,High
+49,Male,Project Manager,5,Onsite,40,5,2,Low,Decrease,4,Satisfied,3,Medium,High,Low
+51,Male,Software Engineer,17,Remote,45,14,1,Low,Decrease,4,Unsatisfied,5,High,High,Low
+24,Male,Software Engineer,31,Hybrid,57,1,2,Low,No Change,2,Neutral,2,Low,Low,Low
+38,Female,Software Engineer,1,Onsite,20,12,1,Low,Decrease,4,Unsatisfied,1,Low,High,Low
+36,Female,Data Scientist,32,Remote,45,15,2,High,Increase,2,Unsatisfied,1,Low,Low,Low
+51,Non-binary,Software Engineer,32,Onsite,54,15,3,Low,Increase,2,Unsatisfied,3,Medium,Low,Medium
+56,Prefer not to say,Software Engineer,5,Hybrid,35,3,5,Medium,Increase,2,Neutral,5,High,Low,High
+30,Non-binary,Data Scientist,27,Onsite,48,5,5,Low,No Change,5,Satisfied,4,High,High,High
+59,Female,Project Manager,12,Remote,49,9,2,High,No Change,3,Unsatisfied,4,High,Medium,Low
+40,Prefer not to say,Data Scientist,18,Onsite,42,3,4,Medium,Increase,2,Neutral,4,High,Low,High
+30,Non-binary,Data Scientist,21,Onsite,48,1,1,Medium,Decrease,5,Neutral,3,Medium,High,Low
+57,Non-binary,Data Scientist,27,Onsite,56,2,3,Low,No Change,3,Unsatisfied,4,High,Medium,Medium
+48,Prefer not to say,Data Scientist,3,Remote,58,11,3,Low,Increase,5,Unsatisfied,4,High,High,Medium
+25,Male,Software Engineer,30,Hybrid,20,14,1,Medium,Decrease,5,Neutral,1,Low,High,Low
+22,Non-binary,Project Manager,26,Onsite,39,15,4,High,Increase,4,Satisfied,1,Low,High,High
+42,Non-binary,Software Engineer,18,Hybrid,43,4,5,Low,Increase,5,Satisfied,1,Low,High,High
+40,Prefer not to say,Data Scientist,7,Hybrid,60,10,3,High,Increase,2,Unsatisfied,3,Medium,Low,Medium
+51,Non-binary,Software Engineer,26,Onsite,43,2,2,High,No Change,1,Neutral,4,High,Low,Low
+34,Prefer not to say,Software Engineer,30,Hybrid,59,5,5,Low,Decrease,5,Satisfied,4,High,High,High
+28,Non-binary,Data Scientist,28,Hybrid,56,10,5,High,Decrease,5,Neutral,1,Low,High,High
+41,Prefer not to say,Software Engineer,22,Onsite,33,3,5,Low,Increase,5,Unsatisfied,5,High,High,High
+42,Female,Software Engineer,32,Hybrid,53,2,2,Low,No Change,1,Satisfied,3,Medium,Low,Low
+56,Female,Project Manager,35,Onsite,51,2,1,Low,Increase,2,Unsatisfied,4,High,Low,Low
+57,Prefer not to say,Data Scientist,14,Onsite,24,8,5,Low,Increase,1,Satisfied,5,High,Low,High
+32,Prefer not to say,Software Engineer,9,Onsite,34,15,3,Medium,Decrease,2,Unsatisfied,1,Low,Low,Medium
+35,Female,Data Scientist,34,Remote,48,7,5,Low,Decrease,2,Neutral,4,High,Low,High
+35,Non-binary,Data Scientist,6,Remote,27,5,2,Low,Increase,2,Unsatisfied,2,Low,Low,Low
+43,Prefer not to say,Software Engineer,9,Onsite,58,15,2,Medium,Decrease,3,Unsatisfied,4,High,Medium,Low
+58,Female,Project Manager,25,Remote,55,9,1,Medium,No Change,2,Satisfied,5,High,Low,Low
+48,Non-binary,Data Scientist,3,Hybrid,20,5,1,Low,Decrease,1,Satisfied,4,High,Low,Low
+38,Prefer not to say,Data Scientist,12,Hybrid,23,9,3,Low,No Change,1,Neutral,1,Low,Low,Medium
+38,Non-binary,Software Engineer,28,Remote,24,12,4,Medium,Increase,3,Unsatisfied,4,High,Medium,High
+25,Non-binary,Data Scientist,31,Onsite,39,14,1,Low,Decrease,5,Neutral,1,Low,High,Low
+22,Non-binary,Project Manager,21,Hybrid,42,13,3,Medium,Decrease,1,Unsatisfied,3,Medium,Low,Medium
+34,Male,Software Engineer,15,Onsite,29,13,3,Medium,No Change,3,Satisfied,1,Low,Medium,Medium
+47,Female,Data Scientist,26,Onsite,48,10,2,Low,Decrease,4,Satisfied,2,Low,High,Low
+26,Male,Project Manager,35,Hybrid,41,7,1,Low,Decrease,4,Unsatisfied,4,High,High,Low
+30,Male,Project Manager,22,Remote,41,15,5,High,Increase,2,Satisfied,2,Low,Low,High
+57,Non-binary,Data Scientist,25,Hybrid,23,10,4,Low,No Change,5,Satisfied,2,Low,High,High
+49,Non-binary,Software Engineer,3,Onsite,23,15,5,High,Increase,5,Neutral,3,Medium,High,High
+45,Male,Project Manager,17,Onsite,36,4,5,High,Increase,3,Unsatisfied,4,High,Medium,High
+47,Non-binary,Project Manager,31,Hybrid,32,12,4,Medium,No Change,1,Unsatisfied,1,Low,Low,High
+58,Non-binary,Software Engineer,8,Remote,49,0,1,Low,Decrease,4,Unsatisfied,4,High,High,Low
+22,Female,Software Engineer,22,Hybrid,39,7,3,Medium,No Change,2,Satisfied,3,Medium,Low,Medium
+36,Male,Project Manager,29,Remote,50,9,4,High,Increase,5,Neutral,1,Low,High,High
+24,Male,Data Scientist,34,Hybrid,31,5,1,Low,Increase,4,Satisfied,5,High,High,Low
+51,Female,Data Scientist,9,Hybrid,32,1,5,High,Increase,2,Unsatisfied,4,High,Low,High
+48,Prefer not to say,Software Engineer,35,Onsite,22,14,4,High,Increase,5,Neutral,5,High,High,High
+22,Non-binary,Software Engineer,9,Onsite,26,9,4,Low,No Change,5,Neutral,2,Low,High,High
+37,Prefer not to say,Data Scientist,28,Hybrid,54,14,5,Low,Increase,5,Neutral,2,Low,High,High
+53,Prefer not to say,Software Engineer,24,Hybrid,28,11,4,High,Decrease,4,Satisfied,5,High,High,High
+29,Non-binary,Software Engineer,3,Remote,43,4,5,Medium,No Change,2,Unsatisfied,1,Low,Low,High
+56,Male,Data Scientist,12,Onsite,58,9,3,Low,No Change,2,Neutral,2,Low,Low,Medium
+54,Prefer not to say,Project Manager,8,Onsite,40,5,4,High,Decrease,4,Neutral,1,Low,High,High
+38,Prefer not to say,Data Scientist,14,Remote,33,2,1,High,No Change,5,Satisfied,4,High,High,Low
+41,Male,Data Scientist,11,Remote,39,10,1,Medium,No Change,1,Unsatisfied,4,High,Low,Low
+55,Male,Project Manager,32,Remote,34,4,1,High,No Change,4,Neutral,5,High,High,Low
+23,Non-binary,Software Engineer,8,Hybrid,20,7,2,High,No Change,3,Neutral,2,Low,Medium,Low
+57,Prefer not to say,Software Engineer,17,Hybrid,28,9,2,Medium,Increase,2,Unsatisfied,2,Low,Low,Low
+46,Male,Software Engineer,7,Onsite,33,7,5,Low,Increase,4,Unsatisfied,4,High,High,High
+25,Non-binary,Project Manager,33,Onsite,53,13,1,High,No Change,5,Unsatisfied,1,Low,High,Low
+38,Female,Project Manager,26,Onsite,20,4,4,High,Increase,2,Satisfied,3,Medium,Low,High
+56,Male,Data Scientist,4,Remote,37,14,4,Low,Decrease,1,Unsatisfied,1,Low,Low,High
+49,Prefer not to say,Project Manager,18,Remote,60,14,3,Medium,No Change,1,Neutral,1,Low,Low,Medium
+57,Female,Software Engineer,4,Remote,35,3,4,High,No Change,3,Unsatisfied,4,High,Medium,High
+34,Female,Data Scientist,20,Hybrid,21,6,4,Low,Decrease,4,Satisfied,4,High,High,High
+29,Non-binary,Software Engineer,27,Hybrid,50,3,3,Medium,Increase,1,Unsatisfied,4,High,Low,Medium
+45,Female,Project Manager,34,Hybrid,40,3,5,High,No Change,2,Satisfied,5,High,Low,High
+50,Prefer not to say,Data Scientist,21,Onsite,38,8,2,Medium,Decrease,2,Neutral,5,High,Low,Low
+55,Prefer not to say,Data Scientist,5,Remote,35,1,5,High,Increase,4,Unsatisfied,4,High,High,High
+39,Non-binary,Data Scientist,21,Remote,31,0,3,Medium,Increase,5,Neutral,5,High,High,Medium
+57,Female,Data Scientist,20,Onsite,52,11,2,High,No Change,1,Neutral,2,Low,Low,Low
+43,Non-binary,Project Manager,23,Hybrid,28,9,5,Medium,No Change,5,Neutral,3,Medium,High,High
+50,Male,Data Scientist,2,Remote,33,15,4,Low,No Change,3,Unsatisfied,1,Low,Medium,High
+25,Prefer not to say,Project Manager,19,Hybrid,49,9,5,High,No Change,1,Unsatisfied,3,Medium,Low,High
+56,Female,Project Manager,5,Hybrid,33,0,5,Medium,Decrease,3,Satisfied,4,High,Medium,High
+26,Prefer not to say,Data Scientist,24,Remote,56,8,3,High,Increase,5,Neutral,4,High,High,Medium
+24,Male,Software Engineer,2,Hybrid,52,6,4,High,Decrease,4,Neutral,1,Low,High,High
+53,Prefer not to say,Software Engineer,20,Hybrid,45,10,1,Medium,Decrease,2,Satisfied,5,High,Low,Low
+30,Female,Data Scientist,33,Remote,53,14,1,Low,Increase,3,Satisfied,1,Low,Medium,Low
+29,Female,Project Manager,29,Onsite,60,5,3,High,Increase,1,Satisfied,5,High,Low,Medium
+26,Prefer not to say,Software Engineer,12,Remote,24,1,3,Low,Decrease,3,Neutral,3,Medium,Medium,Medium
+28,Prefer not to say,Project Manager,26,Onsite,58,10,4,High,Increase,4,Neutral,4,High,High,High
+33,Prefer not to say,Data Scientist,21,Onsite,21,12,3,Low,Decrease,3,Neutral,5,High,Medium,Medium
+48,Non-binary,Software Engineer,31,Remote,20,7,2,High,No Change,2,Neutral,3,Medium,Low,Low
+32,Non-binary,Software Engineer,22,Onsite,40,15,1,Low,No Change,3,Satisfied,3,Medium,Medium,Low
+40,Non-binary,Data Scientist,15,Hybrid,24,11,1,Medium,Increase,3,Unsatisfied,2,Low,Medium,Low
+59,Non-binary,Software Engineer,19,Remote,27,12,5,High,Decrease,3,Satisfied,2,Low,Medium,High
+25,Prefer not to say,Data Scientist,7,Onsite,46,2,1,Medium,No Change,4,Satisfied,5,High,High,Low
+51,Male,Project Manager,27,Hybrid,54,0,1,High,Decrease,1,Satisfied,3,Medium,Low,Low
+54,Non-binary,Software Engineer,21,Hybrid,59,1,5,Low,Decrease,2,Satisfied,2,Low,Low,High
+48,Female,Project Manager,32,Onsite,21,12,2,Medium,Decrease,2,Unsatisfied,2,Low,Low,Low
+60,Prefer not to say,Project Manager,15,Hybrid,40,11,4,High,Increase,3,Satisfied,5,High,Medium,High
+60,Prefer not to say,Project Manager,7,Onsite,25,6,5,Medium,Decrease,1,Neutral,1,Low,Low,High
+51,Female,Project Manager,23,Remote,27,14,4,Medium,Decrease,2,Neutral,2,Low,Low,High
+55,Prefer not to say,Software Engineer,22,Hybrid,20,8,4,Low,No Change,2,Neutral,3,Medium,Low,High
+25,Female,Project Manager,5,Remote,26,12,2,Low,Increase,2,Neutral,1,Low,Low,Low
+26,Prefer not to say,Software Engineer,2,Remote,50,8,2,Medium,No Change,5,Neutral,1,Low,High,Low
+52,Non-binary,Software Engineer,15,Onsite,42,11,2,High,Increase,1,Satisfied,5,High,Low,Low
+41,Prefer not to say,Project Manager,29,Hybrid,34,6,1,Low,Increase,3,Satisfied,5,High,Medium,Low
+25,Non-binary,Project Manager,18,Onsite,21,1,3,Low,No Change,5,Satisfied,5,High,High,Medium
+23,Female,Project Manager,14,Hybrid,44,12,3,Medium,Increase,4,Neutral,1,Low,High,Medium
+40,Female,Software Engineer,23,Hybrid,38,14,1,Medium,Decrease,1,Neutral,1,Low,Low,Low
+25,Prefer not to say,Data Scientist,6,Remote,32,4,4,Low,No Change,4,Neutral,2,Low,High,High
+55,Female,Project Manager,13,Remote,53,11,5,High,Decrease,2,Neutral,2,Low,Low,High
+46,Female,Data Scientist,27,Remote,28,11,1,Medium,Increase,5,Neutral,4,High,High,Low
+33,Prefer not to say,Project Manager,19,Hybrid,40,3,3,Low,Increase,2,Neutral,3,Medium,Low,Medium
+60,Non-binary,Software Engineer,34,Onsite,39,4,1,High,Decrease,3,Satisfied,2,Low,Medium,Low
+51,Female,Data Scientist,29,Hybrid,48,10,5,High,No Change,5,Neutral,4,High,High,High
+31,Male,Data Scientist,29,Onsite,48,10,3,Medium,Increase,4,Unsatisfied,3,Medium,High,Medium
+55,Non-binary,Project Manager,33,Hybrid,24,11,2,High,Increase,3,Neutral,3,Medium,Medium,Low
+31,Female,Project Manager,23,Remote,45,14,2,Low,Decrease,5,Neutral,3,Medium,High,Low
+26,Female,Software Engineer,20,Hybrid,31,2,2,Medium,Increase,4,Unsatisfied,1,Low,High,Low
+54,Male,Data Scientist,7,Remote,25,1,1,High,Increase,5,Satisfied,4,High,High,Low
+24,Female,Project Manager,33,Remote,31,2,4,Low,Decrease,1,Neutral,3,Medium,Low,High
+31,Female,Data Scientist,25,Remote,30,12,1,Low,No Change,2,Neutral,3,Medium,Low,Low
+36,Male,Project Manager,16,Onsite,49,13,3,High,No Change,2,Neutral,4,High,Low,Medium
+53,Male,Project Manager,22,Remote,37,12,1,High,Increase,5,Satisfied,4,High,High,Low
+37,Non-binary,Project Manager,3,Remote,51,1,4,Low,Decrease,4,Neutral,3,Medium,High,High
+52,Prefer not to say,Software Engineer,31,Onsite,32,0,3,High,Increase,3,Neutral,3,Medium,Medium,Medium
+51,Female,Software Engineer,14,Remote,31,0,5,Medium,No Change,2,Unsatisfied,1,Low,Low,High
+34,Male,Data Scientist,30,Hybrid,51,7,5,High,No Change,5,Satisfied,1,Low,High,High
+27,Female,Project Manager,10,Hybrid,21,3,4,High,Decrease,4,Satisfied,2,Low,High,High
+28,Female,Software Engineer,9,Remote,21,0,1,Medium,Decrease,4,Unsatisfied,1,Low,High,Low
+34,Male,Project Manager,18,Hybrid,57,14,4,Low,Increase,2,Neutral,3,Medium,Low,High
+40,Prefer not to say,Project Manager,4,Remote,53,12,2,Low,Decrease,3,Neutral,1,Low,Medium,Low
+57,Non-binary,Data Scientist,13,Remote,30,1,3,Medium,Increase,3,Unsatisfied,2,Low,Medium,Medium
+38,Male,Data Scientist,1,Onsite,58,10,5,Medium,No Change,3,Neutral,4,High,Medium,High
+30,Non-binary,Software Engineer,4,Onsite,47,8,2,Medium,No Change,4,Neutral,4,High,High,Low
+47,Prefer not to say,Software Engineer,9,Hybrid,59,10,4,High,No Change,3,Neutral,1,Low,Medium,High
+29,Female,Software Engineer,5,Remote,33,14,5,Medium,Increase,3,Satisfied,2,Low,Medium,High
+49,Male,Project Manager,8,Onsite,48,8,5,Medium,Increase,5,Unsatisfied,5,High,High,High
+57,Prefer not to say,Data Scientist,21,Onsite,52,9,3,Low,No Change,1,Satisfied,3,Medium,Low,Medium
+29,Male,Project Manager,26,Hybrid,39,0,5,Low,Increase,4,Unsatisfied,3,Medium,High,High
+32,Prefer not to say,Software Engineer,32,Remote,53,8,3,High,No Change,5,Unsatisfied,5,High,High,Medium
+56,Male,Software Engineer,22,Remote,60,6,1,High,Increase,5,Satisfied,5,High,High,Low
+49,Non-binary,Project Manager,4,Remote,38,6,4,Medium,Decrease,5,Neutral,1,Low,High,High
+27,Male,Software Engineer,13,Hybrid,29,9,5,High,Decrease,5,Satisfied,3,Medium,High,High
+54,Prefer not to say,Project Manager,34,Remote,56,10,3,Medium,No Change,3,Satisfied,2,Low,Medium,Medium
+34,Non-binary,Project Manager,8,Hybrid,38,8,3,Low,Decrease,5,Neutral,5,High,High,Medium
+51,Non-binary,Data Scientist,29,Remote,24,1,2,High,Decrease,1,Satisfied,3,Medium,Low,Low
+34,Female,Software Engineer,33,Remote,46,9,5,High,Decrease,1,Satisfied,2,Low,Low,High
+34,Non-binary,Project Manager,26,Onsite,21,12,1,Low,Increase,4,Neutral,5,High,High,Low
+47,Prefer not to say,Data Scientist,4,Remote,21,11,2,High,No Change,4,Unsatisfied,5,High,High,Low
+24,Non-binary,Project Manager,16,Remote,59,8,1,Medium,Decrease,5,Neutral,3,Medium,High,Low
+22,Female,Software Engineer,6,Remote,44,11,4,High,No Change,3,Unsatisfied,5,High,Medium,High
+23,Male,Project Manager,34,Hybrid,56,10,1,Medium,No Change,1,Neutral,1,Low,Low,Low
+39,Prefer not to say,Project Manager,7,Hybrid,52,0,5,High,No Change,2,Satisfied,1,Low,Low,High
+34,Prefer not to say,Project Manager,30,Remote,29,7,5,Low,Decrease,1,Satisfied,5,High,Low,High
+42,Female,Project Manager,7,Remote,38,4,4,Medium,No Change,1,Satisfied,2,Low,Low,High
+32,Male,Software Engineer,4,Onsite,26,1,1,Low,Decrease,2,Satisfied,3,Medium,Low,Low
+50,Non-binary,Software Engineer,11,Hybrid,53,10,1,High,Decrease,2,Neutral,4,High,Low,Low
+49,Non-binary,Software Engineer,14,Hybrid,60,7,1,High,Decrease,1,Neutral,4,High,Low,Low
+29,Prefer not to say,Software Engineer,34,Onsite,32,10,4,Low,Increase,3,Satisfied,5,High,Medium,High
+51,Female,Data Scientist,6,Hybrid,54,1,5,Medium,Increase,4,Neutral,2,Low,High,High
+22,Male,Project Manager,14,Remote,55,2,5,High,No Change,4,Unsatisfied,4,High,High,High
+23,Non-binary,Data Scientist,33,Hybrid,51,15,3,Medium,No Change,4,Neutral,1,Low,High,Medium
+23,Male,Data Scientist,14,Remote,29,6,3,Low,Increase,2,Unsatisfied,5,High,Low,Medium
+26,Non-binary,Data Scientist,3,Remote,37,12,4,Low,Increase,2,Unsatisfied,4,High,Low,High
+31,Female,Project Manager,22,Remote,33,6,1,Low,No Change,2,Satisfied,2,Low,Low,Low
+57,Male,Data Scientist,25,Onsite,29,12,1,Low,Decrease,2,Satisfied,5,High,Low,Low
+32,Prefer not to say,Data Scientist,11,Hybrid,24,14,4,Low,Decrease,5,Unsatisfied,1,Low,High,High
+31,Male,Project Manager,30,Onsite,56,4,4,High,Increase,2,Neutral,4,High,Low,High
+35,Non-binary,Project Manager,17,Onsite,42,15,2,Low,No Change,1,Satisfied,3,Medium,Low,Low
+53,Non-binary,Software Engineer,23,Onsite,28,9,1,Medium,Decrease,3,Satisfied,1,Low,Medium,Low
+41,Non-binary,Project Manager,34,Remote,49,8,5,Medium,Increase,2,Satisfied,3,Medium,Low,High
+29,Male,Software Engineer,16,Hybrid,31,7,3,Low,Decrease,3,Unsatisfied,3,Medium,Medium,Medium
+38,Female,Data Scientist,14,Hybrid,33,5,5,High,Increase,2,Neutral,3,Medium,Low,High
+56,Prefer not to say,Data Scientist,24,Remote,33,10,3,High,Decrease,3,Satisfied,2,Low,Medium,Medium
+34,Non-binary,Project Manager,7,Onsite,56,12,1,Low,Increase,2,Satisfied,1,Low,Low,Low
+27,Male,Project Manager,25,Onsite,41,6,2,High,Increase,3,Unsatisfied,4,High,Medium,Low
+24,Female,Project Manager,9,Onsite,39,6,2,Medium,Increase,5,Satisfied,3,Medium,High,Low
+58,Female,Software Engineer,1,Onsite,60,7,4,Medium,No Change,1,Satisfied,2,Low,Low,High
+24,Non-binary,Project Manager,24,Remote,54,2,5,Medium,Increase,2,Neutral,2,Low,Low,High
+33,Female,Project Manager,1,Hybrid,46,9,3,High,No Change,3,Neutral,3,Medium,Medium,Medium
+32,Male,Project Manager,28,Onsite,20,12,2,Low,Increase,2,Neutral,4,High,Low,Low
+39,Non-binary,Project Manager,33,Onsite,53,12,5,Low,Increase,1,Neutral,2,Low,Low,High
+55,Male,Data Scientist,6,Hybrid,57,3,5,Medium,No Change,1,Neutral,5,High,Low,High
+22,Female,Project Manager,4,Onsite,22,14,5,Low,Decrease,1,Unsatisfied,3,Medium,Low,High
+23,Male,Software Engineer,13,Remote,43,8,1,Medium,Increase,4,Satisfied,3,Medium,High,Low
+28,Non-binary,Data Scientist,22,Hybrid,42,2,1,Low,Increase,5,Satisfied,4,High,High,Low
+56,Male,Project Manager,12,Remote,55,3,2,Low,Decrease,2,Neutral,3,Medium,Low,Low
+31,Prefer not to say,Software Engineer,16,Hybrid,45,14,4,Medium,Increase,1,Neutral,3,Medium,Low,High
+50,Non-binary,Project Manager,26,Hybrid,50,7,4,Low,Decrease,3,Unsatisfied,1,Low,Medium,High
+30,Prefer not to say,Data Scientist,34,Remote,47,14,1,Low,Decrease,2,Satisfied,5,High,Low,Low
+26,Prefer not to say,Data Scientist,13,Remote,30,7,2,Low,Decrease,3,Unsatisfied,4,High,Medium,Low
+25,Prefer not to say,Software Engineer,30,Hybrid,57,13,1,Low,No Change,2,Unsatisfied,2,Low,Low,Low
+49,Prefer not to say,Software Engineer,15,Onsite,33,11,2,Low,No Change,2,Satisfied,1,Low,Low,Low
+27,Prefer not to say,Project Manager,19,Hybrid,25,8,2,High,Decrease,5,Satisfied,2,Low,High,Low
+56,Prefer not to say,Data Scientist,30,Hybrid,26,5,1,Medium,Decrease,2,Satisfied,1,Low,Low,Low
+57,Female,Data Scientist,29,Hybrid,44,2,4,Low,Increase,1,Satisfied,2,Low,Low,High
+45,Female,Data Scientist,6,Remote,36,3,3,Medium,Increase,2,Unsatisfied,1,Low,Low,Medium
+26,Female,Data Scientist,4,Onsite,41,11,3,High,Increase,4,Unsatisfied,3,Medium,High,Medium
+39,Female,Data Scientist,11,Hybrid,20,0,4,Low,No Change,2,Unsatisfied,2,Low,Low,High
+24,Female,Project Manager,15,Remote,40,11,2,High,No Change,3,Neutral,1,Low,Medium,Low
+38,Prefer not to say,Software Engineer,31,Onsite,38,2,1,High,No Change,1,Unsatisfied,2,Low,Low,Low
+57,Non-binary,Software Engineer,11,Remote,25,5,2,Low,Increase,5,Unsatisfied,3,Medium,High,Low
+41,Non-binary,Project Manager,7,Hybrid,46,2,3,Low,Increase,4,Unsatisfied,2,Low,High,Medium
+40,Non-binary,Project Manager,33,Hybrid,42,11,3,Medium,Decrease,1,Unsatisfied,4,High,Low,Medium
+40,Male,Data Scientist,19,Remote,49,7,5,Medium,Increase,5,Unsatisfied,5,High,High,High
+53,Prefer not to say,Software Engineer,20,Onsite,32,5,2,Low,Decrease,4,Neutral,5,High,High,Low
+39,Prefer not to say,Software Engineer,11,Hybrid,50,10,3,Low,Decrease,2,Neutral,5,High,Low,Medium
+32,Prefer not to say,Software Engineer,9,Hybrid,24,15,2,Medium,No Change,4,Neutral,4,High,High,Low
+58,Prefer not to say,Project Manager,10,Onsite,45,10,1,High,Increase,5,Unsatisfied,3,Medium,High,Low
+60,Female,Data Scientist,9,Hybrid,57,4,2,Low,Increase,4,Satisfied,5,High,High,Low
+55,Prefer not to say,Project Manager,21,Hybrid,45,7,2,High,No Change,2,Satisfied,3,Medium,Low,Low

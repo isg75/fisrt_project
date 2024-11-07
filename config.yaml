@@ -1,5 +1,8 @@
 input_data:
-  file: "../data/raw/raw_data_file.csv"
+  productivity_file:  '../data/raw/Extended_Employee_Performance_and_Productivity_Data.csv'
+  mentalhealth_file:  '../data/raw/Impact_of_Remote_Work_on_Mental_Health.csv'
 
 output_data:
-  file: "../data/clean/cleaned_data_file.csv"
+  productivity_file: '../data/clean/df_cleaned.csv'
+  mentalhealth_file: '../data/clean/df2_cleaned.csv'
+    
