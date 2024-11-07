@@ -87,3 +87,4 @@ As this dataset lack some information that we were looking for, we also used Ste
 # Next steps
 - By using a dataset which contains the costs of game production we can have a better look at profitability of the companies.
 - The dataset can be merged with other gaming platforms to have a better overall view of game industry.
+- To produce further analysis, we could supplements our data with splits by geography and changes over time.
