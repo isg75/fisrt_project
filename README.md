@@ -69,7 +69,7 @@ As this dataset lack some information that we were looking for, we also used Ste
 - Finding other sources to complete the dataset
 
 ## Solutions for the dataset issues
-- Using Steam API and web scrapping to add the required information to the dataset.
+- Using Steam API and web scraping to add the required information to the dataset.
 
 # Hypotheses:
 - Games released during peak seasons (eg. holidays/ sales) generate higher revenue.
