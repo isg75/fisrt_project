@@ -81,7 +81,8 @@ As this dataset lack some information that we were looking for, we also used Ste
 - The price of the game and its review score don't have any meaningful correlation with each other.
 - The top 5 highest grossing games released during the Steam Sale have a mean revenue of $319,158.21, while the top 5 highest grossing games released outside of the Steam Sale have a mean revenue of $2,659,939.32. This is over 8 times higher. The large gap suggests that release timing, specifically in relation to major sales events like the Steam Sale, has a substantial impact on a game's revenue performance. Games released during the Steam Sale seem to generate notably lower revenue on average compared to those released at other times
 - Action and Adventure are the genres with the greatest total revenue for the top new games, but average revenue per game is similar across genres. The greatest median revenue was for Simulation and Racing games.  
-
+- The average revenue for high score games is higher, proving the hypothesis.
+- There is no meaningful correlation between the price and review score.
 
 # Next steps
 - By using a dataset which contains the costs of game production we can have a better look at profitability of the companies.
