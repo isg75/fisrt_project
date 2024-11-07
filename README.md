@@ -71,7 +71,7 @@ As this dataset lack some information that we were looking for, we also used Ste
 ## Solutions for the dataset issues
 - Using Steam API and web scrapping to add the required information to the dataset.
 
-# Hypothesises:
+# Hypotheses:
 - Games released during peak seasons (eg. holidays/ sales) generate higher revenue.
 - Certain genres drive higher average revenue.
 - Higher-priced games have better ratings and more revenue potential.
