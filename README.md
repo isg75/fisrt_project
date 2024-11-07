@@ -55,7 +55,7 @@ If you're a Windows user type:
 uv pip install -r requirements.txt
 ```
 
-# Questions 
+# Business Case 
 An investment company wants to invest in the game industry. By gathering and examining this dataset our aim was to help this company to reach the best decision. 
 
 # Dataset 
@@ -71,13 +71,14 @@ As this dataset lack some information that we were looking for, we also used Ste
 ## Solutions for the dataset issues
 - Using Steam API and web scrapping to add the required information to the dataset.
 
-# Hypothesises:
-- Is there a correlation between the release time (holidays, sales) and revenue?
-- Examining the correlation between genre and revenue.
-- Games with high reviewScores and positive reviewScore generate higher revenue?
-- Do more expensive games have higher rating?
+# Hypotheses:
+- Games released during peak seasons (eg. holidays/ sales) generate higher revenue.
+- Certain genres drive higher average revenue.
+- Higher-priced games have better ratings and more revenue potential.
+- High review scores and positive sentiment correlate with higher revenue.
+- Multiplayer and in-app purchases increase revenue potential.
 
-# Conclussions and findings:
+# Conclusions and findings:
 - The price of the game and its review score don't have any meaningful correlation with each other.
 - The top 5 highest grossing games released during the Steam Sale have a mean revenue of $319,158.21, while the top 5 highest grossing games released outside of the Steam Sale have a mean revenue of $2,659,939.32. This is over 8 times higher. The large gap suggests that release timing, specifically in relation to major sales events like the Steam Sale, has a substantial impact on a game's revenue performance. Games released during the Steam Sale seem to generate notably lower revenue on average compared to those released at other times
 - Action and Adventure are the genres with the greatest total revenue for the top new games, but average revenue per game is similar across genres. The greatest median revenue was for Simulation and Racing games.  
