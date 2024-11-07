@@ -55,7 +55,7 @@ If you're a Windows user type:
 uv pip install -r requirements.txt
 ```
 
-# Questions 
+# Business Case 
 An investment company wants to invest in the game industry. By gathering and examining this dataset our aim was to help this company to reach the best decision. 
 
 # Dataset 
@@ -69,9 +69,9 @@ As this dataset lack some information that we were looking for, we also used Ste
 - Finding other sources to complete the dataset
 
 ## Solutions for the dataset issues
-- Using Steam API and web scrapping to add the required information to the dataset.
+- Using Steam API and web scraping to add the required information to the dataset.
 
-# Hypothesises:
+# Hypotheses:
 - Games released during peak seasons (eg. holidays/ sales) generate higher revenue.
 - Certain genres drive higher average revenue.
 - Higher-priced games have better ratings and more revenue potential.
