@@ -1,5 +1,6 @@
 # Project overview
-...
+
+By analyzing a dataset of games released on Steam in 2024, we aimed to provide insights into market trends, popular genres, and growth areas to guide strategic investment decisions in the gaming industry.
 
 # Installation
 
