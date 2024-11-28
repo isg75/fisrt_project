@@ -164,6 +164,7 @@ SELECT
     ROUND(sc.num_visits * 100.0 / tv.total_visits, 2) AS percentage
 FROM cte_step_counts sc
 JOIN cte_total_visits tv ON sc.variation = tv.variation
-ORDER BY FIELD(sc.variation, "Control", "Test"),
-         FIELD(sc.process_step, "start", "step_1", "step_2", "step_3", "confirm");
+ORDER BY
+    FIELD(sc.variation, "Control", "Test"),
+    FIELD(sc.process_step, "start", "step_1", "step_2", "step_3", "confirm");
 
