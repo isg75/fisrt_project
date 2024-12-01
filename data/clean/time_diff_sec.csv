@@ -1,0 +1,11 @@
+variation,process_step,average_time_diff_seconds
+Control,confirm,120.99504649343878
+Control,start,0.0
+Control,step_1,41.85813057476118
+Control,step_2,40.76246200922116
+Control,step_3,94.0346435231674
+Test,confirm,112.4339453125
+Test,start,0.0
+Test,step_1,37.584906636321314
+Test,step_2,47.93964205961358
+Test,step_3,96.18081596211327

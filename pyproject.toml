@@ -11,6 +11,9 @@ dependencies = [
     "seaborn>=0.13.2",
     "jupyter>=1.1.1",
     "ipykernel>=6.29.5",
+    "sqlalchemy>=2.0.36",
+    "pymysql>=1.1.1",
+    "cryptography>=43.0.3",
 ]
 
 [build-system]

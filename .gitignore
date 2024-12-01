@@ -6,3 +6,4 @@ notebooks/.env
 notebooks/.DS_Store
 .DS_Store
 *.in
+__pycache__/

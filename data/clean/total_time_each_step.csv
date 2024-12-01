@@ -1,0 +1,9 @@
+variation,process_step,total_time_spent_seconds
+Control,confirm,4176870.0
+Control,step_1,2379258.0
+Control,step_2,1971558.0
+Control,step_3,3933093.0
+Test,confirm,2878309.0
+Test,step_1,1453258.0
+Test,step_2,1481287.0
+Test,step_3,2477714.0

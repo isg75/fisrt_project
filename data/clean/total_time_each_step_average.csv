@@ -1,0 +1,9 @@
+variation,process_step,average_time_spent_seconds
+Control,confirm,130.25040538854932
+Control,step_1,42.260355239786854
+Control,step_2,40.95042060442414
+Control,step_3,94.86018522984902
+Test,confirm,129.59518235029267
+Test,step_1,37.89657870032335
+Test,step_2,48.20642410830513
+Test,step_3,97.19193504099165
