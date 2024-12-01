@@ -70,7 +70,11 @@ uv pip install -r requirements.txt
 ## Solutions for the dataset issues
 ...
 
-# Conclussions
+## Slides
+
+https://docs.google.com/presentation/d/1pIAcE5RoUORcY9Z3HZl6_fNK113R7y5pWrNVE4h4qxY/edit?usp=sharing
+
+# Conclusions
 ...
 
 # Next steps
