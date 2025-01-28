@@ -58,8 +58,10 @@ uv pip install -r requirements.txt
 # Questions 
 ...
 
-# Dataset 
-...
+# Datasets
+- [E-commerce sales of enterprises by size class of enterprise](https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_esels__custom_15160246/default/table?lang=en)
+- [Internet purchases by individuals (2020 onwards)](https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_ib20__custom_15165260/default/table?lang=en)
+
 
 ## Main dataset issues
 
