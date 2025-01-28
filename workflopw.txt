@@ -1,0 +1,23 @@
+Every morning:
+
+Merge all the branches to main in GitHUb:
+for branch in branches:
+1-Create a pull request
+2-Merge branch in main
+
+After merging all the branches in GitHub
+1-Got to project folder
+2-Activate the nevironment
+3-Switch to the main branch : git siwtch main
+4-Dowload and overwrit your local version of main with the GitHub version of main: git pull origin main
+5ng branches in GtiHub
+gSwitch to your branch: git switch Ric
+6-Update your branch with the latest version of mian downloaded from GitHub: git merge main
+
+At the end of the day:
+1-Restart the Kernel and clea output.
+2-Save the jupyter notebook
+3-Adde the notebook to the staging area
+4-Create a commit
+5-Upload your branch to GtiHUb: git push oriign Ric
+
