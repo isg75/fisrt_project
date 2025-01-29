@@ -1,0 +1,224 @@
+Country;Capital city;GMT offset
+Afghanistan;Kabul;+04:30
+Albania;Tirana;+01:00
+Algeria;Algiers;+01:00
+American Samoa;Pago Pago;-11:00
+Andorra;Andorra la Vella;+01:00
+Angola;Luanda;+01:00
+Anguilla;The Valley;-04:00
+Antigua and Barbuda;St. John's;-04:00
+Argentina;Buenos Aires;-03:00
+Armenia;Yerevan;+04:00
+Aruba;Oranjestad;-04:00
+Australia;Canberra ACT;+11:00
+Austria;Vienna;+01:00
+Azerbaijan;Baku;+04:00
+Bahamas;Nassau;-05:00
+Bahrain;Manama;+03:00
+Bangladesh;Dhaka;+06:00
+Barbados;Bridgetown;-04:00
+Belarus;Minsk;+03:00
+Belgium;Brussels;+01:00
+Belize;Belmopan;-06:00
+Benin;Porto-Novo;+01:00
+Bermuda;Hamilton;-04:00
+Bhutan;Thimphu;+06:00
+Bolivia;La Paz;-04:00
+Bosnia and Herzegovina;Sarajevo;+01:00
+Botswana;Gaborone;+02:00
+Brazil;Brasilia;-03:00
+British Virgin Islands;Road Town;-04:00
+Brunei;Bandar Seri Begawan;+08:00
+Bulgaria;Sofia;+02:00
+Burkina Faso;Ouagadougou;0
+Burma (Myanmar);Yangon;+06:30
+Burundi;Bujumbura;+02:00
+Cambodia;Phnom Penh;+07:00
+Cameroon;Yaoundé;+01:00
+Canada;Ottawa ON;-05:00
+Cape Verde;Praia;-01:00
+Cayman Islands;George Town;-05:00
+Central African Republic;Bangui;+01:00
+Chad;N'Djamena;+01:00
+Chile;Santiago;-03:00
+China;Beijing;+08:00
+Christmas Island;Flying Fish Cove;+07:00
+Colombia;Bogota;-05:00
+Comoros;Moroni;+03:00
+Congo-Brazzaville;Brazzaville;+01:00
+Congo-Kinshasa;Kinshasa;+01:00
+Cook Islands;Avarua;-10:00
+Costa Rica;San José;-06:00
+Croatia;Zagreb;+01:00
+Cuba;Havana;-05:00
+Curaçao;Willemstad;-04:00
+Cyprus;Nicosia;+02:00
+Czech Republic;Prague;+01:00
+Denmark;Copenhagen;+01:00
+Djibouti;Djibouti;+03:00
+Dominica;Roseau;-04:00
+Dominican Republic;Santo Domingo;-04:00
+Ecuador;Quito;-05:00
+Egypt;Cairo;+02:00
+El Salvador;San Salvador;-06:00
+Equatorial Guinea;Malabo;+01:00
+Eritrea;Asmara;+03:00
+Estonia;Tallinn;+02:00
+Ethiopia;Addis Ababa;+03:00
+Falkland Islands;Stanley;-03:00
+Faroe Islands;Tórshavn;0
+Fiji;Suva;+12:00
+Finland;Helsinki;+02:00
+France;Paris;+01:00
+French Guiana;Cayenne;-03:00
+French Polynesia;Papeete;-10:00
+Gabon;Libreville;+01:00
+Gambia;Banjul;0
+Georgia;Tbilisi;+04:00
+Germany;Berlin;+01:00
+Ghana;Accra;0
+Gibraltar;Gibraltar;+01:00
+Greece;Athens;+02:00
+Grenada;St. George's;-04:00
+Guadeloupe;Basse-Terre;-04:00
+Guam;Hagatna;+10:00
+Guatemala;Guatemala City;-06:00
+Guinea;Conakry;0
+Guinea-Bissau;Bissau;0
+Guyana;Georgetown;-04:00
+Haiti;Port-au-Prince;-05:00
+Holy See (Vatican);Vatican City;+01:00
+Honduras;Tegucigalpa;-06:00
+Hungary;Budapest;+01:00
+Iceland;Reykjavik;0
+India;New Delhi;+05:30
+Indonesia;Jakarta;+07:00
+Iran;Tehran;+03:30
+Iraq;Baghdad;+03:00
+Ireland;Dublin;0
+Israel;Tel Aviv;+02:00
+Italy;Rome;+01:00
+Ivory Coast;Yamoussoukro;0
+Jamaica;Kingston;-05:00
+Japan;Tokyo;+09:00
+Jordan;Amman;+03:00
+Kazakhstan;Astana;+05:00
+Kenya;Nairobi;+03:00
+Kiribati;South Tarawa;+12:00
+Kuwait;Kuwait City;+03:00
+Kyrgyzstan;Bishkek;+06:00
+Laos;Vientiane;+07:00
+Latvia;Riga;+02:00
+Lebanon;Beirut;+02:00
+Lesotho;Maseru;+02:00
+Liberia;Monrovia;0
+Libya;Tripoli;+02:00
+Liechtenstein;Vaduz;+01:00
+Lithuania;Vilnius;+02:00
+Luxembourg;Luxembourg City;+01:00
+Macau;Macau;+08:00
+Macedonia;Skopje;+01:00
+Madagascar;Antananarivo;+03:00
+Malawi;Lilongwe;+02:00
+Malaysia;Kuala Lumpur;+08:00
+Maldives;Malé;+05:00
+Mali;Bamako;0
+Malta;Valletta;+01:00
+Marshall Islands;Majuro;+12:00
+Martinique;Fort-de-France;-04:00
+Mauritania;Nouakchott;0
+Mauritius;Port Louis;+04:00
+Mexico;Mexico City;-06:00
+Micronesia;Palikir;+11:00
+Moldova;Chisinau;+02:00
+Monaco;Monaco;+01:00
+Mongolia;Ulan Bator;+08:00
+Montenegro;Podgorica;+01:00
+Montserrat;Plymouth;-04:00
+Morocco;Rabat;+01:00
+Mozambique;Maputo;+02:00
+Namibia;Windhoek;+02:00
+Nauru;Yaren;+12:00
+Nepal;Kathmandu;+05:45
+Netherlands;The Hague;+01:00
+New Caledonia;Nouméa;+11:00
+New Zealand;Wellington;+13:00
+Nicaragua;Managua;-06:00
+Niger;Niamey;+01:00
+Nigeria;Abuja;+01:00
+Niue;Alofi;-11:00
+North Korea;Pyongyang;+09:00
+Northern Mariana Islands;Saipan;+10:00
+Norway;Oslo;+01:00
+Oman;Muscat;+04:00
+Pakistan;Islamabad;+05:00
+Palau;Koror;+09:00
+Palestinian Territory;Ramallah;+02:00
+Panama;Panama City;-05:00
+Paraguay;Asuncion;-03:00
+Peru;Lima;-05:00
+Philippines;Manila;+08:00
+Pitcairn;Adamstown;-08:00
+Poland;Warsaw;+01:00
+Portugal;Lisbon;0
+Puerto Rico;San Juan;-04:00
+Qatar;Doha;+03:00
+Réunion;Saint-Denis;+04:00
+Romania;Bucharest;+02:00
+Russia;Moscow;+03:00
+Rwanda;Kigali;+02:00
+Saint Kitts and Nevis;Basseterre;-04:00
+Saint Lucia;Castries;-04:00
+Saint Vincent and the Grenadines;Kingstown;-04:00
+Samoa;Apia;+13:00
+San Marino;San Marino;+01:00
+Sao Tome and Principe;Sao Tome;0
+Saudi Arabia;Riyadh;+03:00
+Senegal;Dakar;0
+Serbia;Belgrade;+01:00
+Sierra Leone;Freetown;0
+Singapore;Singapore;+08:00
+Slovakia;Bratislava;+01:00
+Slovenia;Ljubljana;+01:00
+Solomon Islands;Honiara;+11:00
+Somalia;Mogadishu;+03:00
+South Africa;Pretoria;+02:00
+South Korea;Seoul;+09:00
+Spain;Madrid;+01:00
+Sri Lanka;Colombo;+05:30
+Sudan;Khartoum;+02:00
+Suriname;Paramaribo;-03:00
+Swaziland;Mbanane;+02:00
+Sweden;Stockholm;+01:00
+Switzerland;Berne;+01:00
+Syria;Damascus;+03:00
+Taiwan;Taipei;+08:00
+Tajikistan;Dushanbe;+05:00
+Tanzania;Dar es Salaam;+03:00
+Thailand;Bangkok;+07:00
+Timor-Leste;Dili;+09:00
+Togo;Lomé;0
+Tonga;Nuku'alofa;+13:00
+Trinidad;Port of Spain;-04:00
+Tunisia;Tunis;+01:00
+Turkey;Ankara;+03:00
+Turkmenistan;Ashgabat;+05:00
+Turks and Caicos Islands;Cockburn Town;-05:00
+Tuvalu;Funafuti;+12:00
+Uganda;Kampala;+03:00
+Ukraine;Kiev;+02:00
+United Arab Emirates;Abu Dhabi;+04:00
+UK;London;0
+Uruguay;Montevideo;-03:00
+US Virgin Islands;Charlotte Amalie;-04:00
+USA;Washington DC;-05:00
+Uzbekistan;Tashkent;+05:00
+Vanuatu;Port Vila;+11:00
+Venezuela;Caracas;-04:00
+Vietnam;Hanoi;+07:00
+Yemen;Sana'a;+03:00
+Zambia;Lusaka;+02:00
+Zimbabwe;Harare;+02:00
+USA;Atlanta;-05:00
+Australia;Sydney;+09:00
+Brazil;Rio de Janeiro;-03:00
