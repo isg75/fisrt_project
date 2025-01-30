@@ -1,4 +1,6 @@
-# Project overview
+# Week 3 | Project: Olympic Dataset
+
+### **Project Overview*
 ...
 
 # Installation
@@ -54,8 +56,11 @@ If you're a Windows user type:
 ```bash
 uv pip install -r requirements.txt
 ```
-
-# Questions 
+### **Dataset and Hypothesis**
+# Dataset 
+...
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data
+# Hypothesis 
 ...
 **Economic Factors**
 Effect of GDP/per capita on medal's performance
@@ -63,17 +68,14 @@ Effect of GDP/per capita on medal's performance by female athletes
 Effect of GDP/per capita on total athletes sent
 **Geo Factors**
 Effect of Host Country on medal's performance
-Effect of Distance traveled to games on medal's performance (based on midpoint of country or capital city if too complicated)
 Effect of Differences on Timezone between home country and host country on medal's performance
 **Sport Factors**
 Effect of strong younger players (under 25 years old)
 Effect of historic performance in these sports
 
 
-# Dataset 
-...
-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data
 
+## **Data Wrangling and Cleaning**  
 ## Main dataset issues
 
 - **ID**: Duplicates exist but this is intentional, as one athlete can participate in more than one event/olympics.
@@ -93,15 +95,28 @@ No data registred for year between World Wars
 Another point to consider is the discrepancy between the number of gold, silver, and bronze medals. On one hand, duplicates need to be accounted for as they can distort the overall picture. Additionally, the fact that certain team sports do not have the same number of athletes across all teams also contributes to this difference. Lastly, isolated cases, such as ties, can also impact the total medal count.
 
 ## Solutions for the dataset issues
-...
+
 - **Team**: Recommend using National Olympic Committee (NOC) code instead for country indicator
 Only look at Olympics since 1992 (since splitting up of Soviet Union
 - **Medal**: For null values, we updated and labeled as “No Medal”.
 - **City**: Standardised all the city names to English
 - **Events**: Create a new dataframe (olympic_data_results) which only registred the events and which country has won each medal by year.
 
-# Conclussions
-...
+## **Exploratory Data Analysis**  
+### **Methods Used:**  
+**Economic Factors**
+**Geo Factors**
+**Sport Factors**
+### **Key Insights:** 
+**Economic Factors**
+**Geo Factors**
+**Sport Factors**
+## **Major Obstacle**  
 
-# Next steps
+## **Conclusion and Insights**  
+### **Hypothesis Outcome:**   
+
+### **Surprising Insights:**  
+
+### **Next Step:** 
 ...
